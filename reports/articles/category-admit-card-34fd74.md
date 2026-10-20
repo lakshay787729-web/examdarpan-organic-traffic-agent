@@ -58,3 +58,7 @@ Possible search phrases for those sections (estimates):
 - Admit Card salary
 - Admit Card age limit
 - Admit Card cut off
+
+## Internal links you could add
+
+- Link to [सरकारी परीक्षा Result | Exam Darpan](https://examdarpan.in/category-results) (shares: 2026, article, card, जारी)

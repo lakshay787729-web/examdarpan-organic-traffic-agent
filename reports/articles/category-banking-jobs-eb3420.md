@@ -2,7 +2,7 @@
 
 URL: https://examdarpan.in/category-banking-jobs
 
-**SEO health score: 69/100** (this is this agent's own checklist score, not a Google score)
+**SEO health score: 62/100** (this is this agent's own checklist score, not a Google score)
 Words: 46 | Last read: 2026-10-20T18:27:45Z | Published: unknown | Updated: unknown
 
 ## Things to fix
@@ -11,6 +11,8 @@ Words: 46 | Last read: 2026-10-20T18:27:45Z | Published: unknown | Updated: unkn
   Fix: Check the page with URL Inspection in Search Console. Prefer server-rendered or pre-rendered article text.
 - **MEDIUM**: Only 1 links to other Exam Darpan pages.  
   Fix: Link to related articles where it helps readers (see suggestions below).
+- **MEDIUM**: Title is very similar to https://examdarpan.in/category-railway-jobs. They may compete for the same searches (a guess based on titles only).  
+  Fix: Decide which page should rank for this topic. Merge, differentiate, or link them clearly.
 - **LOW**: Meta description is short (63 characters).  
   Fix: Add a little more useful detail (dates, who it is for).
 - **LOW**: No publish or update date found.  
@@ -60,3 +62,4 @@ Possible search phrases for those sections (estimates):
 
 - Link to [BOI में Specialist Officer के 205 पदों पर भर्ती, 10 सितंबर से शुर](https://examdarpan.in/bank-of-india-so-recruitment-2026-205-posts) (shares: 2026, bank, recruitment, पदों, भर्ती)
 - Link to [All India Government Jobs 2026 – Latest Central Govt Jobs | Exam Darpan](https://examdarpan.in/all-india-government-jobs) (shares: 2026, recruitment, पदों, भर्ती)
+- Link to [Railway Jobs | Exam Darpan](https://examdarpan.in/category-railway-jobs) (shares: 12वीं, 2026, article, recruitment)
