@@ -1,0 +1,12 @@
+url,severity,code,message,fix
+https://examdarpan.in/about,medium,FEW_INTERNAL_LINKS,Only 2 links to other Exam Darpan pages.,Link to related articles where it helps readers (see suggestions below).
+https://examdarpan.in/about,low,NO_DATE,No publish or update date found.,Show and mark up a published/updated date so readers and Google can judge freshness.
+https://examdarpan.in/about,low,TITLE_SHORT,Title is short (22 characters).,Expand it toward 30-60 characters with the main topic.
+https://examdarpan.in/all-india-government-jobs,high,JS_RENDER_SUSPECTED,"Only 39 words were visible in the raw HTML but the page loads 3 scripts. The content may be added by JavaScript, which this agent cannot see.",Check the page with URL Inspection in Search Console. Prefer server-rendered or pre-rendered article text.
+https://examdarpan.in/all-india-government-jobs,medium,FEW_INTERNAL_LINKS,Only 1 links to other Exam Darpan pages.,Link to related articles where it helps readers (see suggestions below).
+https://examdarpan.in/all-india-government-jobs,low,DESC_LONG,Meta description is long (166 characters).,Shorten to about 160 characters.
+https://examdarpan.in/all-india-government-jobs,low,NO_DATE,No publish or update date found.,Show and mark up a published/updated date so readers and Google can judge freshness.
+https://examdarpan.in/all-india-government-jobs,low,TITLE_LONG,Title is long (71 characters) and may be cut off in Google.,"Shorten to about 60 characters. Idea: ""All India Government Jobs 2026 – Latest Central Govt Jobs"""
+https://examdarpan.in/bank-of-india-so-recruitment-2026-205-posts,medium,DEADLINE_PASSED,"Mentions deadline date(s) already passed: 2026-09-22, 2026-09-25, 2026-10-15.","Make clear whether applications are closed, or update after checking the official notice."
+https://examdarpan.in/bank-of-india-so-recruitment-2026-205-posts,low,IMG_ALT_MISSING,4 image(s) without alt text.,Add short descriptive alt text.
+https://examdarpan.in/bank-of-india-so-recruitment-2026-205-posts,low,TITLE_LONG,Title is long (65 characters) and may be cut off in Google.,"Shorten to about 60 characters. Idea: ""BOI में Specialist Officer के 205 पदों पर भर्ती, 10 सितंबर"""
