@@ -1,0 +1,78 @@
+# Exam Darpan Organic Traffic Agent - settings.
+# Safe to edit. Secrets (API keys) do NOT go here; they go in GitHub Secrets.
+
+site:
+  base_url: "https://examdarpan.in"
+  # The agent also reads "Sitemap:" lines from robots.txt automatically.
+  sitemap_urls:
+    - "https://examdarpan.in/sitemap.xml"
+  # Regex lists matched against the URL path. Leave include empty to accept all.
+  include_patterns: []
+  exclude_patterns:
+    - "/(tag|tags|category|categories|author|page)/"
+    - "/(admin|login|wp-admin|api)(/|$)"
+    - "\\.(jpg|jpeg|png|gif|webp|svg|pdf|zip|css|js|xml)$"
+  exclude_homepage: true
+
+crawl:
+  user_agent: "ExamDarpanOrganicTrafficAgent/1.0 (+https://examdarpan.in; SEO audit of our own site)"
+  request_delay_seconds: 3        # minimum pause between requests
+  timeout_seconds: 20
+  max_retries: 2
+  max_page_bytes: 2000000
+  batch_size: 3                   # articles fetched per run (keep small)
+  recheck_after_days: 7           # unchanged articles are re-read at most this often
+  sitemap_refresh_hours: 6        # sitemap is re-read at most this often
+  max_consecutive_failures: 3     # then the URL rests for the cooldown below
+  failure_cooldown_hours: 24
+  max_runtime_seconds: 240
+
+analysis:
+  title_min: 30
+  title_max: 60
+  description_min: 70
+  description_max: 160
+  thin_words: 300
+  min_internal_links: 3
+  stale_days: 365
+  similar_title_jaccard: 0.6
+  min_pages_for_orphan_check: 5
+
+keywords:
+  max_phrases: 12
+  max_ideas: 10
+
+gsc:                              # Google Search Console (needs credentials)
+  enabled: true
+  days: 28
+  refresh_hours: 24
+  row_limit: 25000
+  max_rows: 50000
+  min_impressions: 50
+  low_ctr_factor: 0.5
+  striking_min_position: 8
+  striking_max_position: 20
+  few_clicks_max: 2
+  decline_pct: 30
+  min_query_impressions: 10
+
+ai:                               # Optional. "none" = deterministic checks only.
+  provider: "none"                # none | gemini | openai_compatible
+  model: "gemini-2.5-flash"       # check your provider's current model names
+  base_url: "https://api.openai.com/v1"   # only for openai_compatible
+  max_calls_per_run: 1
+  max_input_chars: 6000
+  timeout_seconds: 60
+
+reports:
+  # Keep false if the repository is PUBLIC: it hides Search Console numbers/queries
+  # from committed reports. Set true only in a PRIVATE repository.
+  show_search_console_numbers: false
+  max_priority_items: 15
+
+publishing:
+  mode: "audit"                   # only "audit" is supported: nothing is ever published
+
+logging:
+  level: "INFO"
+  dir: "logs"

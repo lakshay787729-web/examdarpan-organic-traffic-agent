@@ -1,0 +1,14 @@
+# Secrets - NEVER commit these
+.env
+*.json.key
+service-account*.json
+credentials*.json
+client_secret*.json
+# Local/runtime files
+logs/
+.cache/
+__pycache__/
+*.pyc
+.venv/
+venv/
+.pytest_cache/

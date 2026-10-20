@@ -1,0 +1,79 @@
+name: Exam Darpan Organic Traffic Agent
+
+on:
+  schedule:
+    # GitHub's minimum interval is 5 minutes (4 minutes is not supported).
+    # Runs can be delayed or skipped when GitHub is busy.
+    - cron: "*/5 * * * *"
+  workflow_dispatch:
+
+concurrency:
+  group: organic-traffic-agent
+  cancel-in-progress: false   # never overlap runs; a new run waits for the old one
+
+permissions:
+  contents: write             # only to commit reports/ and data/
+
+jobs:
+  run-agent:
+    runs-on: ubuntu-latest
+    timeout-minutes: 10
+    steps:
+      - name: Check out repository
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+          cache: pip
+
+      - name: Install dependencies
+        run: pip install -r requirements.txt
+
+      - name: Today's date (cache key)
+        id: day
+        run: echo "date=$(date -u +%F)" >> "$GITHUB_OUTPUT"
+
+      - name: Restore private cache (Search Console data stays out of git)
+        uses: actions/cache@v4
+        with:
+          path: .cache
+          key: agent-cache-${{ steps.day.outputs.date }}
+          restore-keys: |
+            agent-cache-
+
+      - name: Run the agent
+        env:
+          GSC_SERVICE_ACCOUNT_JSON: ${{ secrets.GSC_SERVICE_ACCOUNT_JSON }}
+          GSC_SITE_URL: ${{ secrets.GSC_SITE_URL }}
+          AI_API_KEY: ${{ secrets.AI_API_KEY }}
+        run: python agent.py
+
+      - name: Commit changed reports and inventory
+        id: commit
+        if: always()
+        run: |
+          git config user.name "exam-darpan-agent"
+          git config user.email "actions@users.noreply.github.com"
+          git add reports data
+          if git diff --cached --quiet; then
+            echo "changed=false" >> "$GITHUB_OUTPUT"
+            exit 0
+          fi
+          git commit -m "Update SEO reports and article inventory"
+          for i in 1 2 3; do
+            git pull --rebase origin "$GITHUB_REF_NAME" && git push && break
+            sleep 5
+          done
+          echo "changed=true" >> "$GITHUB_OUTPUT"
+
+      - name: Save reports and logs as artifact (only when something changed or failed)
+        if: failure() || steps.commit.outputs.changed == 'true'
+        uses: actions/upload-artifact@v4
+        with:
+          name: agent-output
+          path: |
+            reports/
+            logs/
+          retention-days: 7
