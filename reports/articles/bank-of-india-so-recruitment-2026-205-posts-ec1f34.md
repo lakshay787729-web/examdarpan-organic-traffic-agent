@@ -48,4 +48,5 @@ Possible search phrases for those sections (estimates):
 ## Internal links you could add
 
 - Link to [Canara Bank Apprentice Recruitment 2026: 3500 पदों पर भर्ती](https://examdarpan.in/canara-bank-apprentice-recruitment-2026) (shares: 2026, bank, recruitment, आवेदन, भर्ती)
+- Link to [Banking Jobs | Exam Darpan](https://examdarpan.in/category-banking-jobs) (shares: 2026, bank, recruitment, पदों, भर्ती)
 - Link to [All India Government Jobs 2026 – Latest Central Govt Jobs | Exam Darpan](https://examdarpan.in/all-india-government-jobs) (shares: 2026, recruitment, पदों, भर्ती)

@@ -6,8 +6,8 @@ and it does not create fake visits or clicks.
 ## Progress
 
 - Articles found in sitemap: 63
-- Articles read so far: 6 (10%)
-- Issues: 2 high, 7 medium, 15 low
+- Articles read so far: 9 (14%)
+- Issues: 5 high, 10 medium, 24 low
 
 ## Search Console status
 
@@ -31,25 +31,43 @@ and it does not create fake visits or clicks.
    - HIGH: Only 50 words were visible in the raw HTML but the page loads 6 scripts. The content may be added by JavaScript, which this agent cannot see.
    - MEDIUM: Only 1 links to other Exam Darpan pages.
    - LOW: Meta description is short (62 characters).
-3. All Categories: Rajasthan Jobs, Admit Card, Results & More | Exam Darpan  
+3. Answer Key | Exam Darpan  
+   https://examdarpan.in/category-answer-key  
+   Priority 31 | score 69/100
+   - HIGH: Only 55 words were visible in the raw HTML but the page loads 6 scripts. The content may be added by JavaScript, which this agent cannot see.
+   - MEDIUM: Only 1 links to other Exam Darpan pages.
+   - LOW: Meta description is short (50 characters).
+4. Banking Jobs | Exam Darpan  
+   https://examdarpan.in/category-banking-jobs  
+   Priority 31 | score 69/100
+   - HIGH: Only 46 words were visible in the raw HTML but the page loads 6 scripts. The content may be added by JavaScript, which this agent cannot see.
+   - MEDIUM: Only 1 links to other Exam Darpan pages.
+   - LOW: Meta description is short (63 characters).
+5. Latest Updates | Exam Darpan  
+   https://examdarpan.in/category-latest-updates  
+   Priority 31 | score 69/100
+   - HIGH: Only 49 words were visible in the raw HTML but the page loads 6 scripts. The content may be added by JavaScript, which this agent cannot see.
+   - MEDIUM: Only 1 links to other Exam Darpan pages.
+   - LOW: Meta description is short (55 characters).
+6. All Categories: Rajasthan Jobs, Admit Card, Results & More | Exam Darpan  
    https://examdarpan.in/categories  
    Priority 23 | score 77/100
    - MEDIUM: Only 1 links to other Exam Darpan pages.
    - MEDIUM: Only 19 words of article text.
    - LOW: Meta description is long (163 characters).
-4. About Us | Exam Darpan  
+7. About Us | Exam Darpan  
    https://examdarpan.in/about  
    Priority 13 | score 87/100
    - MEDIUM: Only 2 links to other Exam Darpan pages.
    - LOW: No publish or update date found.
    - LOW: Title is short (22 characters).
-5. BOI में Specialist Officer के 205 पदों पर भर्ती, 10 सितंबर से शुर  
+8. BOI में Specialist Officer के 205 पदों पर भर्ती, 10 सितंबर से शुर  
    https://examdarpan.in/bank-of-india-so-recruitment-2026-205-posts  
    Priority 13 | score 87/100
    - MEDIUM: Mentions deadline date(s) already passed: 2026-09-22, 2026-09-25, 2026-10-15.
    - LOW: 4 image(s) without alt text.
    - LOW: Title is long (65 characters) and may be cut off in Google.
-6. Canara Bank Apprentice Recruitment 2026: 3500 पदों पर भर्ती  
+9. Canara Bank Apprentice Recruitment 2026: 3500 पदों पर भर्ती  
    https://examdarpan.in/canara-bank-apprentice-recruitment-2026  
    Priority 13 | score 87/100
    - MEDIUM: Mentions deadline date(s) already passed: 2026-09-22, 2026-10-15, 2026-10-16.
