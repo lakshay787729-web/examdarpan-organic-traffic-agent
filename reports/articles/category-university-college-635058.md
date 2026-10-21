@@ -58,6 +58,6 @@ Possible search phrases for those sections (estimates):
 
 ## Internal links you could add
 
+- Link to [BSTC Refund Form 2026: Last Date 12 Oct, ₹2900 तक वापस](https://examdarpan.in/rajasthan-bstc-fee-refund-2026) (shares: 2026, date, fee, rajasthan, refund)
 - Link to [Scholarships | Exam Darpan](https://examdarpan.in/category-scholarships) (shares: 2026, article, rajasthan, अक्टूबर)
 - Link to [Exam Syllabus | Exam Darpan](https://examdarpan.in/category-syllabus) (shares: 2026, article, date, rajasthan)
-- Link to [Teaching Jobs | Exam Darpan](https://examdarpan.in/category-teaching-jobs) (shares: 2026, article, date, fee)

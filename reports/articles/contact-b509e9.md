@@ -60,3 +60,4 @@ Possible search phrases for those sections (estimates):
 
 - Link to [About Us | Exam Darpan](https://examdarpan.in/about) (shares: editorial, information, official, website)
 - Link to [Editorial Policy | Exam Darpan](https://examdarpan.in/editorial-policy) (shares: details, editorial, official, website)
+- Link to [Privacy Policy | Exam Darpan](https://examdarpan.in/privacy) (shares: contact, information, privacy, website)

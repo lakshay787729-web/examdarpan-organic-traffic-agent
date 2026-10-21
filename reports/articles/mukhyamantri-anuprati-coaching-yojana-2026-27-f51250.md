@@ -50,3 +50,7 @@ Possible search phrases for those sections (estimates):
 - मुख्यमंत्री अनुप्रति कोचिंग योजना 2026-27: Last salary
 - मुख्यमंत्री अनुप्रति कोचिंग योजना 2026-27: Last age limit
 - मुख्यमंत्री अनुप्रति कोचिंग योजना 2026-27: Last cut off
+
+## Internal links you could add
+
+- Link to [Rajasthan Ambedkar DBT Voucher Yojana 2026-27: Apply Online,](https://examdarpan.in/rajasthan-ambedkar-dbt-voucher-yojana-2026-27) (shares: 2026, अंतिम, अक्टूबर, आवेदन, योजना)
