@@ -60,3 +60,7 @@ Possible search phrases for those sections (estimates):
 - Latest Updates salary
 - Latest Updates age limit
 - Latest Updates cut off
+
+## Internal links you could add
+
+- Link to [Exam Syllabus | Exam Darpan](https://examdarpan.in/category-syllabus) (shares: 2026, article, cet, exam)

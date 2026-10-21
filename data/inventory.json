@@ -1728,10 +1728,111 @@
    "in_sitemap": true,
    "last_error": null,
    "last_failure_at": null,
-   "last_fetched": null,
+   "last_fetched": "2026-10-21T00:10:11Z",
    "lastmod": "2026-10-19T02:12:26.786000Z",
    "needs_refresh": false,
-   "page": null
+   "page": {
+    "canonical": "https://examdarpan.in/category-ssc-jobs",
+    "content_hash": "60e1280b65e0f81c",
+    "deadline_dates": [],
+    "description": "SSC की विभिन्न भर्ती परीक्षाओं और सरकारी नौकरी की जानकारी।",
+    "exam_related": true,
+    "excerpt": "SSC CPO Exam Date 2026, Admit Card & Latest Update 28 सितंबर 2026 • SSC Jobs SSC CPO Recruitment 2026 के 1,871 संभावित पदों की आवेदन प्रक्रिया बंद हो चुकी है। परीक्षा तिथि, एडमिट कार्ड, चयन प्रक्रिया और आधिकारिक अपडेट देखें। पूरा article पढ़ें →",
+    "external_link_count": 0,
+    "final_url": "https://examdarpan.in/category-ssc-jobs",
+    "h1s": [
+     "SSC Jobs"
+    ],
+    "h2s": [
+     "Latest SSC Jobs"
+    ],
+    "images_missing_alt": 0,
+    "intents_present": [
+     "admit card"
+    ],
+    "internal_links": [
+     "https://examdarpan.in/ssc-cpo-recruitment-2026"
+    ],
+    "lang": "hi",
+    "modified": null,
+    "noindex": false,
+    "phrases": [
+     [
+      "ssc cpo",
+      2
+     ]
+    ],
+    "published": null,
+    "script_count": 6,
+    "status": 200,
+    "title": "SSC Jobs | Exam Darpan",
+    "top_terms": [
+     [
+      "2026",
+      3
+     ],
+     [
+      "ssc",
+      3
+     ],
+     [
+      "cpo",
+      2
+     ],
+     [
+      "प्रक्रिया",
+      2
+     ],
+     [
+      "admit",
+      1
+     ],
+     [
+      "article",
+      1
+     ],
+     [
+      "card",
+      1
+     ],
+     [
+      "date",
+      1
+     ],
+     [
+      "exam",
+      1
+     ],
+     [
+      "jobs",
+      1
+     ],
+     [
+      "latest",
+      1
+     ],
+     [
+      "recruitment",
+      1
+     ],
+     [
+      "update",
+      1
+     ],
+     [
+      "अपडेट",
+      1
+     ],
+     [
+      "आधिकारिक",
+      1
+     ]
+    ],
+    "word_count": 44,
+    "years": [
+     2026
+    ]
+   }
   },
   "https://examdarpan.in/category-syllabus": {
    "failures": 0,
@@ -1739,10 +1840,119 @@
    "in_sitemap": true,
    "last_error": null,
    "last_failure_at": null,
-   "last_fetched": null,
+   "last_fetched": "2026-10-21T00:10:11Z",
    "lastmod": "2026-10-06T12:11:04.080000Z",
    "needs_refresh": false,
-   "page": null
+   "page": {
+    "canonical": "https://examdarpan.in/category-syllabus",
+    "content_hash": "4ed6f9a7f6548f6c",
+    "deadline_dates": [],
+    "description": "सरकारी परीक्षाओं के Syllabus और तैयारी से जुड़ी जानकारी।",
+    "exam_related": true,
+    "excerpt": "Rajasthan CET 2026: Senior Secondary Level का नया Syllabus, Exam Date और पूरी जानकारी 28 सितंबर 2026 • Syllabus Rajasthan CET Senior Secondary Level 2026: परीक्षा दिसंबर में होगी, नया ऑफिशियल सिलेबस, एग्जाम पैटर्न और तैयारी की संपूर्ण जानकारी Rajasthan CET Senior Sec पूरा article पढ़ें →",
+    "external_link_count": 0,
+    "final_url": "https://examdarpan.in/category-syllabus",
+    "h1s": [
+     "Exam Syllabus"
+    ],
+    "h2s": [
+     "Latest Exam Syllabus"
+    ],
+    "images_missing_alt": 0,
+    "intents_present": [
+     "syllabus"
+    ],
+    "internal_links": [
+     "https://examdarpan.in/rajasthan-cet-2026-senior-secondary-syllabus-exam-date"
+    ],
+    "lang": "hi",
+    "modified": null,
+    "noindex": false,
+    "phrases": [
+     [
+      "rajasthan cet",
+      3
+     ],
+     [
+      "rajasthan cet senior",
+      2
+     ],
+     [
+      "senior secondary level",
+      2
+     ]
+    ],
+    "published": null,
+    "script_count": 6,
+    "status": 200,
+    "title": "Exam Syllabus | Exam Darpan",
+    "top_terms": [
+     [
+      "2026",
+      3
+     ],
+     [
+      "cet",
+      3
+     ],
+     [
+      "rajasthan",
+      3
+     ],
+     [
+      "senior",
+      3
+     ],
+     [
+      "level",
+      2
+     ],
+     [
+      "secondary",
+      2
+     ],
+     [
+      "syllabus",
+      2
+     ],
+     [
+      "जानकारी",
+      2
+     ],
+     [
+      "नया",
+      2
+     ],
+     [
+      "article",
+      1
+     ],
+     [
+      "date",
+      1
+     ],
+     [
+      "exam",
+      1
+     ],
+     [
+      "sec",
+      1
+     ],
+     [
+      "एग्जाम",
+      1
+     ],
+     [
+      "ऑफिशियल",
+      1
+     ]
+    ],
+    "word_count": 46,
+    "years": [
+     2026
+    ]
+   }
   },
   "https://examdarpan.in/category-teaching-jobs": {
    "failures": 0,
@@ -1750,10 +1960,118 @@
    "in_sitemap": true,
    "last_error": null,
    "last_failure_at": null,
-   "last_fetched": null,
+   "last_fetched": "2026-10-21T00:10:11Z",
    "lastmod": "2026-10-09T02:40:31.451000Z",
    "needs_refresh": false,
-   "page": null
+   "page": {
+    "canonical": "https://examdarpan.in/category-teaching-jobs",
+    "content_hash": "20051bc9b01c6dd8",
+    "deadline_dates": [],
+    "description": "Teacher, REET, School और Education Department की भर्ती की जानकारी।",
+    "exam_related": true,
+    "excerpt": "UGC NET December 2026: Apply Online, Exam Date, Fee & Notification 09 अक्टूबर 2026 • Teaching Jobs UGC NET December 2026 के ऑनलाइन आवेदन शुरू हो गए हैं। यहां आवेदन की अंतिम तिथि, परीक्षा की तारीख, Application Fee, Late Fee, Correction Window, पात्रता और पूरा article पढ़ें →",
+    "external_link_count": 0,
+    "final_url": "https://examdarpan.in/category-teaching-jobs",
+    "h1s": [
+     "Teaching Jobs"
+    ],
+    "h2s": [
+     "Latest Teaching Jobs"
+    ],
+    "images_missing_alt": 0,
+    "intents_present": [
+     "eligibility",
+     "how to apply",
+     "last date",
+     "notification"
+    ],
+    "internal_links": [
+     "https://examdarpan.in/ugc-net-december-2026-apply-online"
+    ],
+    "lang": "hi",
+    "modified": null,
+    "noindex": false,
+    "phrases": [
+     [
+      "net december 2026",
+      2
+     ],
+     [
+      "ugc net december",
+      2
+     ]
+    ],
+    "published": null,
+    "script_count": 6,
+    "status": 200,
+    "title": "Teaching Jobs | Exam Darpan",
+    "top_terms": [
+     [
+      "2026",
+      3
+     ],
+     [
+      "fee",
+      3
+     ],
+     [
+      "december",
+      2
+     ],
+     [
+      "net",
+      2
+     ],
+     [
+      "ugc",
+      2
+     ],
+     [
+      "आवेदन",
+      2
+     ],
+     [
+      "application",
+      1
+     ],
+     [
+      "apply",
+      1
+     ],
+     [
+      "article",
+      1
+     ],
+     [
+      "correction",
+      1
+     ],
+     [
+      "date",
+      1
+     ],
+     [
+      "exam",
+      1
+     ],
+     [
+      "jobs",
+      1
+     ],
+     [
+      "late",
+      1
+     ],
+     [
+      "notification",
+      1
+     ]
+    ],
+    "word_count": 46,
+    "years": [
+     2026
+    ]
+   }
   },
   "https://examdarpan.in/category-university-college": {
    "failures": 0,
@@ -2286,6 +2604,6 @@
  },
  "meta": {
   "schema": 1,
-  "sitemap_slot": 82987
+  "sitemap_slot": 82988
  }
 }

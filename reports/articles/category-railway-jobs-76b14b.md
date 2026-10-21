@@ -2,7 +2,7 @@
 
 URL: https://examdarpan.in/category-railway-jobs
 
-**SEO health score: 62/100** (this is this agent's own checklist score, not a Google score)
+**SEO health score: 48/100** (this is this agent's own checklist score, not a Google score)
 Words: 46 | Last read: 2026-10-20T21:47:23Z | Published: unknown | Updated: unknown
 
 ## Things to fix
@@ -12,6 +12,10 @@ Words: 46 | Last read: 2026-10-20T21:47:23Z | Published: unknown | Updated: unkn
 - **MEDIUM**: Only 1 links to other Exam Darpan pages.  
   Fix: Link to related articles where it helps readers (see suggestions below).
 - **MEDIUM**: Title is very similar to https://examdarpan.in/category-banking-jobs. They may compete for the same searches (a guess based on titles only).  
+  Fix: Decide which page should rank for this topic. Merge, differentiate, or link them clearly.
+- **MEDIUM**: Title is very similar to https://examdarpan.in/category-ssc-jobs. They may compete for the same searches (a guess based on titles only).  
+  Fix: Decide which page should rank for this topic. Merge, differentiate, or link them clearly.
+- **MEDIUM**: Title is very similar to https://examdarpan.in/category-teaching-jobs. They may compete for the same searches (a guess based on titles only).  
   Fix: Decide which page should rank for this topic. Merge, differentiate, or link them clearly.
 - **LOW**: Meta description is short (69 characters).  
   Fix: Add a little more useful detail (dates, who it is for).
@@ -55,4 +59,6 @@ Possible search phrases for those sections (estimates):
 
 ## Internal links you could add
 
+- Link to [SSC Jobs | Exam Darpan](https://examdarpan.in/category-ssc-jobs) (shares: 2026, article, date, jobs, recruitment)
 - Link to [Banking Jobs | Exam Darpan](https://examdarpan.in/category-banking-jobs) (shares: 12वीं, 2026, article, recruitment)
+- Link to [Teaching Jobs | Exam Darpan](https://examdarpan.in/category-teaching-jobs) (shares: 2026, apply, article, date)

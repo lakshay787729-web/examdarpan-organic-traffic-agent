@@ -61,4 +61,5 @@ Possible search phrases for those sections (estimates):
 
 ## Internal links you could add
 
+- Link to [SSC Jobs | Exam Darpan](https://examdarpan.in/category-ssc-jobs) (shares: 2026, admit, article, card, ssc)
 - Link to [सरकारी परीक्षा Result | Exam Darpan](https://examdarpan.in/category-results) (shares: 2026, article, card, जारी)
