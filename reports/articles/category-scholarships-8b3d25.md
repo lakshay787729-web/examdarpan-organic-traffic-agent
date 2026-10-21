@@ -59,4 +59,6 @@ Possible search phrases for those sections (estimates):
 
 ## Internal links you could add
 
+- Link to [सरकारी योजनाएं | Exam Darpan](https://examdarpan.in/category-yojana) (shares: 2026, article, rajasthan, yojana, अक्टूबर)
 - Link to [Canara Bank Apprentice Recruitment 2026: 3500 पदों पर भर्ती](https://examdarpan.in/canara-bank-apprentice-recruitment-2026) (shares: 2026, अक्टूबर, आवेदन, ऑनलाइन)
+- Link to [University & College | Exam Darpan](https://examdarpan.in/category-university-college) (shares: 2026, article, rajasthan, अक्टूबर)
