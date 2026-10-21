@@ -63,4 +63,5 @@ Possible search phrases for those sections (estimates):
 
 ## Internal links you could add
 
+- Link to [Rajasthan CET Exam Date 2026: नई परीक्षा तिथि जारी, 12वीं और Grad](https://examdarpan.in/rajasthan-cet-2026-new-exam-date) (shares: 2026, cet, exam, जारी, परीक्षा)
 - Link to [Exam Syllabus | Exam Darpan](https://examdarpan.in/category-syllabus) (shares: 2026, article, cet, exam)
