@@ -45,4 +45,4 @@ Possible search phrases for those sections (estimates):
 
 - Link to [University & College | Exam Darpan](https://examdarpan.in/category-university-college) (shares: 2026, fee, ptet, rajasthan, refund)
 - Link to [Rajasthan RVUNL Recruitment 2026: JE, Junior Accountant और Junior](https://examdarpan.in/rajasthan-rvunl-recruitment-2026-junior-engineer-junior-accountant-junior-assistant) (shares: 2026, rajasthan, अंतिम, अक्टूबर, आवेदन)
-- Link to [Scholarships | Exam Darpan](https://examdarpan.in/category-scholarships) (shares: 2026, rajasthan, अक्टूबर, आवेदन)
+- Link to [Rajasthan Scooty Yojana 2026](https://examdarpan.in/rajasthan-scooty-yojana-2026-27) (shares: 2026, rajasthan, अंतिम, अक्टूबर, आवेदन)

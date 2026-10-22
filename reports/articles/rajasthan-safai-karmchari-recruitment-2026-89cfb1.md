@@ -47,4 +47,4 @@ Possible search phrases for those sections (estimates):
 
 - Link to [Scholarships | Exam Darpan](https://examdarpan.in/category-scholarships) (shares: 2026, rajasthan, अक्टूबर, आवेदन, ऑनलाइन)
 - Link to [Rajasthan CET 2026: Senior Secondary Syllabus, Exam](https://examdarpan.in/rajasthan-cet-2026-senior-secondary-syllabus-exam-date) (shares: 2026, rajasthan, अक्टूबर, आवेदन, राजस्थान)
-- Link to [सरकारी योजनाएं | Exam Darpan](https://examdarpan.in/category-yojana) (shares: 2026, rajasthan, अक्टूबर, आवेदन)
+- Link to [Rajasthan Scooty Yojana 2026](https://examdarpan.in/rajasthan-scooty-yojana-2026-27) (shares: 2026, rajasthan, अक्टूबर, आवेदन, ऑनलाइन)

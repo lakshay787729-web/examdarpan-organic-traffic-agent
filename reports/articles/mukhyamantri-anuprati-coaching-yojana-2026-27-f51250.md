@@ -55,4 +55,4 @@ Possible search phrases for those sections (estimates):
 
 - Link to [Rajasthan Ambedkar DBT Voucher Yojana 2026-27: Apply Online,](https://examdarpan.in/rajasthan-ambedkar-dbt-voucher-yojana-2026-27) (shares: 2026, अंतिम, अक्टूबर, आवेदन, योजना)
 - Link to [Rajasthan RVUNL Recruitment 2026: JE, Junior Accountant और Junior](https://examdarpan.in/rajasthan-rvunl-recruitment-2026-junior-engineer-junior-accountant-junior-assistant) (shares: 2026, अंतिम, अक्टूबर, आवेदन, तिथि)
-- Link to [Rajasthan CET 2026: Senior Secondary Syllabus, Exam](https://examdarpan.in/rajasthan-cet-2026-senior-secondary-syllabus-exam-date) (shares: 2026, अक्टूबर, आवेदन, परीक्षा)
+- Link to [Rajasthan Scooty Yojana 2026](https://examdarpan.in/rajasthan-scooty-yojana-2026-27) (shares: 2026, अंतिम, अक्टूबर, आवेदन, योजना)

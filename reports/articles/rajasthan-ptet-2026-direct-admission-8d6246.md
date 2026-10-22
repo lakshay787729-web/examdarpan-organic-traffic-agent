@@ -46,3 +46,7 @@ _Add a section only if it is relevant AND you can confirm the facts from the off
 Possible search phrases for those sections (estimates):
 - Rajasthan PTET 2026 Direct Admission: 28 salary
 - Rajasthan PTET 2026 Direct Admission: 28 age limit
+
+## Internal links you could add
+
+- Link to [Rajasthan SET Admit Card 2026 जारी,](https://examdarpan.in/rajasthan-set-admit-card-2026) (shares: 2026, rajasthan, आवेदन, सितंबर)

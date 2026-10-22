@@ -46,5 +46,5 @@ Possible search phrases for those sections (estimates):
 ## Internal links you could add
 
 - Link to [सरकारी परीक्षा Result | Exam Darpan](https://examdarpan.in/category-results) (shares: 2026, cut, ldc, rajasthan, जारी)
+- Link to [Rajasthan SET Admit Card 2026 जारी,](https://examdarpan.in/rajasthan-set-admit-card-2026) (shares: 2026, rajasthan, आवेदन, जारी, परीक्षा)
 - Link to [Latest Updates | Exam Darpan](https://examdarpan.in/category-latest-updates) (shares: 2026, rssb, जारी, परीक्षा)
-- Link to [Rajasthan CET 2026: Graduation Syllabus, Exam Date](https://examdarpan.in/rajasthan-cet-2026-graduation-syllabus-exam-date) (shares: 2026, rajasthan, आवेदन, परीक्षा)

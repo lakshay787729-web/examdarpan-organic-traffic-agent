@@ -55,4 +55,4 @@ Possible search phrases for those sections (estimates):
 
 - Link to [Scholarships | Exam Darpan](https://examdarpan.in/category-scholarships) (shares: 2026, article, rajasthan, yojana, अक्टूबर)
 - Link to [Rajasthan Scholarship Yojana 2026-27: ऑनलाइन आवेदन शुरू](https://examdarpan.in/rajasthan-scholarship-yojana-2026-27) (shares: 2026, rajasthan, अक्टूबर, आवेदन, सहायता)
-- Link to [Teaching Jobs | Exam Darpan](https://examdarpan.in/category-teaching-jobs) (shares: 2026, apply, article, आवेदन)
+- Link to [Rajasthan Scooty Yojana 2026](https://examdarpan.in/rajasthan-scooty-yojana-2026-27) (shares: 2026, rajasthan, yojana, अक्टूबर, आवेदन)

@@ -57,3 +57,4 @@ Possible search phrases for those sections (estimates):
 
 - Link to [Rajasthan LDC Result 2026 जारी, Official Cut Off जारी, Result PDF](https://examdarpan.in/rajasthan-ldc-result-2026) (shares: 2026, cut, ldc, rajasthan, जारी)
 - Link to [Admit Card | Exam Darpan](https://examdarpan.in/category-admit-card) (shares: 2026, article, card, जारी)
+- Link to [Rajasthan SET Admit Card 2026 जारी,](https://examdarpan.in/rajasthan-set-admit-card-2026) (shares: 2026, card, rajasthan, जारी)

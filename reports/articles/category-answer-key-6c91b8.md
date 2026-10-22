@@ -64,3 +64,7 @@ Possible search phrases for those sections (estimates):
 - Answer Key salary
 - Answer Key age limit
 - Answer Key cut off
+
+## Internal links you could add
+
+- Link to [Rajasthan SET Admit Card 2026 जारी,](https://examdarpan.in/rajasthan-set-admit-card-2026) (shares: 2026, rajasthan, जारी, सितंबर)
