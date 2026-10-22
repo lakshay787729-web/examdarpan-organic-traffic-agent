@@ -45,4 +45,4 @@ Possible search phrases for those sections (estimates):
 
 - Link to [सरकारी परीक्षा Result | Exam Darpan](https://examdarpan.in/category-results) (shares: 2026, card, cut, ldc, rajasthan)
 - Link to [Rajasthan SET Admit Card 2026 जारी,](https://examdarpan.in/rajasthan-set-admit-card-2026) (shares: 2026, card, rajasthan, जारी, परीक्षा)
-- Link to [Rajasthan CET Exam Date 2026: नई परीक्षा तिथि जारी, 12वीं और Grad](https://examdarpan.in/rajasthan-cet-2026-new-exam-date) (shares: 2026, rajasthan, जारी, परीक्षा)
+- Link to [RPSC SI Admit Card 2026 जारी](https://examdarpan.in/rpsc-si-admit-card-2026-download) (shares: 2026, card, rajasthan, जारी, परीक्षा)
