@@ -45,3 +45,4 @@ Possible search phrases for those sections (estimates):
 
 - Link to [सरकारी परीक्षा Result | Exam Darpan](https://examdarpan.in/category-results) (shares: 2026, card, cut, ldc, rajasthan)
 - Link to [Rajasthan CET Exam Date 2026: नई परीक्षा तिथि जारी, 12वीं और Grad](https://examdarpan.in/rajasthan-cet-2026-new-exam-date) (shares: 2026, rajasthan, जारी, परीक्षा)
+- Link to [Rajasthan Police SI Answer Key 2026: री-एग्जाम की ऑफिशियल आंसर की](https://examdarpan.in/rajasthan-police-si-answer-key-2026) (shares: 2026, rajasthan, जारी, परीक्षा)
