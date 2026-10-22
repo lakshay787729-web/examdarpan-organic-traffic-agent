@@ -54,5 +54,5 @@ Possible search phrases for those sections (estimates):
 ## Internal links you could add
 
 - Link to [Scholarships | Exam Darpan](https://examdarpan.in/category-scholarships) (shares: 2026, article, rajasthan, yojana, अक्टूबर)
+- Link to [Rajasthan Scholarship Yojana 2026-27: ऑनलाइन आवेदन शुरू](https://examdarpan.in/rajasthan-scholarship-yojana-2026-27) (shares: 2026, rajasthan, अक्टूबर, आवेदन, सहायता)
 - Link to [Teaching Jobs | Exam Darpan](https://examdarpan.in/category-teaching-jobs) (shares: 2026, apply, article, आवेदन)
-- Link to [University & College | Exam Darpan](https://examdarpan.in/category-university-college) (shares: 2026, article, rajasthan, अक्टूबर)

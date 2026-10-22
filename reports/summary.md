@@ -5,9 +5,9 @@ and it does not create fake visits or clicks.
 
 ## Progress
 
-- Articles found in sitemap: 64
-- Articles read so far: 36 (56%)
-- Issues: 14 high, 59 medium, 83 low
+- Articles found in sitemap: 66
+- Articles read so far: 39 (59%)
+- Issues: 14 high, 62 medium, 87 low
 
 ## Search Console status
 

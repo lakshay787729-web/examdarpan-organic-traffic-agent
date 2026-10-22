@@ -44,5 +44,5 @@ Possible search phrases for those sections (estimates):
 ## Internal links you could add
 
 - Link to [University & College | Exam Darpan](https://examdarpan.in/category-university-college) (shares: 2026, fee, ptet, rajasthan, refund)
+- Link to [Rajasthan RVUNL Recruitment 2026: JE, Junior Accountant और Junior](https://examdarpan.in/rajasthan-rvunl-recruitment-2026-junior-engineer-junior-accountant-junior-assistant) (shares: 2026, rajasthan, अंतिम, अक्टूबर, आवेदन)
 - Link to [Scholarships | Exam Darpan](https://examdarpan.in/category-scholarships) (shares: 2026, rajasthan, अक्टूबर, आवेदन)
-- Link to [सरकारी योजनाएं | Exam Darpan](https://examdarpan.in/category-yojana) (shares: 2026, rajasthan, अक्टूबर, आवेदन)
