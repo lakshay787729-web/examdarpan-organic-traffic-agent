@@ -47,4 +47,4 @@ Possible search phrases for those sections (estimates):
 
 - Link to [Rajasthan Government Jobs 2026 | Rajasthan Vacancy, RPSC, RSSB & Police Jobs | Exam Darpan](https://examdarpan.in/rajasthan-government-jobs) (shares: 2026, medical, officer, recruitment, ruhs)
 - Link to [RSCIT Result 2026 Declared – Check Your Result Online](https://examdarpan.in/rscit-result-2026-declared-check-your-result-online) (shares: 2026, recruitment, आधिकारिक, आवेदन, परीक्षा)
-- Link to [All India Government Jobs 2026 – Latest Central Govt Jobs | Exam Darpan](https://examdarpan.in/all-india-government-jobs) (shares: 2026, recruitment, परीक्षा, भर्ती)
+- Link to [UP Assistant Teacher Recruitment 2026 – 12405 पद, आवेदन, योग्यता](https://examdarpan.in/up-assistant-teacher-recruitment-2026) (shares: 2026, recruitment, आवेदन, परीक्षा, भर्ती)

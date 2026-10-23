@@ -64,6 +64,6 @@ Possible search phrases for those sections (estimates):
 
 ## Internal links you could add
 
+- Link to [UP Assistant Teacher Recruitment 2026 – 12405 पद, आवेदन, योग्यता](https://examdarpan.in/up-assistant-teacher-recruitment-2026) (shares: 2026, recruitment, आवेदन, पदों, परीक्षा)
 - Link to [All India Government Jobs 2026 – Latest Central Govt Jobs | Exam Darpan](https://examdarpan.in/all-india-government-jobs) (shares: 2026, recruitment, पदों, परीक्षा)
 - Link to [BOI में Specialist Officer के 205 पदों पर भर्ती, 10 सितंबर से शुर](https://examdarpan.in/bank-of-india-so-recruitment-2026-205-posts) (shares: 2026, recruitment, आवेदन, पदों)
-- Link to [CRPF Sports Quota Recruitment 2026: 521 Vacancy, Sports Certifica](https://examdarpan.in/crpf-sports-quota-recruitment-2026) (shares: 2026, recruitment, आवेदन, पदों)
