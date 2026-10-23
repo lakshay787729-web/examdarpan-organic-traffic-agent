@@ -2,11 +2,13 @@
 
 URL: https://examdarpan.in/contact
 
-**SEO health score: 80/100** (this is this agent's own checklist score, not a Google score)
+**SEO health score: 73/100** (this is this agent's own checklist score, not a Google score)
 Words: 196 | Last read: 2026-10-21T04:40:16Z | Published: unknown | Updated: unknown
 
 ## Things to fix
 
+- **MEDIUM**: No other article links to this page.  
+  Fix: Add a link to it from a related article or a category/hub page.
 - **MEDIUM**: Title is very similar to https://examdarpan.in/about. They may compete for the same searches (a guess based on titles only).  
   Fix: Decide which page should rank for this topic. Merge, differentiate, or link them clearly.
 - **MEDIUM**: Only 196 words of article text.  

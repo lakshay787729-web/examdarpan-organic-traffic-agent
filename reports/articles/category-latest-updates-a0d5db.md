@@ -2,7 +2,7 @@
 
 URL: https://examdarpan.in/category-latest-updates
 
-**SEO health score: 69/100** (this is this agent's own checklist score, not a Google score)
+**SEO health score: 62/100** (this is this agent's own checklist score, not a Google score)
 Words: 49 | Last read: 2026-10-20T18:27:45Z | Published: unknown | Updated: unknown
 
 ## Things to fix
@@ -11,6 +11,8 @@ Words: 49 | Last read: 2026-10-20T18:27:45Z | Published: unknown | Updated: unkn
   Fix: Check the page with URL Inspection in Search Console. Prefer server-rendered or pre-rendered article text.
 - **MEDIUM**: Only 1 links to other Exam Darpan pages.  
   Fix: Link to related articles where it helps readers (see suggestions below).
+- **MEDIUM**: No other article links to this page.  
+  Fix: Add a link to it from a related article or a category/hub page.
 - **LOW**: Meta description is short (55 characters).  
   Fix: Add a little more useful detail (dates, who it is for).
 - **LOW**: No publish or update date found.  

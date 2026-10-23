@@ -2,7 +2,7 @@
 
 URL: https://examdarpan.in/category-yojana
 
-**SEO health score: 72/100** (this is this agent's own checklist score, not a Google score)
+**SEO health score: 65/100** (this is this agent's own checklist score, not a Google score)
 Words: 49 | Last read: 2026-10-21T04:40:16Z | Published: unknown | Updated: unknown
 
 ## Things to fix
@@ -11,6 +11,8 @@ Words: 49 | Last read: 2026-10-21T04:40:16Z | Published: unknown | Updated: unkn
   Fix: Check the page with URL Inspection in Search Console. Prefer server-rendered or pre-rendered article text.
 - **MEDIUM**: Only 1 links to other Exam Darpan pages.  
   Fix: Link to related articles where it helps readers (see suggestions below).
+- **MEDIUM**: No other article links to this page.  
+  Fix: Add a link to it from a related article or a category/hub page.
 - **LOW**: No publish or update date found.  
   Fix: Show and mark up a published/updated date so readers and Google can judge freshness.
 - **LOW**: Title is short (28 characters).  

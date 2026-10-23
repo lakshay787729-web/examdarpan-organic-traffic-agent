@@ -2,13 +2,15 @@
 
 URL: https://examdarpan.in/about
 
-**SEO health score: 59/100** (this is this agent's own checklist score, not a Google score)
+**SEO health score: 52/100** (this is this agent's own checklist score, not a Google score)
 Words: 367 | Last read: 2026-10-20T09:09:02Z | Published: unknown | Updated: unknown
 
 ## Things to fix
 
 - **MEDIUM**: Only 2 links to other Exam Darpan pages.  
   Fix: Link to related articles where it helps readers (see suggestions below).
+- **MEDIUM**: No other article links to this page.  
+  Fix: Add a link to it from a related article or a category/hub page.
 - **MEDIUM**: Title is very similar to https://examdarpan.in/category-scholarships. They may compete for the same searches (a guess based on titles only).  
   Fix: Decide which page should rank for this topic. Merge, differentiate, or link them clearly.
 - **MEDIUM**: Title is very similar to https://examdarpan.in/category-syllabus. They may compete for the same searches (a guess based on titles only).  
@@ -65,4 +67,4 @@ Possible search phrases for those sections (estimates):
 
 - Link to [Disclaimer | Exam Darpan](https://examdarpan.in/disclaimer) (shares: authority, darpan, exam, information, official)
 - Link to [Editorial Policy | Exam Darpan](https://examdarpan.in/editorial-policy) (shares: darpan, editorial, exam, official, website)
-- Link to [Contact Us | Exam Darpan](https://examdarpan.in/contact) (shares: editorial, information, official, website)
+- Link to [Terms & Conditions | Exam Darpan](https://examdarpan.in/terms) (shares: darpan, exam, information, official, website)

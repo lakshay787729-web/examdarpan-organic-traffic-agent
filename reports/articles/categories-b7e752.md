@@ -2,13 +2,15 @@
 
 URL: https://examdarpan.in/categories
 
-**SEO health score: 77/100** (this is this agent's own checklist score, not a Google score)
+**SEO health score: 70/100** (this is this agent's own checklist score, not a Google score)
 Words: 19 | Last read: 2026-10-20T14:11:37Z | Published: unknown | Updated: unknown
 
 ## Things to fix
 
 - **MEDIUM**: Only 1 links to other Exam Darpan pages.  
   Fix: Link to related articles where it helps readers (see suggestions below).
+- **MEDIUM**: No other article links to this page.  
+  Fix: Add a link to it from a related article or a category/hub page.
 - **MEDIUM**: Only 19 words of article text.  
   Fix: Add genuinely useful detail: eligibility, important dates, steps to apply, official links, FAQs.
 - **LOW**: Meta description is long (163 characters).  

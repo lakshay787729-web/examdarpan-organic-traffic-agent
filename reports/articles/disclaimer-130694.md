@@ -2,13 +2,15 @@
 
 URL: https://examdarpan.in/disclaimer
 
-**SEO health score: 70/100** (this is this agent's own checklist score, not a Google score)
+**SEO health score: 63/100** (this is this agent's own checklist score, not a Google score)
 Words: 284 | Last read: 2026-10-21T09:38:08Z | Published: unknown | Updated: unknown
 
 ## Things to fix
 
 - **MEDIUM**: Only 1 links to other Exam Darpan pages.  
   Fix: Link to related articles where it helps readers (see suggestions below).
+- **MEDIUM**: No other article links to this page.  
+  Fix: Add a link to it from a related article or a category/hub page.
 - **MEDIUM**: Title is very similar to https://examdarpan.in/about. They may compete for the same searches (a guess based on titles only).  
   Fix: Decide which page should rank for this topic. Merge, differentiate, or link them clearly.
 - **MEDIUM**: Only 284 words of article text.  
@@ -59,5 +61,6 @@ Possible search phrases for those sections (estimates):
 
 ## Internal links you could add
 
+- Link to [Terms & Conditions | Exam Darpan](https://examdarpan.in/terms) (shares: darpan, exam, government, information, official)
 - Link to [About Us | Exam Darpan](https://examdarpan.in/about) (shares: authority, darpan, exam, information, official)
 - Link to [Editorial Policy | Exam Darpan](https://examdarpan.in/editorial-policy) (shares: darpan, exam, official, website, करने)
