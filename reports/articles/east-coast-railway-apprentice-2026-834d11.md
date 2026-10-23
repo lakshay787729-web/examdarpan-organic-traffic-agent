@@ -42,3 +42,7 @@ _Add a section only if it is relevant AND you can confirm the facts from the off
 
 Possible search phrases for those sections (estimates):
 - East Coast Railway Apprentice 2026: 1599 cut off
+
+## Internal links you could add
+
+- Link to [RUHS Medical Officer Exam Date 2026, Admit Card Update](https://examdarpan.in/ruhs-medical-officer-recruitment-2026-600-posts) (shares: 2026, आधिकारिक, आवेदन, भर्ती)
