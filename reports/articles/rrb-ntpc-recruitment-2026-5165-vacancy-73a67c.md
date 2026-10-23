@@ -7,7 +7,7 @@ Words: 2190 | Last read: 2026-10-22T22:25:26Z | Published: 2026-09-06 | Updated:
 
 ## Things to fix
 
-- **MEDIUM**: Mentions deadline date(s) already passed: 2026-09-22, 2026-10-15.  
+- **MEDIUM**: Mentions deadline date(s) already passed: 2026-09-22, 2026-10-15, 2026-10-22.  
   Fix: Make clear whether applications are closed, or update after checking the official notice.
 - **MEDIUM**: Title is very similar to https://examdarpan.in/rrb-ntpc-graduate-recruitment-2026. They may compete for the same searches (a guess based on titles only).  
   Fix: Decide which page should rank for this topic. Merge, differentiate, or link them clearly.
