@@ -61,6 +61,6 @@ Possible search phrases for those sections (estimates):
 
 ## Internal links you could add
 
+- Link to [Police & Defence Jobs | Exam Darpan](https://examdarpan.in/category-police-defence-jobs) (shares: 2026, apply, article, jobs, recruitment)
 - Link to [SSC Jobs | Exam Darpan](https://examdarpan.in/category-ssc-jobs) (shares: 2026, article, date, jobs, recruitment)
 - Link to [Banking Jobs | Exam Darpan](https://examdarpan.in/category-banking-jobs) (shares: 12वीं, 2026, article, recruitment)
-- Link to [Teaching Jobs | Exam Darpan](https://examdarpan.in/category-teaching-jobs) (shares: 2026, apply, article, date)

@@ -45,4 +45,5 @@ Possible search phrases for those sections (estimates):
 
 ## Internal links you could add
 
+- Link to [Assam Rifles Group C Recruitment 2026: 354 Posts, Apply](https://examdarpan.in/assam-rifles-group-c-recruitment-2026) (shares: 2026, अनुसार, आधिकारिक, आवेदन, भर्ती)
 - Link to [RUHS Medical Officer Exam Date 2026, Admit Card Update](https://examdarpan.in/ruhs-medical-officer-recruitment-2026-600-posts) (shares: 2026, आधिकारिक, आवेदन, भर्ती)

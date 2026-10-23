@@ -6,8 +6,8 @@ and it does not create fake visits or clicks.
 ## Progress
 
 - Articles found in sitemap: 66
-- Articles read so far: 63 (95%)
-- Issues: 14 high, 103 medium, 131 low
+- Articles read so far: 66 (100%)
+- Issues: 15 high, 107 medium, 135 low
 
 ## Search Console status
 
@@ -91,24 +91,24 @@ and it does not create fake visits or clicks.
    - MEDIUM: Only 1 links to other Exam Darpan pages.
    - MEDIUM: No other article links to this page.
    - MEDIUM: Title is very similar to https://examdarpan.in/about. They may compete for the same searches (a guess based on titles only).
-13. सरकारी परीक्षा Result | Exam Darpan  
+13. Police & Defence Jobs | Exam Darpan  
+   https://examdarpan.in/category-police-defence-jobs  
+   Priority 35 | score 65/100
+   - HIGH: Only 42 words were visible in the raw HTML but the page loads 6 scripts. The content may be added by JavaScript, which this agent cannot see.
+   - MEDIUM: Only 1 links to other Exam Darpan pages.
+   - MEDIUM: No other article links to this page.
+14. सरकारी परीक्षा Result | Exam Darpan  
    https://examdarpan.in/category-results  
    Priority 35 | score 65/100
    - HIGH: Only 56 words were visible in the raw HTML but the page loads 6 scripts. The content may be added by JavaScript, which this agent cannot see.
    - MEDIUM: Only 1 links to other Exam Darpan pages.
    - MEDIUM: No other article links to this page.
-14. University & College | Exam Darpan  
+15. University & College | Exam Darpan  
    https://examdarpan.in/category-university-college  
    Priority 35 | score 65/100
    - HIGH: Only 49 words were visible in the raw HTML but the page loads 6 scripts. The content may be added by JavaScript, which this agent cannot see.
    - MEDIUM: Mentions deadline date(s) already passed: 2026-10-10.
    - MEDIUM: Only 1 links to other Exam Darpan pages.
-15. सरकारी योजनाएं | Exam Darpan  
-   https://examdarpan.in/category-yojana  
-   Priority 35 | score 65/100
-   - HIGH: Only 49 words were visible in the raw HTML but the page loads 6 scripts. The content may be added by JavaScript, which this agent cannot see.
-   - MEDIUM: Only 1 links to other Exam Darpan pages.
-   - MEDIUM: No other article links to this page.
 
 ## Words used here
 
