@@ -61,6 +61,6 @@ Possible search phrases for those sections (estimates):
 
 ## Internal links you could add
 
+- Link to [SSC CHSL 2026 Exam Date, Admit Card Update, 2536 Vacancy](https://examdarpan.in/ssc-chsl-recruitment-2026) (shares: 2026, admit, card, ssc, tier)
 - Link to [SSC Jobs | Exam Darpan](https://examdarpan.in/category-ssc-jobs) (shares: 2026, admit, article, card, ssc)
 - Link to [Rajasthan SET Admit Card 2026 जारी,](https://examdarpan.in/rajasthan-set-admit-card-2026) (shares: 2026, admit, card, जारी, सितंबर)
-- Link to [RPSC SI Admit Card 2026 जारी](https://examdarpan.in/rpsc-si-admit-card-2026-download) (shares: 2026, admit, card, जारी, सितंबर)

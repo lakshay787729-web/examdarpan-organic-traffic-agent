@@ -51,6 +51,6 @@ Possible search phrases for those sections (estimates):
 
 ## Internal links you could add
 
+- Link to [SSC CHSL 2026 Exam Date, Admit Card Update, 2536 Vacancy](https://examdarpan.in/ssc-chsl-recruitment-2026) (shares: 2026, admit, card, exam, जारी)
 - Link to [Admit Card | Exam Darpan](https://examdarpan.in/category-admit-card) (shares: 2026, admit, card, जारी, सितंबर)
 - Link to [Answer Key | Exam Darpan](https://examdarpan.in/category-answer-key) (shares: 2026, rajasthan, si, जारी, सितंबर)
-- Link to [Rajasthan CET Exam Date 2026: नई परीक्षा तिथि जारी, 12वीं और Grad](https://examdarpan.in/rajasthan-cet-2026-new-exam-date) (shares: 2026, exam, rajasthan, जारी, परीक्षा)

@@ -62,6 +62,6 @@ Possible search phrases for those sections (estimates):
 
 ## Internal links you could add
 
+- Link to [SSC CGL Admit Card 2026 Out: Tier 1 Hall Ticket जारी, Download](https://examdarpan.in/ssc-cgl-admit-card-2026) (shares: 2026, admit, card, date, exam)
 - Link to [Admit Card | Exam Darpan](https://examdarpan.in/category-admit-card) (shares: 2026, admit, article, card, ssc)
 - Link to [Railway Jobs | Exam Darpan](https://examdarpan.in/category-railway-jobs) (shares: 2026, article, date, jobs, recruitment)
-- Link to [Exam Syllabus | Exam Darpan](https://examdarpan.in/category-syllabus) (shares: 2026, article, date, exam)
