@@ -46,5 +46,5 @@ Possible search phrases for those sections (estimates):
 ## Internal links you could add
 
 - Link to [RRB NTPC Recruitment 2026: 5165 पदों पर भर्ती की मंजूरी, Graduate](https://examdarpan.in/rrb-ntpc-recruitment-2026-5165-vacancy) (shares: 2026, level, ntpc, recruitment, rrb)
-- Link to [Railway Jobs | Exam Darpan](https://examdarpan.in/category-railway-jobs) (shares: 2026, ntpc, recruitment, rrb, ug)
+- Link to [Railway Jobs | Exam Darpan](https://examdarpan.in/category-railway-jobs) (shares: 2026, level, recruitment, rrb, पद)
 - Link to [RRB Paramedical Recruitment 2026: रेलवे में 560 पदों पर भर्ती, यह](https://examdarpan.in/rrb-paramedical-recruitment-2026) (shares: 2026, level, recruitment, rrb, आवेदन)

@@ -45,6 +45,6 @@ Possible search phrases for those sections (estimates):
 
 ## Internal links you could add
 
+- Link to [Railway Jobs | Exam Darpan](https://examdarpan.in/category-railway-jobs) (shares: 2026, master, recruitment, rrb, station)
 - Link to [Rajasthan RVUNL Recruitment 2026: JE, Junior Accountant और Junior](https://examdarpan.in/rajasthan-rvunl-recruitment-2026-junior-engineer-junior-accountant-junior-assistant) (shares: 2026, recruitment, अंतिम, अक्टूबर, आवेदन)
 - Link to [RRB NTPC Recruitment 2026: 5165 पदों पर भर्ती की मंजूरी, Graduate](https://examdarpan.in/rrb-ntpc-recruitment-2026-5165-vacancy) (shares: 2026, recruitment, rrb, आवेदन, पद)
-- Link to [RSCIT Result 2026 Declared – Check Your Result Online](https://examdarpan.in/rscit-result-2026-declared-check-your-result-online) (shares: 2026, recruitment, अक्टूबर, आधिकारिक, आवेदन)

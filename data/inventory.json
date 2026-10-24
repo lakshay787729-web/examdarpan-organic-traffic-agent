@@ -1662,16 +1662,16 @@
    "in_sitemap": true,
    "last_error": null,
    "last_failure_at": null,
-   "last_fetched": "2026-10-20T21:47:23Z",
+   "last_fetched": "2026-10-24T00:38:03Z",
    "lastmod": "2026-10-21T15:25:50.442000Z",
-   "needs_refresh": true,
+   "needs_refresh": false,
    "page": {
     "canonical": "https://examdarpan.in/category-railway-jobs",
-    "content_hash": "ec5b118f7cfb9271",
+    "content_hash": "14122e90befd1922",
     "deadline_dates": [],
     "description": "Indian Railway की भर्ती, eligibility, vacancy और application updates।",
     "exam_related": true,
-    "excerpt": "RRB NTPC UG Recruitment 2026: 1688 पद, 12वीं पास Apply 16 अक्टूबर 2026 • Railway Jobs RRB NTPC UG Recruitment 2026 में 1,688 पदों पर 12वीं पास आवेदन करें। Last Date, योग्यता, आयु सीमा, फीस, सैलरी, चयन प्रक्रिया और Official Notification देखें पूरा article पढ़ें →",
+    "excerpt": "RRB Station Master Recruitment 2026: 1250 पद, Apply Date 21 अक्टूबर 2026 • Railway Jobs RRB Station Master Recruitment 2026 में लगभग 1250 पद प्रस्तावित हैं। आवेदन तिथि, Pay Level, योग्यता, आयु सीमा और आधिकारिक नोटिफिकेशन का अपडेट देखें। पूरा article पढ़ें →",
     "external_link_count": 0,
     "final_url": "https://examdarpan.in/category-railway-jobs",
     "h1s": [
@@ -1683,31 +1683,29 @@
     "images_missing_alt": 0,
     "intents_present": [
      "age limit",
-     "eligibility",
-     "last date",
-     "notification"
+     "eligibility"
     ],
     "internal_links": [
-     "https://examdarpan.in/rrb-ntpc-ug-recruitment-2026"
+     "https://examdarpan.in/rrb-station-master-recruitment-2026"
     ],
     "lang": "hi",
     "modified": null,
     "noindex": false,
     "phrases": [
      [
-      "ntpc ug recruitment",
+      "master recruitment 2026",
       2
      ],
      [
-      "rrb ntpc ug",
+      "rrb station master",
       2
      ],
      [
-      "ug recruitment 2026",
+      "station master recruitment",
       2
      ],
      [
-      "12वीं पास",
+      "1250 पद",
       2
      ]
     ],
@@ -1721,11 +1719,11 @@
       3
      ],
      [
-      "12वीं",
+      "1250",
       2
      ],
      [
-      "ntpc",
+      "master",
       2
      ],
      [
@@ -1737,16 +1735,12 @@
       2
      ],
      [
-      "ug",
+      "station",
       2
      ],
      [
-      "पास",
+      "पद",
       2
-     ],
-     [
-      "1688",
-      1
      ],
      [
       "apply",
@@ -1765,19 +1759,23 @@
       1
      ],
      [
-      "last",
+      "level",
       1
      ],
      [
-      "notification",
+      "pay",
       1
      ],
      [
-      "official",
+      "railway",
+      1
+     ],
+     [
+      "अक्टूबर",
       1
      ]
     ],
-    "word_count": 46,
+    "word_count": 42,
     "years": [
      2026
     ]
@@ -1789,9 +1787,9 @@
    "in_sitemap": true,
    "last_error": null,
    "last_failure_at": null,
-   "last_fetched": "2026-10-20T21:47:23Z",
+   "last_fetched": "2026-10-24T00:38:03Z",
    "lastmod": "2026-10-23T02:02:24.112000Z",
-   "needs_refresh": true,
+   "needs_refresh": false,
    "page": {
     "canonical": "https://examdarpan.in/category-results",
     "content_hash": "0461d230147f8e7f",
@@ -5054,175 +5052,179 @@
    "in_sitemap": true,
    "last_error": null,
    "last_failure_at": null,
-   "last_fetched": "2026-10-22T00:35:00Z",
+   "last_fetched": "2026-10-24T00:38:03Z",
    "lastmod": "2026-10-23T02:02:24.112000Z",
-   "needs_refresh": true,
+   "needs_refresh": false,
    "page": {
     "canonical": "https://examdarpan.in/rajasthan-ldc-result-2026",
-    "content_hash": "de0148085aad8b5e",
-    "deadline_dates": [],
-    "description": "Rajasthan LDC Result 2026 जारी हो गया है। यहां देखें LDC Result PDF, Category Wise Official Cut Off Marks, Answer Key, चयन प्रक्रिया और RSSB की Direct Link",
+    "content_hash": "495a3abc49fd66e8",
+    "deadline_dates": [
+     "2026-10-09"
+    ],
+    "description": "Rajasthan LDC Typing Test Date 2026 जारी। हिंदी-अंग्रेज़ी टाइपिंग स्पीड, दक्षता परीक्षा, तारीखें, अंक, एडमिट कार्ड और RSSB के आधिकारिक अपडेट यहां देखें।",
     "exam_related": true,
-    "excerpt": "Results UPDATE Rajasthan LDC Result 2026 जारी, Official Cut Off जारी, Result PDF Link By Lakshay Kumar प्रकाशित: 06 अक्टूबर 2026 • अपडेट: 06 अक्टूबर 2026 Rajasthan LDC Result 2026: राजस्थान कर्मचारी चयन बोर्ड (RSSB) द्वारा आयोजित लिपिक ग्रेड-II / कनिष्ठ सहायक संयुक्त सीधी भर्ती परीक्षा 2026 का रिजल्ट जारी कर दिया गया है। रिजल्ट के साथ ही अभ्यर्थियों के लिए Category Wise Official Cut Off Marks भी जारी कर दिए गए हैं। जिन अभ्यर्थियों ने Rajasthan LDC भर्ती परीक्षा 2026 में भाग लिया था, वे अब अपना Result PDF, Cut Off Marks और चयन संबंधी जानकारी चेक कर सकते हैं। 🚨 Rajasthan LDC Result 2026 जारी Result Date: 28 सितंबर 2026 Result Status: जारी कर दिया गया है नीचे Important Links में Result और RSSB की Official Website का लिंक दिया गया है। 📢 महत्वपूर्ण अपडेट: Rajasthan LDC Result 2026 के साथ Category Wise Official Cut Off भी जारी कर दी गई है। अभ्यर्थी नीचे दी गई तालिका में अपनी Category के अनुसार Cut Off Marks देख सकते हैं। Rajasthan LDC Result 2026: एक नजर में विवरण जानकारी भर्ती बोर्ड Rajasthan Staff Selection Board (RSSB) भर्ती का नाम लिपिक ग्रेड-II / कनिष्ठ सहायक संयुक्त सीधी भर्ती 2026 विज्ञापन संख्या 04/2026 पद का नाम LDC / Clerk Grade-II & Junior Assistant कुल पद 10,644 पद परीक्षा ति",
-    "external_link_count": 11,
+    "excerpt": "Results UPDATE Rajasthan LDC Result 2026, Typing Test Date & Admit Card By Deepak Joshi प्रकाशित: 06 अक्टूबर 2026 • अपडेट: 23 अक्टूबर 2026 Rajasthan LDC Result 2026: राजस्थान कर्मचारी चयन बोर्ड (RSSB), जयपुर की लिपिक ग्रेड-II / कनिष्ठ सहायक संयुक्त सीधी भर्ती परीक्षा 2026 में शामिल अभ्यर्थियों के लिए अब टाइपिंग एवं कंप्यूटर दक्षता परीक्षा से संबंधित महत्वपूर्ण अपडेट जारी हुआ है। Phase-II में हिंदी और अंग्रेज़ी की टाइपिंग स्पीड के साथ दोनों भाषाओं की दक्षता परीक्षा भी आयोजित की जाएगी। Rajasthan LDC Typing Test 2026 Phase-II परीक्षा की निर्धारित तारीखें: 21, 22, 23, 24, 26, 28 और 29 दिसंबर 2026 अभ्यर्थी की वास्तविक परीक्षा तिथि, शिफ्ट, केंद्र और रिपोर्टिंग समय एडमिट कार्ड में दिए गए निर्देशों के अनुसार मान्य होंगे। अभ्यर्थियों के लिए जरूरी सूचना: टाइपिंग परीक्षा में कुल चार अलग-अलग पेपर होंगे। प्रत्येक पेपर 10 मिनट और 25 अंक का है। नोटिस में प्रत्येक पेपर के लिए न्यूनतम 9 अंक निर्धारित हैं। केवल कुल अंक देखकर पास होने का अनुमान न लगाएं; सभी लागू नियम और छूट आधिकारिक निर्देशों से जांचें। Rajasthan LDC Result & Typing Test 2026: Overview विवरण जानकारी भर्ती बोर्ड राजस्थान कर्मचारी चयन बोर्ड, जयपुर (RSSB) भर्ती का नाम लिपिक ग्रेड-II / कनिष्ठ सहायक संयुक्त सीधी भर्ती 2026 विज्ञापन संख्या",
+    "external_link_count": 12,
     "final_url": "https://examdarpan.in/rajasthan-ldc-result-2026",
     "h1s": [
-     "Rajasthan LDC Result 2026 जारी, Official Cut Off जारी, Result PDF Link"
+     "Rajasthan LDC Result 2026, Typing Test Date & Admit Card"
     ],
     "h2s": [
-     "Rajasthan LDC Result 2026: एक नजर में",
-     "Rajasthan LDC Result 2026 जारी",
+     "Rajasthan LDC Result & Typing Test 2026: Overview",
+     "Rajasthan LDC Typing Test Date 2026",
+     "Phase-II में कितने पेपर होंगे?",
+     "हिंदी और अंग्रेज़ी टाइपिंग स्पीड टेस्ट",
+     "कंप्यूटर दक्षता परीक्षा क्या है?",
+     "न्यूनतम अंक और पास होने के नियम",
      "Rajasthan LDC Result 2026 कैसे चेक करें?",
-     "Rajasthan LDC Cut Off 2026 – Official Cut Off",
-     "Rajasthan LDC Result के बाद क्या होगा?",
+     "Typing Test Admit Card कैसे डाउनलोड करें?",
+     "Rajasthan LDC Cut Off 2026",
      "Rajasthan LDC Answer Key 2026",
-     "Rajasthan LDC Official Cut Off 2026",
-     "Rajasthan LDC Answer Key 2026",
-     "ExamDarpan से जुड़े रहें",
+     "Typing Test से पहले क्या तैयारी करें?",
      "Related Updates"
     ],
     "images_missing_alt": 4,
     "intents_present": [
      "admit card",
+     "age limit",
      "cut off",
      "eligibility",
      "how to apply",
      "last date",
      "notification",
-     "result",
-     "syllabus"
+     "result"
     ],
     "internal_links": [
-     "https://examdarpan.in/author/lakshay",
+     "https://examdarpan.in/author/deepak-joshi",
      "https://examdarpan.in/rajasthan-ldc-score-card-2026",
      "https://examdarpan.in/rscit-result-2026-declared-check-your-result-online",
+     "https://examdarpan.in/rrb-station-master-recruitment-2026",
      "https://examdarpan.in/rajasthan-ambedkar-dbt-voucher-yojana-2026-27",
      "https://examdarpan.in/rajasthan-ptet-fee-refund-2026",
+     "https://examdarpan.in/ugc-net-december-2026-apply-online",
      "https://examdarpan.in/rajasthan-scholarship-yojana-2026-27",
-     "https://examdarpan.in/rajasthan-scooty-yojana-2026-27",
-     "https://examdarpan.in/rssb-exam-calendar-2026-27-exam-date",
-     "https://examdarpan.in/rajasthan-cet-2026-senior-secondary-syllabus-exam-date"
+     "https://examdarpan.in/rajasthan-scooty-yojana-2026-27"
     ],
     "lang": "hi",
-    "modified": "2026-10-06",
+    "modified": "2026-10-23",
     "noindex": false,
     "phrases": [
      [
       "rajasthan ldc",
-      26
-     ],
-     [
-      "rajasthan ldc result",
       14
      ],
      [
-      "result 2026",
-      13
-     ],
-     [
-      "official cut",
-      12
-     ],
-     [
-      "ldc result 2026",
+      "10 मिनट",
       10
      ],
      [
-      "cut off marks",
-      7
+      "typing test",
+      10
      ],
      [
-      "2026 27",
-      7
+      "एडमिट कार्ड",
+      10
      ],
      [
-      "answer key",
-      7
+      "दिसंबर 2026",
+      10
      ],
      [
-      "result pdf",
-      7
+      "phase ii",
+      8
+     ],
+     [
+      "अक्टूबर 2026",
+      8
+     ],
+     [
+      "दक्षता परीक्षा",
+      8
      ],
      [
       "update rajasthan",
       7
      ],
      [
-      "category wise",
+      "स्पीड टेस्ट",
+      7
+     ],
+     [
+      "result 2026",
       6
      ],
      [
-      "अक्टूबर 2026",
+      "आधिकारिक वेबसाइट",
       6
      ]
     ],
     "published": "2026-10-06",
     "script_count": 9,
     "status": 200,
-    "title": "Rajasthan LDC Result 2026 जारी, Official Cut Off जारी, Result PDF",
+    "title": "Rajasthan LDC Typing Test Date 2026, Schedule, Admit Card Result",
     "top_terms": [
      [
       "2026",
-      52
-     ],
-     [
-      "rajasthan",
-      37
-     ],
-     [
-      "result",
-      34
-     ],
-     [
-      "ldc",
-      28
-     ],
-     [
-      "जारी",
-      23
-     ],
-     [
-      "cut",
-      22
-     ],
-     [
-      "official",
-      19
-     ],
-     [
-      "rssb",
-      14
+      56
      ],
      [
       "परीक्षा",
+      30
+     ],
+     [
+      "अंक",
+      24
+     ],
+     [
+      "rajasthan",
+      21
+     ],
+     [
+      "gen",
+      17
+     ],
+     [
+      "ldc",
+      16
+     ],
+     [
+      "आधिकारिक",
       14
      ],
      [
       "आवेदन",
-      11
+      14
      ],
      [
-      "भर्ती",
-      11
+      "टाइपिंग",
+      14
      ],
      [
-      "category",
-      10
+      "दक्षता",
+      14
      ],
      [
-      "pdf",
-      10
+      "निर्देशों",
+      13
      ],
      [
-      "gen",
-      9
+      "ii",
+      12
      ],
      [
-      "na",
-      9
+      "rssb",
+      12
+     ],
+     [
+      "टेस्ट",
+      12
+     ],
+     [
+      "पेपर",
+      12
      ]
     ],
-    "word_count": 1382,
+    "word_count": 1934,
     "years": [
      2026
     ]
@@ -11244,6 +11246,6 @@
  },
  "meta": {
   "schema": 1,
-  "sitemap_slot": 82999
+  "sitemap_slot": 83000
  }
 }

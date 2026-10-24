@@ -3,7 +3,7 @@
 URL: https://examdarpan.in/category-results
 
 **SEO health score: 65/100** (this is this agent's own checklist score, not a Google score)
-Words: 56 | Last read: 2026-10-20T21:47:23Z | Published: unknown | Updated: unknown
+Words: 56 | Last read: 2026-10-24T00:38:03Z | Published: unknown | Updated: unknown
 
 ## Things to fix
 
@@ -57,6 +57,6 @@ Possible search phrases for those sections (estimates):
 
 ## Internal links you could add
 
-- Link to [Rajasthan LDC Result 2026 जारी, Official Cut Off जारी, Result PDF](https://examdarpan.in/rajasthan-ldc-result-2026) (shares: 2026, cut, ldc, rajasthan, जारी)
 - Link to [Admit Card | Exam Darpan](https://examdarpan.in/category-admit-card) (shares: 2026, article, card, जारी)
 - Link to [Rajasthan SET Admit Card 2026 जारी,](https://examdarpan.in/rajasthan-set-admit-card-2026) (shares: 2026, card, rajasthan, जारी)
+- Link to [RPSC SI Admit Card 2026 जारी](https://examdarpan.in/rpsc-si-admit-card-2026-download) (shares: 2026, card, rajasthan, जारी)
