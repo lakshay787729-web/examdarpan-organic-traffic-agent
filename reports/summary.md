@@ -7,7 +7,7 @@ and it does not create fake visits or clicks.
 
 - Articles found in sitemap: 66
 - Articles read so far: 66 (100%)
-- Issues: 15 high, 108 medium, 135 low
+- Issues: 15 high, 108 medium, 134 low
 
 ## Search Console status
 
@@ -76,7 +76,7 @@ and it does not create fake visits or clicks.
 10. Answer Key | Exam Darpan  
    https://examdarpan.in/category-answer-key  
    Priority 38 | score 62/100
-   - HIGH: Only 55 words were visible in the raw HTML but the page loads 6 scripts. The content may be added by JavaScript, which this agent cannot see.
+   - HIGH: Only 52 words were visible in the raw HTML but the page loads 6 scripts. The content may be added by JavaScript, which this agent cannot see.
    - MEDIUM: Only 1 links to other Exam Darpan pages.
    - MEDIUM: No other article links to this page.
 11. Latest Updates | Exam Darpan  

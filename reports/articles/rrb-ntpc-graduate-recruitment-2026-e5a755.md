@@ -47,4 +47,4 @@ Possible search phrases for those sections (estimates):
 
 - Link to [RRB NTPC Recruitment 2026: 5165 पदों पर भर्ती की मंजूरी, Graduate](https://examdarpan.in/rrb-ntpc-recruitment-2026-5165-vacancy) (shares: 2026, graduate, level, ntpc, recruitment)
 - Link to [RRB Paramedical Recruitment 2026: रेलवे में 560 पदों पर भर्ती, यह](https://examdarpan.in/rrb-paramedical-recruitment-2026) (shares: 2026, cen, level, recruitment, rrb)
-- Link to [BOI में Specialist Officer के 205 पदों पर भर्ती, 10 सितंबर से शुर](https://examdarpan.in/bank-of-india-so-recruitment-2026-205-posts) (shares: 2026, recruitment, आवेदन, पद, भर्ती)
+- Link to [Bank of India SO Recruitment 2026: 205 Posts](https://examdarpan.in/bank-of-india-so-recruitment-2026-205-posts) (shares: 2026, recruitment, आवेदन, पद, भर्ती)

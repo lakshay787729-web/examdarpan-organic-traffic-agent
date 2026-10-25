@@ -48,5 +48,4 @@ Possible search phrases for those sections (estimates):
 ## Internal links you could add
 
 - Link to [RSCIT Result 2026 Declared – Check Your Result Online](https://examdarpan.in/rscit-result-2026-declared-check-your-result-online) (shares: 2026, official, result, जारी, परीक्षा)
-- Link to [Answer Key | Exam Darpan](https://examdarpan.in/category-answer-key) (shares: 2026, answer, key, जारी)
 - Link to [Latest Updates | Exam Darpan](https://examdarpan.in/category-latest-updates) (shares: 2026, rssb, जारी, परीक्षा)

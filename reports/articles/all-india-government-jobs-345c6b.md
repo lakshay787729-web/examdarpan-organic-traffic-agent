@@ -3,7 +3,7 @@
 URL: https://examdarpan.in/all-india-government-jobs
 
 **SEO health score: 62/100** (this is this agent's own checklist score, not a Google score)
-Words: 39 | Last read: 2026-10-20T09:09:02Z | Published: unknown | Updated: unknown
+Words: 39 | Last read: 2026-10-25T12:00:29Z | Published: unknown | Updated: unknown
 
 ## Things to fix
 
@@ -70,5 +70,5 @@ Possible search phrases for those sections (estimates):
 ## Internal links you could add
 
 - Link to [UP Assistant Teacher Recruitment 2026 – 12405 पद, आवेदन, योग्यता](https://examdarpan.in/up-assistant-teacher-recruitment-2026) (shares: 2026, recruitment, चयन, पदों, परीक्षा)
+- Link to [Bank of India SO Recruitment 2026: 205 Posts](https://examdarpan.in/bank-of-india-so-recruitment-2026-205-posts) (shares: 2026, recruitment, पदों, परीक्षा, भर्ती)
 - Link to [Assam Rifles Group C Recruitment 2026: 354 Posts, Apply](https://examdarpan.in/assam-rifles-group-c-recruitment-2026) (shares: 2026, recruitment, पदों, भर्ती)
-- Link to [BOI में Specialist Officer के 205 पदों पर भर्ती, 10 सितंबर से शुर](https://examdarpan.in/bank-of-india-so-recruitment-2026-205-posts) (shares: 2026, recruitment, पदों, भर्ती)

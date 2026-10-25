@@ -67,5 +67,5 @@ Possible search phrases for those sections (estimates):
 ## Internal links you could add
 
 - Link to [Assam Rifles Group C Recruitment 2026: 354 Posts, Apply](https://examdarpan.in/assam-rifles-group-c-recruitment-2026) (shares: 2026, recruitment, पदों, भर्ती, योग्यता)
-- Link to [BOI में Specialist Officer के 205 पदों पर भर्ती, 10 सितंबर से शुर](https://examdarpan.in/bank-of-india-so-recruitment-2026-205-posts) (shares: 2026, bank, recruitment, पदों, भर्ती)
+- Link to [Bank of India SO Recruitment 2026: 205 Posts](https://examdarpan.in/bank-of-india-so-recruitment-2026-205-posts) (shares: 2026, bank, recruitment, पदों, भर्ती)
 - Link to [All India Government Jobs 2026 – Latest Central Govt Jobs | Exam Darpan](https://examdarpan.in/all-india-government-jobs) (shares: 2026, recruitment, पदों, भर्ती)
