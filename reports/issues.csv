@@ -47,6 +47,12 @@ https://examdarpan.in/category-banking-jobs,medium,SIMILAR_TITLE,Title is very s
 https://examdarpan.in/category-banking-jobs,low,DESC_SHORT,Meta description is short (63 characters).,"Add a little more useful detail (dates, who it is for)."
 https://examdarpan.in/category-banking-jobs,low,NO_DATE,No publish or update date found.,Show and mark up a published/updated date so readers and Google can judge freshness.
 https://examdarpan.in/category-banking-jobs,low,TITLE_SHORT,Title is short (26 characters).,Expand it toward 30-60 characters with the main topic.
+https://examdarpan.in/category-entrance-exams,high,JS_RENDER_SUSPECTED,"Only 50 words were visible in the raw HTML but the page loads 6 scripts. The content may be added by JavaScript, which this agent cannot see.",Check the page with URL Inspection in Search Console. Prefer server-rendered or pre-rendered article text.
+https://examdarpan.in/category-entrance-exams,medium,FEW_INTERNAL_LINKS,Only 1 links to other Exam Darpan pages.,Link to related articles where it helps readers (see suggestions below).
+https://examdarpan.in/category-entrance-exams,medium,ORPHAN,No other article links to this page.,Add a link to it from a related article or a category/hub page.
+https://examdarpan.in/category-entrance-exams,low,DESC_SHORT,Meta description is short (68 characters).,"Add a little more useful detail (dates, who it is for)."
+https://examdarpan.in/category-entrance-exams,low,NO_DATE,No publish or update date found.,Show and mark up a published/updated date so readers and Google can judge freshness.
+https://examdarpan.in/category-entrance-exams,low,TITLE_SHORT,Title is short (28 characters).,Expand it toward 30-60 characters with the main topic.
 https://examdarpan.in/category-latest-updates,high,JS_RENDER_SUSPECTED,"Only 49 words were visible in the raw HTML but the page loads 6 scripts. The content may be added by JavaScript, which this agent cannot see.",Check the page with URL Inspection in Search Console. Prefer server-rendered or pre-rendered article text.
 https://examdarpan.in/category-latest-updates,medium,FEW_INTERNAL_LINKS,Only 1 links to other Exam Darpan pages.,Link to related articles where it helps readers (see suggestions below).
 https://examdarpan.in/category-latest-updates,medium,ORPHAN,No other article links to this page.,Add a link to it from a related article or a category/hub page.
@@ -138,6 +144,8 @@ https://examdarpan.in/editorial-policy,medium,SIMILAR_TITLE,Title is very simila
 https://examdarpan.in/editorial-policy,low,NO_DATE,No publish or update date found.,Show and mark up a published/updated date so readers and Google can judge freshness.
 https://examdarpan.in/india-post-gds-recruitment-2026-bpm-25-000,medium,DEADLINE_PASSED,"Mentions deadline date(s) already passed: 2026-09-03, 2026-09-10, 2026-09-14.","Make clear whether applications are closed, or update after checking the official notice."
 https://examdarpan.in/india-post-gds-recruitment-2026-bpm-25-000,low,IMG_ALT_MISSING,4 image(s) without alt text.,Add short descriptive alt text.
+https://examdarpan.in/jee-main-2027-registration,medium,DEADLINE_PASSED,Mentions deadline date(s) already passed: 2026-10-09.,"Make clear whether applications are closed, or update after checking the official notice."
+https://examdarpan.in/jee-main-2027-registration,low,IMG_ALT_MISSING,4 image(s) without alt text.,Add short descriptive alt text.
 https://examdarpan.in/mukhyamantri-anuprati-coaching-yojana-2026-27,medium,DEADLINE_PASSED,"Mentions deadline date(s) already passed: 2026-09-13, 2026-10-07, 2026-10-09.","Make clear whether applications are closed, or update after checking the official notice."
 https://examdarpan.in/mukhyamantri-anuprati-coaching-yojana-2026-27,low,DESC_LONG,Meta description is long (165 characters).,Shorten to about 160 characters.
 https://examdarpan.in/mukhyamantri-anuprati-coaching-yojana-2026-27,low,IMG_ALT_MISSING,4 image(s) without alt text.,Add short descriptive alt text.
@@ -169,10 +177,7 @@ https://examdarpan.in/rajasthan-ldc-result-2026,medium,DEADLINE_PASSED,Mentions 
 https://examdarpan.in/rajasthan-ldc-result-2026,low,IMG_ALT_MISSING,4 image(s) without alt text.,Add short descriptive alt text.
 https://examdarpan.in/rajasthan-ldc-result-2026,low,TITLE_LONG,Title is long (64 characters) and may be cut off in Google.,"Shorten to about 60 characters. Idea: ""Rajasthan LDC Typing Test Date 2026, Schedule, Admit Card"""
 https://examdarpan.in/rajasthan-ldc-score-card-2026,low,IMG_ALT_MISSING,4 image(s) without alt text.,Add short descriptive alt text.
-https://examdarpan.in/rajasthan-police-si-answer-key-2026,medium,DEADLINE_PASSED,Mentions deadline date(s) already passed: 2026-09-23.,"Make clear whether applications are closed, or update after checking the official notice."
-https://examdarpan.in/rajasthan-police-si-answer-key-2026,low,DESC_LONG,Meta description is long (170 characters).,Shorten to about 160 characters.
 https://examdarpan.in/rajasthan-police-si-answer-key-2026,low,IMG_ALT_MISSING,4 image(s) without alt text.,Add short descriptive alt text.
-https://examdarpan.in/rajasthan-police-si-answer-key-2026,low,TITLE_LONG,Title is long (65 characters) and may be cut off in Google.,"Shorten to about 60 characters. Idea: ""Rajasthan Police SI Answer Key 2026: री-एग्जाम की ऑफिशियल"""
 https://examdarpan.in/rajasthan-ptet-2026-direct-admission,medium,DEADLINE_PASSED,"Mentions deadline date(s) already passed: 2026-09-22, 2026-09-26, 2026-09-28.","Make clear whether applications are closed, or update after checking the official notice."
 https://examdarpan.in/rajasthan-ptet-2026-direct-admission,low,DESC_LONG,Meta description is long (170 characters).,Shorten to about 160 characters.
 https://examdarpan.in/rajasthan-ptet-2026-direct-admission,low,IMG_ALT_MISSING,4 image(s) without alt text.,Add short descriptive alt text.

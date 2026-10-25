@@ -50,5 +50,5 @@ Possible search phrases for those sections (estimates):
 ## Internal links you could add
 
 - Link to [Latest Updates | Exam Darpan](https://examdarpan.in/category-latest-updates) (shares: 2026, calendar, cet, exam, rssb)
-- Link to [RPSC SI Admit Card 2026 जारी](https://examdarpan.in/rpsc-si-admit-card-2026-download) (shares: 2026, exam, जारी, परीक्षा)
-- Link to [RSSB महिला पर्यवेक्षक भर्ती परीक्षा 2026: Answer Key जारी, ऐसे कर](https://examdarpan.in/rssb-mahila-paryavekshak-answer-key-2026) (shares: 2026, rssb, जारी, परीक्षा)
+- Link to [Entrance Exams | Exam Darpan](https://examdarpan.in/category-entrance-exams) (shares: 2026, 2027, exam, तिथि)
+- Link to [JEE Main 2027: Apply Online, Dates, Eligibility & Fees](https://examdarpan.in/jee-main-2027-registration) (shares: 2026, 2027, exam, परीक्षा)
