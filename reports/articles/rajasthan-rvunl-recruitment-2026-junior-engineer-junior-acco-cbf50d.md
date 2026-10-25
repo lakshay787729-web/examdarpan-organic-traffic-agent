@@ -48,5 +48,5 @@ Possible search phrases for those sections (estimates):
 ## Internal links you could add
 
 - Link to [Bank of India SO Recruitment 2026: 205 Posts](https://examdarpan.in/bank-of-india-so-recruitment-2026-205-posts) (shares: 2026, recruitment, आधिकारिक, आवेदन, परीक्षा)
+- Link to [RRB Paramedical Recruitment 2026: 590 Posts](https://examdarpan.in/rrb-paramedical-recruitment-2026) (shares: 2026, recruitment, आधिकारिक, आवेदन, परीक्षा)
 - Link to [RSCIT Result 2026 Declared – Check Your Result Online](https://examdarpan.in/rscit-result-2026-declared-check-your-result-online) (shares: 2026, rajasthan, recruitment, आधिकारिक, आवेदन)
-- Link to [Rajasthan LDC Typing Test Date 2026, Schedule, Admit Card Result](https://examdarpan.in/rajasthan-ldc-result-2026) (shares: 2026, rajasthan, आधिकारिक, आवेदन, परीक्षा)

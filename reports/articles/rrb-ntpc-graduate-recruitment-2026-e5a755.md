@@ -2,15 +2,13 @@
 
 URL: https://examdarpan.in/rrb-ntpc-graduate-recruitment-2026
 
-**SEO health score: 83/100** (this is this agent's own checklist score, not a Google score)
+**SEO health score: 90/100** (this is this agent's own checklist score, not a Google score)
 Words: 2295 | Last read: 2026-10-22T19:17:37Z | Published: 2026-09-27 | Updated: 2026-10-08
 
 ## Things to fix
 
 - **MEDIUM**: Mentions deadline date(s) already passed: 2026-10-09, 2026-10-16, 2026-10-22.  
   Fix: Make clear whether applications are closed, or update after checking the official notice.
-- **MEDIUM**: Title is very similar to https://examdarpan.in/rrb-ntpc-recruitment-2026-5165-vacancy. They may compete for the same searches (a guess based on titles only).  
-  Fix: Decide which page should rank for this topic. Merge, differentiate, or link them clearly.
 - **LOW**: 4 image(s) without alt text.  
   Fix: Add short descriptive alt text.
 
@@ -45,6 +43,6 @@ Possible search phrases for those sections (estimates):
 
 ## Internal links you could add
 
-- Link to [RRB NTPC Recruitment 2026: 5165 पदों पर भर्ती की मंजूरी, Graduate](https://examdarpan.in/rrb-ntpc-recruitment-2026-5165-vacancy) (shares: 2026, graduate, level, ntpc, recruitment)
-- Link to [RRB Paramedical Recruitment 2026: रेलवे में 560 पदों पर भर्ती, यह](https://examdarpan.in/rrb-paramedical-recruitment-2026) (shares: 2026, cen, level, recruitment, rrb)
+- Link to [RRB NTPC Recruitment 2026: 5236 Posts, Apply Online](https://examdarpan.in/rrb-ntpc-recruitment-2026-5165-vacancy) (shares: 2026, cen, graduate, level, ntpc)
+- Link to [RRB Paramedical Recruitment 2026: 590 Posts](https://examdarpan.in/rrb-paramedical-recruitment-2026) (shares: 2026, recruitment, rrb, अक्टूबर, आवेदन)
 - Link to [Bank of India SO Recruitment 2026: 205 Posts](https://examdarpan.in/bank-of-india-so-recruitment-2026-205-posts) (shares: 2026, recruitment, आवेदन, पद, भर्ती)

@@ -47,4 +47,4 @@ Possible search phrases for those sections (estimates):
 
 - Link to [Rajasthan Government Jobs 2026 | Rajasthan Vacancy, RPSC, RSSB & Police Jobs | Exam Darpan](https://examdarpan.in/rajasthan-government-jobs) (shares: 2026, medical, officer, recruitment, ruhs)
 - Link to [Bank of India SO Recruitment 2026: 205 Posts](https://examdarpan.in/bank-of-india-so-recruitment-2026-205-posts) (shares: 2026, officer, recruitment, आधिकारिक, आवेदन)
-- Link to [RSCIT Result 2026 Declared – Check Your Result Online](https://examdarpan.in/rscit-result-2026-declared-check-your-result-online) (shares: 2026, recruitment, आधिकारिक, आवेदन, परीक्षा)
+- Link to [RRB Paramedical Recruitment 2026: 590 Posts](https://examdarpan.in/rrb-paramedical-recruitment-2026) (shares: 2026, recruitment, आधिकारिक, आवेदन, परीक्षा)

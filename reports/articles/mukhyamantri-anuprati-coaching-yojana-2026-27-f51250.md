@@ -55,4 +55,4 @@ Possible search phrases for those sections (estimates):
 
 - Link to [Rajasthan Ambedkar DBT Voucher Yojana 2026-27: Apply Online,](https://examdarpan.in/rajasthan-ambedkar-dbt-voucher-yojana-2026-27) (shares: 2026, अंतिम, अक्टूबर, आवेदन, योजना)
 - Link to [Rajasthan Scooty Yojana 2026](https://examdarpan.in/rajasthan-scooty-yojana-2026-27) (shares: 2026, अंतिम, अक्टूबर, आवेदन, योजना)
-- Link to [India Post GDS Result 2026, 1st Merit List & DV Date](https://examdarpan.in/india-post-gds-recruitment-2026-bpm-25-000) (shares: 2026, अंतिम, अक्टूबर, आवेदन)
+- Link to [RRB Paramedical Recruitment 2026: 590 Posts](https://examdarpan.in/rrb-paramedical-recruitment-2026) (shares: 2026, अंतिम, अक्टूबर, आवेदन, परीक्षा)

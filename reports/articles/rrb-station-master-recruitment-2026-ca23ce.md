@@ -45,6 +45,6 @@ Possible search phrases for those sections (estimates):
 
 ## Internal links you could add
 
+- Link to [RRB Paramedical Recruitment 2026: 590 Posts](https://examdarpan.in/rrb-paramedical-recruitment-2026) (shares: 2026, recruitment, rrb, अंतिम, अक्टूबर)
 - Link to [Railway Jobs | Exam Darpan](https://examdarpan.in/category-railway-jobs) (shares: 2026, master, recruitment, rrb, station)
-- Link to [Bank of India SO Recruitment 2026: 205 Posts](https://examdarpan.in/bank-of-india-so-recruitment-2026-205-posts) (shares: 2026, recruitment, आधिकारिक, आवेदन, पद)
-- Link to [India Post GDS Result 2026, 1st Merit List & DV Date](https://examdarpan.in/india-post-gds-recruitment-2026-bpm-25-000) (shares: 2026, अंतिम, अक्टूबर, आवेदन, तारीख)
+- Link to [RRB NTPC Recruitment 2026: 5236 Posts, Apply Online](https://examdarpan.in/rrb-ntpc-recruitment-2026-5165-vacancy) (shares: 2026, recruitment, rrb, अंतिम, आवेदन)

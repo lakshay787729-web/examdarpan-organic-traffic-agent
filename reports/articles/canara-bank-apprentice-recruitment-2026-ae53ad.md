@@ -49,4 +49,4 @@ Possible search phrases for those sections (estimates):
 
 - Link to [Banking Jobs | Exam Darpan](https://examdarpan.in/category-banking-jobs) (shares: 2026, apprentice, bank, canara, recruitment)
 - Link to [Bank of India SO Recruitment 2026: 205 Posts](https://examdarpan.in/bank-of-india-so-recruitment-2026-205-posts) (shares: 2026, bank, recruitment, आवेदन, भर्ती)
-- Link to [Assam Rifles Group C Recruitment 2026: 354 Posts, Apply](https://examdarpan.in/assam-rifles-group-c-recruitment-2026) (shares: 2026, recruitment, आवेदन, भर्ती)
+- Link to [RRB Paramedical Recruitment 2026: 590 Posts](https://examdarpan.in/rrb-paramedical-recruitment-2026) (shares: 2026, recruitment, अक्टूबर, आवेदन, भर्ती)

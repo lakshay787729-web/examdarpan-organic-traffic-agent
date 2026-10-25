@@ -47,4 +47,4 @@ Possible search phrases for those sections (estimates):
 
 - Link to [Teaching Jobs | Exam Darpan](https://examdarpan.in/category-teaching-jobs) (shares: 2026, december, fee, net, ugc)
 - Link to [मुख्यमंत्री अनुप्रति कोचिंग योजना 2026-27: Last Date , 25अक्टूबर](https://examdarpan.in/mukhyamantri-anuprati-coaching-yojana-2026-27) (shares: 2026, अंतिम, अक्टूबर, आवेदन, परीक्षा)
-- Link to [India Post GDS Result 2026, 1st Merit List & DV Date](https://examdarpan.in/india-post-gds-recruitment-2026-bpm-25-000) (shares: 2026, अंतिम, अक्टूबर, आवेदन)
+- Link to [RRB Paramedical Recruitment 2026: 590 Posts](https://examdarpan.in/rrb-paramedical-recruitment-2026) (shares: 2026, अंतिम, अक्टूबर, आवेदन, परीक्षा)
