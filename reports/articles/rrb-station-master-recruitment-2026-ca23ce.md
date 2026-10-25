@@ -47,4 +47,4 @@ Possible search phrases for those sections (estimates):
 
 - Link to [Railway Jobs | Exam Darpan](https://examdarpan.in/category-railway-jobs) (shares: 2026, master, recruitment, rrb, station)
 - Link to [Bank of India SO Recruitment 2026: 205 Posts](https://examdarpan.in/bank-of-india-so-recruitment-2026-205-posts) (shares: 2026, recruitment, आधिकारिक, आवेदन, पद)
-- Link to [Rajasthan RVUNL Recruitment 2026: JE, Junior Accountant और Junior](https://examdarpan.in/rajasthan-rvunl-recruitment-2026-junior-engineer-junior-accountant-junior-assistant) (shares: 2026, recruitment, अंतिम, अक्टूबर, आवेदन)
+- Link to [India Post GDS Result 2026, 1st Merit List & DV Date](https://examdarpan.in/india-post-gds-recruitment-2026-bpm-25-000) (shares: 2026, अंतिम, अक्टूबर, आवेदन, तारीख)

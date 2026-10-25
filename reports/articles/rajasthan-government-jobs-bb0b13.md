@@ -3,7 +3,7 @@
 URL: https://examdarpan.in/rajasthan-government-jobs
 
 **SEO health score: 69/100** (this is this agent's own checklist score, not a Google score)
-Words: 42 | Last read: 2026-10-22T00:35:00Z | Published: unknown | Updated: unknown
+Words: 42 | Last read: 2026-10-25T15:53:25Z | Published: unknown | Updated: unknown
 
 ## Things to fix
 

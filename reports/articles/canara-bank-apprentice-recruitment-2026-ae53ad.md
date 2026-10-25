@@ -49,4 +49,4 @@ Possible search phrases for those sections (estimates):
 
 - Link to [Banking Jobs | Exam Darpan](https://examdarpan.in/category-banking-jobs) (shares: 2026, apprentice, bank, canara, recruitment)
 - Link to [Bank of India SO Recruitment 2026: 205 Posts](https://examdarpan.in/bank-of-india-so-recruitment-2026-205-posts) (shares: 2026, bank, recruitment, आवेदन, भर्ती)
-- Link to [India Post GDS Recruitment 2026: बिना परीक्षा ग्रामीण डाक सेवक (G](https://examdarpan.in/india-post-gds-recruitment-2026-bpm-25-000) (shares: 2026, recruitment, आवेदन, ऑनलाइन, भर्ती)
+- Link to [Rajasthan RVUNL Recruitment 2026: JE, Junior Accountant और Junior](https://examdarpan.in/rajasthan-rvunl-recruitment-2026-junior-engineer-junior-accountant-junior-assistant) (shares: 2026, recruitment, अक्टूबर, आवेदन, ऑनलाइन)

@@ -47,6 +47,6 @@ Possible search phrases for those sections (estimates):
 
 ## Internal links you could add
 
-- Link to [India Post GDS Recruitment 2026: बिना परीक्षा ग्रामीण डाक सेवक (G](https://examdarpan.in/india-post-gds-recruitment-2026-bpm-25-000) (shares: 2026, recruitment, update, आवेदन, ऑनलाइन)
 - Link to [Rajasthan Scholarship Yojana 2026-27: ऑनलाइन आवेदन शुरू](https://examdarpan.in/rajasthan-scholarship-yojana-2026-27) (shares: 2026, rajasthan, update, अक्टूबर, आवेदन)
 - Link to [Rajasthan Scooty Yojana 2026](https://examdarpan.in/rajasthan-scooty-yojana-2026-27) (shares: 2026, rajasthan, अंतिम, अक्टूबर, आवेदन)
+- Link to [RSCIT Result 2026 Declared – Check Your Result Online](https://examdarpan.in/rscit-result-2026-declared-check-your-result-online) (shares: 2026, rajasthan, recruitment, update, अक्टूबर)

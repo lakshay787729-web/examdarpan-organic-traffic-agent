@@ -7,7 +7,7 @@ and it does not create fake visits or clicks.
 
 - Articles found in sitemap: 66
 - Articles read so far: 66 (100%)
-- Issues: 15 high, 108 medium, 134 low
+- Issues: 15 high, 108 medium, 133 low
 
 ## Search Console status
 
