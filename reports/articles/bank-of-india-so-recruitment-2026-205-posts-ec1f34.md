@@ -47,4 +47,4 @@ Possible search phrases for those sections (estimates):
 
 - Link to [RUHS Medical Officer Exam Date 2026, Admit Card Update](https://examdarpan.in/ruhs-medical-officer-recruitment-2026-600-posts) (shares: 2026, officer, recruitment, आधिकारिक, आवेदन)
 - Link to [Rajasthan Government Jobs 2026 | Rajasthan Vacancy, RPSC, RSSB & Police Jobs | Exam Darpan](https://examdarpan.in/rajasthan-government-jobs) (shares: 2026, officer, recruitment, आवेदन, पदों)
-- Link to [RRB NTPC Recruitment 2026: 5165 पदों पर भर्ती की मंजूरी, Graduate](https://examdarpan.in/rrb-ntpc-recruitment-2026-5165-vacancy) (shares: 2026, recruitment, आवेदन, पद, पदों)
+- Link to [Rajasthan RVUNL Recruitment 2026: 2005 Posts](https://examdarpan.in/rajasthan-rvunl-recruitment-2026-junior-engineer-junior-accountant-junior-assistant) (shares: 2026, recruitment, आधिकारिक, आवेदन, परीक्षा)

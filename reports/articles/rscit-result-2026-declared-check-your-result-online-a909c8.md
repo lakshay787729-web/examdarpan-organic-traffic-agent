@@ -46,5 +46,5 @@ Possible search phrases for those sections (estimates):
 ## Internal links you could add
 
 - Link to [Rajasthan CET 2026: Senior Secondary Syllabus, Exam](https://examdarpan.in/rajasthan-cet-2026-senior-secondary-syllabus-exam-date) (shares: 2026, official, rajasthan, अक्टूबर, आवेदन)
-- Link to [Rajasthan RVUNL Recruitment 2026: JE, Junior Accountant और Junior](https://examdarpan.in/rajasthan-rvunl-recruitment-2026-junior-engineer-junior-accountant-junior-assistant) (shares: 2026, rajasthan, recruitment, update, अक्टूबर)
-- Link to [Rajasthan SET Admit Card 2026 जारी,](https://examdarpan.in/rajasthan-set-admit-card-2026) (shares: 2026, rajasthan, update, आवेदन, जारी)
+- Link to [Rajasthan PTET 2026 Admission: Latest Update](https://examdarpan.in/rajasthan-ptet-2026-direct-admission) (shares: 2026, rajasthan, update, अक्टूबर, आधिकारिक)
+- Link to [Rajasthan RVUNL Recruitment 2026: 2005 Posts](https://examdarpan.in/rajasthan-rvunl-recruitment-2026-junior-engineer-junior-accountant-junior-assistant) (shares: 2026, rajasthan, recruitment, आधिकारिक, आवेदन)

@@ -63,4 +63,4 @@ Possible search phrases for those sections (estimates):
 
 - Link to [सरकारी योजनाएं | Exam Darpan](https://examdarpan.in/category-yojana) (shares: 2026, article, rajasthan, yojana, अक्टूबर)
 - Link to [Rajasthan Scooty Yojana 2026](https://examdarpan.in/rajasthan-scooty-yojana-2026-27) (shares: 2026, rajasthan, yojana, अक्टूबर, आवेदन)
-- Link to [Rajasthan RVUNL Recruitment 2026: JE, Junior Accountant और Junior](https://examdarpan.in/rajasthan-rvunl-recruitment-2026-junior-engineer-junior-accountant-junior-assistant) (shares: 2026, rajasthan, अक्टूबर, आवेदन, ऑनलाइन)
+- Link to [Rajasthan Safai Karmchari Bharti 2026: बिना अनुभव करें आवेदन](https://examdarpan.in/rajasthan-safai-karmchari-recruitment-2026) (shares: 2026, rajasthan, अक्टूबर, आवेदन, ऑनलाइन)
