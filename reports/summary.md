@@ -7,7 +7,7 @@ and it does not create fake visits or clicks.
 
 - Articles found in sitemap: 68
 - Articles read so far: 68 (100%)
-- Issues: 16 high, 108 medium, 130 low
+- Issues: 16 high, 109 medium, 129 low
 
 ## Search Console status
 
@@ -49,40 +49,40 @@ and it does not create fake visits or clicks.
    - MEDIUM: Only 2 links to other Exam Darpan pages.
    - MEDIUM: No other article links to this page.
    - MEDIUM: Title is very similar to https://examdarpan.in/category-scholarships. They may compete for the same searches (a guess based on titles only).
-6. Exam Syllabus | Exam Darpan  
+6. Entrance Exams | Exam Darpan  
+   https://examdarpan.in/category-entrance-exams  
+   Priority 45 | score 55/100
+   - HIGH: Only 50 words were visible in the raw HTML but the page loads 6 scripts. The content may be added by JavaScript, which this agent cannot see.
+   - MEDIUM: Mentions deadline date(s) already passed: 2026-10-25.
+   - MEDIUM: Only 1 links to other Exam Darpan pages.
+7. Exam Syllabus | Exam Darpan  
    https://examdarpan.in/category-syllabus  
    Priority 45 | score 55/100
    - HIGH: Only 46 words were visible in the raw HTML but the page loads 6 scripts. The content may be added by JavaScript, which this agent cannot see.
    - MEDIUM: Only 1 links to other Exam Darpan pages.
    - MEDIUM: No other article links to this page.
-7. Scholarships | Exam Darpan  
+8. Scholarships | Exam Darpan  
    https://examdarpan.in/category-scholarships  
    Priority 42 | score 58/100
    - HIGH: Only 51 words were visible in the raw HTML but the page loads 6 scripts. The content may be added by JavaScript, which this agent cannot see.
    - MEDIUM: Only 1 links to other Exam Darpan pages.
    - MEDIUM: No other article links to this page.
-8. All India Government Jobs 2026 – Latest Central Govt Jobs | Exam Darpan  
+9. All India Government Jobs 2026 – Latest Central Govt Jobs | Exam Darpan  
    https://examdarpan.in/all-india-government-jobs  
    Priority 38 | score 62/100
    - HIGH: Only 39 words were visible in the raw HTML but the page loads 3 scripts. The content may be added by JavaScript, which this agent cannot see.
    - MEDIUM: Only 1 links to other Exam Darpan pages.
    - MEDIUM: No other article links to this page.
-9. Admit Card | Exam Darpan  
+10. Admit Card | Exam Darpan  
    https://examdarpan.in/category-admit-card  
    Priority 38 | score 62/100
    - HIGH: Only 50 words were visible in the raw HTML but the page loads 6 scripts. The content may be added by JavaScript, which this agent cannot see.
    - MEDIUM: Only 1 links to other Exam Darpan pages.
    - MEDIUM: No other article links to this page.
-10. Answer Key | Exam Darpan  
+11. Answer Key | Exam Darpan  
    https://examdarpan.in/category-answer-key  
    Priority 38 | score 62/100
    - HIGH: Only 52 words were visible in the raw HTML but the page loads 6 scripts. The content may be added by JavaScript, which this agent cannot see.
-   - MEDIUM: Only 1 links to other Exam Darpan pages.
-   - MEDIUM: No other article links to this page.
-11. Entrance Exams | Exam Darpan  
-   https://examdarpan.in/category-entrance-exams  
-   Priority 38 | score 62/100
-   - HIGH: Only 50 words were visible in the raw HTML but the page loads 6 scripts. The content may be added by JavaScript, which this agent cannot see.
    - MEDIUM: Only 1 links to other Exam Darpan pages.
    - MEDIUM: No other article links to this page.
 12. Latest Updates | Exam Darpan  

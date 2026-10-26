@@ -2,13 +2,15 @@
 
 URL: https://examdarpan.in/category-entrance-exams
 
-**SEO health score: 62/100** (this is this agent's own checklist score, not a Google score)
+**SEO health score: 55/100** (this is this agent's own checklist score, not a Google score)
 Words: 50 | Last read: 2026-10-25T18:34:55Z | Published: unknown | Updated: unknown
 
 ## Things to fix
 
 - **HIGH**: Only 50 words were visible in the raw HTML but the page loads 6 scripts. The content may be added by JavaScript, which this agent cannot see.  
   Fix: Check the page with URL Inspection in Search Console. Prefer server-rendered or pre-rendered article text.
+- **MEDIUM**: Mentions deadline date(s) already passed: 2026-10-25.  
+  Fix: Make clear whether applications are closed, or update after checking the official notice.
 - **MEDIUM**: Only 1 links to other Exam Darpan pages.  
   Fix: Link to related articles where it helps readers (see suggestions below).
 - **MEDIUM**: No other article links to this page.  
