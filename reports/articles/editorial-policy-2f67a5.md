@@ -2,15 +2,13 @@
 
 URL: https://examdarpan.in/editorial-policy
 
-**SEO health score: 76/100** (this is this agent's own checklist score, not a Google score)
+**SEO health score: 83/100** (this is this agent's own checklist score, not a Google score)
 Words: 584 | Last read: 2026-10-21T14:39:24Z | Published: unknown | Updated: unknown
 
 ## Things to fix
 
 - **MEDIUM**: Only 1 links to other Exam Darpan pages.  
   Fix: Link to related articles where it helps readers (see suggestions below).
-- **MEDIUM**: No other article links to this page.  
-  Fix: Add a link to it from a related article or a category/hub page.
 - **MEDIUM**: Title is very similar to https://examdarpan.in/privacy. They may compete for the same searches (a guess based on titles only).  
   Fix: Decide which page should rank for this topic. Merge, differentiate, or link them clearly.
 - **LOW**: No publish or update date found.  

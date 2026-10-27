@@ -6,12 +6,12 @@
    "in_sitemap": true,
    "last_error": null,
    "last_failure_at": null,
-   "last_fetched": "2026-10-20T09:09:02Z",
+   "last_fetched": "2026-10-27T13:33:03Z",
    "lastmod": null,
    "needs_refresh": false,
    "page": {
     "canonical": "https://examdarpan.in/about",
-    "content_hash": "cc2f98249fccfd85",
+    "content_hash": "9b9dcf3f7bd44645",
     "deadline_dates": [],
     "description": "Exam Darpan के बारे में: independent education और government-job information portal, editorial approach और contact information।",
     "exam_related": true,
@@ -36,8 +36,9 @@
      "result"
     ],
     "internal_links": [
-     "https://examdarpan.in/editorial-policy.html",
-     "https://examdarpan.in/contact.html"
+     "https://examdarpan.in/author/deepak-joshi",
+     "https://examdarpan.in/editorial-policy",
+     "https://examdarpan.in/contact"
     ],
     "lang": "hi",
     "modified": null,
@@ -52,6 +53,10 @@
       3
      ],
      [
+      "सरकारी नौकरी भर्ती",
+      3
+     ],
+     [
       "प्रयास करते",
       3
      ],
@@ -60,11 +65,19 @@
       2
      ],
      [
-      "सरकारी नौकरी भर्ती",
+      "admit card",
+      2
+     ],
+     [
+      "application process",
       2
      ],
      [
       "dates eligibility",
+      2
+     ],
+     [
+      "deepak joshi",
       2
      ],
      [
@@ -81,7 +94,7 @@
      ]
     ],
     "published": null,
-    "script_count": 5,
+    "script_count": 4,
     "status": 200,
     "title": "About Us | Exam Darpan",
     "top_terms": [
@@ -99,11 +112,15 @@
      ],
      [
       "करने",
-      5
+      6
      ],
      [
       "सहयोग",
       5
+     ],
+     [
+      "editorial",
+      4
      ],
      [
       "website",
@@ -115,10 +132,6 @@
      ],
      [
       "authority",
-      3
-     ],
-     [
-      "editorial",
       3
      ],
      [
@@ -134,19 +147,19 @@
       3
      ],
      [
+      "process",
+      3
+     ],
+     [
       "team",
       3
      ],
      [
       "उद्देश्य",
       3
-     ],
-     [
-      "करते",
-      3
      ]
     ],
-    "word_count": 367,
+    "word_count": 416,
     "years": [
      2026
     ]
@@ -11561,6 +11574,6 @@
  },
  "meta": {
   "schema": 1,
-  "sitemap_slot": 83013
+  "sitemap_slot": 83014
  }
 }

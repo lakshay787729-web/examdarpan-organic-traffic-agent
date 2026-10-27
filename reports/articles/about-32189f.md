@@ -2,13 +2,11 @@
 
 URL: https://examdarpan.in/about
 
-**SEO health score: 52/100** (this is this agent's own checklist score, not a Google score)
-Words: 367 | Last read: 2026-10-20T09:09:02Z | Published: unknown | Updated: unknown
+**SEO health score: 59/100** (this is this agent's own checklist score, not a Google score)
+Words: 416 | Last read: 2026-10-27T13:33:03Z | Published: unknown | Updated: unknown
 
 ## Things to fix
 
-- **MEDIUM**: Only 2 links to other Exam Darpan pages.  
-  Fix: Link to related articles where it helps readers (see suggestions below).
 - **MEDIUM**: No other article links to this page.  
   Fix: Add a link to it from a related article or a category/hub page.
 - **MEDIUM**: Title is very similar to https://examdarpan.in/category-scholarships. They may compete for the same searches (a guess based on titles only).  
@@ -41,9 +39,9 @@ _These are ideas taken from the article text. They are NOT search-volume numbers
 - Contact Exam Darpan (sub-heading (H2))
 - exam darpan (repeated in text, appears 8 times)
 - करने का प्रयास (repeated in text, appears 3 times)
+- सरकारी नौकरी भर्ती (repeated in text, appears 3 times)
 - प्रयास करते (repeated in text, appears 3 times)
 - founder website administrator (repeated in text, appears 2 times)
-- सरकारी नौकरी भर्ती (repeated in text, appears 2 times)
 
 ### Topics the article does not mention yet
 _Add a section only if it is relevant AND you can confirm the facts from the official notice._
@@ -66,5 +64,4 @@ Possible search phrases for those sections (estimates):
 ## Internal links you could add
 
 - Link to [Disclaimer | Exam Darpan](https://examdarpan.in/disclaimer) (shares: authority, darpan, exam, information, official)
-- Link to [Editorial Policy | Exam Darpan](https://examdarpan.in/editorial-policy) (shares: darpan, editorial, exam, official, website)
 - Link to [Terms & Conditions | Exam Darpan](https://examdarpan.in/terms) (shares: darpan, exam, information, official, website)
