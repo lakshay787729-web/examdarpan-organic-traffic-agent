@@ -3,11 +3,11 @@
 URL: https://examdarpan.in/category-railway-jobs
 
 **SEO health score: 41/100** (this is this agent's own checklist score, not a Google score)
-Words: 42 | Last read: 2026-10-26T01:13:27Z | Published: unknown | Updated: unknown
+Words: 51 | Last read: 2026-10-27T18:53:31Z | Published: unknown | Updated: unknown
 
 ## Things to fix
 
-- **HIGH**: Only 42 words were visible in the raw HTML but the page loads 6 scripts. The content may be added by JavaScript, which this agent cannot see.  
+- **HIGH**: Only 51 words were visible in the raw HTML but the page loads 7 scripts. The content may be added by JavaScript, which this agent cannot see.  
   Fix: Check the page with URL Inspection in Search Console. Prefer server-rendered or pre-rendered article text.
 - **MEDIUM**: Only 1 links to other Exam Darpan pages.  
   Fix: Link to related articles where it helps readers (see suggestions below).
@@ -36,35 +36,28 @@ _These are ideas taken from the article text. They are NOT search-volume numbers
 
 - Railway Jobs (title)
 - Latest Railway Jobs (sub-heading (H2))
-- master recruitment 2026 (repeated in text, appears 2 times)
-- rrb station master (repeated in text, appears 2 times)
-- station master recruitment (repeated in text, appears 2 times)
-- 1250 पद (repeated in text, appears 2 times)
+- station master (repeated in text, appears 2 times)
 
 ### Topics the article does not mention yet
 _Add a section only if it is relevant AND you can confirm the facts from the official notice._
 
-- last date
 - notification
 - syllabus
 - admit card
 - result
-- how to apply
 - salary
 - cut off
 
 Possible search phrases for those sections (estimates):
-- Railway Jobs last date
 - Railway Jobs notification
 - Railway Jobs syllabus
 - Railway Jobs admit card
 - Railway Jobs result
-- Railway Jobs how to apply
 - Railway Jobs salary
 - Railway Jobs cut off
 
 ## Internal links you could add
 
-- Link to [Police & Defence Jobs | Exam Darpan](https://examdarpan.in/category-police-defence-jobs) (shares: 2026, apply, article, jobs, recruitment)
-- Link to [SSC Jobs | Exam Darpan](https://examdarpan.in/category-ssc-jobs) (shares: 2026, article, date, jobs, recruitment)
-- Link to [RRB NTPC Graduate Recruitment 2026: 3548 पदों पर भर्ती,](https://examdarpan.in/rrb-ntpc-graduate-recruitment-2026) (shares: 2026, level, recruitment, rrb, पद)
+- Link to [सरकारी योजनाएं | Exam Darpan](https://examdarpan.in/category-yojana) (shares: 2026, apply, article, online, आवेदन)
+- Link to [Police & Defence Jobs | Exam Darpan](https://examdarpan.in/category-police-defence-jobs) (shares: 2026, apply, article, jobs)
+- Link to [Teaching Jobs | Exam Darpan](https://examdarpan.in/category-teaching-jobs) (shares: 2026, apply, article, आवेदन)

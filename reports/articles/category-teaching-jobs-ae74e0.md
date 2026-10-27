@@ -60,5 +60,5 @@ Possible search phrases for those sections (estimates):
 ## Internal links you could add
 
 - Link to [Entrance Exams | Exam Darpan](https://examdarpan.in/category-entrance-exams) (shares: 2026, article, date, exam, आवेदन)
-- Link to [Railway Jobs | Exam Darpan](https://examdarpan.in/category-railway-jobs) (shares: 2026, apply, article, date)
+- Link to [Railway Jobs | Exam Darpan](https://examdarpan.in/category-railway-jobs) (shares: 2026, apply, article, आवेदन)
 - Link to [SSC Jobs | Exam Darpan](https://examdarpan.in/category-ssc-jobs) (shares: 2026, article, date, exam)

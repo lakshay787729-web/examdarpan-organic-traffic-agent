@@ -46,5 +46,5 @@ Possible search phrases for those sections (estimates):
 ## Internal links you could add
 
 - Link to [Rajasthan RVUNL Recruitment 2026: 2005 Posts](https://examdarpan.in/rajasthan-rvunl-recruitment-2026-junior-engineer-junior-accountant-junior-assistant) (shares: 2026, recruitment, आधिकारिक, आवेदन, तिथि)
-- Link to [RRB Station Master Recruitment 2026: 1250 पद, Apply Date](https://examdarpan.in/rrb-station-master-recruitment-2026) (shares: 2026, recruitment, अंतिम, अक्टूबर, आधिकारिक)
 - Link to [मुख्यमंत्री अनुप्रति कोचिंग योजना 2026-27: Last Date , 25अक्टूबर](https://examdarpan.in/mukhyamantri-anuprati-coaching-yojana-2026-27) (shares: 2026, अंतिम, अक्टूबर, आवेदन, तिथि)
+- Link to [RRB NTPC Graduate Recruitment 2026: 3548 पदों पर भर्ती,](https://examdarpan.in/rrb-ntpc-graduate-recruitment-2026) (shares: 2026, recruitment, अक्टूबर, आवेदन, पद)
