@@ -3,7 +3,7 @@
 URL: https://examdarpan.in/privacy
 
 **SEO health score: 73/100** (this is this agent's own checklist score, not a Google score)
-Words: 543 | Last read: 2026-10-21T18:54:43Z | Published: unknown | Updated: unknown
+Words: 951 | Last read: 2026-10-28T23:30:36Z | Published: unknown | Updated: unknown
 
 ## Things to fix
 
@@ -27,17 +27,17 @@ Words: 543 | Last read: 2026-10-21T18:54:43Z | Published: unknown | Updated: unk
 _These are ideas taken from the article text. They are NOT search-volume numbers. Check real queries in Search Console._
 
 - Privacy Policy (title)
-- Information We May Collect (sub-heading (H2))
-- How Information Is Used (sub-heading (H2))
-- Cookies, Analytics and Similar Technologies (sub-heading (H2))
-- Advertising and Google AdSense (sub-heading (H2))
-- Third-Party Links (sub-heading (H2))
-- Data Sharing and Security (sub-heading (H2))
-- personal information (repeated in text, appears 3 times)
-- similar technologies (repeated in text, appears 3 times)
-- third party (repeated in text, appears 3 times)
-- com पर संपर्क (repeated in text, appears 2 times)
-- cookies या similar (repeated in text, appears 2 times)
+- 1. Information We May Collect (sub-heading (H2))
+- 2. How We Use Information (sub-heading (H2))
+- 3. Cookies, Local Storage and Analytics (sub-heading (H2))
+- 4. Advertising and Google AdSense (sub-heading (H2))
+- 5. Firebase and Service Providers (sub-heading (H2))
+- 6. Public Information and Third-Party Links (sub-heading (H2))
+- local storage (repeated in text, appears 5 times)
+- display name (repeated in text, appears 4 times)
+- service providers (repeated in text, appears 4 times)
+- third party (repeated in text, appears 4 times)
+- quiz में भाग (repeated in text, appears 3 times)
 
 ### Topics the article does not mention yet
 _Add a section only if it is relevant AND you can confirm the facts from the official notice._
@@ -47,7 +47,6 @@ _Add a section only if it is relevant AND you can confirm the facts from the off
 - notification
 - syllabus
 - admit card
-- result
 - how to apply
 - salary
 - age limit
@@ -59,7 +58,6 @@ Possible search phrases for those sections (estimates):
 - Privacy Policy notification
 - Privacy Policy syllabus
 - Privacy Policy admit card
-- Privacy Policy result
 - Privacy Policy how to apply
 - Privacy Policy salary
 - Privacy Policy age limit

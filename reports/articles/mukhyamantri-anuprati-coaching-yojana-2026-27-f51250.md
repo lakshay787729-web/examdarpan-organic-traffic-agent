@@ -54,5 +54,5 @@ Possible search phrases for those sections (estimates):
 ## Internal links you could add
 
 - Link to [UP Assistant Teacher Recruitment 2026: 12,405 पदों पर भर्ती](https://examdarpan.in/up-assistant-teacher-recruitment-2026) (shares: 2026, अंतिम, अक्टूबर, आवेदन, तिथि)
-- Link to [Rajasthan Ambedkar DBT Voucher Yojana 2026-27: Apply Online,](https://examdarpan.in/rajasthan-ambedkar-dbt-voucher-yojana-2026-27) (shares: 2026, अंतिम, अक्टूबर, आवेदन, योजना)
+- Link to [Rajasthan Ambedkar DBT Voucher Yojana 2026-27: Apply Online](https://examdarpan.in/rajasthan-ambedkar-dbt-voucher-yojana-2026-27) (shares: 2026, अंतिम, अक्टूबर, आवेदन, योजना)
 - Link to [Rajasthan Scooty Yojana 2026](https://examdarpan.in/rajasthan-scooty-yojana-2026-27) (shares: 2026, अंतिम, अक्टूबर, आवेदन, योजना)

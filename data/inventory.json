@@ -4200,89 +4200,91 @@
    "in_sitemap": true,
    "last_error": null,
    "last_failure_at": null,
-   "last_fetched": "2026-10-21T18:54:43Z",
+   "last_fetched": "2026-10-28T23:30:36Z",
    "lastmod": null,
    "needs_refresh": false,
    "page": {
     "canonical": "https://examdarpan.in/privacy",
-    "content_hash": "c9b70c8cddd1c810",
+    "content_hash": "a8eaec981913d592",
     "deadline_dates": [],
     "description": "Exam Darpan की Privacy Policy: personal data, cookies, analytics, advertising, third-party services, security और user choices की विस्तृत जानकारी।",
     "exam_related": true,
-    "excerpt": "Privacy Policy Last updated: 18 October 2026 यह Privacy Policy बताती है कि Exam Darpan (https://examdarpan.in/) पर आने पर कौन-सी जानकारी तकनीकी रूप से collect हो सकती है और उसे कैसे इस्तेमाल किया जा सकता है। Website का उपयोग करते समय इस policy को पढ़ें। Information We May Collect Website के सामान्य उपयोग के दौरान server logs में IP address, browser/device information, requested page, referral information और access time जैसी technical information दर्ज हो सकती है। यदि आप हमें email भेजते हैं, तो आपके message में शामिल email address और details हमें प्राप्त होंगी। How Information Is Used Information का उपयोग website को संचालित करने, security और technical issues समझने, usage trends का विश्लेषण करने, user enquiries का जवाब देने और reported errors की review में किया जा सकता है। हम contact messages का उपयोग उसी enquiry को समझने और उसका जवाब देने के लिए करते हैं। Cookies, Analytics and Similar Technologies Website analytics tools और cookies या similar technologies का उपयोग कर सकती है, जिनसे page usage और performance समझने में मदद मिलती है। Browser settings से cookies को control किया जा सकता है; कुछ settings बदलने से website features प्रभावित हो सकते हैं। Advertising and Google AdSense Websi",
-    "external_link_count": 0,
+    "excerpt": "Privacy Policy Last updated: 27 October 2026 यह Privacy Policy बताती है कि Exam Darpan (https://examdarpan.in/) वेबसाइट और इसके उपलब्ध features इस्तेमाल करते समय जानकारी कैसे collect, use, store और share हो सकती है। यह policy वेबसाइट के वर्तमान उपयोग के अनुसार लिखी गई है; कोई नया feature या service जुड़ने पर इसे update किया जा सकता है। 1. Information We May Collect Technical information: वेबसाइट खोलने पर hosting/server logs में IP address, requested page, referring page, browser/device details, operating system, access time और security/diagnostic records जैसी जानकारी process हो सकती है। Messages you send us: यदि आप support email पर संपर्क करते हैं, तो आपका email address, message और आपके द्वारा स्वेच्छा से दी गई जानकारी प्राप्त होती है। कृपया password, OTP, payment-card details या अन्य अत्यधिक sensitive information email न करें। Quiz and leaderboard information: यदि आप Exam Darpan quiz में भाग लेते हैं, तो आपके द्वारा भरा गया display name, quiz/attempt identifier, answers या answer statistics, score, सही/गलत/छोड़े गए प्रश्नों की संख्या, समय और submission details process हो सकती हैं। Quiz results का कुछ हिस्सा browser के local storage में भी save हो सकता है। जहाँ leaderboard enabled ",
+    "external_link_count": 2,
     "final_url": "https://examdarpan.in/privacy",
     "h1s": [
      "Privacy Policy"
     ],
     "h2s": [
-     "Information We May Collect",
-     "How Information Is Used",
-     "Cookies, Analytics and Similar Technologies",
-     "Advertising and Google AdSense",
-     "Third-Party Links",
-     "Data Sharing and Security",
-     "Data Retention",
-     "Children’s Privacy",
-     "Your Choices and Requests",
-     "Policy Updates",
-     "Contact"
+     "1. Information We May Collect",
+     "2. How We Use Information",
+     "3. Cookies, Local Storage and Analytics",
+     "4. Advertising and Google AdSense",
+     "5. Firebase and Service Providers",
+     "6. Public Information and Third-Party Links",
+     "7. Data Sharing, Security and Retention",
+     "8. Your Choices and Privacy Requests",
+     "9. Children and Student Users",
+     "10. Policy Updates",
+     "11. Contact"
     ],
     "images_missing_alt": 0,
-    "intents_present": [],
+    "intents_present": [
+     "result"
+    ],
     "internal_links": [
-     "https://examdarpan.in/contact.html"
+     "https://examdarpan.in/contact"
     ],
     "lang": "hi",
     "modified": null,
     "noindex": false,
     "phrases": [
      [
-      "personal information",
-      3
+      "local storage",
+      5
      ],
      [
-      "similar technologies",
-      3
-     ],
-     [
-      "third party",
-      3
-     ],
-     [
-      "com पर संपर्क",
-      2
-     ],
-     [
-      "cookies या similar",
-      2
-     ],
-     [
-      "settings से cookies",
-      2
-     ],
-     [
-      "browser settings",
-      2
-     ],
-     [
-      "contact messages",
-      2
-     ],
-     [
-      "google adsense",
-      2
-     ],
-     [
-      "last updated",
-      2
-     ],
-     [
-      "legal requirements",
-      2
+      "display name",
+      4
      ],
      [
       "privacy policy",
+      4
+     ],
+     [
+      "service providers",
+      4
+     ],
+     [
+      "third party",
+      4
+     ],
+     [
+      "quiz में भाग",
+      3
+     ],
+     [
+      "exam darpan",
+      3
+     ],
+     [
+      "जानकारी process",
+      3
+     ],
+     [
+      "browser के local",
+      2
+     ],
+     [
+      "contact us page",
+      2
+     ],
+     [
+      "cookies local storage",
+      2
+     ],
+     [
+      "display name score",
       2
      ]
     ],
@@ -4293,14 +4295,50 @@
     "top_terms": [
      [
       "information",
-      13
+      11
      ],
      [
-      "website",
+      "quiz",
+      11
+     ],
+     [
+      "google",
       10
      ],
      [
       "privacy",
+      10
+     ],
+     [
+      "browser",
+      9
+     ],
+     [
+      "जानकारी",
+      8
+     ],
+     [
+      "वेबसाइट",
+      8
+     ],
+     [
+      "policy",
+      7
+     ],
+     [
+      "providers",
+      7
+     ],
+     [
+      "security",
+      7
+     ],
+     [
+      "storage",
+      7
+     ],
+     [
+      "technical",
       7
      ],
      [
@@ -4308,51 +4346,15 @@
       6
      ],
      [
-      "policy",
+      "analytics",
       6
      ],
      [
-      "contact",
-      5
-     ],
-     [
-      "cookies",
-      5
-     ],
-     [
-      "settings",
-      5
-     ],
-     [
-      "उपयोग",
-      5
-     ],
-     [
-      "google",
-      4
-     ],
-     [
-      "page",
-      4
-     ],
-     [
-      "technical",
-      4
-     ],
-     [
-      "websites",
-      4
-     ],
-     [
-      "करते",
-      4
-     ],
-     [
-      "किया",
-      4
+      "data",
+      6
      ]
     ],
-    "word_count": 543,
+    "word_count": 951,
     "years": [
      2026
     ]
@@ -4364,21 +4366,24 @@
    "in_sitemap": true,
    "last_error": null,
    "last_failure_at": null,
-   "last_fetched": "2026-10-21T18:54:43Z",
+   "last_fetched": "2026-10-28T23:30:36Z",
    "lastmod": "2026-10-16T06:20:31.182000Z",
    "needs_refresh": false,
    "page": {
     "canonical": "https://examdarpan.in/rajasthan-ambedkar-dbt-voucher-yojana-2026-27",
-    "content_hash": "2d285397eeaef5b1",
+    "content_hash": "f47baedef2e10ce3",
     "deadline_dates": [
      "2026-10-09",
      "2026-10-14",
      "2026-10-16",
+     "2026-10-21",
+     "2026-10-22",
+     "2026-11-25",
      "2026-11-30"
     ],
     "description": "राजस्थान अम्बेडकर DBT वाउचर योजना 2026-27 के आवेदन 15 अक्टूबर से 30 नवंबर तक। पात्रता, आय सीमा, ₹20,000 तक सहायता, जरूरी दस्तावेज और ऑनलाइन आवेदन प्रक्रिया जानें।",
     "exam_related": true,
-    "excerpt": "Yojana UPDATE Rajasthan Ambedkar DBT Voucher Yojana 2026-27: Apply Online, ₹20,000 सहायता राशि By Lakshay Kumar प्रकाशित: 16 अक्टूबर 2026 • अपडेट: 16 अक्टूबर 2026 राजस्थान के सरकारी कॉलेजों में पढ़ाई कर रहे विद्यार्थियों के लिए महत्वपूर्ण अपडेट है। सामाजिक न्याय एवं अधिकारिता विभाग, राजस्थान सरकार ने अम्बेडकर DBT वाउचर योजना 2026-27 के लिए ऑनलाइन आवेदन आमंत्रित किए हैं। विभाग की 14 अक्टूबर 2026 की प्रेस विज्ञप्ति के अनुसार आवेदन पोर्टल 15 अक्टूबर 2026 से खुल गया है और आवेदन की अंतिम तिथि 30 नवंबर 2026 निर्धारित की गई है। इस योजना का उद्देश्य घर से दूर दूसरे स्थान पर किराये का कमरा लेकर पढ़ाई करने वाले पात्र छात्र (बालक) को आवास, भोजन और बिजली-पानी जैसी जरूरतों के खर्च में सहायता देना है। पात्र विद्यार्थियों को नियमानुसार ₹2,000 प्रतिमाह, अधिकतम 10 महीने तक सहायता मिल सकती है। BIG UPDATE — आवेदन की तारीख जारी योजना: अम्बेडकर DBT वाउचर योजना 2026-27 आवेदन शुरू: 15 अक्टूबर 2026 अंतिम तिथि: 30 नवंबर 2026 सहायता राशि: ₹2,000 प्रतिमाह, अधिकतम ₹20,000 प्रति वर्ष आवेदन से पहले अपनी पात्रता, परिवार की आय, किराये के मकान के प्रमाण और कॉलेज में नियमित अध्ययन से संबंधित दस्तावेज तैयार रखें। Ambedkar DBT Voucher Yojana 2026-27: Overview विवरण जानकारी योजना का नाम अम्बेडकर DBT वाउचर योजना शैक्षण",
+    "excerpt": "Yojana UPDATE Rajasthan Ambedkar DBT Voucher Yojana 2026-27: Apply Online, ₹20,000 सहायता राशि By Deepak Joshi प्रकाशित: 16 अक्टूबर 2026 • अपडेट: 16 अक्टूबर 2026 राजस्थान के सरकारी कॉलेजों में पढ़ाई कर रहे विद्यार्थियों के लिए महत्वपूर्ण अपडेट है। सामाजिक न्याय एवं अधिकारिता विभाग, राजस्थान सरकार ने अम्बेडकर DBT वाउचर योजना 2026-27 के लिए ऑनलाइन आवेदन आमंत्रित किए हैं। विभाग की 14 अक्टूबर 2026 की प्रेस विज्ञप्ति के अनुसार आवेदन पोर्टल 15 अक्टूबर 2026 से खुल गया है और आवेदन की अंतिम तिथि 30 नवंबर 2026 निर्धारित की गई है। इस योजना का उद्देश्य घर से दूर दूसरे स्थान पर किराये का कमरा लेकर पढ़ाई करने वाले पात्र छात्र (बालक) को आवास, भोजन और बिजली-पानी जैसी जरूरतों के खर्च में सहायता देना है। पात्र विद्यार्थियों को नियमानुसार ₹2,000 प्रतिमाह, अधिकतम 10 महीने तक सहायता मिल सकती है। BIG UPDATE — आवेदन की तारीख जारी योजना: अम्बेडकर DBT वाउचर योजना 2026-27 आवेदन शुरू: 15 अक्टूबर 2026 अंतिम तिथि: 30 नवंबर 2026 सहायता राशि: ₹2,000 प्रतिमाह, अधिकतम ₹20,000 प्रति वर्ष आवेदन से पहले अपनी पात्रता, परिवार की आय, किराये के मकान के प्रमाण और कॉलेज में नियमित अध्ययन से संबंधित दस्तावेज तैयार रखें। Ambedkar DBT Voucher Yojana 2026-27: Overview विवरण जानकारी योजना का नाम अम्बेडकर DBT वाउचर योजना शैक्षणि",
     "external_link_count": 11,
     "final_url": "https://examdarpan.in/rajasthan-ambedkar-dbt-voucher-yojana-2026-27",
     "h1s": [
@@ -4414,15 +4419,15 @@
      "syllabus"
     ],
     "internal_links": [
-     "https://examdarpan.in/author/lakshay",
+     "https://examdarpan.in/author/deepak-joshi",
      "https://examdarpan.in/rajasthan-scooty-yojana-2026-27",
+     "https://examdarpan.in/assam-rifles-group-c-recruitment-2026",
      "https://examdarpan.in/rrb-station-master-recruitment-2026",
      "https://examdarpan.in/rrb-ntpc-ug-recruitment-2026",
      "https://examdarpan.in/rajasthan-ptet-fee-refund-2026",
      "https://examdarpan.in/ugc-net-december-2026-apply-online",
      "https://examdarpan.in/rajasthan-ldc-score-card-2026",
-     "https://examdarpan.in/rajasthan-ldc-result-2026",
-     "https://examdarpan.in/rajasthan-scholarship-yojana-2026-27"
+     "https://examdarpan.in/rajasthan-ldc-result-2026"
     ],
     "lang": "hi",
     "modified": "2026-10-16",
@@ -4438,7 +4443,7 @@
      ],
      [
       "2026 27",
-      16
+      14
      ],
      [
       "जन आधार",
@@ -4449,15 +4454,7 @@
       13
      ],
      [
-      "30 नवंबर",
-      10
-     ],
-     [
-      "yojana 2026",
-      10
-     ],
-     [
-      "ऑनलाइन आवेदन",
+      "अंतिम तिथि",
       10
      ],
      [
@@ -4465,30 +4462,38 @@
       10
      ],
      [
-      "yojana 2026 27",
+      "आवेदन की अंतिम",
       9
      ],
      [
-      "अंतिम तिथि",
+      "ऑनलाइन आवेदन",
       9
      ],
      [
       "₹20 000",
       9
+     ],
+     [
+      "dbt वाउचर योजना",
+      8
+     ],
+     [
+      "अम्बेडकर dbt वाउचर",
+      8
      ]
     ],
     "published": "2026-10-16",
-    "script_count": 9,
+    "script_count": 10,
     "status": 200,
-    "title": "Rajasthan Ambedkar DBT Voucher Yojana 2026-27: Apply Online,",
+    "title": "Rajasthan Ambedkar DBT Voucher Yojana 2026-27: Apply Online",
     "top_terms": [
      [
       "आवेदन",
-      76
+      74
      ],
      [
       "2026",
-      54
+      55
      ],
      [
       "योजना",
@@ -4500,7 +4505,7 @@
      ],
      [
       "yojana",
-      23
+      21
      ],
      [
       "प्रमाण",
@@ -4519,16 +4524,16 @@
       19
      ],
      [
+      "अंतिम",
+      18
+     ],
+     [
       "voucher",
       17
      ],
      [
       "सहायता",
       17
-     ],
-     [
-      "अंतिम",
-      16
      ],
      [
       "किराये",
@@ -4539,11 +4544,11 @@
       16
      ],
      [
-      "rajasthan",
+      "करने",
       15
      ]
     ],
-    "word_count": 2650,
+    "word_count": 2643,
     "years": [
      2026
     ]
@@ -4555,24 +4560,28 @@
    "in_sitemap": true,
    "last_error": null,
    "last_failure_at": null,
-   "last_fetched": "2026-10-21T18:54:43Z",
+   "last_fetched": "2026-10-28T23:30:36Z",
    "lastmod": "2026-10-07T08:11:04.896000Z",
    "needs_refresh": false,
    "page": {
     "canonical": "https://examdarpan.in/rajasthan-bstc-fee-refund-2026",
-    "content_hash": "1a67ce2689ecfdb6",
+    "content_hash": "abe38f8d00ec12a7",
     "deadline_dates": [
      "2026-09-24",
      "2026-09-26",
      "2026-10-07",
-     "2026-10-09",
      "2026-10-10",
      "2026-10-12",
-     "2026-10-16"
+     "2026-10-16",
+     "2026-10-21",
+     "2026-10-22",
+     "2026-10-25",
+     "2026-11-22",
+     "2026-11-25"
     ],
     "description": "BSTC Fee Refund 2026 अब ऑनलाइन। Rajasthan BSTC/Pre D.El.Ed की Counselling Refund, Last Date 12 Oct, ₹2,900/₹2,500/₹2,000। Online Apply कैसे करें, Bank Details, OTP।",
     "exam_related": false,
-    "excerpt": "University & College UPDATE Rajasthan BSTC Fee Refund 2026: Last Date 12 Oct, Online Apply ₹2900 By Lakshay Kumar प्रकाशित: 26 सितंबर 2026 • अपडेट: 07 अक्टूबर 2026 Rajasthan BSTC Fee Refund 2026: Last Date 12 Oct, Online Apply, ₹2,900 तक ⏰ LAST DATE: 12 अक्टूबर 2026 (सोमवार) | Updated: 7 अक्टूबर 2026 Rajasthan BSTC Fee Refund 2026 Last Date: 12 अक्टूबर 2026 (सोमवार)। अगर आपने Rajasthan Pre D.El.Ed (BSTC) 2026 की काउंसलिंग में ₹3,000 जमा किए थे, तो Rajasthan BSTC Refund Form भरकर ₹2,900, ₹2,500 या ₹2,000 तक की राशि वापस पाई जा सकती है। BSTC Fee Refund Online Apply के लिए Portal 26 सितंबर 2026 से 12 अक्टूबर 2026 तक खुला रहेगा। आपकी BSTC Counselling स्थिति (कॉलेज अलॉट नहीं, रिपोर्टिंग नहीं, प्रवेश निरस्त) के हिसाब से राशि तय होगी। सूचना वर्धमान महावीर खुला विश्वविद्यालय (VMOU), कोटा ने 24 सितंबर 2026 को जारी की थी। इस पेज पर सबसे पहले यह देखिए कि आपको कितना पैसा मिलेगा, फिर फॉर्म भरने के दौरान बैंक, चेक/पासबुक और OTP में आने वाली दिक्कतों का हल और आखिरी 5 दिनों का प्लान मिलेगा। ⚠️ URGENT - LAST DATE APPROACHING: 12 अक्टूबर 2026 को रिफंड फॉर्म बंद हो जाएगा। अगर आपने अभी तक फॉर्म नहीं भरा, तो आज ही portal.predeledraj2026.com पर जाकर ऑनलाइन आवेदन पूरा कर दें। 🔔 IMPORTANT - LAST DATE: 12 ",
+    "excerpt": "University & College UPDATE Rajasthan BSTC Fee Refund 2026: Last Date 12 Oct, Online Apply ₹2900 By Deepak Joshi प्रकाशित: 26 सितंबर 2026 • अपडेट: 07 अक्टूबर 2026 Rajasthan BSTC Fee Refund 2026: Last Date 12 Oct, Online Apply, ₹2,900 तक ⏰ LAST DATE: 12 अक्टूबर 2026 (सोमवार) | Updated: 7 अक्टूबर 2026 Rajasthan BSTC Fee Refund 2026 Last Date: 12 अक्टूबर 2026 (सोमवार)। अगर आपने Rajasthan Pre D.El.Ed (BSTC) 2026 की काउंसलिंग में ₹3,000 जमा किए थे, तो Rajasthan BSTC Refund Form भरकर ₹2,900, ₹2,500 या ₹2,000 तक की राशि वापस पाई जा सकती है। BSTC Fee Refund Online Apply के लिए Portal 26 सितंबर 2026 से 12 अक्टूबर 2026 तक खुला रहेगा। आपकी BSTC Counselling स्थिति (कॉलेज अलॉट नहीं, रिपोर्टिंग नहीं, प्रवेश निरस्त) के हिसाब से राशि तय होगी। सूचना वर्धमान महावीर खुला विश्वविद्यालय (VMOU), कोटा ने 24 सितंबर 2026 को जारी की थी। इस पेज पर सबसे पहले यह देखिए कि आपको कितना पैसा मिलेगा, फिर फॉर्म भरने के दौरान बैंक, चेक/पासबुक और OTP में आने वाली दिक्कतों का हल और आखिरी 5 दिनों का प्लान मिलेगा। ⚠️ URGENT - LAST DATE APPROACHING: 12 अक्टूबर 2026 को रिफंड फॉर्म बंद हो जाएगा। अगर आपने अभी तक फॉर्म नहीं भरा, तो आज ही portal.predeledraj2026.com पर जाकर ऑनलाइन आवेदन पूरा कर दें। 🔔 IMPORTANT - LAST DATE: 12 O",
     "external_link_count": 7,
     "final_url": "https://examdarpan.in/rajasthan-bstc-fee-refund-2026",
     "h1s": [
@@ -4603,7 +4612,6 @@
     "intents_present": [
      "admit card",
      "age limit",
-     "cut off",
      "eligibility",
      "how to apply",
      "last date",
@@ -4611,16 +4619,16 @@
      "result"
     ],
     "internal_links": [
-     "https://examdarpan.in/author/lakshay",
+     "https://examdarpan.in/author/deepak-joshi",
      "https://examdarpan.in/rajasthan-ptet-2026-direct-admission",
      "https://examdarpan.in/category-university-college",
      "https://examdarpan.in/rajasthan-ptet-fee-refund-2026",
+     "https://examdarpan.in/rajasthan-veterinary-admission-2026-1240-seats",
+     "https://examdarpan.in/jee-main-2027-registration",
+     "https://examdarpan.in/assam-rifles-group-c-recruitment-2026",
      "https://examdarpan.in/rrb-station-master-recruitment-2026",
      "https://examdarpan.in/rajasthan-ambedkar-dbt-voucher-yojana-2026-27",
-     "https://examdarpan.in/rrb-ntpc-ug-recruitment-2026",
-     "https://examdarpan.in/ugc-net-december-2026-apply-online",
-     "https://examdarpan.in/rajasthan-ldc-score-card-2026",
-     "https://examdarpan.in/rajasthan-ldc-result-2026"
+     "https://examdarpan.in/rrb-ntpc-ug-recruitment-2026"
     ],
     "lang": "hi",
     "modified": "2026-10-07",
@@ -4628,7 +4636,7 @@
     "phrases": [
      [
       "अक्टूबर 2026",
-      23
+      22
      ],
      [
       "fee refund",
@@ -4636,7 +4644,7 @@
      ],
      [
       "last date",
-      14
+      15
      ],
      [
       "refund 2026",
@@ -4667,22 +4675,22 @@
       10
      ],
      [
-      "last date 12",
-      9
+      "सितंबर 2026",
+      10
      ],
      [
-      "सितंबर 2026",
+      "last date 12",
       9
      ]
     ],
     "published": "2026-09-26",
-    "script_count": 9,
+    "script_count": 10,
     "status": 200,
     "title": "BSTC Refund Form 2026: Last Date 12 Oct, ₹2900 तक वापस",
     "top_terms": [
      [
       "2026",
-      69
+      68
      ],
      [
       "refund",
@@ -4690,7 +4698,7 @@
      ],
      [
       "अक्टूबर",
-      36
+      37
      ],
      [
       "bstc",
@@ -4698,19 +4706,19 @@
      ],
      [
       "rajasthan",
-      23
+      20
      ],
      [
       "fee",
-      22
-     ],
-     [
-      "₹2",
       19
      ],
      [
       "रिफंड",
-      18
+      19
+     ],
+     [
+      "₹2",
+      19
      ],
      [
       "खाता",
@@ -4725,25 +4733,26 @@
       16
      ],
      [
+      "आवेदन",
+      16
+     ],
+     [
+      "last",
+      15
+     ],
+     [
       "नाम",
       15
      ],
      [
       "फॉर्म",
       15
-     ],
-     [
-      "last",
-      14
-     ],
-     [
-      "क्या",
-      14
      ]
     ],
-    "word_count": 2466,
+    "word_count": 2450,
     "years": [
-     2026
+     2026,
+     2027
     ]
    }
   },

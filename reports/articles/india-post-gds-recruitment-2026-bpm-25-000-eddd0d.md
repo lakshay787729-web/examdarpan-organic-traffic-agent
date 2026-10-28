@@ -47,4 +47,4 @@ Possible search phrases for those sections (estimates):
 
 - Link to [Canara Bank Apprentice Recruitment 2026: 3500 पदों पर भर्ती](https://examdarpan.in/canara-bank-apprentice-recruitment-2026) (shares: 2026, अक्टूबर, आवेदन, भर्ती)
 - Link to [मुख्यमंत्री अनुप्रति कोचिंग योजना 2026-27: Last Date , 25अक्टूबर](https://examdarpan.in/mukhyamantri-anuprati-coaching-yojana-2026-27) (shares: 2026, अंतिम, अक्टूबर, आवेदन)
-- Link to [Rajasthan Ambedkar DBT Voucher Yojana 2026-27: Apply Online,](https://examdarpan.in/rajasthan-ambedkar-dbt-voucher-yojana-2026-27) (shares: 2026, अंतिम, अक्टूबर, आवेदन)
+- Link to [Rajasthan Ambedkar DBT Voucher Yojana 2026-27: Apply Online](https://examdarpan.in/rajasthan-ambedkar-dbt-voucher-yojana-2026-27) (shares: 2026, अंतिम, अक्टूबर, आवेदन)
