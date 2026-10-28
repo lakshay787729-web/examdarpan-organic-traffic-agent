@@ -2246,7 +2246,7 @@
    "in_sitemap": true,
    "last_error": null,
    "last_failure_at": null,
-   "last_fetched": "2026-10-21T00:10:11Z",
+   "last_fetched": "2026-10-28T07:28:36Z",
    "lastmod": "2026-10-06T12:11:04.080000Z",
    "needs_refresh": false,
    "page": {
@@ -2289,7 +2289,7 @@
      ]
     ],
     "published": null,
-    "script_count": 6,
+    "script_count": 7,
     "status": 200,
     "title": "Exam Syllabus | Exam Darpan",
     "top_terms": [
@@ -2366,7 +2366,7 @@
    "in_sitemap": true,
    "last_error": null,
    "last_failure_at": null,
-   "last_fetched": "2026-10-21T00:10:11Z",
+   "last_fetched": "2026-10-28T07:28:36Z",
    "lastmod": "2026-10-09T02:40:31.451000Z",
    "needs_refresh": false,
    "page": {
@@ -2408,7 +2408,7 @@
      ]
     ],
     "published": null,
-    "script_count": 6,
+    "script_count": 7,
     "status": 200,
     "title": "Teaching Jobs | Exam Darpan",
     "top_terms": [
@@ -2607,7 +2607,7 @@
    "in_sitemap": true,
    "last_error": null,
    "last_failure_at": null,
-   "last_fetched": "2026-10-21T04:40:16Z",
+   "last_fetched": "2026-10-28T07:28:36Z",
    "lastmod": "2026-10-16T06:20:31.182000Z",
    "needs_refresh": false,
    "page": {
@@ -2647,7 +2647,7 @@
      ]
     ],
     "published": null,
-    "script_count": 6,
+    "script_count": 7,
     "status": 200,
     "title": "सरकारी योजनाएं | Exam Darpan",
     "top_terms": [
@@ -11574,6 +11574,6 @@
  },
  "meta": {
   "schema": 1,
-  "sitemap_slot": 83016
+  "sitemap_slot": 83017
  }
 }

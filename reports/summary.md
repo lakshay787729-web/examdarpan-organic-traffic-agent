@@ -40,7 +40,7 @@ and it does not create fake visits or clicks.
 4. Teaching Jobs | Exam Darpan  
    https://examdarpan.in/category-teaching-jobs  
    Priority 59 | score 41/100
-   - HIGH: Only 46 words were visible in the raw HTML but the page loads 6 scripts. The content may be added by JavaScript, which this agent cannot see.
+   - HIGH: Only 46 words were visible in the raw HTML but the page loads 7 scripts. The content may be added by JavaScript, which this agent cannot see.
    - MEDIUM: Only 1 links to other Exam Darpan pages.
    - MEDIUM: No other article links to this page.
 5. Entrance Exams | Exam Darpan  
@@ -52,7 +52,7 @@ and it does not create fake visits or clicks.
 6. Exam Syllabus | Exam Darpan  
    https://examdarpan.in/category-syllabus  
    Priority 45 | score 55/100
-   - HIGH: Only 46 words were visible in the raw HTML but the page loads 6 scripts. The content may be added by JavaScript, which this agent cannot see.
+   - HIGH: Only 46 words were visible in the raw HTML but the page loads 7 scripts. The content may be added by JavaScript, which this agent cannot see.
    - MEDIUM: Only 1 links to other Exam Darpan pages.
    - MEDIUM: No other article links to this page.
 7. Scholarships | Exam Darpan  

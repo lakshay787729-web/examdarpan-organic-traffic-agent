@@ -3,11 +3,11 @@
 URL: https://examdarpan.in/category-yojana
 
 **SEO health score: 65/100** (this is this agent's own checklist score, not a Google score)
-Words: 49 | Last read: 2026-10-21T04:40:16Z | Published: unknown | Updated: unknown
+Words: 49 | Last read: 2026-10-28T07:28:36Z | Published: unknown | Updated: unknown
 
 ## Things to fix
 
-- **HIGH**: Only 49 words were visible in the raw HTML but the page loads 6 scripts. The content may be added by JavaScript, which this agent cannot see.  
+- **HIGH**: Only 49 words were visible in the raw HTML but the page loads 7 scripts. The content may be added by JavaScript, which this agent cannot see.  
   Fix: Check the page with URL Inspection in Search Console. Prefer server-rendered or pre-rendered article text.
 - **MEDIUM**: Only 1 links to other Exam Darpan pages.  
   Fix: Link to related articles where it helps readers (see suggestions below).
