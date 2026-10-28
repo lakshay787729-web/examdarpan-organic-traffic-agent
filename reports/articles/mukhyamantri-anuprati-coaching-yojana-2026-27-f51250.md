@@ -3,7 +3,7 @@
 URL: https://examdarpan.in/mukhyamantri-anuprati-coaching-yojana-2026-27
 
 **SEO health score: 84/100** (this is this agent's own checklist score, not a Google score)
-Words: 1979 | Last read: 2026-10-21T14:39:24Z | Published: 2026-09-13 | Updated: 2026-10-10
+Words: 1962 | Last read: 2026-10-28T19:39:21Z | Published: 2026-09-13 | Updated: 2026-10-10
 
 ## Things to fix
 
@@ -33,8 +33,8 @@ _These are ideas taken from the article text. They are NOT search-volume numbers
 - परिवार की वार्षिक आय कितनी होनी चाहिए? (sub-heading (H2))
 - योजना में क्या लाभ मिलता है? (sub-heading (H2))
 - 2026 27 (repeated in text, appears 15 times)
-- अंतिम तिथि (repeated in text, appears 14 times)
-- अक्टूबर 2026 (repeated in text, appears 14 times)
+- अंतिम तिथि (repeated in text, appears 15 times)
+- अक्टूबर 2026 (repeated in text, appears 15 times)
 - मुख्यमंत्री अनुप्रति (repeated in text, appears 13 times)
 
 ### Topics the article does not mention yet

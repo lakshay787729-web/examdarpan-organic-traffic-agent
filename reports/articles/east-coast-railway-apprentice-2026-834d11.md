@@ -3,11 +3,11 @@
 URL: https://examdarpan.in/east-coast-railway-apprentice-2026
 
 **SEO health score: 87/100** (this is this agent's own checklist score, not a Google score)
-Words: 2069 | Last read: 2026-10-21T09:38:08Z | Published: 2026-09-03 | Updated: 2026-10-19
+Words: 2085 | Last read: 2026-10-28T19:39:21Z | Published: 2026-09-03 | Updated: 2026-10-19
 
 ## Things to fix
 
-- **MEDIUM**: Mentions deadline date(s) already passed: 2026-09-15, 2026-10-16.  
+- **MEDIUM**: Mentions deadline date(s) already passed: 2026-09-15, 2026-10-16, 2026-10-21.  
   Fix: Make clear whether applications are closed, or update after checking the official notice.
 - **LOW**: 4 image(s) without alt text.  
   Fix: Add short descriptive alt text.
@@ -32,15 +32,17 @@ _These are ideas taken from the article text. They are NOT search-volume numbers
 - east coast railway (repeated in text, appears 17 times)
 - coast railway apprentice (repeated in text, appears 12 times)
 - recruitment 2026 (repeated in text, appears 12 times)
-- सितंबर 2026 (repeated in text, appears 11 times)
+- सितंबर 2026 (repeated in text, appears 12 times)
 - नियमों के अनुसार (repeated in text, appears 10 times)
 
 ### Topics the article does not mention yet
 _Add a section only if it is relevant AND you can confirm the facts from the official notice._
 
+- syllabus
 - cut off
 
 Possible search phrases for those sections (estimates):
+- East Coast Railway Apprentice 2026: 1599 syllabus
 - East Coast Railway Apprentice 2026: 1599 cut off
 
 ## Internal links you could add

@@ -3,7 +3,7 @@
 URL: https://examdarpan.in/editorial-policy
 
 **SEO health score: 83/100** (this is this agent's own checklist score, not a Google score)
-Words: 584 | Last read: 2026-10-21T14:39:24Z | Published: unknown | Updated: unknown
+Words: 766 | Last read: 2026-10-28T19:39:21Z | Published: unknown | Updated: unknown
 
 ## Things to fix
 
@@ -32,13 +32,12 @@ _These are ideas taken from the article text. They are NOT search-volume numbers
 - किया जाता (repeated in text, appears 7 times)
 - प्रयास किया जाता (repeated in text, appears 5 times)
 - exam darpan (repeated in text, appears 5 times)
+- official notification (repeated in text, appears 5 times)
 - करने का प्रयास (repeated in text, appears 4 times)
-- official notification (repeated in text, appears 4 times)
 
 ### Topics the article does not mention yet
 _Add a section only if it is relevant AND you can confirm the facts from the official notice._
 
-- last date
 - syllabus
 - how to apply
 - salary
@@ -46,7 +45,6 @@ _Add a section only if it is relevant AND you can confirm the facts from the off
 - cut off
 
 Possible search phrases for those sections (estimates):
-- Editorial Policy last date
 - Editorial Policy syllabus
 - Editorial Policy how to apply
 - Editorial Policy salary
@@ -55,6 +53,4 @@ Possible search phrases for those sections (estimates):
 
 ## Internal links you could add
 
-- Link to [About Us | Exam Darpan](https://examdarpan.in/about) (shares: darpan, editorial, exam, official, website)
-- Link to [Contact Us | Exam Darpan](https://examdarpan.in/contact) (shares: details, official, website, करने)
-- Link to [Disclaimer | Exam Darpan](https://examdarpan.in/disclaimer) (shares: darpan, exam, official, website)
+- Link to [About Us | Exam Darpan](https://examdarpan.in/about) (shares: editorial, exam, official, website, करने)
