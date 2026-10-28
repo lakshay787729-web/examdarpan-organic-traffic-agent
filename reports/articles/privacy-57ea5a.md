@@ -64,7 +64,3 @@ Possible search phrases for those sections (estimates):
 - Privacy Policy salary
 - Privacy Policy age limit
 - Privacy Policy cut off
-
-## Internal links you could add
-
-- Link to [Contact Us | Exam Darpan](https://examdarpan.in/contact) (shares: contact, information, privacy, website)

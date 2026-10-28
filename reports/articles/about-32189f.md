@@ -2,13 +2,11 @@
 
 URL: https://examdarpan.in/about
 
-**SEO health score: 59/100** (this is this agent's own checklist score, not a Google score)
+**SEO health score: 66/100** (this is this agent's own checklist score, not a Google score)
 Words: 416 | Last read: 2026-10-27T13:33:03Z | Published: unknown | Updated: unknown
 
 ## Things to fix
 
-- **MEDIUM**: No other article links to this page.  
-  Fix: Add a link to it from a related article or a category/hub page.
 - **MEDIUM**: Title is very similar to https://examdarpan.in/category-scholarships. They may compete for the same searches (a guess based on titles only).  
   Fix: Decide which page should rank for this topic. Merge, differentiate, or link them clearly.
 - **MEDIUM**: Title is very similar to https://examdarpan.in/category-syllabus. They may compete for the same searches (a guess based on titles only).  

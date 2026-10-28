@@ -2724,16 +2724,16 @@
    "in_sitemap": true,
    "last_error": null,
    "last_failure_at": null,
-   "last_fetched": "2026-10-21T04:40:16Z",
+   "last_fetched": "2026-10-28T14:18:44Z",
    "lastmod": null,
    "needs_refresh": false,
    "page": {
     "canonical": "https://examdarpan.in/contact",
-    "content_hash": "8633e5204bc62e9f",
+    "content_hash": "ccfb509e5f393a1c",
     "deadline_dates": [],
     "description": "Exam Darpan से संपर्क करें: article corrections, outdated recruitment details, broken official links, privacy requests और general enquiries।",
     "exam_related": true,
-    "excerpt": "Contact Us Exam Darpan से editorial corrections, outdated recruitment details, broken official links, privacy requests, copyright concerns और general enquiries के लिए संपर्क करें। Website Contact Details Website: examdarpan.in Email: Supportexamdarpan@gmail.com कृपया message में enquiry का विषय स्पष्ट लिखें ताकि request को सही तरीके से समझा जा सके। What You Can Contact Us About Incorrect या outdated article information Broken official links Recruitment या examination information corrections Privacy-related questions Copyright या content concerns General feedback और website-related enquiries Correction Requests Email subject में Correction Request लिखें और article का exact URL, गलत दिखाई दे रही जानकारी, correction का विवरण तथा उपलब्ध official notification/link शामिल करें। Supporting official source मिलने पर संबंधित content को review किया जा सकता है। Privacy Requests Privacy या personal-data से संबंधित request के लिए ऊपर दिए गए email पर संपर्क करें। Request को समझने और आवश्यक होने पर verify करने के लिए अतिरिक्त विवरण माँगा जा सकता है। कृपया email में password या payment-card details जैसी sensitive information न भेजें। Editorial Information हमारी content review और correction approach ",
+    "excerpt": "Contact Us Last updated: 27 October 2026 Exam Darpan से editorial corrections, outdated recruitment details, broken official links, privacy requests, copyright concerns और general enquiries के लिए संपर्क करें। Website Contact Details Website: examdarpan.in Email: Supportexamdarpan@gmail.com कृपया message में enquiry का विषय स्पष्ट लिखें ताकि request को सही तरीके से समझा जा सके। What You Can Contact Us About Incorrect या outdated article information Broken official links Recruitment या examination information corrections Privacy-related questions Copyright या content concerns General feedback और website-related enquiries Correction Requests Email subject में Correction Request लिखें और article का exact URL, गलत दिखाई दे रही जानकारी, correction का विवरण तथा उपलब्ध official notification/link शामिल करें। Supporting official source मिलने पर संबंधित content को review किया जा सकता है। Privacy Requests Privacy या personal-data से संबंधित request के लिए ऊपर दिए गए email पर संपर्क करें। Request को समझने और आवश्यक होने पर verify करने के लिए अतिरिक्त विवरण माँगा जा सकता है। कृपया email में password या payment-card details जैसी sensitive information न भेजें। Editorial Information हमारी content ",
     "external_link_count": 0,
     "final_url": "https://examdarpan.in/contact",
     "h1s": [
@@ -2744,7 +2744,10 @@
      "What You Can Contact Us About",
      "Correction Requests",
      "Privacy Requests",
-     "Editorial Information"
+     "Editorial Information",
+     "How to Send a Useful Correction",
+     "Privacy and Data Requests",
+     "Response Time"
     ],
     "images_missing_alt": 0,
     "intents_present": [
@@ -2752,19 +2755,55 @@
     ],
     "internal_links": [
      "https://examdarpan.in/",
-     "https://examdarpan.in/editorial-policy.html",
-     "https://examdarpan.in/about.html"
+     "https://examdarpan.in/editorial-policy",
+     "https://examdarpan.in/about"
     ],
     "lang": "hi",
     "modified": null,
     "noindex": false,
     "phrases": [
      [
+      "article का exact",
+      2
+     ],
+     [
       "broken official links",
       2
      ],
      [
+      "payment card details",
+      2
+     ],
+     [
+      "exact url",
+      2
+     ],
+     [
+      "link शामिल",
+      2
+     ],
+     [
+      "official notification",
+      2
+     ],
+     [
       "privacy requests",
+      2
+     ],
+     [
+      "requests privacy",
+      2
+     ],
+     [
+      "verify करने",
+      2
+     ],
+     [
+      "कृपया email",
+      2
+     ],
+     [
+      "संबंधित official",
       2
      ]
     ],
@@ -2774,11 +2813,35 @@
     "title": "Contact Us | Exam Darpan",
     "top_terms": [
      [
+      "request",
+      7
+     ],
+     [
+      "official",
+      6
+     ],
+     [
+      "privacy",
+      6
+     ],
+     [
+      "जानकारी",
+      6
+     ],
+     [
       "correction",
-      4
+      5
      ],
      [
       "email",
+      5
+     ],
+     [
+      "requests",
+      5
+     ],
+     [
+      "details",
       4
      ],
      [
@@ -2786,15 +2849,7 @@
       4
      ],
      [
-      "official",
-      4
-     ],
-     [
-      "privacy",
-      4
-     ],
-     [
-      "request",
+      "review",
       4
      ],
      [
@@ -2802,40 +2857,26 @@
       4
      ],
      [
-      "contact",
-      3
+      "करने",
+      4
      ],
      [
-      "content",
-      3
-     ],
-     [
-      "details",
-      3
-     ],
-     [
-      "editorial",
-      3
-     ],
-     [
-      "requests",
-      3
+      "संबंधित",
+      4
      ],
      [
       "article",
-      2
+      3
      ],
      [
-      "broken",
-      2
-     ],
-     [
-      "concerns",
-      2
+      "contact",
+      3
      ]
     ],
-    "word_count": 196,
-    "years": []
+    "word_count": 349,
+    "years": [
+     2026
+    ]
    }
   },
   "https://examdarpan.in/crpf-sports-quota-recruitment-2026": {
@@ -2844,22 +2885,27 @@
    "in_sitemap": true,
    "last_error": null,
    "last_failure_at": null,
-   "last_fetched": "2026-10-21T09:38:08Z",
+   "last_fetched": "2026-10-28T14:18:44Z",
    "lastmod": "2026-09-25T16:56:19.939000Z",
    "needs_refresh": false,
    "page": {
     "canonical": "https://examdarpan.in/crpf-sports-quota-recruitment-2026",
-    "content_hash": "e13fd3f5785894c2",
+    "content_hash": "af20e26bba7faf9a",
     "deadline_dates": [
+     "2026-09-10",
+     "2026-09-14",
      "2026-09-22",
-     "2026-10-15",
-     "2026-10-16",
+     "2026-10-14",
+     "2026-10-21",
+     "2026-10-22",
+     "2026-10-28",
      "2026-11-11",
-     "2026-11-14"
+     "2026-11-14",
+     "2026-11-25"
     ],
     "description": "CRPF Sports Quota Recruitment 2026 में 521 पदों पर भर्ती निकली है। 10वीं और 12वीं पास खिलाड़ियों के लिए बिना लिखित परीक्षा चयन होगा। आवेदन 12 अक्टूबर से 11 नवंबर 2026 तक।",
     "exam_related": true,
-    "excerpt": "Government Jobs UPDATE CRPF Sports Quota Recruitment 2026: 521 पदों पर भर्ती, बिना लिखित परीक्षा चयन By Lakshay Kumar प्रकाशित: 25 सितंबर 2026 • अपडेट: 25 सितंबर 2026 CRPF Sports Quota Recruitment 2026: 521 पदों पर भर्ती, बिना लिखित परीक्षा चयन, 10वीं और 12वीं पास खिलाड़ी करें आवेदन CRPF Sports Quota Recruitment 2026: खेलों में उपलब्धि रखने वाले युवाओं के लिए बड़ी सरकारी भर्ती सामने आई है। केंद्रीय रिजर्व पुलिस बल (CRPF) ने Sports Quota Recruitment 2026 के तहत Head Constable/GD और Constable/GD के कुल 521 पदों पर भर्ती के लिए नोटिफिकेशन जारी किया है। इस भर्ती की खास बात यह है कि इसमें सामान्य लिखित परीक्षा का चरण निर्धारित नहीं किया गया है। उम्मीदवारों का चयन Documentation, Physical Standard Test (PST), Sports Trial और Medical Examination के आधार पर किया जाएगा। अंतिम मेरिट में खेल उपलब्धियों के लिए निर्धारित अंकों को आधार बनाया जाएगा। बड़ी खबर: CRPF Sports Quota Recruitment 2026 में कुल 521 पद हैं। ऑनलाइन आवेदन 12 अक्टूबर 2026 से शुरू होंगे और 11 नवंबर 2026 तक भरे जा सकेंगे। इस भर्ती में सामान्य Written Exam का चरण नहीं है। CRPF Sports Quota Recruitment 2026 Overview विवरण जानकारी भर्ती संगठन Central Reserve Police Force (CRPF) भर्ती का नाम CRPF Sports Quota Recruitment 2026 विज्ञाप",
+    "excerpt": "Government Jobs UPDATE CRPF Sports Quota Recruitment 2026: 521 पदों पर भर्ती, बिना लिखित परीक्षा चयन By Deepak Joshi प्रकाशित: 25 सितंबर 2026 • अपडेट: 25 सितंबर 2026 CRPF Sports Quota Recruitment 2026: 521 पदों पर भर्ती, बिना लिखित परीक्षा चयन, 10वीं और 12वीं पास खिलाड़ी करें आवेदन CRPF Sports Quota Recruitment 2026: खेलों में उपलब्धि रखने वाले युवाओं के लिए बड़ी सरकारी भर्ती सामने आई है। केंद्रीय रिजर्व पुलिस बल (CRPF) ने Sports Quota Recruitment 2026 के तहत Head Constable/GD और Constable/GD के कुल 521 पदों पर भर्ती के लिए नोटिफिकेशन जारी किया है। इस भर्ती की खास बात यह है कि इसमें सामान्य लिखित परीक्षा का चरण निर्धारित नहीं किया गया है। उम्मीदवारों का चयन Documentation, Physical Standard Test (PST), Sports Trial और Medical Examination के आधार पर किया जाएगा। अंतिम मेरिट में खेल उपलब्धियों के लिए निर्धारित अंकों को आधार बनाया जाएगा। बड़ी खबर: CRPF Sports Quota Recruitment 2026 में कुल 521 पद हैं। ऑनलाइन आवेदन 12 अक्टूबर 2026 से शुरू होंगे और 11 नवंबर 2026 तक भरे जा सकेंगे। इस भर्ती में सामान्य Written Exam का चरण नहीं है। CRPF Sports Quota Recruitment 2026 Overview विवरण जानकारी भर्ती संगठन Central Reserve Police Force (CRPF) भर्ती का नाम CRPF Sports Quota Recruitment 2026 विज्ञापन",
     "external_link_count": 7,
     "final_url": "https://examdarpan.in/crpf-sports-quota-recruitment-2026",
     "h1s": [
@@ -2897,15 +2943,15 @@
      "salary"
     ],
     "internal_links": [
-     "https://examdarpan.in/author/lakshay",
+     "https://examdarpan.in/author/deepak-joshi",
      "https://examdarpan.in/up-assistant-teacher-recruitment-2026",
      "https://examdarpan.in/upsc-recruitment-2026-212-posts",
      "https://examdarpan.in/rrb-paramedical-recruitment-2026",
-     "https://examdarpan.in/rrb-ntpc-recruitment-2026-5165-vacancy",
      "https://examdarpan.in/sbi-so-wealth-management-recruitment-2026",
      "https://examdarpan.in/bank-of-india-so-recruitment-2026-205-posts",
      "https://examdarpan.in/india-post-gds-recruitment-2026-bpm-25-000",
-     "https://examdarpan.in/rrb-ntpc-ug-recruitment-2026"
+     "https://examdarpan.in/assam-rifles-group-c-recruitment-2026",
+     "https://examdarpan.in/rrb-station-master-recruitment-2026"
     ],
     "lang": "hi",
     "modified": "2026-09-25",
@@ -2913,7 +2959,7 @@
     "phrases": [
      [
       "recruitment 2026",
-      27
+      24
      ],
      [
       "sports quota",
@@ -2932,28 +2978,28 @@
       13
      ],
      [
-      "पदों पर भर्ती",
-      12
-     ],
-     [
       "constable gd",
       12
      ],
      [
       "सितंबर 2026",
-      12
+      10
      ],
      [
       "jobs update",
       9
      ],
      [
-      "government jobs update",
-      8
+      "अक्टूबर 2026",
+      9
      ],
      [
       "sports achievement",
       8
+     ],
+     [
+      "government jobs update",
+      7
      ],
      [
       "head constable",
@@ -2961,29 +3007,29 @@
      ]
     ],
     "published": "2026-09-25",
-    "script_count": 9,
+    "script_count": 10,
     "status": 200,
     "title": "CRPF Sports Quota Recruitment 2026: 521 Vacancy, Sports Certifica",
     "top_terms": [
      [
       "2026",
-      60
+      63
      ],
      [
       "sports",
       40
      ],
      [
-      "भर्ती",
-      32
+      "crpf",
+      27
      ],
      [
       "recruitment",
-      30
+      27
      ],
      [
-      "crpf",
-      27
+      "भर्ती",
+      26
      ],
      [
       "आवेदन",
@@ -2994,19 +3040,15 @@
       21
      ],
      [
-      "पदों",
-      18
-     ],
-     [
       "निर्धारित",
       17
      ],
      [
-      "सितंबर",
-      16
+      "constable",
+      14
      ],
      [
-      "constable",
+      "पद",
       14
      ],
      [
@@ -3014,19 +3056,23 @@
       13
      ],
      [
-      "पद",
-      13
-     ],
-     [
-      "jobs",
-      10
-     ],
-     [
       "update",
-      10
+      12
+     ],
+     [
+      "पदों",
+      12
+     ],
+     [
+      "सितंबर",
+      12
+     ],
+     [
+      "अक्टूबर",
+      11
      ]
     ],
-    "word_count": 1632,
+    "word_count": 1590,
     "years": [
      2024,
      2026
@@ -3039,16 +3085,16 @@
    "in_sitemap": true,
    "last_error": null,
    "last_failure_at": null,
-   "last_fetched": "2026-10-21T09:38:08Z",
+   "last_fetched": "2026-10-28T14:18:44Z",
    "lastmod": null,
    "needs_refresh": false,
    "page": {
     "canonical": "https://examdarpan.in/disclaimer",
-    "content_hash": "8c63e12e6f7759b7",
+    "content_hash": "1d8d99326552e1bc",
     "deadline_dates": [],
-    "description": "Exam Darpan disclaimer.",
+    "description": "Exam Darpan disclaimer: recruitment updates, official verification, independent status, third-party links and quiz information.",
     "exam_related": true,
-    "excerpt": "Disclaimer Last updated: 18 October 2026 Exam Darpan एक independent education और government-job information portal है। यह किसी government department, commission, board, recruitment authority या examination authority की official website नहीं है। 1. Informational Purpose Website पर उपलब्ध information general informational और educational purposes के लिए प्रकाशित की जाती है। हम available official/public sources से details verify करने का प्रयास करते हैं, लेकिन information बाद में बदल सकती है या उसमें गलती रह सकती है। 2. Official Verification Application, eligibility, vacancy, age limit, fee, examination date, admit card, result और answer key के लिए संबंधित authority की latest official notification को प्राथमिकता दें। यदि article और official notice में अंतर हो, तो नवीनतम official notice देखें। 3. Accuracy and Updates हम reported factual errors और outdated information को available reliable sources के आधार पर review और correct करने का प्रयास करते हैं। किसी page के current या error-free होने की guarantee नहीं दी जाती। 4. External Links Exam Darpan में official government websites और third-party websites के links हो सकते हैं। External websites के content, availability, privacy practices या se",
+    "excerpt": "Disclaimer Last updated: 27 October 2026 Exam Darpan एक independent education और government-job information portal है। यह किसी government department, commission, board, recruitment authority या examination authority की official website नहीं है। 1. Informational Purpose Website पर उपलब्ध information general informational और educational purposes के लिए प्रकाशित की जाती है। हम available official/public sources से details verify करने का प्रयास करते हैं, लेकिन information बाद में बदल सकती है या उसमें गलती रह सकती है। 2. Official Verification Application, eligibility, vacancy, age limit, fee, examination date, admit card, result और answer key के लिए संबंधित authority की latest official notification को प्राथमिकता दें। यदि article और official notice में अंतर हो, तो नवीनतम official notice देखें। 3. Accuracy and Updates हम reported factual errors और outdated information को available reliable sources के आधार पर review और correct करने का प्रयास करते हैं। किसी page के current या error-free होने की guarantee नहीं दी जाती। 4. External Links Exam Darpan में official government websites और third-party websites के links हो सकते हैं। External websites के content, availability, privacy practices या se",
     "external_link_count": 0,
     "final_url": "https://examdarpan.in/disclaimer",
     "h1s": [
@@ -3061,7 +3107,10 @@
      "4. External Links",
      "5. Advertising",
      "6. No Government Affiliation",
-     "7. Corrections and Contact"
+     "7. Corrections and Contact",
+     "8. No Recruitment Agent or Payment Collection",
+     "9. Quiz and Educational Material",
+     "10. Contact for Corrections"
     ],
     "images_missing_alt": 0,
     "intents_present": [
@@ -3069,10 +3118,12 @@
      "age limit",
      "eligibility",
      "notification",
-     "result"
+     "result",
+     "syllabus"
     ],
     "internal_links": [
-     "https://examdarpan.in/editorial-policy.html"
+     "https://examdarpan.in/editorial-policy",
+     "https://examdarpan.in/contact"
     ],
     "lang": "hi",
     "modified": null,
@@ -3080,6 +3131,10 @@
     "phrases": [
      [
       "exam darpan",
+      5
+     ],
+     [
+      "official source",
       3
      ],
      [
@@ -3087,7 +3142,23 @@
       3
      ],
      [
+      "authority की official",
+      2
+     ],
+     [
+      "supporting official source",
+      2
+     ],
+     [
       "करने का प्रयास",
+      2
+     ],
+     [
+      "article url",
+      2
+     ],
+     [
+      "information portal",
       2
      ],
      [
@@ -3095,11 +3166,15 @@
       2
      ],
      [
+      "official website",
+      2
+     ],
+     [
       "outdated information",
       2
      ],
      [
-      "प्रयास करते",
+      "recruitment agent",
       2
      ]
     ],
@@ -3110,66 +3185,66 @@
     "top_terms": [
      [
       "official",
-      8
+      15
+     ],
+     [
+      "exam",
+      6
      ],
      [
       "government",
-      5
+      6
      ],
      [
       "information",
+      6
+     ],
+     [
+      "किसी",
+      6
+     ],
+     [
+      "darpan",
       5
+     ],
+     [
+      "recruitment",
+      5
+     ],
+     [
+      "authority",
+      4
+     ],
+     [
+      "portal",
+      4
+     ],
+     [
+      "website",
+      4
      ],
      [
       "websites",
       4
      ],
      [
-      "authority",
+      "application",
       3
      ],
      [
-      "darpan",
+      "article",
       3
      ],
      [
-      "exam",
+      "contact",
       3
      ],
      [
       "informational",
       3
-     ],
-     [
-      "party",
-      3
-     ],
-     [
-      "third",
-      3
-     ],
-     [
-      "website",
-      3
-     ],
-     [
-      "करने",
-      3
-     ],
-     [
-      "किसी",
-      3
-     ],
-     [
-      "advertisements",
-      2
-     ],
-     [
-      "advertising",
-      2
      ]
     ],
-    "word_count": 284,
+    "word_count": 430,
     "years": [
      2026
     ]
@@ -11574,6 +11649,6 @@
  },
  "meta": {
   "schema": 1,
-  "sitemap_slot": 83017
+  "sitemap_slot": 83018
  }
 }

@@ -2,15 +2,13 @@
 
 URL: https://examdarpan.in/contact
 
-**SEO health score: 80/100** (this is this agent's own checklist score, not a Google score)
-Words: 196 | Last read: 2026-10-21T04:40:16Z | Published: unknown | Updated: unknown
+**SEO health score: 87/100** (this is this agent's own checklist score, not a Google score)
+Words: 349 | Last read: 2026-10-28T14:18:44Z | Published: unknown | Updated: unknown
 
 ## Things to fix
 
 - **MEDIUM**: Title is very similar to https://examdarpan.in/about. They may compete for the same searches (a guess based on titles only).  
   Fix: Decide which page should rank for this topic. Merge, differentiate, or link them clearly.
-- **MEDIUM**: Only 196 words of article text.  
-  Fix: Add genuinely useful detail: eligibility, important dates, steps to apply, official links, FAQs.
 - **LOW**: No publish or update date found.  
   Fix: Show and mark up a published/updated date so readers and Google can judge freshness.
 - **LOW**: Title is short (24 characters).  
@@ -30,7 +28,12 @@ _These are ideas taken from the article text. They are NOT search-volume numbers
 - Correction Requests (sub-heading (H2))
 - Privacy Requests (sub-heading (H2))
 - Editorial Information (sub-heading (H2))
+- How to Send a Useful Correction (sub-heading (H2))
+- article का exact (repeated in text, appears 2 times)
 - broken official links (repeated in text, appears 2 times)
+- payment card details (repeated in text, appears 2 times)
+- exact url (repeated in text, appears 2 times)
+- link शामिल (repeated in text, appears 2 times)
 
 ### Topics the article does not mention yet
 _Add a section only if it is relevant AND you can confirm the facts from the official notice._
@@ -55,9 +58,3 @@ Possible search phrases for those sections (estimates):
 - Contact Us salary
 - Contact Us age limit
 - Contact Us cut off
-
-## Internal links you could add
-
-- Link to [About Us | Exam Darpan](https://examdarpan.in/about) (shares: editorial, information, official, website)
-- Link to [Editorial Policy | Exam Darpan](https://examdarpan.in/editorial-policy) (shares: details, editorial, official, website)
-- Link to [Privacy Policy | Exam Darpan](https://examdarpan.in/privacy) (shares: contact, information, privacy, website)

@@ -3,11 +3,11 @@
 URL: https://examdarpan.in/crpf-sports-quota-recruitment-2026
 
 **SEO health score: 84/100** (this is this agent's own checklist score, not a Google score)
-Words: 1632 | Last read: 2026-10-21T09:38:08Z | Published: 2026-09-25 | Updated: 2026-09-25
+Words: 1590 | Last read: 2026-10-28T14:18:44Z | Published: 2026-09-25 | Updated: 2026-09-25
 
 ## Things to fix
 
-- **MEDIUM**: Mentions deadline date(s) already passed: 2026-09-22, 2026-10-15, 2026-10-16.  
+- **MEDIUM**: Mentions deadline date(s) already passed: 2026-09-10, 2026-09-14, 2026-09-22.  
   Fix: Make clear whether applications are closed, or update after checking the official notice.
 - **LOW**: Meta description is long (170 characters).  
   Fix: Shorten to about 160 characters.
@@ -31,7 +31,7 @@ _These are ideas taken from the article text. They are NOT search-volume numbers
 - CRPF Sports Quota Recruitment 2026 में कौन आवेदन कर सकता है? (sub-heading (H2))
 - शैक्षणिक योग्यता (sub-heading (H2))
 - CRPF Sports Quota 2026 Age Limit (sub-heading (H2))
-- recruitment 2026 (repeated in text, appears 27 times)
+- recruitment 2026 (repeated in text, appears 24 times)
 - sports quota (repeated in text, appears 21 times)
 - crpf sports quota (repeated in text, appears 19 times)
 - quota recruitment 2026 (repeated in text, appears 13 times)
@@ -50,5 +50,5 @@ Possible search phrases for those sections (estimates):
 ## Internal links you could add
 
 - Link to [All India Government Jobs 2026 – Latest Central Govt Jobs | Exam Darpan](https://examdarpan.in/all-india-government-jobs) (shares: 2026, crpf, quota, recruitment, sports)
-- Link to [Assam Rifles Group C Recruitment 2026: 354 Posts, Apply](https://examdarpan.in/assam-rifles-group-c-recruitment-2026) (shares: 2026, recruitment, आवेदन, पदों, भर्ती)
-- Link to [Canara Bank Apprentice Recruitment 2026: 3500 पदों पर भर्ती](https://examdarpan.in/canara-bank-apprentice-recruitment-2026) (shares: 2026, recruitment, आवेदन, भर्ती)
+- Link to [RRB NTPC Graduate Recruitment 2026: 3548 पदों पर भर्ती,](https://examdarpan.in/rrb-ntpc-graduate-recruitment-2026) (shares: 2026, recruitment, आवेदन, पद, भर्ती)
+- Link to [RRB NTPC Recruitment 2026: 5236 Posts, Apply Online](https://examdarpan.in/rrb-ntpc-recruitment-2026-5165-vacancy) (shares: 2026, recruitment, आवेदन, पद, भर्ती)
