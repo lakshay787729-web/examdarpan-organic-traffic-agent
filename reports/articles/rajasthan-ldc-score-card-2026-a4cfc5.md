@@ -3,7 +3,7 @@
 URL: https://examdarpan.in/rajasthan-ldc-score-card-2026
 
 **SEO health score: 97/100** (this is this agent's own checklist score, not a Google score)
-Words: 1729 | Last read: 2026-10-22T00:35:00Z | Published: 2026-10-07 | Updated: 2026-10-07
+Words: 1722 | Last read: 2026-10-29T08:56:15Z | Published: 2026-10-07 | Updated: 2026-10-07
 
 ## Things to fix
 
