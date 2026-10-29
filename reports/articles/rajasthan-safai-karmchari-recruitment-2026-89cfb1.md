@@ -3,7 +3,7 @@
 URL: https://examdarpan.in/rajasthan-safai-karmchari-recruitment-2026
 
 **SEO health score: 90/100** (this is this agent's own checklist score, not a Google score)
-Words: 2236 | Last read: 2026-10-22T10:17:45Z | Published: 2026-09-13 | Updated: 2026-10-07
+Words: 2237 | Last read: 2026-10-29T15:47:00Z | Published: 2026-09-13 | Updated: 2026-10-07
 
 ## Things to fix
 
@@ -46,5 +46,5 @@ Possible search phrases for those sections (estimates):
 ## Internal links you could add
 
 - Link to [Scholarships | Exam Darpan](https://examdarpan.in/category-scholarships) (shares: 2026, rajasthan, अक्टूबर, आवेदन, ऑनलाइन)
+- Link to [मुख्यमंत्री अनुप्रति कोचिंग योजना 2026-27: Last Date , 25अक्टूबर](https://examdarpan.in/mukhyamantri-anuprati-coaching-yojana-2026-27) (shares: 2026, अक्टूबर, आवेदन, तिथि, विभाग)
 - Link to [Rajasthan CET 2026: Senior Secondary Syllabus, Exam](https://examdarpan.in/rajasthan-cet-2026-senior-secondary-syllabus-exam-date) (shares: 2026, rajasthan, अक्टूबर, आवेदन, राजस्थान)
-- Link to [Rajasthan Scooty Yojana 2026](https://examdarpan.in/rajasthan-scooty-yojana-2026-27) (shares: 2026, rajasthan, अक्टूबर, आवेदन, ऑनलाइन)

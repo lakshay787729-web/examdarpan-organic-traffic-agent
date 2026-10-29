@@ -3,11 +3,11 @@
 URL: https://examdarpan.in/rajasthan-scooty-yojana-2026-27
 
 **SEO health score: 87/100** (this is this agent's own checklist score, not a Google score)
-Words: 1243 | Last read: 2026-10-22T15:21:17Z | Published: 2026-09-30 | Updated: 2026-10-12
+Words: 1236 | Last read: 2026-10-29T15:47:00Z | Published: 2026-09-30 | Updated: 2026-10-12
 
 ## Things to fix
 
-- **MEDIUM**: Mentions deadline date(s) already passed: 2026-10-01.  
+- **MEDIUM**: Mentions deadline date(s) already passed: 2026-10-01, 2026-10-25.  
   Fix: Make clear whether applications are closed, or update after checking the official notice.
 - **LOW**: 4 image(s) without alt text.  
   Fix: Add short descriptive alt text.
@@ -31,8 +31,8 @@ _These are ideas taken from the article text. They are NOT search-volume numbers
 - Rajasthan Scooty Yojana 2026-27 आवेदन की महत्वपूर्ण तारीखें (sub-heading (H2))
 - Rajasthan Scooty Yojana 2026-27 के लिए ऑनलाइन आवेदन कैसे करें? (sub-heading (H2))
 - 2026 27 (repeated in text, appears 18 times)
+- ऑनलाइन आवेदन (repeated in text, appears 14 times)
 - yojana 2026 27 (repeated in text, appears 13 times)
-- ऑनलाइन आवेदन (repeated in text, appears 13 times)
 - rajasthan scooty yojana (repeated in text, appears 12 times)
 
 ## Internal links you could add

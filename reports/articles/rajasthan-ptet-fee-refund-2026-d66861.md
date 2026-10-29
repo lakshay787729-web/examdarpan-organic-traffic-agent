@@ -46,5 +46,5 @@ Possible search phrases for those sections (estimates):
 ## Internal links you could add
 
 - Link to [University & College | Exam Darpan](https://examdarpan.in/category-university-college) (shares: 2026, fee, ptet, rajasthan, refund)
+- Link to [Rajasthan Scholarship Yojana 2026-27: ऑनलाइन आवेदन शुरू](https://examdarpan.in/rajasthan-scholarship-yojana-2026-27) (shares: 2026, rajasthan, अंतिम, अक्टूबर, आवेदन)
 - Link to [Rajasthan Scooty Yojana 2026](https://examdarpan.in/rajasthan-scooty-yojana-2026-27) (shares: 2026, rajasthan, अंतिम, अक्टूबर, आवेदन)
-- Link to [Scholarships | Exam Darpan](https://examdarpan.in/category-scholarships) (shares: 2026, rajasthan, अक्टूबर, आवेदन)
