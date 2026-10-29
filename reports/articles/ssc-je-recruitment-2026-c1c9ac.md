@@ -44,5 +44,5 @@ Possible search phrases for those sections (estimates):
 ## Internal links you could add
 
 - Link to [RRB JE Exam Date 2026: CBT-1 Admit Card, City Slip](https://examdarpan.in/rrb-je-recruitment-2026-cbt-1-exam-date) (shares: 2026, exam, je, अक्टूबर, परीक्षा)
-- Link to [Rajasthan CET 2026: Senior Secondary Syllabus, Exam](https://examdarpan.in/rajasthan-cet-2026-senior-secondary-syllabus-exam-date) (shares: 2026, official, अक्टूबर, आवेदन, परीक्षा)
 - Link to [RSCIT Result 2026 Declared – Check Your Result Online](https://examdarpan.in/rscit-result-2026-declared-check-your-result-online) (shares: 2026, official, अक्टूबर, आवेदन, परीक्षा)
+- Link to [SSC CGL Admit Card 2026 Out: Tier 1 Hall Ticket जारी, Download](https://examdarpan.in/ssc-cgl-admit-card-2026) (shares: 2026, exam, official, ssc, परीक्षा)

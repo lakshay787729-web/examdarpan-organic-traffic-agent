@@ -3,11 +3,11 @@
 URL: https://examdarpan.in/rajasthan-cet-2026-new-exam-date
 
 **SEO health score: 87/100** (this is this agent's own checklist score, not a Google score)
-Words: 1356 | Last read: 2026-10-21T22:02:00Z | Published: 2026-09-25 | Updated: 2026-10-06
+Words: 1351 | Last read: 2026-10-29T02:43:07Z | Published: 2026-09-25 | Updated: 2026-10-06
 
 ## Things to fix
 
-- **MEDIUM**: Mentions deadline date(s) already passed: 2026-10-16.  
+- **MEDIUM**: Mentions deadline date(s) already passed: 2026-10-09, 2026-10-16, 2026-10-25.  
   Fix: Make clear whether applications are closed, or update after checking the official notice.
 - **LOW**: 4 image(s) without alt text.  
   Fix: Add short descriptive alt text.
@@ -49,6 +49,6 @@ Possible search phrases for those sections (estimates):
 
 ## Internal links you could add
 
-- Link to [Latest Updates | Exam Darpan](https://examdarpan.in/category-latest-updates) (shares: 2026, cet, exam, जारी, परीक्षा)
-- Link to [Exam Syllabus | Exam Darpan](https://examdarpan.in/category-syllabus) (shares: 2026, cet, exam, level, rajasthan)
-- Link to [Rajasthan CET 2026: Graduation Syllabus, Exam Date](https://examdarpan.in/rajasthan-cet-2026-graduation-syllabus-exam-date) (shares: 2026, cet, level, rajasthan, परीक्षा)
+- Link to [Exam Syllabus | Exam Darpan](https://examdarpan.in/category-syllabus) (shares: 2026, cet, date, exam, level)
+- Link to [Rajasthan CET 2026: Graduation Syllabus, Exam Date](https://examdarpan.in/rajasthan-cet-2026-graduation-syllabus-exam-date) (shares: 2026, cet, level, rajasthan, आवेदन)
+- Link to [SSC CPO Exam Date 2026, Admit Card & Latest Update](https://examdarpan.in/ssc-cpo-recruitment-2026) (shares: 2026, date, exam, आवेदन, जारी)

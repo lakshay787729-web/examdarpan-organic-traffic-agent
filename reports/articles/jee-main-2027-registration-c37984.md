@@ -46,5 +46,5 @@ Possible search phrases for those sections (estimates):
 ## Internal links you could add
 
 - Link to [Entrance Exams | Exam Darpan](https://examdarpan.in/category-entrance-exams) (shares: 2026, 2027, exam, jee, main)
+- Link to [Rajasthan CET Exam Date 2026: नई परीक्षा तिथि जारी, 12वीं और Grad](https://examdarpan.in/rajasthan-cet-2026-new-exam-date) (shares: 2026, 2027, exam, आवेदन, परीक्षा)
 - Link to [SSC CHSL 2026 Exam Date, Admit Card Update, 2536 Vacancy](https://examdarpan.in/ssc-chsl-recruitment-2026) (shares: 2026, exam, आधिकारिक, आवेदन, परीक्षा)
-- Link to [Bank of India SO Recruitment 2026: 205 Posts](https://examdarpan.in/bank-of-india-so-recruitment-2026-205-posts) (shares: 2026, आधिकारिक, आवेदन, परीक्षा)

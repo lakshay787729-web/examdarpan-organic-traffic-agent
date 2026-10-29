@@ -37,4 +37,4 @@ _These are ideas taken from the article text. They are NOT search-volume numbers
 
 - Link to [SSC CGL Admit Card 2026 Out: Tier 1 Hall Ticket जारी, Download](https://examdarpan.in/ssc-cgl-admit-card-2026) (shares: 2026, card, date, exam, ssc)
 - Link to [SSC Jobs | Exam Darpan](https://examdarpan.in/category-ssc-jobs) (shares: 2026, card, cpo, date, exam)
-- Link to [RRB Paramedical Recruitment 2026: 590 Posts](https://examdarpan.in/rrb-paramedical-recruitment-2026) (shares: 2026, अंतिम, आधिकारिक, आवेदन, पद)
+- Link to [Rajasthan CET Exam Date 2026: नई परीक्षा तिथि जारी, 12वीं और Grad](https://examdarpan.in/rajasthan-cet-2026-new-exam-date) (shares: 2026, date, exam, आवेदन, जारी)

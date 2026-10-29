@@ -3,11 +3,11 @@
 URL: https://examdarpan.in/rajasthan-cet-2026-graduation-syllabus-exam-date
 
 **SEO health score: 90/100** (this is this agent's own checklist score, not a Google score)
-Words: 2365 | Last read: 2026-10-21T22:02:00Z | Published: 2026-09-27 | Updated: 2026-10-06
+Words: 2366 | Last read: 2026-10-29T02:43:07Z | Published: 2026-09-27 | Updated: 2026-10-06
 
 ## Things to fix
 
-- **MEDIUM**: Mentions deadline date(s) already passed: 2026-08-02, 2026-10-09.  
+- **MEDIUM**: Mentions deadline date(s) already passed: 2026-08-02, 2026-10-09, 2026-10-25.  
   Fix: Make clear whether applications are closed, or update after checking the official notice.
 - **LOW**: 4 image(s) without alt text.  
   Fix: Add short descriptive alt text.
@@ -37,12 +37,14 @@ _These are ideas taken from the article text. They are NOT search-volume numbers
 _Add a section only if it is relevant AND you can confirm the facts from the official notice._
 
 - salary
+- age limit
 
 Possible search phrases for those sections (estimates):
 - Rajasthan CET 2026: Graduation का नया salary
+- Rajasthan CET 2026: Graduation का नया age limit
 
 ## Internal links you could add
 
+- Link to [Rajasthan CET Exam Date 2026: नई परीक्षा तिथि जारी, 12वीं और Grad](https://examdarpan.in/rajasthan-cet-2026-new-exam-date) (shares: 2026, cet, level, rajasthan, आवेदन)
 - Link to [Exam Syllabus | Exam Darpan](https://examdarpan.in/category-syllabus) (shares: 2026, cet, level, rajasthan, syllabus)
-- Link to [Rajasthan CET Exam Date 2026: नई परीक्षा तिथि जारी, 12वीं और Grad](https://examdarpan.in/rajasthan-cet-2026-new-exam-date) (shares: 2026, cet, level, rajasthan, परीक्षा)
 - Link to [Rajasthan SET Admit Card 2026 जारी,](https://examdarpan.in/rajasthan-set-admit-card-2026) (shares: 2026, rajasthan, आवेदन, परीक्षा, राजस्थान)

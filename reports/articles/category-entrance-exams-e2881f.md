@@ -58,5 +58,5 @@ Possible search phrases for those sections (estimates):
 ## Internal links you could add
 
 - Link to [Teaching Jobs | Exam Darpan](https://examdarpan.in/category-teaching-jobs) (shares: 2026, article, date, exam, आवेदन)
+- Link to [Rajasthan CET Exam Date 2026: नई परीक्षा तिथि जारी, 12वीं और Grad](https://examdarpan.in/rajasthan-cet-2026-new-exam-date) (shares: 2026, 2027, date, exam, आवेदन)
 - Link to [Scholarships | Exam Darpan](https://examdarpan.in/category-scholarships) (shares: 2026, article, आवेदन, शुरू)
-- Link to [SSC Jobs | Exam Darpan](https://examdarpan.in/category-ssc-jobs) (shares: 2026, article, date, exam)
