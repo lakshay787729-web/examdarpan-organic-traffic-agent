@@ -45,6 +45,6 @@ Possible search phrases for those sections (estimates):
 
 ## Internal links you could add
 
-- Link to [RRB NTPC Graduate Recruitment 2026: 3548 पदों पर भर्ती,](https://examdarpan.in/rrb-ntpc-graduate-recruitment-2026) (shares: 2026, recruitment, rrb, अक्टूबर, आवेदन)
+- Link to [RRB NTPC Graduate Recruitment 2026: 3548 पदों पर भर्ती](https://examdarpan.in/rrb-ntpc-graduate-recruitment-2026) (shares: 2026, recruitment, rrb, अक्टूबर, आवेदन)
 - Link to [RRB NTPC Recruitment 2026: 5236 Posts, Apply Online](https://examdarpan.in/rrb-ntpc-recruitment-2026-5165-vacancy) (shares: 2026, recruitment, rrb, अंतिम, आवेदन)
 - Link to [RRB NTPC UG 2026: 12वीं पास के लिए 1688 पद, आवेदन शुरू](https://examdarpan.in/rrb-ntpc-ug-recruitment-2026) (shares: 2026, recruitment, rrb, अंतिम, आधिकारिक)

@@ -43,6 +43,6 @@ Possible search phrases for those sections (estimates):
 
 ## Internal links you could add
 
-- Link to [RPSC SI Admit Card 2026 जारी](https://examdarpan.in/rpsc-si-admit-card-2026-download) (shares: 2026, exam, rajasthan, rpsc, si)
 - Link to [Answer Key | Exam Darpan](https://examdarpan.in/category-answer-key) (shares: 2026, answer, exam, key, si)
+- Link to [RPSC SI Admit Card 2026 जारी](https://examdarpan.in/rpsc-si-admit-card-2026-download) (shares: 2026, exam, rpsc, si, जारी)
 - Link to [SSC CPO Exam Date 2026, Admit Card & Latest Update](https://examdarpan.in/ssc-cpo-recruitment-2026) (shares: 2026, exam, अंतिम, आधिकारिक, जारी)

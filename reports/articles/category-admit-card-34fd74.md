@@ -65,4 +65,4 @@ Possible search phrases for those sections (estimates):
 
 - Link to [SSC CHSL 2026 Exam Date, Admit Card Update, 2536 Vacancy](https://examdarpan.in/ssc-chsl-recruitment-2026) (shares: 2026, admit, card, ssc, tier)
 - Link to [SSC Jobs | Exam Darpan](https://examdarpan.in/category-ssc-jobs) (shares: 2026, admit, article, card, ssc)
-- Link to [Rajasthan SET Admit Card 2026 जारी,](https://examdarpan.in/rajasthan-set-admit-card-2026) (shares: 2026, admit, card, जारी, सितंबर)
+- Link to [Rajasthan SET Admit Card 2026 जारी](https://examdarpan.in/rajasthan-set-admit-card-2026) (shares: 2026, admit, card, जारी, सितंबर)

@@ -58,5 +58,4 @@ Possible search phrases for those sections (estimates):
 ## Internal links you could add
 
 - Link to [Admit Card | Exam Darpan](https://examdarpan.in/category-admit-card) (shares: 2026, article, card, जारी)
-- Link to [Rajasthan SET Admit Card 2026 जारी,](https://examdarpan.in/rajasthan-set-admit-card-2026) (shares: 2026, card, rajasthan, जारी)
-- Link to [RPSC SI Admit Card 2026 जारी](https://examdarpan.in/rpsc-si-admit-card-2026-download) (shares: 2026, card, rajasthan, जारी)
+- Link to [Rajasthan SET Admit Card 2026 जारी](https://examdarpan.in/rajasthan-set-admit-card-2026) (shares: 2026, card, rajasthan, जारी)

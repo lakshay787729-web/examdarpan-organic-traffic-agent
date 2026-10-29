@@ -39,4 +39,4 @@ _These are ideas taken from the article text. They are NOT search-volume numbers
 
 - Link to [SSC CGL Admit Card 2026 Out: Tier 1 Hall Ticket जारी, Download](https://examdarpan.in/ssc-cgl-admit-card-2026) (shares: 2026, admit, card, exam, ssc)
 - Link to [Admit Card | Exam Darpan](https://examdarpan.in/category-admit-card) (shares: 2026, admit, card, ssc, tier)
-- Link to [Rajasthan SET Admit Card 2026 जारी,](https://examdarpan.in/rajasthan-set-admit-card-2026) (shares: 2026, admit, card, आवेदन, जारी)
+- Link to [Rajasthan SET Admit Card 2026 जारी](https://examdarpan.in/rajasthan-set-admit-card-2026) (shares: 2026, admit, card, आवेदन, जारी)
