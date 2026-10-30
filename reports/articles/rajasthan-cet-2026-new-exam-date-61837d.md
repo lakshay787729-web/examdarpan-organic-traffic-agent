@@ -51,4 +51,4 @@ Possible search phrases for those sections (estimates):
 
 - Link to [Exam Syllabus | Exam Darpan](https://examdarpan.in/category-syllabus) (shares: 2026, cet, date, exam, level)
 - Link to [Rajasthan CET 2026: Graduation Syllabus, Exam Date](https://examdarpan.in/rajasthan-cet-2026-graduation-syllabus-exam-date) (shares: 2026, cet, level, rajasthan, आवेदन)
-- Link to [SSC CPO Exam Date 2026, Admit Card & Latest Update](https://examdarpan.in/ssc-cpo-recruitment-2026) (shares: 2026, date, exam, आवेदन, जारी)
+- Link to [RSCIT Result 2026 Declared – Check Your Result Online](https://examdarpan.in/rscit-result-2026-declared-check-your-result-online) (shares: 2026, date, rajasthan, आवेदन, जारी)

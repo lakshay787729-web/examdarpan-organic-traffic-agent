@@ -3,7 +3,7 @@
 URL: https://examdarpan.in/rssb-exam-calendar-2026-27-exam-date
 
 **SEO health score: 87/100** (this is this agent's own checklist score, not a Google score)
-Words: 1433 | Last read: 2026-10-23T00:46:28Z | Published: 2026-09-29 | Updated: 2026-10-06
+Words: 1417 | Last read: 2026-10-30T06:03:27Z | Published: 2026-09-29 | Updated: 2026-10-06
 
 ## Things to fix
 
@@ -38,12 +38,10 @@ _These are ideas taken from the article text. They are NOT search-volume numbers
 ### Topics the article does not mention yet
 _Add a section only if it is relevant AND you can confirm the facts from the official notice._
 
-- syllabus
 - salary
 - age limit
 
 Possible search phrases for those sections (estimates):
-- RSSB Exam Calendar 2026-27 जारी, CET, syllabus
 - RSSB Exam Calendar 2026-27 जारी, CET, salary
 - RSSB Exam Calendar 2026-27 जारी, CET, age limit
 

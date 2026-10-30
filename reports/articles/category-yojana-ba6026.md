@@ -56,5 +56,5 @@ Possible search phrases for those sections (estimates):
 ## Internal links you could add
 
 - Link to [Scholarships | Exam Darpan](https://examdarpan.in/category-scholarships) (shares: 2026, article, rajasthan, yojana, अक्टूबर)
+- Link to [RSCIT Result 2026 Declared – Check Your Result Online](https://examdarpan.in/rscit-result-2026-declared-check-your-result-online) (shares: 2026, apply, online, rajasthan, अक्टूबर)
 - Link to [Railway Jobs | Exam Darpan](https://examdarpan.in/category-railway-jobs) (shares: 2026, apply, article, online, आवेदन)
-- Link to [Rajasthan Scholarship Yojana 2026-27: ऑनलाइन आवेदन शुरू](https://examdarpan.in/rajasthan-scholarship-yojana-2026-27) (shares: 2026, rajasthan, अक्टूबर, आवेदन, सहायता)

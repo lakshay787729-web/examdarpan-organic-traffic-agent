@@ -37,6 +37,6 @@ _These are ideas taken from the article text. They are NOT search-volume numbers
 
 ## Internal links you could add
 
+- Link to [RSCIT Result 2026 Declared – Check Your Result Online](https://examdarpan.in/rscit-result-2026-declared-check-your-result-online) (shares: 2026, date, rajasthan, अक्टूबर, आवेदन)
 - Link to [Scholarships | Exam Darpan](https://examdarpan.in/category-scholarships) (shares: 2026, rajasthan, अक्टूबर, आवेदन)
 - Link to [Teaching Jobs | Exam Darpan](https://examdarpan.in/category-teaching-jobs) (shares: 2026, date, fee, आवेदन)
-- Link to [सरकारी योजनाएं | Exam Darpan](https://examdarpan.in/category-yojana) (shares: 2026, rajasthan, अक्टूबर, आवेदन)
