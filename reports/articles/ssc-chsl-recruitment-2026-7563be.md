@@ -3,11 +3,11 @@
 URL: https://examdarpan.in/ssc-chsl-recruitment-2026
 
 **SEO health score: 87/100** (this is this agent's own checklist score, not a Google score)
-Words: 2437 | Last read: 2026-10-23T10:21:07Z | Published: 2026-09-14 | Updated: 2026-10-19
+Words: 2442 | Last read: 2026-10-30T18:13:08Z | Published: 2026-09-14 | Updated: 2026-10-19
 
 ## Things to fix
 
-- **MEDIUM**: Mentions deadline date(s) already passed: 2026-10-07, 2026-10-08, 2026-10-09.  
+- **MEDIUM**: Mentions deadline date(s) already passed: 2026-09-14, 2026-10-07, 2026-10-08.  
   Fix: Make clear whether applications are closed, or update after checking the official notice.
 - **LOW**: Meta description is long (161 characters).  
   Fix: Shorten to about 160 characters.
@@ -38,5 +38,5 @@ _These are ideas taken from the article text. They are NOT search-volume numbers
 ## Internal links you could add
 
 - Link to [SSC CGL Admit Card 2026 Out: Tier 1 Hall Ticket जारी, Download](https://examdarpan.in/ssc-cgl-admit-card-2026) (shares: 2026, admit, card, exam, ssc)
-- Link to [Admit Card | Exam Darpan](https://examdarpan.in/category-admit-card) (shares: 2026, admit, card, ssc, tier)
-- Link to [Rajasthan SET Admit Card 2026 जारी](https://examdarpan.in/rajasthan-set-admit-card-2026) (shares: 2026, admit, card, आवेदन, जारी)
+- Link to [RRB Paramedical Recruitment 2026: 590 Posts](https://examdarpan.in/rrb-paramedical-recruitment-2026) (shares: 2026, अक्टूबर, आधिकारिक, आवेदन, पद)
+- Link to [UP Assistant Teacher Recruitment 2026: 12,405 पदों पर भर्ती](https://examdarpan.in/up-assistant-teacher-recruitment-2026) (shares: 2026, अक्टूबर, आधिकारिक, आवेदन, पद)

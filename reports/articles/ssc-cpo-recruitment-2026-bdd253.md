@@ -3,7 +3,7 @@
 URL: https://examdarpan.in/ssc-cpo-recruitment-2026
 
 **SEO health score: 90/100** (this is this agent's own checklist score, not a Google score)
-Words: 1965 | Last read: 2026-10-23T10:21:07Z | Published: 2026-09-28 | Updated: 2026-10-19
+Words: 1973 | Last read: 2026-10-30T18:13:08Z | Published: 2026-09-28 | Updated: 2026-10-19
 
 ## Things to fix
 
@@ -31,7 +31,7 @@ _These are ideas taken from the article text. They are NOT search-volume numbers
 - admit card (repeated in text, appears 14 times)
 - अक्टूबर 2026 (repeated in text, appears 12 times)
 - ssc cpo 2026 (repeated in text, appears 11 times)
-- sub inspector (repeated in text, appears 11 times)
+- exam date (repeated in text, appears 11 times)
 
 ## Internal links you could add
 

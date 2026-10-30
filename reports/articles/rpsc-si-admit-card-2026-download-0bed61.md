@@ -52,5 +52,5 @@ Possible search phrases for those sections (estimates):
 ## Internal links you could add
 
 - Link to [Rajasthan SI Answer Key 2026: Latest Update](https://examdarpan.in/rajasthan-police-si-answer-key-2026) (shares: 2026, exam, rpsc, si, जारी)
-- Link to [SSC CHSL 2026 Exam Date, Admit Card Update, 2536 Vacancy](https://examdarpan.in/ssc-chsl-recruitment-2026) (shares: 2026, admit, card, exam, जारी)
 - Link to [Admit Card | Exam Darpan](https://examdarpan.in/category-admit-card) (shares: 2026, admit, card, जारी, सितंबर)
+- Link to [SSC CHSL 2026 Exam Date, Admit Card Update, 2536 Vacancy](https://examdarpan.in/ssc-chsl-recruitment-2026) (shares: 2026, admit, card, exam, परीक्षा)
