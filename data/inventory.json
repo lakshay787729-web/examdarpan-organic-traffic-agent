@@ -10586,18 +10586,22 @@
    "in_sitemap": true,
    "last_error": null,
    "last_failure_at": null,
-   "last_fetched": "2026-10-23T15:12:43Z",
+   "last_fetched": "2026-10-30T22:19:50Z",
    "lastmod": "2026-10-19T02:12:26.786000Z",
    "needs_refresh": false,
    "page": {
     "canonical": "https://examdarpan.in/ssc-je-recruitment-2026",
-    "content_hash": "4c6b2474d3bc7ddd",
+    "content_hash": "eedc176978f2b5ec",
     "deadline_dates": [
      "2026-09-22",
      "2026-09-23",
      "2026-10-09",
      "2026-10-16",
-     "2026-10-22"
+     "2026-10-21",
+     "2026-10-22",
+     "2026-10-25",
+     "2026-11-22",
+     "2026-11-25"
     ],
     "description": "SSC JE Recruitment 2026 में नई tentative vacancy 1,699 पद है। आवेदन की स्थिति, योग्यता, Age Limit, Salary, Exam Date और Latest Updates यहां देखें।",
     "exam_related": true,
@@ -10644,12 +10648,12 @@
      "https://examdarpan.in/author/deepak-joshi",
      "https://examdarpan.in/ssc-cpo-recruitment-2026",
      "https://examdarpan.in/ssc-chsl-recruitment-2026",
+     "https://examdarpan.in/jee-main-2027-registration",
      "https://examdarpan.in/assam-rifles-group-c-recruitment-2026",
      "https://examdarpan.in/rrb-station-master-recruitment-2026",
      "https://examdarpan.in/rrb-ntpc-ug-recruitment-2026",
      "https://examdarpan.in/rajasthan-ptet-fee-refund-2026",
-     "https://examdarpan.in/ugc-net-december-2026-apply-online",
-     "https://examdarpan.in/rajasthan-ldc-result-2026"
+     "https://examdarpan.in/ugc-net-december-2026-apply-online"
     ],
     "lang": "hi",
     "modified": "2026-10-19",
@@ -10668,16 +10672,12 @@
       14
      ],
      [
-      "admit card",
-      13
-     ],
-     [
       "junior engineer",
       13
      ],
      [
-      "recruitment 2026",
-      11
+      "admit card",
+      12
      ],
      [
       "vacancy list",
@@ -10689,6 +10689,10 @@
      ],
      [
       "2026 ssc",
+      10
+     ],
+     [
+      "recruitment 2026",
       10
      ],
      [
@@ -10705,7 +10709,7 @@
      ]
     ],
     "published": "2026-09-13",
-    "script_count": 9,
+    "script_count": 10,
     "status": 200,
     "title": "SSC JE Recruitment 2026: 1,699 Vacancy, Exam Date, Salary",
     "top_terms": [
@@ -10722,20 +10726,20 @@
       36
      ],
      [
+      "आवेदन",
+      28
+     ],
+     [
+      "exam",
+      25
+     ],
+     [
       "tentative",
       25
      ],
      [
       "vacancy",
       25
-     ],
-     [
-      "exam",
-      24
-     ],
-     [
-      "आवेदन",
-      23
      ],
      [
       "परीक्षा",
@@ -10758,21 +10762,22 @@
       19
      ],
      [
-      "पद",
-      19
-     ],
-     [
       "सितंबर",
       19
      ],
      [
       "अनुसार",
       18
+     ],
+     [
+      "paper",
+      17
      ]
     ],
-    "word_count": 2627,
+    "word_count": 2645,
     "years": [
-     2026
+     2026,
+     2027
     ]
    }
   },
@@ -10782,16 +10787,16 @@
    "in_sitemap": true,
    "last_error": null,
    "last_failure_at": null,
-   "last_fetched": "2026-10-23T15:12:43Z",
+   "last_fetched": "2026-10-30T22:19:50Z",
    "lastmod": null,
    "needs_refresh": false,
    "page": {
     "canonical": "https://examdarpan.in/terms",
-    "content_hash": "79a07d67e2adc331",
+    "content_hash": "e7401562a29a8ea3",
     "deadline_dates": [],
     "description": "Exam Darpan terms and conditions.",
     "exam_related": true,
-    "excerpt": "Terms & Conditions Last updated: 18 October 2026 Exam Darpan एक independent education और government-job information portal है। Website का उपयोग करके आप इन Terms & Conditions को स्वीकार करते हैं। यदि आप इन terms से सहमत नहीं हैं, तो website का उपयोग न करें। 1. Purpose of the Website Website पर government jobs, recruitment, examinations, admit cards, results, answer keys, exam calendars और education-related information प्रस्तुत की जाती है। 2. Information Accuracy हम available official और public sources के आधार पर information को accurate और updated रखने का प्रयास करते हैं। Recruitment dates, vacancies, eligibility, fees और examination schedules बदल सकते हैं। किसी application, payment या examination से पहले latest official notification verify करना user की जिम्मेदारी है। 3. Independent Website Exam Darpan किसी government department, commission, board, recruitment agency या examination authority की official website नहीं है। 4. User Conduct Website का उपयोग lawful purposes के लिए करें। Website को damage या disrupt करने, unauthorized access पाने या security bypass करने का प्रयास न करें। False, unlawful या harmful information submit न करें। Website या उसके systems को spam, malware या abusiv",
+    "excerpt": "Terms & Conditions Last updated: 27 October 2026 Exam Darpan एक independent education और government-job information portal है। Website का उपयोग करके आप इन Terms & Conditions को स्वीकार करते हैं। यदि आप इन terms से सहमत नहीं हैं, तो website का उपयोग न करें। 1. Purpose of the Website Website पर government jobs, recruitment, examinations, admit cards, results, answer keys, exam calendars और education-related information प्रस्तुत की जाती है। 2. Information Accuracy हम available official और public sources के आधार पर information को accurate और updated रखने का प्रयास करते हैं। Recruitment dates, vacancies, eligibility, fees और examination schedules बदल सकते हैं। किसी application, payment या examination से पहले latest official notification verify करना user की जिम्मेदारी है। 3. Independent Website Exam Darpan किसी government department, commission, board, recruitment agency या examination authority की official website नहीं है। 4. User Conduct Website का उपयोग lawful purposes के लिए करें। Website को damage या disrupt करने, unauthorized access पाने या security bypass करने का प्रयास न करें। False, unlawful या harmful information submit न करें। Website या उसके systems को spam, malware या abusiv",
     "external_link_count": 0,
     "final_url": "https://examdarpan.in/terms",
     "h1s": [
@@ -10808,7 +10813,10 @@
      "8. No Guarantee",
      "9. Responsibility",
      "10. Changes to These Terms",
-     "11. Contact"
+     "11. Contact",
+     "12. Quiz, Scores and Public Leaderboards",
+     "13. No Recruitment or Selection Guarantee",
+     "14. Reporting Issues"
     ],
     "images_missing_alt": 0,
     "intents_present": [
@@ -10818,7 +10826,8 @@
      "result"
     ],
     "internal_links": [
-     "https://examdarpan.in/privacy.html"
+     "https://examdarpan.in/privacy",
+     "https://examdarpan.in/contact"
     ],
     "lang": "hi",
     "modified": null,
@@ -10826,7 +10835,7 @@
     "phrases": [
      [
       "exam darpan",
-      4
+      5
      ],
      [
       "third party",
@@ -10837,8 +10846,16 @@
       3
      ],
      [
+      "display name",
+      3
+     ],
+     [
       "इन terms",
       3
+     ],
+     [
+      "result की guarantee",
+      2
      ],
      [
       "third party links",
@@ -10853,11 +10870,15 @@
       2
      ],
      [
-      "intellectual property",
+      "examination authority",
       2
      ],
      [
-      "terms conditions",
+      "government department",
+      2
+     ],
+     [
+      "intellectual property",
       2
      ]
     ],
@@ -10868,30 +10889,46 @@
     "top_terms": [
      [
       "website",
-      12
+      13
      ],
      [
       "terms",
       8
      ],
      [
+      "exam",
+      6
+     ],
+     [
       "information",
       6
      ],
      [
-      "exam",
+      "darpan",
       5
      ],
      [
-      "darpan",
-      4
-     ],
-     [
       "examination",
-      4
+      5
      ],
      [
       "government",
+      5
+     ],
+     [
+      "recruitment",
+      5
+     ],
+     [
+      "करने",
+      5
+     ],
+     [
+      "किसी",
+      5
+     ],
+     [
+      "guarantee",
       4
      ],
      [
@@ -10903,31 +10940,15 @@
       4
      ],
      [
+      "quiz",
+      4
+     ],
+     [
       "third",
       4
-     ],
-     [
-      "इन",
-      4
-     ],
-     [
-      "applicable",
-      3
-     ],
-     [
-      "recruitment",
-      3
-     ],
-     [
-      "updated",
-      3
-     ],
-     [
-      "अधीन",
-      3
      ]
     ],
-    "word_count": 403,
+    "word_count": 574,
     "years": [
      2026
     ]
@@ -10939,18 +10960,22 @@
    "in_sitemap": true,
    "last_error": null,
    "last_failure_at": null,
-   "last_fetched": "2026-10-23T15:12:43Z",
+   "last_fetched": "2026-10-30T22:19:50Z",
    "lastmod": "2026-10-09T02:40:31.451000Z",
    "needs_refresh": false,
    "page": {
     "canonical": "https://examdarpan.in/ugc-net-december-2026-apply-online",
-    "content_hash": "d801d9e7899e7728",
+    "content_hash": "911d26e89e7c7bc1",
     "deadline_dates": [
      "2026-10-16",
+     "2026-10-21",
      "2026-10-22",
+     "2026-10-25",
      "2026-10-28",
      "2026-10-31",
-     "2026-11-04"
+     "2026-11-04",
+     "2026-11-22",
+     "2026-11-25"
     ],
     "description": "UGC NET December 2026 Apply Online: आवेदन की अंतिम तिथि 28 अक्टूबर, परीक्षा 14 से 19 दिसंबर तक। फीस, Late Fee, Correction Window और Notification देखें।",
     "exam_related": true,
@@ -10985,19 +11010,18 @@
      "how to apply",
      "last date",
      "notification",
-     "result",
-     "syllabus"
+     "result"
     ],
     "internal_links": [
      "https://examdarpan.in/author/deepak-joshi",
+     "https://examdarpan.in/jee-main-2027-registration",
      "https://examdarpan.in/assam-rifles-group-c-recruitment-2026",
      "https://examdarpan.in/rrb-station-master-recruitment-2026",
      "https://examdarpan.in/rajasthan-ambedkar-dbt-voucher-yojana-2026-27",
      "https://examdarpan.in/rrb-ntpc-ug-recruitment-2026",
      "https://examdarpan.in/rajasthan-ptet-fee-refund-2026",
      "https://examdarpan.in/rajasthan-ldc-result-2026",
-     "https://examdarpan.in/rssb-exam-calendar-2026-27-exam-date",
-     "https://examdarpan.in/rajasthan-cet-2026-senior-secondary-syllabus-exam-date"
+     "https://examdarpan.in/rssb-exam-calendar-2026-27-exam-date"
     ],
     "lang": "hi",
     "modified": "2026-10-09",
@@ -11021,7 +11045,7 @@
      ],
      [
       "अक्टूबर 2026",
-      25
+      26
      ],
      [
       "late fee",
@@ -11029,6 +11053,10 @@
      ],
      [
       "28 अक्टूबर",
+      9
+     ],
+     [
+      "अंतिम तिथि",
       9
      ],
      [
@@ -11040,26 +11068,26 @@
       7
      ],
      [
-      "अंतिम तिथि",
-      7
-     ],
-     [
       "आधिकारिक वेबसाइट",
       7
      ],
      [
-      "28 अक्टूबर 2026",
-      6
+      "नवंबर 2026",
+      7
      ]
     ],
     "published": "2026-10-09",
-    "script_count": 9,
+    "script_count": 10,
     "status": 200,
     "title": "UGC NET December 2026: Apply Online, Exam Date, & Notification",
     "top_terms": [
      [
       "2026",
       84
+     ],
+     [
+      "आवेदन",
+      42
      ],
      [
       "net",
@@ -11070,12 +11098,8 @@
       38
      ],
      [
-      "आवेदन",
-      37
-     ],
-     [
       "अक्टूबर",
-      36
+      37
      ],
      [
       "december",
@@ -11095,7 +11119,7 @@
      ],
      [
       "पात्रता",
-      16
+      17
      ],
      [
       "late",
@@ -11103,7 +11127,7 @@
      ],
      [
       "अंतिम",
-      13
+      15
      ],
      [
       "application",
@@ -11114,13 +11138,14 @@
       12
      ],
      [
-      "जानकारी",
+      "nta",
       12
      ]
     ],
-    "word_count": 2057,
+    "word_count": 2070,
     "years": [
-     2026
+     2026,
+     2027
     ]
    }
   },

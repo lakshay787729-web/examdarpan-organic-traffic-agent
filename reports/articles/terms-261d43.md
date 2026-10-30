@@ -3,11 +3,11 @@
 URL: https://examdarpan.in/terms
 
 **SEO health score: 80/100** (this is this agent's own checklist score, not a Google score)
-Words: 403 | Last read: 2026-10-23T15:12:43Z | Published: unknown | Updated: unknown
+Words: 574 | Last read: 2026-10-30T22:19:50Z | Published: unknown | Updated: unknown
 
 ## Things to fix
 
-- **MEDIUM**: Only 1 links to other Exam Darpan pages.  
+- **MEDIUM**: Only 2 links to other Exam Darpan pages.  
   Fix: Link to related articles where it helps readers (see suggestions below).
 - **MEDIUM**: No other article links to this page.  
   Fix: Add a link to it from a related article or a category/hub page.
@@ -31,11 +31,11 @@ _These are ideas taken from the article text. They are NOT search-volume numbers
 - 4. User Conduct (sub-heading (H2))
 - 5. Intellectual Property (sub-heading (H2))
 - 6. Third-Party Links (sub-heading (H2))
-- exam darpan (repeated in text, appears 4 times)
+- exam darpan (repeated in text, appears 5 times)
 - third party (repeated in text, appears 4 times)
 - website का उपयोग (repeated in text, appears 3 times)
+- display name (repeated in text, appears 3 times)
 - इन terms (repeated in text, appears 3 times)
-- third party links (repeated in text, appears 2 times)
 
 ### Topics the article does not mention yet
 _Add a section only if it is relevant AND you can confirm the facts from the official notice._
@@ -59,3 +59,4 @@ Possible search phrases for those sections (estimates):
 
 - Link to [Disclaimer | Exam Darpan](https://examdarpan.in/disclaimer) (shares: darpan, exam, government, information, official)
 - Link to [About Us | Exam Darpan](https://examdarpan.in/about) (shares: darpan, exam, information, official, website)
+- Link to [Editorial Policy | Exam Darpan](https://examdarpan.in/editorial-policy) (shares: exam, official, website, करने)

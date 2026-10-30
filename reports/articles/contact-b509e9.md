@@ -58,3 +58,7 @@ Possible search phrases for those sections (estimates):
 - Contact Us salary
 - Contact Us age limit
 - Contact Us cut off
+
+## Internal links you could add
+
+- Link to [Terms & Conditions | Exam Darpan](https://examdarpan.in/terms) (shares: information, official, website, करने)

@@ -3,7 +3,7 @@
 URL: https://examdarpan.in/ssc-je-recruitment-2026
 
 **SEO health score: 90/100** (this is this agent's own checklist score, not a Google score)
-Words: 2627 | Last read: 2026-10-23T15:12:43Z | Published: 2026-09-13 | Updated: 2026-10-19
+Words: 2645 | Last read: 2026-10-30T22:19:50Z | Published: 2026-09-13 | Updated: 2026-10-19
 
 ## Things to fix
 
@@ -30,8 +30,8 @@ _These are ideas taken from the article text. They are NOT search-volume numbers
 - ssc je (repeated in text, appears 34 times)
 - सितंबर 2026 (repeated in text, appears 16 times)
 - अक्टूबर 2026 (repeated in text, appears 14 times)
-- admit card (repeated in text, appears 13 times)
 - junior engineer (repeated in text, appears 13 times)
+- admit card (repeated in text, appears 12 times)
 
 ### Topics the article does not mention yet
 _Add a section only if it is relevant AND you can confirm the facts from the official notice._

@@ -3,11 +3,11 @@
 URL: https://examdarpan.in/ugc-net-december-2026-apply-online
 
 **SEO health score: 87/100** (this is this agent's own checklist score, not a Google score)
-Words: 2057 | Last read: 2026-10-23T15:12:43Z | Published: 2026-10-09 | Updated: 2026-10-09
+Words: 2070 | Last read: 2026-10-30T22:19:50Z | Published: 2026-10-09 | Updated: 2026-10-09
 
 ## Things to fix
 
-- **MEDIUM**: Mentions deadline date(s) already passed: 2026-10-16, 2026-10-22, 2026-10-28.  
+- **MEDIUM**: Mentions deadline date(s) already passed: 2026-10-16, 2026-10-21, 2026-10-22.  
   Fix: Make clear whether applications are closed, or update after checking the official notice.
 - **LOW**: 4 image(s) without alt text.  
   Fix: Add short descriptive alt text.
@@ -38,9 +38,11 @@ _These are ideas taken from the article text. They are NOT search-volume numbers
 ### Topics the article does not mention yet
 _Add a section only if it is relevant AND you can confirm the facts from the official notice._
 
+- syllabus
 - salary
 
 Possible search phrases for those sections (estimates):
+- UGC NET December 2026: Apply Online, syllabus
 - UGC NET December 2026: Apply Online, salary
 
 ## Internal links you could add
