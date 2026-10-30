@@ -3,11 +3,11 @@
 URL: https://examdarpan.in/sbi-asha-scholarship-2026
 
 **SEO health score: 87/100** (this is this agent's own checklist score, not a Google score)
-Words: 2051 | Last read: 2026-10-23T05:26:22Z | Published: 2026-09-22 | Updated: 2026-09-22
+Words: 2045 | Last read: 2026-10-30T12:41:45Z | Published: 2026-09-22 | Updated: 2026-09-22
 
 ## Things to fix
 
-- **MEDIUM**: Mentions deadline date(s) already passed: 2026-09-13, 2026-09-19, 2026-09-22.  
+- **MEDIUM**: Mentions deadline date(s) already passed: 2026-09-13, 2026-09-19, 2026-09-30.  
   Fix: Make clear whether applications are closed, or update after checking the official notice.
 - **LOW**: 4 image(s) without alt text.  
   Fix: Add short descriptive alt text.
@@ -30,8 +30,8 @@ _These are ideas taken from the article text. They are NOT search-volume numbers
 - UG विद्यार्थियों के लिए योग्यता (sub-heading (H2))
 - asha scholarship (repeated in text, appears 33 times)
 - sbi asha scholarship (repeated in text, appears 29 times)
-- 2026 27 (repeated in text, appears 19 times)
-- सितंबर 2026 (repeated in text, appears 19 times)
+- 2026 27 (repeated in text, appears 21 times)
+- सितंबर 2026 (repeated in text, appears 20 times)
 - होना चाहिए (repeated in text, appears 14 times)
 - asha scholarship 2026 (repeated in text, appears 12 times)
 

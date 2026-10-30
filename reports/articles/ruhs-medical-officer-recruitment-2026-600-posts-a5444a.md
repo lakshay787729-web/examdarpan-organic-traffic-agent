@@ -3,7 +3,7 @@
 URL: https://examdarpan.in/ruhs-medical-officer-recruitment-2026-600-posts
 
 **SEO health score: 87/100** (this is this agent's own checklist score, not a Google score)
-Words: 2083 | Last read: 2026-10-23T05:26:22Z | Published: 2026-09-15 | Updated: 2026-10-19
+Words: 2102 | Last read: 2026-10-30T12:41:45Z | Published: 2026-09-15 | Updated: 2026-10-19
 
 ## Things to fix
 
@@ -33,7 +33,7 @@ _These are ideas taken from the article text. They are NOT search-volume numbers
 - medical officer (repeated in text, appears 33 times)
 - ruhs medical officer (repeated in text, appears 25 times)
 - एडमिट कार्ड (repeated in text, appears 19 times)
-- recruitment 2026 (repeated in text, appears 18 times)
+- recruitment 2026 (repeated in text, appears 17 times)
 
 ### Topics the article does not mention yet
 _Add a section only if it is relevant AND you can confirm the facts from the official notice._
