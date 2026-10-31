@@ -94,7 +94,7 @@ and it does not create fake visits or clicks.
 13. Police & Defence Jobs | Exam Darpan  
    https://examdarpan.in/category-police-defence-jobs  
    Priority 35 | score 65/100
-   - HIGH: Only 42 words were visible in the raw HTML but the page loads 6 scripts. The content may be added by JavaScript, which this agent cannot see.
+   - HIGH: Only 42 words were visible in the raw HTML but the page loads 7 scripts. The content may be added by JavaScript, which this agent cannot see.
    - MEDIUM: Only 1 links to other Exam Darpan pages.
    - MEDIUM: No other article links to this page.
 14. सरकारी परीक्षा Result | Exam Darpan  

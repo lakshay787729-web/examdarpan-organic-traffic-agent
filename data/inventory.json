@@ -315,18 +315,20 @@
    "in_sitemap": true,
    "last_error": null,
    "last_failure_at": null,
-   "last_fetched": "2026-10-23T22:10:10Z",
+   "last_fetched": "2026-10-31T01:40:10Z",
    "lastmod": "2026-10-22T10:00:14.732000Z",
    "needs_refresh": false,
    "page": {
     "canonical": "https://examdarpan.in/assam-rifles-group-c-recruitment-2026",
-    "content_hash": "746d4bc2d93c27f2",
+    "content_hash": "cc5c8cf6c79e4425",
     "deadline_dates": [
      "2026-09-26",
      "2026-10-09",
      "2026-10-16",
+     "2026-10-21",
      "2026-10-28",
-     "2026-11-23"
+     "2026-11-23",
+     "2026-11-25"
     ],
     "description": "Assam Rifles Group C Recruitment 2026 में 354 पदों पर आवेदन की अंतिम तारीख 28 अक्टूबर है। योग्यता, आयु सीमा, फीस, चयन प्रक्रिया और Important Links देखें।",
     "exam_related": true,
@@ -387,7 +389,7 @@
      ],
      [
       "recruitment 2026",
-      20
+      19
      ],
      [
       "अक्टूबर 2026",
@@ -399,7 +401,7 @@
      ],
      [
       "ऑनलाइन आवेदन",
-      8
+      9
      ],
      [
       "करने से पहले",
@@ -422,26 +424,26 @@
       6
      ],
      [
-      "आधिकारिक नोटिफिकेशन",
+      "आवेदन की अंतिम",
       6
      ],
      [
-      "शैक्षणिक योग्यता",
+      "apply online",
       6
      ]
     ],
     "published": "2026-10-22",
-    "script_count": 9,
+    "script_count": 10,
     "status": 200,
     "title": "Assam Rifles Group C Recruitment 2026: 354 Posts, Apply",
     "top_terms": [
      [
       "2026",
-      64
+      65
      ],
      [
       "आवेदन",
-      36
+      37
      ],
      [
       "भर्ती",
@@ -457,46 +459,46 @@
      ],
      [
       "recruitment",
-      25
+      24
      ],
      [
       "पदों",
       24
      ],
      [
-      "पद",
-      21
+      "योग्यता",
+      20
      ],
      [
       "अनुसार",
       19
      ],
      [
-      "योग्यता",
+      "पद",
       19
      ],
      [
       "आधिकारिक",
-      18
+      17
+     ],
+     [
+      "अंतिम",
+      15
      ],
      [
       "आयु",
       15
      ],
      [
-      "अंतिम",
-      14
-     ],
-     [
-      "नोटिफिकेशन",
-      14
-     ],
-     [
       "लागू",
+      14
+     ],
+     [
+      "विवरण",
       14
      ]
     ],
-    "word_count": 2059,
+    "word_count": 2068,
     "years": [
      2026
     ]
@@ -1651,7 +1653,7 @@
    "in_sitemap": true,
    "last_error": null,
    "last_failure_at": null,
-   "last_fetched": "2026-10-23T22:10:10Z",
+   "last_fetched": "2026-10-31T01:40:10Z",
    "lastmod": "2026-10-22T10:00:14.732000Z",
    "needs_refresh": false,
    "page": {
@@ -1691,7 +1693,7 @@
      ]
     ],
     "published": null,
-    "script_count": 6,
+    "script_count": 7,
     "status": 200,
     "title": "Police & Defence Jobs | Exam Darpan",
     "top_terms": [
@@ -11353,14 +11355,17 @@
    "in_sitemap": true,
    "last_error": null,
    "last_failure_at": null,
-   "last_fetched": "2026-10-23T19:12:38Z",
+   "last_fetched": "2026-10-31T01:40:10Z",
    "lastmod": "2026-09-16T02:50:20.372000Z",
    "needs_refresh": false,
    "page": {
     "canonical": "https://examdarpan.in/upi-payment-new-rule-2026-2000-above-mdr-charge",
-    "content_hash": "da490bbd5fd74b1c",
+    "content_hash": "2d35a44d0f12f642",
     "deadline_dates": [
-     "2026-10-22"
+     "2026-10-16",
+     "2026-10-21",
+     "2026-10-22",
+     "2026-11-25"
     ],
     "description": "UPI New Rule 2026: 15 अक्टूबर से ₹2000 से ज्यादा मर्चेंट UPI पेमेंट पर 0.4% MDR लागू होगा। जानें ग्राहक, छोटे दुकानदार और बड़े व्यापारियों पर इसका क्या असर",
     "exam_related": false,
@@ -11401,12 +11406,12 @@
      "https://examdarpan.in/author/deepak-joshi",
      "https://examdarpan.in/rajasthan-cet-2026-new-exam-date",
      "https://examdarpan.in/rssb-exam-calendar-2026-27-exam-date",
-     "https://examdarpan.in/rrb-je-recruitment-2026-cbt-1-exam-date",
      "https://examdarpan.in/mukhyamantri-anuprati-coaching-yojana-2026-27",
-     "https://examdarpan.in/rajasthan-veterinary-admission-2026-1240-seats",
      "https://examdarpan.in/assam-rifles-group-c-recruitment-2026",
      "https://examdarpan.in/rrb-station-master-recruitment-2026",
-     "https://examdarpan.in/rajasthan-ambedkar-dbt-voucher-yojana-2026-27"
+     "https://examdarpan.in/rajasthan-ambedkar-dbt-voucher-yojana-2026-27",
+     "https://examdarpan.in/rrb-ntpc-ug-recruitment-2026",
+     "https://examdarpan.in/rajasthan-ptet-fee-refund-2026"
     ],
     "lang": "hi",
     "modified": "2026-09-16",
@@ -11422,11 +11427,7 @@
      ],
      [
       "अक्टूबर 2026",
-      9
-     ],
-     [
-      "सितंबर 2026",
-      9
+      10
      ],
      [
       "पात्र मर्चेंट",
@@ -11437,11 +11438,11 @@
       7
      ],
      [
-      "000 से अधिक",
-      6
+      "सितंबर 2026",
+      7
      ],
      [
-      "latest updates update",
+      "000 से अधिक",
       6
      ],
      [
@@ -11459,12 +11460,16 @@
      [
       "15 अक्टूबर",
       5
+     ],
+     [
+      "recruitment 2026",
+      5
      ]
     ],
     "published": "2026-09-16",
-    "script_count": 9,
+    "script_count": 10,
     "status": 200,
-    "title": "UPI Payment New Rule 2026: ₹2000 से ज्यादा UPI पेमेंट पर 0.4% शुल",
+    "title": "UPI Payment New Rule 2026: ₹2000 से ज्यादा UPI पेमेंट पर 0.4% शुल्क, जानें किसे देना होगा और किसे नहीं",
     "top_terms": [
      [
       "upi",
@@ -11476,7 +11481,7 @@
      ],
      [
       "2026",
-      39
+      37
      ],
      [
       "भुगतान",
@@ -11484,19 +11489,19 @@
      ],
      [
       "शुल्क",
-      17
+      18
      ],
      [
       "मर्चेंट",
       15
      ],
      [
-      "पात्र",
+      "अक्टूबर",
       14
      ],
      [
-      "अक्टूबर",
-      13
+      "पात्र",
+      14
      ],
      [
       "लेनदेन",
@@ -11511,10 +11516,6 @@
       12
      ],
      [
-      "सितंबर",
-      12
-     ],
-     [
       "व्यक्ति",
       11
      ],
@@ -11523,11 +11524,15 @@
       10
      ],
      [
-      "परीक्षा",
+      "लागू",
       10
+     ],
+     [
+      "update",
+      9
      ]
     ],
-    "word_count": 1635,
+    "word_count": 1631,
     "years": [
      2000,
      2026
@@ -11726,6 +11731,6 @@
  },
  "meta": {
   "schema": 1,
-  "sitemap_slot": 83027
+  "sitemap_slot": 83028
  }
 }
