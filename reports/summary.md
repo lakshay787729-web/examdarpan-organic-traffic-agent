@@ -46,7 +46,7 @@ and it does not create fake visits or clicks.
 5. Entrance Exams | Exam Darpan  
    https://examdarpan.in/category-entrance-exams  
    Priority 45 | score 55/100
-   - HIGH: Only 50 words were visible in the raw HTML but the page loads 6 scripts. The content may be added by JavaScript, which this agent cannot see.
+   - HIGH: Only 50 words were visible in the raw HTML but the page loads 7 scripts. The content may be added by JavaScript, which this agent cannot see.
    - MEDIUM: Mentions deadline date(s) already passed: 2026-10-25.
    - MEDIUM: Only 1 links to other Exam Darpan pages.
 6. Exam Syllabus | Exam Darpan  
