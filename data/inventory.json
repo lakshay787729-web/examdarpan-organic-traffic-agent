@@ -1887,7 +1887,7 @@
    "in_sitemap": true,
    "last_error": null,
    "last_failure_at": null,
-   "last_fetched": "2026-10-24T00:38:03Z",
+   "last_fetched": "2026-10-31T07:29:36Z",
    "lastmod": "2026-10-23T02:02:24.112000Z",
    "needs_refresh": false,
    "page": {
@@ -1935,7 +1935,7 @@
      ]
     ],
     "published": null,
-    "script_count": 6,
+    "script_count": 7,
     "status": 200,
     "title": "सरकारी परीक्षा Result | Exam Darpan",
     "top_terms": [
@@ -5453,12 +5453,12 @@
    "in_sitemap": true,
    "last_error": null,
    "last_failure_at": null,
-   "last_fetched": "2026-10-24T00:38:03Z",
+   "last_fetched": "2026-10-31T07:29:36Z",
    "lastmod": "2026-10-23T02:02:24.112000Z",
    "needs_refresh": false,
    "page": {
     "canonical": "https://examdarpan.in/rajasthan-ldc-result-2026",
-    "content_hash": "495a3abc49fd66e8",
+    "content_hash": "9a162527de681f98",
     "deadline_dates": [
      "2026-10-09"
     ],
@@ -5487,24 +5487,24 @@
     "images_missing_alt": 4,
     "intents_present": [
      "admit card",
-     "age limit",
      "cut off",
      "eligibility",
      "how to apply",
      "last date",
      "notification",
-     "result"
+     "result",
+     "syllabus"
     ],
     "internal_links": [
      "https://examdarpan.in/author/deepak-joshi",
      "https://examdarpan.in/rajasthan-ldc-score-card-2026",
      "https://examdarpan.in/rscit-result-2026-declared-check-your-result-online",
-     "https://examdarpan.in/rrb-station-master-recruitment-2026",
      "https://examdarpan.in/rajasthan-ambedkar-dbt-voucher-yojana-2026-27",
      "https://examdarpan.in/rajasthan-ptet-fee-refund-2026",
      "https://examdarpan.in/ugc-net-december-2026-apply-online",
      "https://examdarpan.in/rajasthan-scholarship-yojana-2026-27",
-     "https://examdarpan.in/rajasthan-scooty-yojana-2026-27"
+     "https://examdarpan.in/rajasthan-scooty-yojana-2026-27",
+     "https://examdarpan.in/rajasthan-cet-2026-senior-secondary-syllabus-exam-date"
     ],
     "lang": "hi",
     "modified": "2026-10-23",
@@ -5535,7 +5535,7 @@
       8
      ],
      [
-      "अक्टूबर 2026",
+      "update rajasthan",
       8
      ],
      [
@@ -5543,7 +5543,7 @@
       8
      ],
      [
-      "update rajasthan",
+      "अक्टूबर 2026",
       7
      ],
      [
@@ -5560,7 +5560,7 @@
      ]
     ],
     "published": "2026-10-06",
-    "script_count": 9,
+    "script_count": 10,
     "status": 200,
     "title": "Rajasthan LDC Typing Test Date 2026, Schedule, Admit Card Result",
     "top_terms": [
@@ -5570,15 +5570,15 @@
      ],
      [
       "परीक्षा",
-      30
+      31
+     ],
+     [
+      "rajasthan",
+      24
      ],
      [
       "अंक",
       24
-     ],
-     [
-      "rajasthan",
-      21
      ],
      [
       "gen",
@@ -5589,20 +5589,20 @@
       16
      ],
      [
-      "आधिकारिक",
-      14
-     ],
-     [
-      "आवेदन",
-      14
-     ],
-     [
       "टाइपिंग",
       14
      ],
      [
       "दक्षता",
       14
+     ],
+     [
+      "आधिकारिक",
+      13
+     ],
+     [
+      "आवेदन",
+      13
      ],
      [
       "निर्देशों",
@@ -5625,7 +5625,7 @@
       12
      ]
     ],
-    "word_count": 1934,
+    "word_count": 1938,
     "years": [
      2026
     ]
@@ -11731,6 +11731,6 @@
  },
  "meta": {
   "schema": 1,
-  "sitemap_slot": 83028
+  "sitemap_slot": 83029
  }
 }

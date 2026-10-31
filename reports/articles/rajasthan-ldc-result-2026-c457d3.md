@@ -3,7 +3,7 @@
 URL: https://examdarpan.in/rajasthan-ldc-result-2026
 
 **SEO health score: 87/100** (this is this agent's own checklist score, not a Google score)
-Words: 1934 | Last read: 2026-10-24T00:38:03Z | Published: 2026-10-06 | Updated: 2026-10-23
+Words: 1938 | Last read: 2026-10-31T07:29:36Z | Published: 2026-10-06 | Updated: 2026-10-23
 
 ## Things to fix
 
@@ -38,12 +38,12 @@ _These are ideas taken from the article text. They are NOT search-volume numbers
 ### Topics the article does not mention yet
 _Add a section only if it is relevant AND you can confirm the facts from the official notice._
 
-- syllabus
 - salary
+- age limit
 
 Possible search phrases for those sections (estimates):
-- Rajasthan LDC Result 2026, Typing Test syllabus
 - Rajasthan LDC Result 2026, Typing Test salary
+- Rajasthan LDC Result 2026, Typing Test age limit
 
 ## Internal links you could add
 

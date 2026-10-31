@@ -100,7 +100,7 @@ and it does not create fake visits or clicks.
 14. सरकारी परीक्षा Result | Exam Darpan  
    https://examdarpan.in/category-results  
    Priority 35 | score 65/100
-   - HIGH: Only 56 words were visible in the raw HTML but the page loads 6 scripts. The content may be added by JavaScript, which this agent cannot see.
+   - HIGH: Only 56 words were visible in the raw HTML but the page loads 7 scripts. The content may be added by JavaScript, which this agent cannot see.
    - MEDIUM: Only 1 links to other Exam Darpan pages.
    - MEDIUM: No other article links to this page.
 15. University & College | Exam Darpan  

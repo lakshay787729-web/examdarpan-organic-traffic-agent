@@ -3,11 +3,11 @@
 URL: https://examdarpan.in/category-results
 
 **SEO health score: 65/100** (this is this agent's own checklist score, not a Google score)
-Words: 56 | Last read: 2026-10-24T00:38:03Z | Published: unknown | Updated: unknown
+Words: 56 | Last read: 2026-10-31T07:29:36Z | Published: unknown | Updated: unknown
 
 ## Things to fix
 
-- **HIGH**: Only 56 words were visible in the raw HTML but the page loads 6 scripts. The content may be added by JavaScript, which this agent cannot see.  
+- **HIGH**: Only 56 words were visible in the raw HTML but the page loads 7 scripts. The content may be added by JavaScript, which this agent cannot see.  
   Fix: Check the page with URL Inspection in Search Console. Prefer server-rendered or pre-rendered article text.
 - **MEDIUM**: Only 1 links to other Exam Darpan pages.  
   Fix: Link to related articles where it helps readers (see suggestions below).
