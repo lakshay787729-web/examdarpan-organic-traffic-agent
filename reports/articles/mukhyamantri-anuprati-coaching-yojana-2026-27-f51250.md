@@ -55,4 +55,4 @@ Possible search phrases for those sections (estimates):
 
 - Link to [UP Assistant Teacher Recruitment 2026: 12,405 पदों पर भर्ती](https://examdarpan.in/up-assistant-teacher-recruitment-2026) (shares: 2026, अंतिम, अक्टूबर, आवेदन, तिथि)
 - Link to [Rajasthan Ambedkar DBT Voucher Yojana 2026-27: Apply Online](https://examdarpan.in/rajasthan-ambedkar-dbt-voucher-yojana-2026-27) (shares: 2026, अंतिम, अक्टूबर, आवेदन, योजना)
-- Link to [Rajasthan Safai Karmchari Bharti 2026: बिना अनुभव करें आवेदन](https://examdarpan.in/rajasthan-safai-karmchari-recruitment-2026) (shares: 2026, अक्टूबर, आवेदन, तिथि, विभाग)
+- Link to [Rajasthan Safai Karmchari 2026: 24,752 पद, आवेदन बंद, Correction 4 नवंबर तक](https://examdarpan.in/rajasthan-safai-karmchari-recruitment-2026) (shares: 2026, अंतिम, अक्टूबर, आवेदन, तिथि)

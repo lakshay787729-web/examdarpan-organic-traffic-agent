@@ -45,6 +45,6 @@ Possible search phrases for those sections (estimates):
 
 ## Internal links you could add
 
+- Link to [Rajasthan Safai Karmchari 2026: 24,752 पद, आवेदन बंद, Correction 4 नवंबर तक](https://examdarpan.in/rajasthan-safai-karmchari-recruitment-2026) (shares: 2026, अंतिम, अक्टूबर, आवेदन, भर्ती)
 - Link to [Rajasthan Scholarship Yojana 2026-27: ऑनलाइन आवेदन शुरू](https://examdarpan.in/rajasthan-scholarship-yojana-2026-27) (shares: 2026, अंतिम, अक्टूबर, आवेदन, संबंधित)
 - Link to [Assam Rifles Group C Recruitment 2026: 354 Posts, Apply](https://examdarpan.in/assam-rifles-group-c-recruitment-2026) (shares: 2026, अंतिम, आवेदन, भर्ती)
-- Link to [Canara Bank Apprentice Recruitment 2026: 3500 पदों पर भर्ती](https://examdarpan.in/canara-bank-apprentice-recruitment-2026) (shares: 2026, अक्टूबर, आवेदन, भर्ती)
