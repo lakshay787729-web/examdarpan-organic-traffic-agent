@@ -7,7 +7,7 @@ Words: 2278 | Last read: 2026-10-31T13:48:21Z | Published: 2026-10-25 | Updated:
 
 ## Things to fix
 
-- **MEDIUM**: Mentions deadline date(s) already passed: 2026-10-09, 2026-10-25.  
+- **MEDIUM**: Mentions deadline date(s) already passed: 2026-10-09, 2026-10-25, 2026-10-31.  
   Fix: Make clear whether applications are closed, or update after checking the official notice.
 - **LOW**: 4 image(s) without alt text.  
   Fix: Add short descriptive alt text.
