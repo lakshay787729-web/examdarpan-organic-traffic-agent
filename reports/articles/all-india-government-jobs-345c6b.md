@@ -3,11 +3,11 @@
 URL: https://examdarpan.in/all-india-government-jobs
 
 **SEO health score: 62/100** (this is this agent's own checklist score, not a Google score)
-Words: 39 | Last read: 2026-10-25T12:00:29Z | Published: unknown | Updated: unknown
+Words: 39 | Last read: 2026-11-01T21:18:08Z | Published: unknown | Updated: unknown
 
 ## Things to fix
 
-- **HIGH**: Only 39 words were visible in the raw HTML but the page loads 3 scripts. The content may be added by JavaScript, which this agent cannot see.  
+- **HIGH**: Only 39 words were visible in the raw HTML but the page loads 4 scripts. The content may be added by JavaScript, which this agent cannot see.  
   Fix: Check the page with URL Inspection in Search Console. Prefer server-rendered or pre-rendered article text.
 - **MEDIUM**: Only 1 links to other Exam Darpan pages.  
   Fix: Link to related articles where it helps readers (see suggestions below).

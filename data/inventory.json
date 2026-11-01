@@ -171,7 +171,7 @@
    "in_sitemap": true,
    "last_error": null,
    "last_failure_at": null,
-   "last_fetched": "2026-10-25T12:00:29Z",
+   "last_fetched": "2026-11-01T21:18:08Z",
    "lastmod": "2026-10-25T11:37:29.212000Z",
    "needs_refresh": false,
    "page": {
@@ -238,7 +238,7 @@
      ]
     ],
     "published": null,
-    "script_count": 3,
+    "script_count": 4,
     "status": 200,
     "title": "All India Government Jobs 2026 – Latest Central Govt Jobs | Exam Darpan",
     "top_terms": [
@@ -510,12 +510,12 @@
    "in_sitemap": true,
    "last_error": null,
    "last_failure_at": null,
-   "last_fetched": "2026-10-25T12:00:29Z",
+   "last_fetched": "2026-11-01T21:18:08Z",
    "lastmod": "2026-10-25T11:17:06.129000Z",
    "needs_refresh": false,
    "page": {
     "canonical": "https://examdarpan.in/bank-of-india-so-recruitment-2026-205-posts",
-    "content_hash": "075ceed5ca43cd95",
+    "content_hash": "a3d83d0c716af247",
     "deadline_dates": [
      "2026-09-10",
      "2026-09-14",
@@ -523,8 +523,9 @@
      "2026-09-25",
      "2026-10-05",
      "2026-10-14",
-     "2026-10-22",
-     "2026-10-28"
+     "2026-10-25",
+     "2026-10-28",
+     "2026-11-22"
     ],
     "description": "Bank of India SO Recruitment 2026 में 205 पदों की जानकारी देखें। आवेदन की अंतिम तिथि, योग्यता, सैलरी, चयन प्रक्रिया और Exam Date अपडेट जानें।",
     "exam_related": true,
@@ -571,27 +572,23 @@
      "https://examdarpan.in/rrb-paramedical-recruitment-2026",
      "https://examdarpan.in/sbi-so-wealth-management-recruitment-2026",
      "https://examdarpan.in/india-post-gds-recruitment-2026-bpm-25-000",
-     "https://examdarpan.in/assam-rifles-group-c-recruitment-2026",
-     "https://examdarpan.in/rrb-station-master-recruitment-2026"
+     "https://examdarpan.in/rrc-nwr-apprentice-recruitment-2026",
+     "https://examdarpan.in/jee-main-2027-registration"
     ],
     "lang": "hi",
     "modified": "2026-10-25",
     "noindex": false,
     "phrases": [
      [
-      "recruitment 2026",
-      28
-     ],
-     [
       "bank of india",
       26
      ],
      [
-      "india so recruitment",
-      11
+      "recruitment 2026",
+      25
      ],
      [
-      "अक्टूबर 2026",
+      "india so recruitment",
       11
      ],
      [
@@ -599,19 +596,23 @@
       11
      ],
      [
-      "jobs update",
-      9
+      "अक्टूबर 2026",
+      10
      ],
      [
       "specialist officer",
       9
      ],
      [
+      "jobs update",
+      8
+     ],
+     [
       "government jobs update",
       7
      ],
      [
-      "अंतिम तारीख",
+      "परीक्षा तिथि",
       7
      ],
      [
@@ -628,20 +629,24 @@
      ]
     ],
     "published": "2026-09-03",
-    "script_count": 9,
+    "script_count": 10,
     "status": 200,
     "title": "Bank of India SO Recruitment 2026: 205 Posts",
     "top_terms": [
      [
       "2026",
-      70
+      69
      ],
      [
-      "recruitment",
-      31
+      "आवेदन",
+      29
      ],
      [
       "india",
+      28
+     ],
+     [
+      "recruitment",
       28
      ],
      [
@@ -649,27 +654,23 @@
       27
      ],
      [
-      "आवेदन",
-      27
-     ],
-     [
       "पद",
-      26
+      25
      ],
      [
       "भर्ती",
-      22
+      23
      ],
      [
       "आधिकारिक",
-      21
+      20
      ],
      [
       "officer",
       16
      ],
      [
-      "पदों",
+      "परीक्षा",
       16
      ],
      [
@@ -677,7 +678,7 @@
       15
      ],
      [
-      "परीक्षा",
+      "पदों",
       15
      ],
      [
@@ -689,13 +690,15 @@
       14
      ],
      [
-      "अक्टूबर",
+      "तिथि",
       13
      ]
     ],
-    "word_count": 1697,
+    "word_count": 1713,
     "years": [
-     2026
+     2008,
+     2026,
+     2027
     ]
    }
   },
@@ -1157,7 +1160,7 @@
    "in_sitemap": true,
    "last_error": null,
    "last_failure_at": null,
-   "last_fetched": "2026-10-25T12:00:29Z",
+   "last_fetched": "2026-11-01T21:18:08Z",
    "lastmod": "2026-10-25T11:34:01.479000Z",
    "needs_refresh": false,
    "page": {
@@ -1194,7 +1197,7 @@
      ]
     ],
     "published": null,
-    "script_count": 6,
+    "script_count": 7,
     "status": 200,
     "title": "Answer Key | Exam Darpan",
     "top_terms": [
@@ -11916,6 +11919,6 @@
  },
  "meta": {
   "schema": 1,
-  "sitemap_slot": 83034
+  "sitemap_slot": 83035
  }
 }
