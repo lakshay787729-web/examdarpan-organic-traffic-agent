@@ -5,9 +5,9 @@ and it does not create fake visits or clicks.
 
 ## Progress
 
-- Articles found in sitemap: 68
-- Articles read so far: 68 (100%)
-- Issues: 17 high, 101 medium, 130 low
+- Articles found in sitemap: 69
+- Articles read so far: 69 (100%)
+- Issues: 17 high, 102 medium, 133 low
 
 ## Search Console status
 
@@ -28,7 +28,7 @@ and it does not create fake visits or clicks.
 2. Railway Jobs | Exam Darpan  
    https://examdarpan.in/category-railway-jobs  
    Priority 59 | score 41/100
-   - HIGH: Only 51 words were visible in the raw HTML but the page loads 7 scripts. The content may be added by JavaScript, which this agent cannot see.
+   - HIGH: Only 50 words were visible in the raw HTML but the page loads 7 scripts. The content may be added by JavaScript, which this agent cannot see.
    - MEDIUM: Only 1 links to other Exam Darpan pages.
    - MEDIUM: No other article links to this page.
 3. SSC Jobs | Exam Darpan  

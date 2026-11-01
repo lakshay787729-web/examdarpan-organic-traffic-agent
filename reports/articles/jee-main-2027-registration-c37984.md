@@ -3,11 +3,11 @@
 URL: https://examdarpan.in/jee-main-2027-registration
 
 **SEO health score: 90/100** (this is this agent's own checklist score, not a Google score)
-Words: 2278 | Last read: 2026-10-31T13:48:21Z | Published: 2026-10-25 | Updated: 2026-10-31
+Words: 2278 | Last read: 2026-11-01T17:24:46Z | Published: 2026-10-25 | Updated: 2026-11-01
 
 ## Things to fix
 
-- **MEDIUM**: Mentions deadline date(s) already passed: 2026-10-09, 2026-10-25, 2026-10-31.  
+- **MEDIUM**: Mentions deadline date(s) already passed: 2026-10-09, 2026-10-25.  
   Fix: Make clear whether applications are closed, or update after checking the official notice.
 - **LOW**: 4 image(s) without alt text.  
   Fix: Add short descriptive alt text.
@@ -31,7 +31,7 @@ _These are ideas taken from the article text. They are NOT search-volume numbers
 - jee main (repeated in text, appears 34 times)
 - main 2027 (repeated in text, appears 31 times)
 - jee main 2027 (repeated in text, appears 29 times)
-- अक्टूबर 2026 (repeated in text, appears 10 times)
+- information bulletin (repeated in text, appears 9 times)
 
 ### Topics the article does not mention yet
 _Add a section only if it is relevant AND you can confirm the facts from the official notice._
