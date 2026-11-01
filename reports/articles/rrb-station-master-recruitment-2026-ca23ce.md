@@ -3,7 +3,7 @@
 URL: https://examdarpan.in/rrb-station-master-recruitment-2026
 
 **SEO health score: 90/100** (this is this agent's own checklist score, not a Google score)
-Words: 2605 | Last read: 2026-10-27T18:53:31Z | Published: 2026-10-21 | Updated: 2026-10-27
+Words: 2605 | Last read: 2026-11-01T11:54:43Z | Published: 2026-10-21 | Updated: 2026-11-01
 
 ## Things to fix
 
@@ -31,7 +31,7 @@ _These are ideas taken from the article text. They are NOT search-volume numbers
 - station master (repeated in text, appears 32 times)
 - rrb station master (repeated in text, appears 17 times)
 - recruitment 2026 (repeated in text, appears 16 times)
-- अक्टूबर 2026 (repeated in text, appears 11 times)
+- अंतिम तिथि (repeated in text, appears 10 times)
 
 ### Topics the article does not mention yet
 _Add a section only if it is relevant AND you can confirm the facts from the official notice._

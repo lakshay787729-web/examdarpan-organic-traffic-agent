@@ -3,7 +3,7 @@
 URL: https://examdarpan.in/category-entrance-exams
 
 **SEO health score: 55/100** (this is this agent's own checklist score, not a Google score)
-Words: 50 | Last read: 2026-10-31T13:48:21Z | Published: unknown | Updated: unknown
+Words: 50 | Last read: 2026-11-01T11:54:43Z | Published: unknown | Updated: unknown
 
 ## Things to fix
 
