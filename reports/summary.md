@@ -106,7 +106,7 @@ and it does not create fake visits or clicks.
 15. University & College | Exam Darpan  
    https://examdarpan.in/category-university-college  
    Priority 35 | score 65/100
-   - HIGH: Only 49 words were visible in the raw HTML but the page loads 6 scripts. The content may be added by JavaScript, which this agent cannot see.
+   - HIGH: Only 49 words were visible in the raw HTML but the page loads 7 scripts. The content may be added by JavaScript, which this agent cannot see.
    - MEDIUM: Mentions deadline date(s) already passed: 2026-10-10.
    - MEDIUM: Only 1 links to other Exam Darpan pages.
 

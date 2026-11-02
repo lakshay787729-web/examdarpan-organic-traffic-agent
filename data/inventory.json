@@ -2482,7 +2482,7 @@
    "in_sitemap": true,
    "last_error": null,
    "last_failure_at": null,
-   "last_fetched": "2026-10-25T15:53:25Z",
+   "last_fetched": "2026-11-02T00:50:58Z",
    "lastmod": "2026-10-25T11:41:11.148000Z",
    "needs_refresh": false,
    "page": {
@@ -2527,7 +2527,7 @@
      ]
     ],
     "published": null,
-    "script_count": 6,
+    "script_count": 7,
     "status": 200,
     "title": "University & College | Exam Darpan",
     "top_terms": [
@@ -3613,12 +3613,12 @@
    "in_sitemap": true,
    "last_error": null,
    "last_failure_at": null,
-   "last_fetched": "2026-10-25T15:53:25Z",
+   "last_fetched": "2026-11-02T00:50:58Z",
    "lastmod": "2026-10-25T11:00:18.034000Z",
    "needs_refresh": false,
    "page": {
     "canonical": "https://examdarpan.in/india-post-gds-recruitment-2026-bpm-25-000",
-    "content_hash": "fb99f0f84550e71b",
+    "content_hash": "6c868399a7291c0e",
     "deadline_dates": [
      "2026-09-03",
      "2026-09-10",
@@ -3657,7 +3657,6 @@
     "images_missing_alt": 4,
     "intents_present": [
      "admit card",
-     "age limit",
      "eligibility",
      "how to apply",
      "last date",
@@ -3675,7 +3674,7 @@
      "https://examdarpan.in/upsc-recruitment-2026-212-posts",
      "https://examdarpan.in/sbi-so-wealth-management-recruitment-2026",
      "https://examdarpan.in/jee-main-2027-registration",
-     "https://examdarpan.in/rrb-station-master-recruitment-2026"
+     "https://examdarpan.in/rajasthan-ptet-fee-refund-2026"
     ],
     "lang": "hi",
     "modified": "2026-10-25",
@@ -3699,7 +3698,7 @@
      ],
      [
       "recruitment 2026",
-      13
+      11
      ],
      [
       "सितंबर 2026",
@@ -3714,10 +3713,6 @@
       8
      ],
      [
-      "jobs update",
-      8
-     ],
-     [
       "merit list",
       8
      ],
@@ -3728,10 +3723,14 @@
      [
       "government jobs update",
       7
+     ],
+     [
+      "document verification",
+      7
      ]
     ],
     "published": "2026-09-03",
-    "script_count": 9,
+    "script_count": 10,
     "status": 200,
     "title": "India Post GDS Result 2026, 1st Merit List & DV Date",
     "top_terms": [
@@ -3761,7 +3760,11 @@
      ],
      [
       "आवेदन",
-      20
+      19
+     ],
+     [
+      "अक्टूबर",
+      18
      ],
      [
       "तारीख",
@@ -3776,10 +3779,6 @@
       17
      ],
      [
-      "अक्टूबर",
-      17
-     ],
-     [
       "संबंधित",
       16
      ],
@@ -3788,15 +3787,15 @@
       16
      ],
      [
-      "आधिकारिक",
-      15
+      "update",
+      14
      ],
      [
-      "recruitment",
+      "आधिकारिक",
       14
      ]
     ],
-    "word_count": 1621,
+    "word_count": 1628,
     "years": [
      2026,
      2027
@@ -5816,7 +5815,7 @@
    "in_sitemap": true,
    "last_error": null,
    "last_failure_at": null,
-   "last_fetched": "2026-10-25T18:34:55Z",
+   "last_fetched": "2026-11-02T00:50:58Z",
    "lastmod": "2026-10-25T11:34:01.479000Z",
    "needs_refresh": false,
    "page": {
@@ -5924,7 +5923,7 @@
      ]
     ],
     "published": "2026-09-22",
-    "script_count": 9,
+    "script_count": 10,
     "status": 200,
     "title": "Rajasthan SI Answer Key 2026: Latest Update",
     "top_terms": [
@@ -11919,6 +11918,6 @@
  },
  "meta": {
   "schema": 1,
-  "sitemap_slot": 83035
+  "sitemap_slot": 83036
  }
 }

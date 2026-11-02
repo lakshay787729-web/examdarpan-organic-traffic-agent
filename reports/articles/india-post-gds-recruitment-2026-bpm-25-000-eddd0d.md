@@ -3,7 +3,7 @@
 URL: https://examdarpan.in/india-post-gds-recruitment-2026-bpm-25-000
 
 **SEO health score: 90/100** (this is this agent's own checklist score, not a Google score)
-Words: 1621 | Last read: 2026-10-25T15:53:25Z | Published: 2026-09-03 | Updated: 2026-10-25
+Words: 1628 | Last read: 2026-11-02T00:50:58Z | Published: 2026-09-03 | Updated: 2026-10-25
 
 ## Things to fix
 
@@ -31,16 +31,18 @@ _These are ideas taken from the article text. They are NOT search-volume numbers
 - मेरिट लिस्ट (repeated in text, appears 20 times)
 - अक्टूबर 2026 (repeated in text, appears 17 times)
 - india post gds (repeated in text, appears 15 times)
-- recruitment 2026 (repeated in text, appears 13 times)
+- recruitment 2026 (repeated in text, appears 11 times)
 
 ### Topics the article does not mention yet
 _Add a section only if it is relevant AND you can confirm the facts from the official notice._
 
 - syllabus
+- age limit
 - cut off
 
 Possible search phrases for those sections (estimates):
 - India Post GDS Result 2026: 1st syllabus
+- India Post GDS Result 2026: 1st age limit
 - India Post GDS Result 2026: 1st cut off
 
 ## Internal links you could add
