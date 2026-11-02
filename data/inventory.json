@@ -11350,18 +11350,17 @@
    "in_sitemap": true,
    "last_error": null,
    "last_failure_at": null,
-   "last_fetched": "2026-10-26T01:13:27Z",
+   "last_fetched": "2026-11-02T23:41:17Z",
    "lastmod": "2026-10-25T11:37:29.212000Z",
    "needs_refresh": false,
    "page": {
     "canonical": "https://examdarpan.in/up-assistant-teacher-recruitment-2026",
-    "content_hash": "646dc7052ea7fe3d",
+    "content_hash": "72f49bdf2ffb6e43",
     "deadline_dates": [
      "2026-09-10",
      "2026-09-14",
      "2026-09-22",
      "2026-10-14",
-     "2026-10-22",
      "2026-10-25",
      "2026-10-28",
      "2026-10-31",
@@ -11413,8 +11412,8 @@
      "https://examdarpan.in/sbi-so-wealth-management-recruitment-2026",
      "https://examdarpan.in/bank-of-india-so-recruitment-2026-205-posts",
      "https://examdarpan.in/india-post-gds-recruitment-2026-bpm-25-000",
-     "https://examdarpan.in/jee-main-2027-registration",
-     "https://examdarpan.in/assam-rifles-group-c-recruitment-2026"
+     "https://examdarpan.in/rrc-nwr-apprentice-recruitment-2026",
+     "https://examdarpan.in/jee-main-2027-registration"
     ],
     "lang": "hi",
     "modified": "2026-10-25",
@@ -11422,7 +11421,7 @@
     "phrases": [
      [
       "recruitment 2026",
-      18
+      17
      ],
      [
       "अंतिम तिथि",
@@ -11430,7 +11429,7 @@
      ],
      [
       "अक्टूबर 2026",
-      16
+      15
      ],
      [
       "सहायक शिक्षक",
@@ -11457,20 +11456,20 @@
       7
      ],
      [
-      "28 अक्टूबर",
-      7
-     ],
-     [
       "assistant teacher",
       7
      ],
      [
       "ऑनलाइन आवेदन",
       7
+     ],
+     [
+      "28 अक्टूबर 2026",
+      6
      ]
     ],
     "published": "2026-09-22",
-    "script_count": 9,
+    "script_count": 10,
     "status": 200,
     "title": "UP Assistant Teacher Recruitment 2026: 12,405 पदों पर भर्ती",
     "top_terms": [
@@ -11480,7 +11479,7 @@
      ],
      [
       "आवेदन",
-      44
+      43
      ],
      [
       "परीक्षा",
@@ -11488,42 +11487,38 @@
      ],
      [
       "अंतिम",
-      22
-     ],
-     [
-      "अक्टूबर",
-      19
+      21
      ],
      [
       "भर्ती",
-      19
+      20
      ],
      [
-      "recruitment",
-      18
+      "पद",
+      19
      ],
      [
       "तिथि",
       18
      ],
      [
-      "पद",
-      18
+      "recruitment",
+      17
+     ],
+     [
+      "अक्टूबर",
+      17
      ],
      [
       "आधिकारिक",
       17
      ],
      [
-      "चयन",
-      14
-     ],
-     [
       "शिक्षक",
       14
      ],
      [
-      "पदों",
+      "चयन",
       13
      ],
      [
@@ -11531,12 +11526,17 @@
       12
      ],
      [
+      "पदों",
+      12
+     ],
+     [
       "शुल्क",
       12
      ]
     ],
-    "word_count": 1566,
+    "word_count": 1574,
     "years": [
+     2008,
      2026,
      2027
     ]
@@ -11738,7 +11738,7 @@
    "in_sitemap": true,
    "last_error": null,
    "last_failure_at": null,
-   "last_fetched": "2026-10-26T01:13:27Z",
+   "last_fetched": "2026-11-02T23:41:17Z",
    "lastmod": "2026-10-25T11:27:59.719000Z",
    "needs_refresh": false,
    "page": {
@@ -11850,7 +11850,7 @@
      ]
     ],
     "published": "2026-09-14",
-    "script_count": 9,
+    "script_count": 10,
     "status": 200,
     "title": "UPSC Recruitment 2026: 212 Posts, Latest Update",
     "top_terms": [
@@ -11924,6 +11924,6 @@
  },
  "meta": {
   "schema": 1,
-  "sitemap_slot": 83038
+  "sitemap_slot": 83039
  }
 }
