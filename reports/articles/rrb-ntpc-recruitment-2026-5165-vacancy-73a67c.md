@@ -3,11 +3,11 @@
 URL: https://examdarpan.in/rrb-ntpc-recruitment-2026-5165-vacancy
 
 **SEO health score: 90/100** (this is this agent's own checklist score, not a Google score)
-Words: 2088 | Last read: 2026-10-25T23:15:01Z | Published: 2026-09-06 | Updated: 2026-10-25
+Words: 2098 | Last read: 2026-11-02T16:42:48Z | Published: 2026-09-06 | Updated: 2026-10-25
 
 ## Things to fix
 
-- **MEDIUM**: Mentions deadline date(s) already passed: 2026-09-14, 2026-10-16, 2026-10-22.  
+- **MEDIUM**: Mentions deadline date(s) already passed: 2026-09-14, 2026-10-16, 2026-10-21.  
   Fix: Make clear whether applications are closed, or update after checking the official notice.
 - **LOW**: 4 image(s) without alt text.  
   Fix: Add short descriptive alt text.
@@ -31,7 +31,7 @@ _These are ideas taken from the article text. They are NOT search-volume numbers
 - rrb ntpc (repeated in text, appears 30 times)
 - recruitment 2026 (repeated in text, appears 17 times)
 - cen 06 2026 (repeated in text, appears 14 times)
-- cen 07 2026 (repeated in text, appears 13 times)
+- नवंबर 2026 (repeated in text, appears 14 times)
 
 ### Topics the article does not mention yet
 _Add a section only if it is relevant AND you can confirm the facts from the official notice._

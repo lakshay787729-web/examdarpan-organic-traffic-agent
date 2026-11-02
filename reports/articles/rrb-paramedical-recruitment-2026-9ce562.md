@@ -3,7 +3,7 @@
 URL: https://examdarpan.in/rrb-paramedical-recruitment-2026
 
 **SEO health score: 90/100** (this is this agent's own checklist score, not a Google score)
-Words: 1709 | Last read: 2026-10-25T23:15:01Z | Published: 2026-09-10 | Updated: 2026-10-25
+Words: 1717 | Last read: 2026-11-02T16:42:48Z | Published: 2026-09-10 | Updated: 2026-10-25
 
 ## Things to fix
 
@@ -28,9 +28,9 @@ _These are ideas taken from the article text. They are NOT search-volume numbers
 - RRB Paramedical Correction Window 2026 (sub-heading (H2))
 - RRB Paramedical Recruitment 2026: शैक्षणिक योग्यता (sub-heading (H2))
 - RRB Paramedical Recruitment 2026: आयु सीमा (sub-heading (H2))
-- recruitment 2026 (repeated in text, appears 30 times)
+- recruitment 2026 (repeated in text, appears 29 times)
 - rrb paramedical (repeated in text, appears 26 times)
-- अक्टूबर 2026 (repeated in text, appears 20 times)
+- अक्टूबर 2026 (repeated in text, appears 19 times)
 - paramedical recruitment (repeated in text, appears 18 times)
 
 ### Topics the article does not mention yet

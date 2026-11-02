@@ -3,11 +3,11 @@
 URL: https://examdarpan.in/rrb-je-recruitment-2026-cbt-1-exam-date
 
 **SEO health score: 90/100** (this is this agent's own checklist score, not a Google score)
-Words: 1389 | Last read: 2026-10-25T23:15:01Z | Published: 2026-09-16 | Updated: 2026-10-25
+Words: 1402 | Last read: 2026-11-02T16:42:48Z | Published: 2026-09-16 | Updated: 2026-10-25
 
 ## Things to fix
 
-- **MEDIUM**: Mentions deadline date(s) already passed: 2026-10-09, 2026-10-16, 2026-10-25.  
+- **MEDIUM**: Mentions deadline date(s) already passed: 2026-10-16, 2026-10-21, 2026-10-25.  
   Fix: Make clear whether applications are closed, or update after checking the official notice.
 - **LOW**: 4 image(s) without alt text.  
   Fix: Add short descriptive alt text.
@@ -29,7 +29,7 @@ _These are ideas taken from the article text. They are NOT search-volume numbers
 - RRB JE Exam में Aadhaar Verification (sub-heading (H2))
 - परीक्षा से पहले जरूरी बातें (sub-heading (H2))
 - call letter (repeated in text, appears 18 times)
-- अक्टूबर 2026 (repeated in text, appears 14 times)
+- अक्टूबर 2026 (repeated in text, appears 13 times)
 - rrb je (repeated in text, appears 12 times)
 - exam city (repeated in text, appears 10 times)
 
