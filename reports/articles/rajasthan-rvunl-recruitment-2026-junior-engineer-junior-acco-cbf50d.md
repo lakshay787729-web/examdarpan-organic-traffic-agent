@@ -3,11 +3,11 @@
 URL: https://examdarpan.in/rajasthan-rvunl-recruitment-2026-junior-engineer-junior-accountant-junior-assistant
 
 **SEO health score: 87/100** (this is this agent's own checklist score, not a Google score)
-Words: 1423 | Last read: 2026-10-25T21:11:19Z | Published: 2026-09-03 | Updated: 2026-10-25
+Words: 1420 | Last read: 2026-11-02T06:55:09Z | Published: 2026-09-03 | Updated: 2026-10-25
 
 ## Things to fix
 
-- **MEDIUM**: Mentions deadline date(s) already passed: 2026-08-31, 2026-09-13, 2026-09-15.  
+- **MEDIUM**: Mentions deadline date(s) already passed: 2026-08-31, 2026-09-15, 2026-10-16.  
   Fix: Make clear whether applications are closed, or update after checking the official notice.
 - **LOW**: Meta description is long (168 characters).  
   Fix: Shorten to about 160 characters.
@@ -40,10 +40,12 @@ _Add a section only if it is relevant AND you can confirm the facts from the off
 
 - syllabus
 - salary
+- cut off
 
 Possible search phrases for those sections (estimates):
 - Rajasthan RVUNL Recruitment 2026: 2005 पदों syllabus
 - Rajasthan RVUNL Recruitment 2026: 2005 पदों salary
+- Rajasthan RVUNL Recruitment 2026: 2005 पदों cut off
 
 ## Internal links you could add
 

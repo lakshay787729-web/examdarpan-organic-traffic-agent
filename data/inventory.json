@@ -6001,7 +6001,7 @@
    "in_sitemap": true,
    "last_error": null,
    "last_failure_at": null,
-   "last_fetched": "2026-10-25T21:11:19Z",
+   "last_fetched": "2026-11-02T06:55:09Z",
    "lastmod": "2026-10-25T11:41:11.148000Z",
    "needs_refresh": false,
    "page": {
@@ -6109,7 +6109,7 @@
      ]
     ],
     "published": "2026-09-22",
-    "script_count": 9,
+    "script_count": 10,
     "status": 200,
     "title": "Rajasthan PTET 2026 Admission: Latest Update",
     "top_terms": [
@@ -6375,18 +6375,19 @@
    "in_sitemap": true,
    "last_error": null,
    "last_failure_at": null,
-   "last_fetched": "2026-10-25T21:11:19Z",
+   "last_fetched": "2026-11-02T06:55:09Z",
    "lastmod": "2026-10-25T11:08:14.468000Z",
    "needs_refresh": false,
    "page": {
     "canonical": "https://examdarpan.in/rajasthan-rvunl-recruitment-2026-junior-engineer-junior-accountant-junior-assistant",
-    "content_hash": "b9e88d68784e56f0",
+    "content_hash": "f5aed7773e4814ed",
     "deadline_dates": [
      "2026-08-31",
-     "2026-09-13",
      "2026-09-15",
      "2026-10-16",
-     "2026-10-22"
+     "2026-10-21",
+     "2026-10-22",
+     "2026-11-25"
     ],
     "description": "Rajasthan RVUNL Recruitment 2026 में 2,005 पदों की भर्ती की पूरी जानकारी देखें। आवेदन की अंतिम तिथि, Vacancy Details, Exam Date, Admit Card और आधिकारिक नोटिस का अपडेट |",
     "exam_related": true,
@@ -6415,7 +6416,6 @@
     "intents_present": [
      "admit card",
      "age limit",
-     "cut off",
      "eligibility",
      "how to apply",
      "last date",
@@ -6426,12 +6426,12 @@
      "https://examdarpan.in/author/deepak-joshi",
      "https://examdarpan.in/ruhs-medical-officer-recruitment-2026-600-posts",
      "https://examdarpan.in/rajasthan-safai-karmchari-recruitment-2026",
+     "https://examdarpan.in/rrc-nwr-apprentice-recruitment-2026",
      "https://examdarpan.in/assam-rifles-group-c-recruitment-2026",
      "https://examdarpan.in/rrb-station-master-recruitment-2026",
      "https://examdarpan.in/rajasthan-ambedkar-dbt-voucher-yojana-2026-27",
      "https://examdarpan.in/rrb-ntpc-ug-recruitment-2026",
-     "https://examdarpan.in/rajasthan-ptet-fee-refund-2026",
-     "https://examdarpan.in/rajasthan-ldc-score-card-2026"
+     "https://examdarpan.in/rajasthan-ptet-fee-refund-2026"
     ],
     "lang": "hi",
     "modified": "2026-10-25",
@@ -6487,24 +6487,24 @@
      ]
     ],
     "published": "2026-09-03",
-    "script_count": 9,
+    "script_count": 10,
     "status": 200,
     "title": "Rajasthan RVUNL Recruitment 2026: 2005 Posts",
     "top_terms": [
      [
       "2026",
-      60
+      59
      ],
      [
       "rajasthan",
-      32
-     ],
-     [
-      "आधिकारिक",
       29
      ],
      [
       "junior",
+      28
+     ],
+     [
+      "आधिकारिक",
       28
      ],
      [
@@ -6516,16 +6516,16 @@
       24
      ],
      [
+      "भर्ती",
+      24
+     ],
+     [
       "recruitment",
       23
      ],
      [
-      "भर्ती",
-      23
-     ],
-     [
       "तिथि",
-      17
+      16
      ],
      [
       "assistant",
@@ -6540,21 +6540,22 @@
       14
      ],
      [
+      "प्रक्रिया",
+      13
+     ],
+     [
       "engineer",
       12
      ],
      [
-      "पद",
-      12
-     ],
-     [
-      "प्रक्रिया",
+      "पदों",
       12
      ]
     ],
-    "word_count": 1423,
+    "word_count": 1420,
     "years": [
      2005,
+     2008,
      2026
     ]
    }
@@ -7317,7 +7318,7 @@
    "in_sitemap": true,
    "last_error": null,
    "last_failure_at": null,
-   "last_fetched": "2026-10-25T21:11:19Z",
+   "last_fetched": "2026-11-02T06:55:09Z",
    "lastmod": "2026-10-25T11:25:12.267000Z",
    "needs_refresh": false,
    "page": {
@@ -7425,7 +7426,7 @@
      ]
     ],
     "published": "2026-09-12",
-    "script_count": 9,
+    "script_count": 10,
     "status": 200,
     "title": "Rajasthan Veterinary Admission 2026: Counselling Update",
     "top_terms": [
@@ -11918,6 +11919,6 @@
  },
  "meta": {
   "schema": 1,
-  "sitemap_slot": 83036
+  "sitemap_slot": 83037
  }
 }
