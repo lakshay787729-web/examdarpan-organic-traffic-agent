@@ -3,7 +3,7 @@
 URL: https://examdarpan.in/canara-bank-apprentice-recruitment-2026
 
 **SEO health score: 87/100** (this is this agent's own checklist score, not a Google score)
-Words: 2391 | Last read: 2026-10-27T18:53:31Z | Published: 2026-10-01 | Updated: 2026-10-12
+Words: 2393 | Last read: 2026-11-03T23:41:01Z | Published: 2026-10-01 | Updated: 2026-10-12
 
 ## Things to fix
 
@@ -32,7 +32,7 @@ _These are ideas taken from the article text. They are NOT search-volume numbers
 - Canara Bank Apprentice Recruitment 2026 में आवेदन शुल्क (sub-heading (H2))
 - canara bank (repeated in text, appears 40 times)
 - canara bank apprentice (repeated in text, appears 28 times)
-- recruitment 2026 (repeated in text, appears 22 times)
+- recruitment 2026 (repeated in text, appears 20 times)
 - अक्टूबर 2026 (repeated in text, appears 15 times)
 
 ### Topics the article does not mention yet
