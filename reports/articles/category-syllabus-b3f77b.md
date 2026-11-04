@@ -3,7 +3,7 @@
 URL: https://examdarpan.in/category-syllabus
 
 **SEO health score: 55/100** (this is this agent's own checklist score, not a Google score)
-Words: 46 | Last read: 2026-10-28T07:28:36Z | Published: unknown | Updated: unknown
+Words: 46 | Last read: 2026-11-04T11:03:55Z | Published: unknown | Updated: unknown
 
 ## Things to fix
 
