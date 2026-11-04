@@ -3,7 +3,7 @@
 URL: https://examdarpan.in/crpf-sports-quota-recruitment-2026
 
 **SEO health score: 84/100** (this is this agent's own checklist score, not a Google score)
-Words: 1590 | Last read: 2026-10-28T14:18:44Z | Published: 2026-09-25 | Updated: 2026-09-25
+Words: 1589 | Last read: 2026-11-04T18:34:49Z | Published: 2026-09-25 | Updated: 2026-09-25
 
 ## Things to fix
 

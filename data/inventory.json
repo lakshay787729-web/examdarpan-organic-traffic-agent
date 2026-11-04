@@ -2605,7 +2605,7 @@
    "in_sitemap": true,
    "last_error": null,
    "last_failure_at": null,
-   "last_fetched": "2026-10-28T07:28:36Z",
+   "last_fetched": "2026-11-04T18:34:49Z",
    "lastmod": "2026-10-16T06:20:31.182000Z",
    "needs_refresh": false,
    "page": {
@@ -2722,7 +2722,7 @@
    "in_sitemap": true,
    "last_error": null,
    "last_failure_at": null,
-   "last_fetched": "2026-10-28T14:18:44Z",
+   "last_fetched": "2026-11-04T18:34:49Z",
    "lastmod": null,
    "needs_refresh": false,
    "page": {
@@ -2883,23 +2883,21 @@
    "in_sitemap": true,
    "last_error": null,
    "last_failure_at": null,
-   "last_fetched": "2026-10-28T14:18:44Z",
+   "last_fetched": "2026-11-04T18:34:49Z",
    "lastmod": "2026-09-25T16:56:19.939000Z",
    "needs_refresh": false,
    "page": {
     "canonical": "https://examdarpan.in/crpf-sports-quota-recruitment-2026",
-    "content_hash": "af20e26bba7faf9a",
+    "content_hash": "b6a3cbe69975d195",
     "deadline_dates": [
      "2026-09-10",
      "2026-09-14",
      "2026-09-22",
      "2026-10-14",
-     "2026-10-21",
      "2026-10-22",
      "2026-10-28",
      "2026-11-11",
-     "2026-11-14",
-     "2026-11-25"
+     "2026-11-14"
     ],
     "description": "CRPF Sports Quota Recruitment 2026 में 521 पदों पर भर्ती निकली है। 10वीं और 12वीं पास खिलाड़ियों के लिए बिना लिखित परीक्षा चयन होगा। आवेदन 12 अक्टूबर से 11 नवंबर 2026 तक।",
     "exam_related": true,
@@ -2948,8 +2946,8 @@
      "https://examdarpan.in/sbi-so-wealth-management-recruitment-2026",
      "https://examdarpan.in/bank-of-india-so-recruitment-2026-205-posts",
      "https://examdarpan.in/india-post-gds-recruitment-2026-bpm-25-000",
-     "https://examdarpan.in/assam-rifles-group-c-recruitment-2026",
-     "https://examdarpan.in/rrb-station-master-recruitment-2026"
+     "https://examdarpan.in/rrc-nwr-apprentice-recruitment-2026",
+     "https://examdarpan.in/assam-rifles-group-c-recruitment-2026"
     ],
     "lang": "hi",
     "modified": "2026-09-25",
@@ -2988,11 +2986,11 @@
       9
      ],
      [
-      "अक्टूबर 2026",
-      9
+      "sports achievement",
+      8
      ],
      [
-      "sports achievement",
+      "अक्टूबर 2026",
       8
      ],
      [
@@ -3011,7 +3009,7 @@
     "top_terms": [
      [
       "2026",
-      63
+      62
      ],
      [
       "sports",
@@ -3027,14 +3025,14 @@
      ],
      [
       "भर्ती",
-      26
-     ],
-     [
-      "आवेदन",
-      23
+      27
      ],
      [
       "quota",
+      21
+     ],
+     [
+      "आवेदन",
       21
      ],
      [
@@ -3042,11 +3040,11 @@
       17
      ],
      [
-      "constable",
-      14
+      "पद",
+      15
      ],
      [
-      "पद",
+      "constable",
       14
      ],
      [
@@ -3067,11 +3065,12 @@
      ],
      [
       "अक्टूबर",
-      11
+      10
      ]
     ],
-    "word_count": 1590,
+    "word_count": 1589,
     "years": [
+     2008,
      2024,
      2026
     ]
@@ -11925,6 +11924,6 @@
  },
  "meta": {
   "schema": 1,
-  "sitemap_slot": 83045
+  "sitemap_slot": 83047
  }
 }
