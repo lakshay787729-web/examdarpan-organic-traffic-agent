@@ -3,7 +3,7 @@
 URL: https://examdarpan.in/east-coast-railway-apprentice-2026
 
 **SEO health score: 87/100** (this is this agent's own checklist score, not a Google score)
-Words: 2085 | Last read: 2026-10-28T19:39:21Z | Published: 2026-09-03 | Updated: 2026-10-19
+Words: 2090 | Last read: 2026-11-04T23:54:02Z | Published: 2026-09-03 | Updated: 2026-10-19
 
 ## Things to fix
 
@@ -30,9 +30,9 @@ _These are ideas taken from the article text. They are NOT search-volume numbers
 - Age Limit और आरक्षित वर्गों को छूट (sub-heading (H2))
 - Application Fee कितनी थी? (sub-heading (H2))
 - east coast railway (repeated in text, appears 17 times)
+- recruitment 2026 (repeated in text, appears 13 times)
 - coast railway apprentice (repeated in text, appears 12 times)
-- recruitment 2026 (repeated in text, appears 12 times)
-- सितंबर 2026 (repeated in text, appears 12 times)
+- सितंबर 2026 (repeated in text, appears 11 times)
 - नियमों के अनुसार (repeated in text, appears 10 times)
 
 ### Topics the article does not mention yet
@@ -47,6 +47,6 @@ Possible search phrases for those sections (estimates):
 
 ## Internal links you could add
 
-- Link to [RRC NWR Apprentice Recruitment 2026: 2008 पदों पर भर्ती, 10वीं + ITI पास Apply करें](https://examdarpan.in/rrc-nwr-apprentice-recruitment-2026) (shares: 2026, railway, अनुसार, आवेदन, भर्ती)
 - Link to [Assam Rifles Group C Recruitment 2026: 354 Posts, Apply](https://examdarpan.in/assam-rifles-group-c-recruitment-2026) (shares: 2026, अनुसार, आधिकारिक, आवेदन, भर्ती)
 - Link to [Bank of India SO Recruitment 2026: 205 Posts](https://examdarpan.in/bank-of-india-so-recruitment-2026-205-posts) (shares: 2026, आधिकारिक, आवेदन, भर्ती)
+- Link to [Rajasthan RVUNL Recruitment 2026: 2005 Posts](https://examdarpan.in/rajasthan-rvunl-recruitment-2026-junior-engineer-junior-accountant-junior-assistant) (shares: 2026, आधिकारिक, आवेदन, भर्ती)

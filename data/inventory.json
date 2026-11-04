@@ -3082,7 +3082,7 @@
    "in_sitemap": true,
    "last_error": null,
    "last_failure_at": null,
-   "last_fetched": "2026-10-28T14:18:44Z",
+   "last_fetched": "2026-11-04T23:54:02Z",
    "lastmod": null,
    "needs_refresh": false,
    "page": {
@@ -3253,12 +3253,12 @@
    "in_sitemap": true,
    "last_error": null,
    "last_failure_at": null,
-   "last_fetched": "2026-10-28T19:39:21Z",
+   "last_fetched": "2026-11-04T23:54:02Z",
    "lastmod": "2026-10-19T02:18:10.891000Z",
    "needs_refresh": false,
    "page": {
     "canonical": "https://examdarpan.in/east-coast-railway-apprentice-2026",
-    "content_hash": "ec94903c44c49d9f",
+    "content_hash": "2c40303585c1b0bc",
     "deadline_dates": [
      "2026-09-15",
      "2026-10-16",
@@ -3300,14 +3300,14 @@
     ],
     "internal_links": [
      "https://examdarpan.in/author/deepak-joshi",
+     "https://examdarpan.in/rrc-nwr-apprentice-recruitment-2026",
      "https://examdarpan.in/rrb-station-master-recruitment-2026",
      "https://examdarpan.in/rrb-ntpc-ug-recruitment-2026",
      "https://examdarpan.in/rrb-ntpc-graduate-recruitment-2026",
      "https://examdarpan.in/rrb-je-recruitment-2026-cbt-1-exam-date",
      "https://examdarpan.in/rrb-ntpc-recruitment-2026-5165-vacancy",
      "https://examdarpan.in/canara-bank-apprentice-recruitment-2026",
-     "https://examdarpan.in/ssc-cpo-recruitment-2026",
-     "https://examdarpan.in/rajasthan-ptet-2026-direct-admission"
+     "https://examdarpan.in/ssc-cpo-recruitment-2026"
     ],
     "lang": "hi",
     "modified": "2026-10-19",
@@ -3318,16 +3318,16 @@
       17
      ],
      [
+      "recruitment 2026",
+      13
+     ],
+     [
       "coast railway apprentice",
       12
      ],
      [
-      "recruitment 2026",
-      12
-     ],
-     [
       "सितंबर 2026",
-      12
+      11
      ],
      [
       "नियमों के अनुसार",
@@ -3335,7 +3335,7 @@
      ],
      [
       "act apprentice",
-      9
+      10
      ],
      [
       "apprentice 2026",
@@ -3343,22 +3343,22 @@
      ],
      [
       "jobs update",
-      8
+      9
      ],
      [
       "merit list",
       8
      ],
      [
-      "15 सितंबर 2026",
-      6
-     ],
-     [
       "railway jobs update",
-      6
+      7
      ],
      [
       "2026 27",
+      7
+     ],
+     [
+      "15 सितंबर 2026",
       6
      ]
     ],
@@ -3377,15 +3377,15 @@
      ],
      [
       "apprentice",
-      30
+      32
      ],
      [
       "railway",
-      26
+      28
      ],
      [
       "भर्ती",
-      25
+      26
      ],
      [
       "notification",
@@ -3400,6 +3400,10 @@
       19
      ],
      [
+      "रेलवे",
+      18
+     ],
+     [
       "coast",
       17
      ],
@@ -3412,24 +3416,21 @@
       17
      ],
      [
-      "रेलवे",
-      17
+      "recruitment",
+      16
      ],
      [
       "ट्रेड",
       16
      ],
      [
-      "recruitment",
-      15
-     ],
-     [
-      "प्रक्रिया",
+      "संबंधित",
       13
      ]
     ],
-    "word_count": 2085,
+    "word_count": 2090,
     "years": [
+     2008,
      2026
     ]
    }
@@ -3440,7 +3441,7 @@
    "in_sitemap": true,
    "last_error": null,
    "last_failure_at": null,
-   "last_fetched": "2026-10-28T19:39:21Z",
+   "last_fetched": "2026-11-04T23:54:02Z",
    "lastmod": null,
    "needs_refresh": false,
    "page": {
