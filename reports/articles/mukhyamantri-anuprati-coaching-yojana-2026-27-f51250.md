@@ -3,7 +3,7 @@
 URL: https://examdarpan.in/mukhyamantri-anuprati-coaching-yojana-2026-27
 
 **SEO health score: 84/100** (this is this agent's own checklist score, not a Google score)
-Words: 1962 | Last read: 2026-10-28T19:39:21Z | Published: 2026-09-13 | Updated: 2026-10-10
+Words: 1962 | Last read: 2026-11-05T03:58:36Z | Published: 2026-09-13 | Updated: 2026-10-10
 
 ## Things to fix
 

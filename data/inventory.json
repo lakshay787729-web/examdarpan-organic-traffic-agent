@@ -4005,7 +4005,7 @@
    "in_sitemap": true,
    "last_error": null,
    "last_failure_at": null,
-   "last_fetched": "2026-10-28T19:39:21Z",
+   "last_fetched": "2026-11-05T03:58:36Z",
    "lastmod": "2026-10-10T11:52:01.886000Z",
    "needs_refresh": false,
    "page": {
@@ -4198,7 +4198,7 @@
    "in_sitemap": true,
    "last_error": null,
    "last_failure_at": null,
-   "last_fetched": "2026-10-28T23:30:36Z",
+   "last_fetched": "2026-11-05T03:58:36Z",
    "lastmod": null,
    "needs_refresh": false,
    "page": {
@@ -4364,12 +4364,12 @@
    "in_sitemap": true,
    "last_error": null,
    "last_failure_at": null,
-   "last_fetched": "2026-10-28T23:30:36Z",
+   "last_fetched": "2026-11-05T03:58:36Z",
    "lastmod": "2026-10-16T06:20:31.182000Z",
    "needs_refresh": false,
    "page": {
     "canonical": "https://examdarpan.in/rajasthan-ambedkar-dbt-voucher-yojana-2026-27",
-    "content_hash": "f47baedef2e10ce3",
+    "content_hash": "3c3b79334c50c408",
     "deadline_dates": [
      "2026-10-09",
      "2026-10-14",
@@ -4419,13 +4419,13 @@
     "internal_links": [
      "https://examdarpan.in/author/deepak-joshi",
      "https://examdarpan.in/rajasthan-scooty-yojana-2026-27",
+     "https://examdarpan.in/rrc-nwr-apprentice-recruitment-2026",
      "https://examdarpan.in/assam-rifles-group-c-recruitment-2026",
      "https://examdarpan.in/rrb-station-master-recruitment-2026",
      "https://examdarpan.in/rrb-ntpc-ug-recruitment-2026",
      "https://examdarpan.in/rajasthan-ptet-fee-refund-2026",
      "https://examdarpan.in/ugc-net-december-2026-apply-online",
-     "https://examdarpan.in/rajasthan-ldc-score-card-2026",
-     "https://examdarpan.in/rajasthan-ldc-result-2026"
+     "https://examdarpan.in/rajasthan-ldc-score-card-2026"
     ],
     "lang": "hi",
     "modified": "2026-10-16",
@@ -4437,11 +4437,11 @@
      ],
      [
       "अक्टूबर 2026",
-      17
+      16
      ],
      [
       "2026 27",
-      14
+      15
      ],
      [
       "जन आधार",
@@ -4468,15 +4468,15 @@
       9
      ],
      [
+      "नवंबर 2026",
+      9
+     ],
+     [
       "₹20 000",
       9
      ],
      [
       "dbt वाउचर योजना",
-      8
-     ],
-     [
-      "अम्बेडकर dbt वाउचर",
       8
      ]
     ],
@@ -4510,10 +4510,6 @@
       20
      ],
      [
-      "अक्टूबर",
-      19
-     ],
-     [
       "आय",
       19
      ],
@@ -4523,6 +4519,10 @@
      ],
      [
       "अंतिम",
+      18
+     ],
+     [
+      "अक्टूबर",
       18
      ],
      [
@@ -4546,8 +4546,9 @@
       15
      ]
     ],
-    "word_count": 2643,
+    "word_count": 2652,
     "years": [
+     2008,
      2026
     ]
    }
@@ -11925,6 +11926,6 @@
  },
  "meta": {
   "schema": 1,
-  "sitemap_slot": 83047
+  "sitemap_slot": 83048
  }
 }

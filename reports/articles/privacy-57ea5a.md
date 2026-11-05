@@ -3,7 +3,7 @@
 URL: https://examdarpan.in/privacy
 
 **SEO health score: 80/100** (this is this agent's own checklist score, not a Google score)
-Words: 951 | Last read: 2026-10-28T23:30:36Z | Published: unknown | Updated: unknown
+Words: 951 | Last read: 2026-11-05T03:58:36Z | Published: unknown | Updated: unknown
 
 ## Things to fix
 
