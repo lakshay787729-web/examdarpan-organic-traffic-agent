@@ -4559,19 +4559,18 @@
    "in_sitemap": true,
    "last_error": null,
    "last_failure_at": null,
-   "last_fetched": "2026-10-28T23:30:36Z",
+   "last_fetched": "2026-11-05T11:55:47Z",
    "lastmod": "2026-10-07T08:11:04.896000Z",
    "needs_refresh": false,
    "page": {
     "canonical": "https://examdarpan.in/rajasthan-bstc-fee-refund-2026",
-    "content_hash": "abe38f8d00ec12a7",
+    "content_hash": "992a95d6c214a0c5",
     "deadline_dates": [
      "2026-09-24",
      "2026-09-26",
      "2026-10-07",
      "2026-10-10",
      "2026-10-12",
-     "2026-10-16",
      "2026-10-21",
      "2026-10-22",
      "2026-10-25",
@@ -4623,11 +4622,11 @@
      "https://examdarpan.in/category-university-college",
      "https://examdarpan.in/rajasthan-ptet-fee-refund-2026",
      "https://examdarpan.in/rajasthan-veterinary-admission-2026-1240-seats",
+     "https://examdarpan.in/rrc-nwr-apprentice-recruitment-2026",
      "https://examdarpan.in/jee-main-2027-registration",
      "https://examdarpan.in/assam-rifles-group-c-recruitment-2026",
      "https://examdarpan.in/rrb-station-master-recruitment-2026",
-     "https://examdarpan.in/rajasthan-ambedkar-dbt-voucher-yojana-2026-27",
-     "https://examdarpan.in/rrb-ntpc-ug-recruitment-2026"
+     "https://examdarpan.in/rajasthan-ambedkar-dbt-voucher-yojana-2026-27"
     ],
     "lang": "hi",
     "modified": "2026-10-07",
@@ -4635,7 +4634,7 @@
     "phrases": [
      [
       "अक्टूबर 2026",
-      22
+      21
      ],
      [
       "fee refund",
@@ -4643,7 +4642,7 @@
      ],
      [
       "last date",
-      15
+      14
      ],
      [
       "refund 2026",
@@ -4697,7 +4696,7 @@
      ],
      [
       "अक्टूबर",
-      37
+      36
      ],
      [
       "bstc",
@@ -4729,14 +4728,10 @@
      ],
      [
       "date",
-      16
+      15
      ],
      [
       "आवेदन",
-      16
-     ],
-     [
-      "last",
       15
      ],
      [
@@ -4746,10 +4741,15 @@
      [
       "फॉर्म",
       15
+     ],
+     [
+      "last",
+      14
      ]
     ],
-    "word_count": 2450,
+    "word_count": 2454,
     "years": [
+     2008,
      2026,
      2027
     ]
@@ -4761,7 +4761,7 @@
    "in_sitemap": true,
    "last_error": null,
    "last_failure_at": null,
-   "last_fetched": "2026-10-29T02:43:07Z",
+   "last_fetched": "2026-11-05T11:55:47Z",
    "lastmod": "2026-10-06T12:10:44.938000Z",
    "needs_refresh": false,
    "page": {
@@ -4951,7 +4951,7 @@
    "in_sitemap": true,
    "last_error": null,
    "last_failure_at": null,
-   "last_fetched": "2026-10-29T02:43:07Z",
+   "last_fetched": "2026-11-05T11:55:47Z",
    "lastmod": "2026-10-06T12:12:03.940000Z",
    "needs_refresh": false,
    "page": {
@@ -11926,6 +11926,6 @@
  },
  "meta": {
   "schema": 1,
-  "sitemap_slot": 83048
+  "sitemap_slot": 83049
  }
 }
