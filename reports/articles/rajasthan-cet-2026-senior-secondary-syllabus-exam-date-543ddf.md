@@ -3,7 +3,7 @@
 URL: https://examdarpan.in/rajasthan-cet-2026-senior-secondary-syllabus-exam-date
 
 **SEO health score: 90/100** (this is this agent's own checklist score, not a Google score)
-Words: 1902 | Last read: 2026-10-29T02:43:07Z | Published: 2026-09-28 | Updated: 2026-10-06
+Words: 1902 | Last read: 2026-11-05T19:19:13Z | Published: 2026-09-28 | Updated: 2026-10-06
 
 ## Things to fix
 
