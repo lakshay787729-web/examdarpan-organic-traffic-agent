@@ -3,11 +3,11 @@
 URL: https://examdarpan.in/rrb-ntpc-graduate-recruitment-2026
 
 **SEO health score: 90/100** (this is this agent's own checklist score, not a Google score)
-Words: 2316 | Last read: 2026-10-29T20:40:38Z | Published: 2026-09-27 | Updated: 2026-10-08
+Words: 2320 | Last read: 2026-11-06T07:06:14Z | Published: 2026-09-27 | Updated: 2026-10-08
 
 ## Things to fix
 
-- **MEDIUM**: Mentions deadline date(s) already passed: 2026-10-09, 2026-10-16, 2026-10-21.  
+- **MEDIUM**: Mentions deadline date(s) already passed: 2026-10-16, 2026-10-21, 2026-10-22.  
   Fix: Make clear whether applications are closed, or update after checking the official notice.
 - **LOW**: 4 image(s) without alt text.  
   Fix: Add short descriptive alt text.
@@ -29,7 +29,7 @@ _These are ideas taken from the article text. They are NOT search-volume numbers
 - RRB NTPC Recruitment 2026 – Important Dates (sub-heading (H2))
 - RRB NTPC Graduate Recruitment 2026 – Educational Qualification (sub-heading (H2))
 - rrb ntpc (repeated in text, appears 41 times)
-- recruitment 2026 (repeated in text, appears 19 times)
+- recruitment 2026 (repeated in text, appears 20 times)
 - cen 06 2026 (repeated in text, appears 18 times)
 - ntpc graduate (repeated in text, appears 17 times)
 
