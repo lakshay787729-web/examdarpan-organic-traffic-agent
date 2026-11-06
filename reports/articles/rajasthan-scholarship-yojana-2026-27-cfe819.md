@@ -3,7 +3,7 @@
 URL: https://examdarpan.in/rajasthan-scholarship-yojana-2026-27
 
 **SEO health score: 90/100** (this is this agent's own checklist score, not a Google score)
-Words: 1282 | Last read: 2026-10-29T15:47:00Z | Published: 2026-10-04 | Updated: 2026-10-06
+Words: 1282 | Last read: 2026-11-06T00:24:46Z | Published: 2026-10-04 | Updated: 2026-10-06
 
 ## Things to fix
 

@@ -3,7 +3,7 @@
 URL: https://examdarpan.in/rajasthan-scooty-yojana-2026-27
 
 **SEO health score: 87/100** (this is this agent's own checklist score, not a Google score)
-Words: 1236 | Last read: 2026-10-29T15:47:00Z | Published: 2026-09-30 | Updated: 2026-10-12
+Words: 1236 | Last read: 2026-11-06T00:24:46Z | Published: 2026-09-30 | Updated: 2026-10-12
 
 ## Things to fix
 
