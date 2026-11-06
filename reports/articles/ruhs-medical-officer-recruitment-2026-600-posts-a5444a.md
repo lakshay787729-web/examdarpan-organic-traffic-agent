@@ -3,11 +3,11 @@
 URL: https://examdarpan.in/ruhs-medical-officer-recruitment-2026-600-posts
 
 **SEO health score: 87/100** (this is this agent's own checklist score, not a Google score)
-Words: 2102 | Last read: 2026-10-30T12:41:45Z | Published: 2026-09-15 | Updated: 2026-10-19
+Words: 2100 | Last read: 2026-11-06T20:41:43Z | Published: 2026-09-15 | Updated: 2026-10-19
 
 ## Things to fix
 
-- **MEDIUM**: Mentions deadline date(s) already passed: 2026-09-13, 2026-10-13, 2026-10-16.  
+- **MEDIUM**: Mentions deadline date(s) already passed: 2026-10-13, 2026-10-16, 2026-10-21.  
   Fix: Make clear whether applications are closed, or update after checking the official notice.
 - **LOW**: Meta description is long (164 characters).  
   Fix: Shorten to about 160 characters.
@@ -33,7 +33,7 @@ _These are ideas taken from the article text. They are NOT search-volume numbers
 - medical officer (repeated in text, appears 33 times)
 - ruhs medical officer (repeated in text, appears 25 times)
 - एडमिट कार्ड (repeated in text, appears 19 times)
-- recruitment 2026 (repeated in text, appears 17 times)
+- recruitment 2026 (repeated in text, appears 16 times)
 
 ### Topics the article does not mention yet
 _Add a section only if it is relevant AND you can confirm the facts from the official notice._

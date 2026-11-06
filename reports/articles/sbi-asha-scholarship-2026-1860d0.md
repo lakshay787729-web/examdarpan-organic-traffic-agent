@@ -3,11 +3,11 @@
 URL: https://examdarpan.in/sbi-asha-scholarship-2026
 
 **SEO health score: 87/100** (this is this agent's own checklist score, not a Google score)
-Words: 2045 | Last read: 2026-10-30T12:41:45Z | Published: 2026-09-22 | Updated: 2026-09-22
+Words: 2039 | Last read: 2026-11-06T20:41:43Z | Published: 2026-09-22 | Updated: 2026-09-22
 
 ## Things to fix
 
-- **MEDIUM**: Mentions deadline date(s) already passed: 2026-09-13, 2026-09-19, 2026-09-30.  
+- **MEDIUM**: Mentions deadline date(s) already passed: 2026-09-19, 2026-09-30.  
   Fix: Make clear whether applications are closed, or update after checking the official notice.
 - **LOW**: 4 image(s) without alt text.  
   Fix: Add short descriptive alt text.
