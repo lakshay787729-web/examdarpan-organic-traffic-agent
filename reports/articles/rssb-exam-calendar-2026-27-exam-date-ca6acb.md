@@ -3,7 +3,7 @@
 URL: https://examdarpan.in/rssb-exam-calendar-2026-27-exam-date
 
 **SEO health score: 87/100** (this is this agent's own checklist score, not a Google score)
-Words: 1417 | Last read: 2026-10-30T06:03:27Z | Published: 2026-09-29 | Updated: 2026-10-06
+Words: 1417 | Last read: 2026-11-06T14:57:57Z | Published: 2026-09-29 | Updated: 2026-10-06
 
 ## Things to fix
 

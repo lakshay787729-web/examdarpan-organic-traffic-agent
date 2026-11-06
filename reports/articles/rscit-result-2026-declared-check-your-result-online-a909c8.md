@@ -3,7 +3,7 @@
 URL: https://examdarpan.in/rscit-result-2026-declared-check-your-result-online
 
 **SEO health score: 90/100** (this is this agent's own checklist score, not a Google score)
-Words: 699 | Last read: 2026-10-30T06:03:27Z | Published: 2026-09-02 | Updated: 2026-09-02
+Words: 700 | Last read: 2026-11-06T14:57:57Z | Published: 2026-09-02 | Updated: 2026-09-02
 
 ## Things to fix
 
@@ -27,11 +27,11 @@ _These are ideas taken from the article text. They are NOT search-volume numbers
 - RSCIT Result 2026: एक नज़र में (sub-heading (H2))
 - आधिकारिक स्रोत से सत्यापन (sub-heading (H2))
 - Related Updates (sub-heading (H2))
-- result 2026 (repeated in text, appears 6 times)
+- apply online (repeated in text, appears 5 times)
 - अक्टूबर 2026 (repeated in text, appears 5 times)
-- सितंबर 2026 (repeated in text, appears 5 times)
-- apply online (repeated in text, appears 4 times)
 - jobs update (repeated in text, appears 4 times)
+- rajasthan ldc (repeated in text, appears 4 times)
+- recruitment 2026 (repeated in text, appears 4 times)
 
 ### Topics the article does not mention yet
 _Add a section only if it is relevant AND you can confirm the facts from the official notice._
@@ -46,5 +46,5 @@ Possible search phrases for those sections (estimates):
 ## Internal links you could add
 
 - Link to [सरकारी योजनाएं | Exam Darpan](https://examdarpan.in/category-yojana) (shares: 2026, apply, online, rajasthan, अक्टूबर)
-- Link to [Rajasthan CET Exam Date 2026: नई परीक्षा तिथि जारी, 12वीं और Grad](https://examdarpan.in/rajasthan-cet-2026-new-exam-date) (shares: 2026, date, rajasthan, आवेदन, जारी)
 - Link to [Rajasthan CET 2026: Senior Secondary Syllabus, Exam](https://examdarpan.in/rajasthan-cet-2026-senior-secondary-syllabus-exam-date) (shares: 2026, rajasthan, update, अक्टूबर, आवेदन)
+- Link to [Rajasthan PTET 2026 Admission: Latest Update](https://examdarpan.in/rajasthan-ptet-2026-direct-admission) (shares: 2026, rajasthan, update, अक्टूबर, आधिकारिक)

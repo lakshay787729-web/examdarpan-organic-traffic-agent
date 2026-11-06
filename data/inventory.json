@@ -9059,12 +9059,12 @@
    "in_sitemap": true,
    "last_error": null,
    "last_failure_at": null,
-   "last_fetched": "2026-10-30T06:03:27Z",
+   "last_fetched": "2026-11-06T14:57:57Z",
    "lastmod": "2026-09-02T09:24:29.282000Z",
    "needs_refresh": false,
    "page": {
     "canonical": "https://examdarpan.in/rscit-result-2026-declared-check-your-result-online",
-    "content_hash": "9f1f6309bad6cfd4",
+    "content_hash": "7a2bdcb3bdd332fb",
     "deadline_dates": [
      "2026-09-26",
      "2026-10-09",
@@ -9101,32 +9101,24 @@
      "https://examdarpan.in/author/deepak-joshi",
      "https://examdarpan.in/rajasthan-ldc-result-2026",
      "https://examdarpan.in/rajasthan-ldc-score-card-2026",
+     "https://examdarpan.in/rrc-nwr-apprentice-recruitment-2026",
      "https://examdarpan.in/rrb-station-master-recruitment-2026",
      "https://examdarpan.in/rajasthan-ambedkar-dbt-voucher-yojana-2026-27",
      "https://examdarpan.in/ugc-net-december-2026-apply-online",
      "https://examdarpan.in/rrb-ntpc-graduate-recruitment-2026",
-     "https://examdarpan.in/rajasthan-bstc-fee-refund-2026",
-     "https://examdarpan.in/india-post-gds-recruitment-2026-bpm-25-000"
+     "https://examdarpan.in/rajasthan-bstc-fee-refund-2026"
     ],
     "lang": "hi",
     "modified": "2026-09-02",
     "noindex": false,
     "phrases": [
      [
-      "result 2026",
-      6
+      "apply online",
+      5
      ],
      [
       "अक्टूबर 2026",
       5
-     ],
-     [
-      "सितंबर 2026",
-      5
-     ],
-     [
-      "apply online",
-      4
      ],
      [
       "jobs update",
@@ -9134,6 +9126,14 @@
      ],
      [
       "rajasthan ldc",
+      4
+     ],
+     [
+      "recruitment 2026",
+      4
+     ],
+     [
+      "result 2026",
       4
      ],
      [
@@ -9145,19 +9145,19 @@
       4
      ],
      [
+      "सितंबर 2026",
+      4
+     ],
+     [
+      "2026 railway jobs",
+      3
+     ],
+     [
+      "railway jobs update",
+      3
+     ],
+     [
       "rscit result 2026",
-      3
-     ],
-     [
-      "करने से पहले",
-      3
-     ],
-     [
-      "last date",
-      3
-     ],
-     [
-      "recruitment 2026",
       3
      ]
     ],
@@ -9179,7 +9179,7 @@
       9
      ],
      [
-      "result",
+      "online",
       8
      ],
      [
@@ -9187,11 +9187,7 @@
       8
      ],
      [
-      "जारी",
-      8
-     ],
-     [
-      "online",
+      "apply",
       7
      ],
      [
@@ -9199,19 +9195,15 @@
       7
      ],
      [
-      "अक्टूबर",
-      7
-     ],
-     [
       "आवेदन",
       7
      ],
      [
-      "apply",
-      6
+      "जारी",
+      7
      ],
      [
-      "date",
+      "result",
       6
      ],
      [
@@ -9219,16 +9211,25 @@
       6
      ],
      [
+      "अक्टूबर",
+      6
+     ],
+     [
       "ऑनलाइन",
       6
      ],
      [
-      "जानकारी",
-      6
+      "date",
+      5
+     ],
+     [
+      "fee",
+      5
      ]
     ],
-    "word_count": 699,
+    "word_count": 700,
     "years": [
+     2008,
      2026
     ]
    }
@@ -9239,7 +9240,7 @@
    "in_sitemap": true,
    "last_error": null,
    "last_failure_at": null,
-   "last_fetched": "2026-10-30T06:03:27Z",
+   "last_fetched": "2026-11-06T14:57:57Z",
    "lastmod": "2026-10-06T13:54:00.892000Z",
    "needs_refresh": false,
    "page": {
@@ -9428,7 +9429,7 @@
    "in_sitemap": true,
    "last_error": null,
    "last_failure_at": null,
-   "last_fetched": "2026-10-30T06:03:27Z",
+   "last_fetched": "2026-11-06T14:57:57Z",
    "lastmod": "2026-09-08T03:13:00.259000Z",
    "needs_refresh": false,
    "page": {
@@ -11926,6 +11927,6 @@
  },
  "meta": {
   "schema": 1,
-  "sitemap_slot": 83053
+  "sitemap_slot": 83054
  }
 }
