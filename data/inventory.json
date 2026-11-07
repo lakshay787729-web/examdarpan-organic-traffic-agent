@@ -6569,7 +6569,7 @@
    "in_sitemap": true,
    "last_error": null,
    "last_failure_at": null,
-   "last_fetched": "2026-10-31T17:58:07Z",
+   "last_fetched": "2026-11-07T21:36:56Z",
    "lastmod": "2026-10-31T09:38:33.224000Z",
    "needs_refresh": false,
    "page": {
@@ -11928,6 +11928,6 @@
  },
  "meta": {
   "schema": 1,
-  "sitemap_slot": 83058
+  "sitemap_slot": 83059
  }
 }
