@@ -3,7 +3,7 @@
 URL: https://examdarpan.in/upi-payment-new-rule-2026-2000-above-mdr-charge
 
 **SEO health score: 87/100** (this is this agent's own checklist score, not a Google score)
-Words: 1631 | Last read: 2026-10-31T01:40:10Z | Published: 2026-09-16 | Updated: 2026-09-16
+Words: 1632 | Last read: 2026-11-07T13:03:32Z | Published: 2026-09-16 | Updated: 2026-09-16
 
 ## Things to fix
 
@@ -30,7 +30,7 @@ _These are ideas taken from the article text. They are NOT search-volume numbers
 - रेलवे, टेलीकॉम, बीमा और पेट्रोल-डीजल पर कितना शुल्क? (sub-heading (H2))
 - ₹2 000 (repeated in text, appears 11 times)
 - upi भुगतान (repeated in text, appears 10 times)
-- अक्टूबर 2026 (repeated in text, appears 10 times)
+- अक्टूबर 2026 (repeated in text, appears 9 times)
+- 2026 27 (repeated in text, appears 7 times)
 - पात्र मर्चेंट (repeated in text, appears 7 times)
 - मर्चेंट upi (repeated in text, appears 7 times)
-- सितंबर 2026 (repeated in text, appears 7 times)

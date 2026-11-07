@@ -3,7 +3,7 @@
 URL: https://examdarpan.in/category-police-defence-jobs
 
 **SEO health score: 65/100** (this is this agent's own checklist score, not a Google score)
-Words: 42 | Last read: 2026-10-31T01:40:10Z | Published: unknown | Updated: unknown
+Words: 42 | Last read: 2026-11-07T13:03:32Z | Published: unknown | Updated: unknown
 
 ## Things to fix
 
