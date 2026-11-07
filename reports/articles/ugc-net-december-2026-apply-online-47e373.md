@@ -3,7 +3,7 @@
 URL: https://examdarpan.in/ugc-net-december-2026-apply-online
 
 **SEO health score: 87/100** (this is this agent's own checklist score, not a Google score)
-Words: 2070 | Last read: 2026-10-30T22:19:50Z | Published: 2026-10-09 | Updated: 2026-10-09
+Words: 2071 | Last read: 2026-11-07T06:14:15Z | Published: 2026-10-09 | Updated: 2026-10-09
 
 ## Things to fix
 

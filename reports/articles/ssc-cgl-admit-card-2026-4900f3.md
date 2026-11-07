@@ -53,4 +53,4 @@ Possible search phrases for those sections (estimates):
 
 - Link to [Admit Card | Exam Darpan](https://examdarpan.in/category-admit-card) (shares: 2026, admit, card, cgl, ssc)
 - Link to [SSC Jobs | Exam Darpan](https://examdarpan.in/category-ssc-jobs) (shares: 2026, admit, card, date, exam)
-- Link to [Rajasthan CET Exam Date 2026: नई परीक्षा तिथि जारी, 12वीं और Grad](https://examdarpan.in/rajasthan-cet-2026-new-exam-date) (shares: 2026, date, exam, जारी, परीक्षा)
+- Link to [SSC JE Recruitment 2026: 1,699 Vacancy, Exam Date, Salary](https://examdarpan.in/ssc-je-recruitment-2026) (shares: 2026, exam, official, ssc, परीक्षा)

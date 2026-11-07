@@ -48,5 +48,5 @@ Possible search phrases for those sections (estimates):
 ## Internal links you could add
 
 - Link to [RRB Paramedical Recruitment 2026: 590 Posts](https://examdarpan.in/rrb-paramedical-recruitment-2026) (shares: 2026, rrb, अक्टूबर, आधिकारिक, परीक्षा)
-- Link to [SSC JE Recruitment 2026: 1,699 Vacancy, Exam Date, Salary](https://examdarpan.in/ssc-je-recruitment-2026) (shares: 2026, exam, je, अक्टूबर, परीक्षा)
 - Link to [SSC CHSL 2026 Exam Date, Admit Card Update, 2536 Vacancy](https://examdarpan.in/ssc-chsl-recruitment-2026) (shares: 2026, exam, अक्टूबर, आधिकारिक, परीक्षा)
+- Link to [SSC JE Recruitment 2026: 1,699 Vacancy, Exam Date, Salary](https://examdarpan.in/ssc-je-recruitment-2026) (shares: 2026, exam, je, परीक्षा, संबंधित)

@@ -3,11 +3,11 @@
 URL: https://examdarpan.in/ssc-je-recruitment-2026
 
 **SEO health score: 90/100** (this is this agent's own checklist score, not a Google score)
-Words: 2645 | Last read: 2026-10-30T22:19:50Z | Published: 2026-09-13 | Updated: 2026-10-19
+Words: 2649 | Last read: 2026-11-07T06:14:15Z | Published: 2026-09-13 | Updated: 2026-10-19
 
 ## Things to fix
 
-- **MEDIUM**: Mentions deadline date(s) already passed: 2026-09-22, 2026-09-23, 2026-10-09.  
+- **MEDIUM**: Mentions deadline date(s) already passed: 2026-09-22, 2026-09-23, 2026-10-16.  
   Fix: Make clear whether applications are closed, or update after checking the official notice.
 - **LOW**: 4 image(s) without alt text.  
   Fix: Add short descriptive alt text.
@@ -29,8 +29,8 @@ _These are ideas taken from the article text. They are NOT search-volume numbers
 - SSC JE Application Fee 2026 (sub-heading (H2))
 - ssc je (repeated in text, appears 34 times)
 - सितंबर 2026 (repeated in text, appears 16 times)
-- अक्टूबर 2026 (repeated in text, appears 14 times)
 - junior engineer (repeated in text, appears 13 times)
+- अक्टूबर 2026 (repeated in text, appears 13 times)
 - admit card (repeated in text, appears 12 times)
 
 ### Topics the article does not mention yet
@@ -43,6 +43,6 @@ Possible search phrases for those sections (estimates):
 
 ## Internal links you could add
 
-- Link to [RRB JE Exam Date 2026: CBT-1 Admit Card, City Slip](https://examdarpan.in/rrb-je-recruitment-2026-cbt-1-exam-date) (shares: 2026, exam, je, अक्टूबर, परीक्षा)
 - Link to [SSC CGL Admit Card 2026 Out: Tier 1 Hall Ticket जारी, Download](https://examdarpan.in/ssc-cgl-admit-card-2026) (shares: 2026, exam, official, ssc, परीक्षा)
-- Link to [India Post GDS Result 2026, 1st Merit List & DV Date](https://examdarpan.in/india-post-gds-recruitment-2026-bpm-25-000) (shares: 2026, अक्टूबर, आवेदन, संबंधित)
+- Link to [RRB JE Exam Date 2026: CBT-1 Admit Card, City Slip](https://examdarpan.in/rrb-je-recruitment-2026-cbt-1-exam-date) (shares: 2026, exam, je, परीक्षा, संबंधित)
+- Link to [Rajasthan CET Exam Date 2026: नई परीक्षा तिथि जारी, 12वीं और Grad](https://examdarpan.in/rajasthan-cet-2026-new-exam-date) (shares: 2026, exam, आवेदन, परीक्षा)
