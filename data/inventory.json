@@ -10201,7 +10201,7 @@
    "in_sitemap": true,
    "last_error": null,
    "last_failure_at": null,
-   "last_fetched": "2026-10-30T18:13:08Z",
+   "last_fetched": "2026-11-07T00:20:27Z",
    "lastmod": "2026-10-12T12:36:46.482000Z",
    "needs_refresh": false,
    "page": {
@@ -10382,7 +10382,7 @@
    "in_sitemap": true,
    "last_error": null,
    "last_failure_at": null,
-   "last_fetched": "2026-10-30T18:13:08Z",
+   "last_fetched": "2026-11-07T00:20:27Z",
    "lastmod": "2026-10-19T01:49:13.152000Z",
    "needs_refresh": false,
    "page": {
@@ -10582,7 +10582,7 @@
    "in_sitemap": true,
    "last_error": null,
    "last_failure_at": null,
-   "last_fetched": "2026-10-30T18:13:08Z",
+   "last_fetched": "2026-11-07T00:20:27Z",
    "lastmod": "2026-10-19T02:07:55.698000Z",
    "needs_refresh": false,
    "page": {
@@ -11925,6 +11925,6 @@
  },
  "meta": {
   "schema": 1,
-  "sitemap_slot": 83055
+  "sitemap_slot": 83056
  }
 }
