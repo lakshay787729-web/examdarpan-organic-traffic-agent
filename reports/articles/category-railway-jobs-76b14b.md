@@ -3,7 +3,7 @@
 URL: https://examdarpan.in/category-railway-jobs
 
 **SEO health score: 41/100** (this is this agent's own checklist score, not a Google score)
-Words: 50 | Last read: 2026-11-01T17:24:46Z | Published: unknown | Updated: unknown
+Words: 50 | Last read: 2026-11-08T18:33:33Z | Published: unknown | Updated: unknown
 
 ## Things to fix
 

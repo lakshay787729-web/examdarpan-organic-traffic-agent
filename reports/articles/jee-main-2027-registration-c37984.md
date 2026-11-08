@@ -3,7 +3,7 @@
 URL: https://examdarpan.in/jee-main-2027-registration
 
 **SEO health score: 90/100** (this is this agent's own checklist score, not a Google score)
-Words: 2278 | Last read: 2026-11-01T17:24:46Z | Published: 2026-10-25 | Updated: 2026-11-01
+Words: 2278 | Last read: 2026-11-08T18:33:33Z | Published: 2026-10-25 | Updated: 2026-11-01
 
 ## Things to fix
 
