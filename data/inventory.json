@@ -1406,7 +1406,7 @@
    "in_sitemap": true,
    "last_error": null,
    "last_failure_at": null,
-   "last_fetched": "2026-11-01T11:54:43Z",
+   "last_fetched": "2026-11-08T13:54:03Z",
    "lastmod": "2026-11-01T10:01:44.145000Z",
    "needs_refresh": false,
    "page": {
@@ -8666,14 +8666,13 @@
    "in_sitemap": true,
    "last_error": null,
    "last_failure_at": null,
-   "last_fetched": "2026-11-01T11:54:43Z",
+   "last_fetched": "2026-11-08T13:54:03Z",
    "lastmod": "2026-11-01T10:41:39.032000Z",
    "needs_refresh": false,
    "page": {
     "canonical": "https://examdarpan.in/rrb-station-master-recruitment-2026",
-    "content_hash": "53b5c5831e1583c7",
+    "content_hash": "2057e3a0f29ec664",
     "deadline_dates": [
-     "2026-10-09",
      "2026-10-16",
      "2026-10-22",
      "2026-11-25",
@@ -8722,14 +8721,14 @@
      "https://examdarpan.in/author/deepak-joshi",
      "https://examdarpan.in/latest-jobs",
      "https://examdarpan.in/",
+     "https://examdarpan.in/rrc-nwr-apprentice-recruitment-2026",
      "https://examdarpan.in/rrb-ntpc-ug-recruitment-2026",
      "https://examdarpan.in/rrb-ntpc-graduate-recruitment-2026",
      "https://examdarpan.in/rrb-je-recruitment-2026-cbt-1-exam-date",
      "https://examdarpan.in/rrb-ntpc-recruitment-2026-5165-vacancy",
      "https://examdarpan.in/east-coast-railway-apprentice-2026",
      "https://examdarpan.in/assam-rifles-group-c-recruitment-2026",
-     "https://examdarpan.in/rajasthan-ambedkar-dbt-voucher-yojana-2026-27",
-     "https://examdarpan.in/ugc-net-december-2026-apply-online"
+     "https://examdarpan.in/rajasthan-ambedkar-dbt-voucher-yojana-2026-27"
     ],
     "lang": "hi",
     "modified": "2026-11-01",
@@ -8745,14 +8744,10 @@
      ],
      [
       "recruitment 2026",
-      16
+      17
      ],
      [
-      "अंतिम तिथि",
-      10
-     ],
-     [
-      "अक्टूबर 2026",
+      "नवंबर 2026",
       10
      ],
      [
@@ -8760,7 +8755,11 @@
       9
      ],
      [
-      "नवंबर 2026",
+      "अंतिम तिथि",
+      9
+     ],
+     [
+      "अक्टूबर 2026",
       9
      ],
      [
@@ -8795,7 +8794,7 @@
      ],
      [
       "आवेदन",
-      52
+      50
      ],
      [
       "rrb",
@@ -8810,16 +8809,16 @@
       32
      ],
      [
-      "अंतिम",
-      23
+      "recruitment",
+      22
      ],
      [
-      "recruitment",
-      21
+      "अंतिम",
+      22
      ],
      [
       "पद",
-      21
+      22
      ],
      [
       "निर्धारित",
@@ -8831,28 +8830,29 @@
      ],
      [
       "railway",
-      15
+      17
+     ],
+     [
+      "भर्ती",
+      16
      ],
      [
       "आधिकारिक",
       15
      ],
      [
-      "भर्ती",
-      15
-     ],
-     [
-      "exam",
+      "अनुसार",
       14
      ],
      [
-      "अनुसार",
+      "करने",
       14
      ]
     ],
-    "word_count": 2605,
+    "word_count": 2609,
     "years": [
      2007,
+     2008,
      2026,
      2027
     ]
@@ -11928,6 +11928,6 @@
  },
  "meta": {
   "schema": 1,
-  "sitemap_slot": 83061
+  "sitemap_slot": 83062
  }
 }

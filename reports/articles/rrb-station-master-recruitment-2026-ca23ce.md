@@ -3,11 +3,11 @@
 URL: https://examdarpan.in/rrb-station-master-recruitment-2026
 
 **SEO health score: 90/100** (this is this agent's own checklist score, not a Google score)
-Words: 2605 | Last read: 2026-11-01T11:54:43Z | Published: 2026-10-21 | Updated: 2026-11-01
+Words: 2609 | Last read: 2026-11-08T13:54:03Z | Published: 2026-10-21 | Updated: 2026-11-01
 
 ## Things to fix
 
-- **MEDIUM**: Mentions deadline date(s) already passed: 2026-10-09, 2026-10-16, 2026-10-22.  
+- **MEDIUM**: Mentions deadline date(s) already passed: 2026-10-16, 2026-10-22.  
   Fix: Make clear whether applications are closed, or update after checking the official notice.
 - **LOW**: 4 image(s) without alt text.  
   Fix: Add short descriptive alt text.
@@ -30,8 +30,8 @@ _These are ideas taken from the article text. They are NOT search-volume numbers
 - RRB Station Master Application Fee 2026 (sub-heading (H2))
 - station master (repeated in text, appears 32 times)
 - rrb station master (repeated in text, appears 17 times)
-- recruitment 2026 (repeated in text, appears 16 times)
-- अंतिम तिथि (repeated in text, appears 10 times)
+- recruitment 2026 (repeated in text, appears 17 times)
+- नवंबर 2026 (repeated in text, appears 10 times)
 
 ### Topics the article does not mention yet
 _Add a section only if it is relevant AND you can confirm the facts from the official notice._
@@ -45,6 +45,6 @@ Possible search phrases for those sections (estimates):
 
 ## Internal links you could add
 
-- Link to [RRB Paramedical Recruitment 2026: 590 Posts](https://examdarpan.in/rrb-paramedical-recruitment-2026) (shares: 2026, recruitment, rrb, अंतिम, आधिकारिक)
-- Link to [UP Assistant Teacher Recruitment 2026: 12,405 पदों पर भर्ती](https://examdarpan.in/up-assistant-teacher-recruitment-2026) (shares: 2026, recruitment, अंतिम, आधिकारिक, आवेदन)
+- Link to [RRB Paramedical Recruitment 2026: 590 Posts](https://examdarpan.in/rrb-paramedical-recruitment-2026) (shares: 2026, recruitment, rrb, अंतिम, आवेदन)
 - Link to [UPSC Recruitment 2026: 212 Posts, Latest Update](https://examdarpan.in/upsc-recruitment-2026-212-posts) (shares: 2026, recruitment, अंतिम, आवेदन, निर्धारित)
+- Link to [CRPF Sports Quota Recruitment 2026: 521 Vacancy, Sports Certifica](https://examdarpan.in/crpf-sports-quota-recruitment-2026) (shares: 2026, recruitment, आवेदन, निर्धारित, पद)
