@@ -3,7 +3,7 @@
 URL: https://examdarpan.in/bank-of-india-so-recruitment-2026-205-posts
 
 **SEO health score: 90/100** (this is this agent's own checklist score, not a Google score)
-Words: 1713 | Last read: 2026-11-01T21:18:08Z | Published: 2026-09-03 | Updated: 2026-10-25
+Words: 1713 | Last read: 2026-11-08T22:25:50Z | Published: 2026-09-03 | Updated: 2026-10-25
 
 ## Things to fix
 
