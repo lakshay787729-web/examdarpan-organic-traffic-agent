@@ -3,11 +3,11 @@
 URL: https://examdarpan.in/rajasthan-rvunl-recruitment-2026-junior-engineer-junior-accountant-junior-assistant
 
 **SEO health score: 87/100** (this is this agent's own checklist score, not a Google score)
-Words: 1420 | Last read: 2026-11-02T06:55:09Z | Published: 2026-09-03 | Updated: 2026-10-25
+Words: 1428 | Last read: 2026-11-09T19:10:23Z | Published: 2026-09-03 | Updated: 2026-10-25
 
 ## Things to fix
 
-- **MEDIUM**: Mentions deadline date(s) already passed: 2026-08-31, 2026-09-15, 2026-10-16.  
+- **MEDIUM**: Mentions deadline date(s) already passed: 2026-08-31, 2026-09-15, 2026-10-21.  
   Fix: Make clear whether applications are closed, or update after checking the official notice.
 - **LOW**: Meta description is long (168 characters).  
   Fix: Shorten to about 160 characters.
@@ -49,6 +49,6 @@ Possible search phrases for those sections (estimates):
 
 ## Internal links you could add
 
-- Link to [Rajasthan PTI Recruitment 2026: 1200 पद, योग्यता, आयु सीमा व लेटेस्ट अपडेट](https://examdarpan.in/rajasthan-pti-recruitment-2026) (shares: 2026, rajasthan, recruitment, आधिकारिक, आवेदन)
-- Link to [Rajasthan Tax Assistant Vacancy 2026: 300 पद, योग्यता, आयु सीमा व RSSB Update](https://examdarpan.in/rajasthan-tax-assistant-recruitment) (shares: 2026, assistant, rajasthan, recruitment, आधिकारिक)
+- Link to [Bank of India SO Recruitment 2026: 205 Posts](https://examdarpan.in/bank-of-india-so-recruitment-2026-205-posts) (shares: 2026, recruitment, आधिकारिक, आवेदन, पदों)
+- Link to [Rajasthan Government Jobs 2026 | Rajasthan Vacancy, RPSC, RSSB & Police Jobs | Exam Darpan](https://examdarpan.in/rajasthan-government-jobs) (shares: 2026, assistant, rajasthan, recruitment, पदों)
 - Link to [UP Assistant Teacher Recruitment 2026: 12,405 पदों पर भर्ती](https://examdarpan.in/up-assistant-teacher-recruitment-2026) (shares: 2026, recruitment, आधिकारिक, आवेदन, तिथि)
