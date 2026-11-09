@@ -49,4 +49,4 @@ Possible search phrases for those sections (estimates):
 
 - Link to [Assam Rifles Group C Recruitment 2026: 354 Posts, Apply](https://examdarpan.in/assam-rifles-group-c-recruitment-2026) (shares: 2026, अनुसार, आधिकारिक, आवेदन, भर्ती)
 - Link to [Bank of India SO Recruitment 2026: 205 Posts](https://examdarpan.in/bank-of-india-so-recruitment-2026-205-posts) (shares: 2026, आधिकारिक, आवेदन, भर्ती)
-- Link to [Rajasthan RVUNL Recruitment 2026: 2005 Posts](https://examdarpan.in/rajasthan-rvunl-recruitment-2026-junior-engineer-junior-accountant-junior-assistant) (shares: 2026, आधिकारिक, आवेदन, भर्ती)
+- Link to [Rajasthan PTI Recruitment 2026: 1200 पद, योग्यता, आयु सीमा व लेटेस्ट अपडेट](https://examdarpan.in/rajasthan-pti-recruitment-2026) (shares: 2026, आधिकारिक, आवेदन, भर्ती)

@@ -45,4 +45,4 @@ Possible search phrases for those sections (estimates):
 
 - Link to [Answer Key | Exam Darpan](https://examdarpan.in/category-answer-key) (shares: 2026, answer, exam, key, si)
 - Link to [RPSC SI Admit Card 2026 जारी](https://examdarpan.in/rpsc-si-admit-card-2026-download) (shares: 2026, exam, rpsc, si, जारी)
-- Link to [SSC CPO Exam Date 2026, Admit Card & Latest Update](https://examdarpan.in/ssc-cpo-recruitment-2026) (shares: 2026, exam, अंतिम, आधिकारिक, जारी)
+- Link to [Rajasthan PTI Recruitment 2026: 1200 पद, योग्यता, आयु सीमा व लेटेस्ट अपडेट](https://examdarpan.in/rajasthan-pti-recruitment-2026) (shares: 2026, rajasthan, अंतिम, आधिकारिक, जारी)

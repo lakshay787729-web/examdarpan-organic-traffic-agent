@@ -51,4 +51,4 @@ Possible search phrases for those sections (estimates):
 
 - Link to [All India Government Jobs 2026 – Latest Central Govt Jobs | Exam Darpan](https://examdarpan.in/all-india-government-jobs) (shares: 2026, crpf, quota, recruitment, sports)
 - Link to [RRB Station Master Recruitment 2026: Apply Online](https://examdarpan.in/rrb-station-master-recruitment-2026) (shares: 2026, recruitment, आवेदन, निर्धारित, पद)
-- Link to [RRB NTPC Graduate Recruitment 2026: 3548 पदों पर भर्ती](https://examdarpan.in/rrb-ntpc-graduate-recruitment-2026) (shares: 2026, recruitment, आवेदन, पद, भर्ती)
+- Link to [Rajasthan PTI Recruitment 2026: 1200 पद, योग्यता, आयु सीमा व लेटेस्ट अपडेट](https://examdarpan.in/rajasthan-pti-recruitment-2026) (shares: 2026, recruitment, आवेदन, पद, भर्ती)

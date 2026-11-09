@@ -70,5 +70,5 @@ Possible search phrases for those sections (estimates):
 ## Internal links you could add
 
 - Link to [Bank of India SO Recruitment 2026: 205 Posts](https://examdarpan.in/bank-of-india-so-recruitment-2026-205-posts) (shares: 2026, recruitment, पदों, परीक्षा, भर्ती)
+- Link to [Rajasthan Government Jobs 2026 | Rajasthan Vacancy, RPSC, RSSB & Police Jobs | Exam Darpan](https://examdarpan.in/rajasthan-government-jobs) (shares: 2026, recruitment, चयन, पदों, भर्ती)
 - Link to [UP Assistant Teacher Recruitment 2026: 12,405 पदों पर भर्ती](https://examdarpan.in/up-assistant-teacher-recruitment-2026) (shares: 2026, recruitment, चयन, परीक्षा, भर्ती)
-- Link to [Assam Rifles Group C Recruitment 2026: 354 Posts, Apply](https://examdarpan.in/assam-rifles-group-c-recruitment-2026) (shares: 2026, recruitment, पदों, भर्ती)

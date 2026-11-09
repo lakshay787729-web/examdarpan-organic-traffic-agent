@@ -38,5 +38,5 @@ _These are ideas taken from the article text. They are NOT search-volume numbers
 ## Internal links you could add
 
 - Link to [Rajasthan SI Answer Key 2026: Latest Update](https://examdarpan.in/rajasthan-police-si-answer-key-2026) (shares: 2026, rajasthan, आधिकारिक, सितंबर)
+- Link to [Rajasthan PTI Recruitment 2026: 1200 पद, योग्यता, आयु सीमा व लेटेस्ट अपडेट](https://examdarpan.in/rajasthan-pti-recruitment-2026) (shares: 2026, rajasthan, आधिकारिक, आवेदन)
 - Link to [Rajasthan RVUNL Recruitment 2026: 2005 Posts](https://examdarpan.in/rajasthan-rvunl-recruitment-2026-junior-engineer-junior-accountant-junior-assistant) (shares: 2026, rajasthan, आधिकारिक, आवेदन)
-- Link to [Rajasthan SET Admit Card 2026 जारी](https://examdarpan.in/rajasthan-set-admit-card-2026) (shares: 2026, rajasthan, आवेदन, सितंबर)

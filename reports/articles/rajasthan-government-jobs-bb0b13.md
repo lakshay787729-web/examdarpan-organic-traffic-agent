@@ -3,7 +3,7 @@
 URL: https://examdarpan.in/rajasthan-government-jobs
 
 **SEO health score: 69/100** (this is this agent's own checklist score, not a Google score)
-Words: 42 | Last read: 2026-11-07T17:59:41Z | Published: unknown | Updated: unknown
+Words: 42 | Last read: 2026-11-09T08:43:24Z | Published: unknown | Updated: unknown
 
 ## Things to fix
 
@@ -33,18 +33,16 @@ _These are ideas taken from the article text. They are NOT search-volume numbers
 - Rajasthan Sarkari Naukri की जानकारी कैसे verify करें? (sub-heading (H2))
 - Rajasthan Recruitment Portals (sub-heading (H2))
 - Rajasthan + All India (sub-heading (H2))
-- medical officer recruitment (repeated in text, appears 2 times)
-- officer recruitment 2026 (repeated in text, appears 2 times)
-- ruhs medical officer (repeated in text, appears 2 times)
-- 600 पदों (repeated in text, appears 2 times)
+- 300 पदों (repeated in text, appears 2 times)
+- tax assistant (repeated in text, appears 2 times)
 
 ### Topics the article does not mention yet
 _Add a section only if it is relevant AND you can confirm the facts from the official notice._
 
-- eligibility
 - last date
 - notification
 - syllabus
+- admit card
 - result
 - how to apply
 - salary
@@ -52,10 +50,10 @@ _Add a section only if it is relevant AND you can confirm the facts from the off
 - cut off
 
 Possible search phrases for those sections (estimates):
-- Rajasthan Government Jobs 2026 eligibility
 - Rajasthan Government Jobs 2026 last date
 - Rajasthan Government Jobs 2026 notification
 - Rajasthan Government Jobs 2026 syllabus
+- Rajasthan Government Jobs 2026 admit card
 - Rajasthan Government Jobs 2026 result
 - Rajasthan Government Jobs 2026 how to apply
 - Rajasthan Government Jobs 2026 salary
@@ -64,6 +62,6 @@ Possible search phrases for those sections (estimates):
 
 ## Internal links you could add
 
-- Link to [Bank of India SO Recruitment 2026: 205 Posts](https://examdarpan.in/bank-of-india-so-recruitment-2026-205-posts) (shares: 2026, officer, recruitment, आवेदन, पदों)
-- Link to [All India Government Jobs 2026 – Latest Central Govt Jobs | Exam Darpan](https://examdarpan.in/all-india-government-jobs) (shares: 2026, recruitment, पदों, परीक्षा)
-- Link to [Assam Rifles Group C Recruitment 2026: 354 Posts, Apply](https://examdarpan.in/assam-rifles-group-c-recruitment-2026) (shares: 2026, recruitment, आवेदन, पदों)
+- Link to [All India Government Jobs 2026 – Latest Central Govt Jobs | Exam Darpan](https://examdarpan.in/all-india-government-jobs) (shares: 2026, recruitment, चयन, पदों, भर्ती)
+- Link to [Rajasthan RVUNL Recruitment 2026: 2005 Posts](https://examdarpan.in/rajasthan-rvunl-recruitment-2026-junior-engineer-junior-accountant-junior-assistant) (shares: 2026, assistant, rajasthan, recruitment, भर्ती)
+- Link to [UPSC Recruitment 2026: 212 Posts, Latest Update](https://examdarpan.in/upsc-recruitment-2026-212-posts) (shares: 2026, assistant, recruitment, पदों, भर्ती)

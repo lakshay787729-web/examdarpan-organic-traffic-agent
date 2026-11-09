@@ -46,5 +46,5 @@ Possible search phrases for those sections (estimates):
 ## Internal links you could add
 
 - Link to [Bank of India SO Recruitment 2026: 205 Posts](https://examdarpan.in/bank-of-india-so-recruitment-2026-205-posts) (shares: 2026, recruitment, आधिकारिक, आवेदन, पद)
-- Link to [RRB Paramedical Recruitment 2026: 590 Posts](https://examdarpan.in/rrb-paramedical-recruitment-2026) (shares: 2026, recruitment, आधिकारिक, आवेदन, पद)
-- Link to [SBI SO Recruitment 2026: 207 Posts, Shortlisting & Interview](https://examdarpan.in/sbi-so-wealth-management-recruitment-2026) (shares: 2026, recruitment, आवेदन, पद, पदों)
+- Link to [Rajasthan PTI Recruitment 2026: 1200 पद, योग्यता, आयु सीमा व लेटेस्ट अपडेट](https://examdarpan.in/rajasthan-pti-recruitment-2026) (shares: 2026, recruitment, आधिकारिक, आवेदन, पद)
+- Link to [Rajasthan Tax Assistant Vacancy 2026: 300 पद, योग्यता, आयु सीमा व RSSB Update](https://examdarpan.in/rajasthan-tax-assistant-recruitment) (shares: 2026, recruitment, आधिकारिक, आवेदन, पद)

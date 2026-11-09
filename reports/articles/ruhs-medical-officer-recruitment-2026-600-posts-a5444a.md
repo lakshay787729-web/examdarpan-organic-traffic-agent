@@ -45,6 +45,6 @@ Possible search phrases for those sections (estimates):
 
 ## Internal links you could add
 
-- Link to [Rajasthan Government Jobs 2026 | Rajasthan Vacancy, RPSC, RSSB & Police Jobs | Exam Darpan](https://examdarpan.in/rajasthan-government-jobs) (shares: 2026, medical, officer, recruitment, ruhs)
 - Link to [Bank of India SO Recruitment 2026: 205 Posts](https://examdarpan.in/bank-of-india-so-recruitment-2026-205-posts) (shares: 2026, officer, recruitment, आधिकारिक, आवेदन)
+- Link to [Rajasthan PTI Recruitment 2026: 1200 पद, योग्यता, आयु सीमा व लेटेस्ट अपडेट](https://examdarpan.in/rajasthan-pti-recruitment-2026) (shares: 2026, recruitment, आधिकारिक, आवेदन, परीक्षा)
 - Link to [RRB Paramedical Recruitment 2026: 590 Posts](https://examdarpan.in/rrb-paramedical-recruitment-2026) (shares: 2026, recruitment, आधिकारिक, आवेदन, परीक्षा)
