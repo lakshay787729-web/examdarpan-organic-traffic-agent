@@ -3,7 +3,7 @@
 URL: https://examdarpan.in/rrb-ntpc-recruitment-2026-5165-vacancy
 
 **SEO health score: 90/100** (this is this agent's own checklist score, not a Google score)
-Words: 2098 | Last read: 2026-11-02T16:42:48Z | Published: 2026-09-06 | Updated: 2026-10-25
+Words: 2107 | Last read: 2026-11-10T02:02:07Z | Published: 2026-09-06 | Updated: 2026-10-25
 
 ## Things to fix
 
@@ -29,9 +29,9 @@ _These are ideas taken from the article text. They are NOT search-volume numbers
 - RRB NTPC 2026 के लिए आवेदन की महत्वपूर्ण तिथियां (sub-heading (H2))
 - RRB NTPC 2026 Educational Qualification (sub-heading (H2))
 - rrb ntpc (repeated in text, appears 30 times)
-- recruitment 2026 (repeated in text, appears 17 times)
+- recruitment 2026 (repeated in text, appears 16 times)
+- नवंबर 2026 (repeated in text, appears 15 times)
 - cen 06 2026 (repeated in text, appears 14 times)
-- नवंबर 2026 (repeated in text, appears 14 times)
 
 ### Topics the article does not mention yet
 _Add a section only if it is relevant AND you can confirm the facts from the official notice._
