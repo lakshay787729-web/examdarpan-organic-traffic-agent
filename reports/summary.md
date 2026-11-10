@@ -5,9 +5,9 @@ and it does not create fake visits or clicks.
 
 ## Progress
 
-- Articles found in sitemap: 71
-- Articles read so far: 71 (100%)
-- Issues: 17 high, 104 medium, 139 low
+- Articles found in sitemap: 72
+- Articles read so far: 72 (100%)
+- Issues: 18 high, 107 medium, 142 low
 
 ## Search Console status
 
@@ -55,60 +55,60 @@ and it does not create fake visits or clicks.
    - HIGH: Only 46 words were visible in the raw HTML but the page loads 7 scripts. The content may be added by JavaScript, which this agent cannot see.
    - MEDIUM: Only 1 links to other Exam Darpan pages.
    - MEDIUM: No other article links to this page.
-7. Scholarships | Exam Darpan  
+7. राजस्थान CET (सीनियर सैकण्डरी स्तर) 2026 - 120 प्रश्न ऑनलाइन मॉक टेस्ट  
+   https://examdarpan.in/mock-tests/cet-mock-test  
+   Priority 45 | score 55/100
+   - HIGH: Only 34 words were visible in the raw HTML but the page loads 3 scripts. The content may be added by JavaScript, which this agent cannot see.
+   - MEDIUM: No meta description.
+   - MEDIUM: Only 0 links to other Exam Darpan pages.
+8. Scholarships | Exam Darpan  
    https://examdarpan.in/category-scholarships  
    Priority 42 | score 58/100
    - HIGH: Only 51 words were visible in the raw HTML but the page loads 7 scripts. The content may be added by JavaScript, which this agent cannot see.
    - MEDIUM: Only 1 links to other Exam Darpan pages.
    - MEDIUM: No other article links to this page.
-8. All India Government Jobs 2026 – Latest Central Govt Jobs | Exam Darpan  
+9. All India Government Jobs 2026 – Latest Central Govt Jobs | Exam Darpan  
    https://examdarpan.in/all-india-government-jobs  
    Priority 38 | score 62/100
    - HIGH: Only 39 words were visible in the raw HTML but the page loads 4 scripts. The content may be added by JavaScript, which this agent cannot see.
    - MEDIUM: Only 1 links to other Exam Darpan pages.
    - MEDIUM: No other article links to this page.
-9. All Categories: Rajasthan Jobs, Admit Card, Results & More | Exam Darpan  
+10. All Categories: Rajasthan Jobs, Admit Card, Results & More | Exam Darpan  
    https://examdarpan.in/categories  
    Priority 38 | score 62/100
    - HIGH: Only 19 words were visible in the raw HTML but the page loads 3 scripts. The content may be added by JavaScript, which this agent cannot see.
    - MEDIUM: Only 1 links to other Exam Darpan pages.
    - MEDIUM: No other article links to this page.
-10. Admit Card | Exam Darpan  
+11. Admit Card | Exam Darpan  
    https://examdarpan.in/category-admit-card  
    Priority 38 | score 62/100
    - HIGH: Only 50 words were visible in the raw HTML but the page loads 7 scripts. The content may be added by JavaScript, which this agent cannot see.
    - MEDIUM: Only 1 links to other Exam Darpan pages.
    - MEDIUM: No other article links to this page.
-11. Answer Key | Exam Darpan  
+12. Answer Key | Exam Darpan  
    https://examdarpan.in/category-answer-key  
    Priority 38 | score 62/100
    - HIGH: Only 52 words were visible in the raw HTML but the page loads 7 scripts. The content may be added by JavaScript, which this agent cannot see.
    - MEDIUM: Only 1 links to other Exam Darpan pages.
    - MEDIUM: No other article links to this page.
-12. Latest Updates | Exam Darpan  
+13. Latest Updates | Exam Darpan  
    https://examdarpan.in/category-latest-updates  
    Priority 38 | score 62/100
    - HIGH: Only 49 words were visible in the raw HTML but the page loads 7 scripts. The content may be added by JavaScript, which this agent cannot see.
    - MEDIUM: Only 1 links to other Exam Darpan pages.
    - MEDIUM: No other article links to this page.
-13. Police & Defence Jobs | Exam Darpan  
+14. Police & Defence Jobs | Exam Darpan  
    https://examdarpan.in/category-police-defence-jobs  
    Priority 35 | score 65/100
    - HIGH: Only 42 words were visible in the raw HTML but the page loads 7 scripts. The content may be added by JavaScript, which this agent cannot see.
    - MEDIUM: Only 1 links to other Exam Darpan pages.
    - MEDIUM: No other article links to this page.
-14. सरकारी परीक्षा Result | Exam Darpan  
+15. सरकारी परीक्षा Result | Exam Darpan  
    https://examdarpan.in/category-results  
    Priority 35 | score 65/100
    - HIGH: Only 56 words were visible in the raw HTML but the page loads 7 scripts. The content may be added by JavaScript, which this agent cannot see.
    - MEDIUM: Only 1 links to other Exam Darpan pages.
    - MEDIUM: No other article links to this page.
-15. University & College | Exam Darpan  
-   https://examdarpan.in/category-university-college  
-   Priority 35 | score 65/100
-   - HIGH: Only 49 words were visible in the raw HTML but the page loads 7 scripts. The content may be added by JavaScript, which this agent cannot see.
-   - MEDIUM: Mentions deadline date(s) already passed: 2026-10-10.
-   - MEDIUM: Only 1 links to other Exam Darpan pages.
 
 ## Words used here
 

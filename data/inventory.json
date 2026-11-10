@@ -4000,6 +4000,109 @@
     ]
    }
   },
+  "https://examdarpan.in/mock-tests/cet-mock-test": {
+   "failures": 0,
+   "first_seen": "2026-11-10T09:37:28Z",
+   "in_sitemap": true,
+   "last_error": null,
+   "last_failure_at": null,
+   "last_fetched": "2026-11-10T09:37:28Z",
+   "lastmod": "2026-11-10",
+   "needs_refresh": false,
+   "page": {
+    "canonical": "",
+    "content_hash": "73bea30b243155a1",
+    "deadline_dates": [],
+    "description": "",
+    "exam_related": true,
+    "excerpt": "मोड चुनें: सभी 120 प्रश्न एक-एक प्रश्न 💡 सही उत्तर: +2.0 अंक | गलत उत्तर: -0.66 अंक (1/3 नकारात्मक अंकन) पिछला प्रश्न 1 / 120 अगला क्विज समाप्त करें और परिणाम देखें",
+    "external_link_count": 0,
+    "final_url": "https://examdarpan.in/mock-tests/cet-mock-test",
+    "h1s": [
+     "हर दिन सबसे तेज़ और भरोसेमंद Education Updates❗ 📚"
+    ],
+    "h2s": [
+     "आपका फाइनल परिणाम"
+    ],
+    "images_missing_alt": 0,
+    "intents_present": [
+     "result"
+    ],
+    "internal_links": [],
+    "lang": "hi",
+    "modified": null,
+    "noindex": false,
+    "phrases": [],
+    "published": null,
+    "script_count": 3,
+    "status": 200,
+    "title": "राजस्थान CET (सीनियर सैकण्डरी स्तर) 2026 - 120 प्रश्न ऑनलाइन मॉक टेस्ट",
+    "top_terms": [
+     [
+      "प्रश्न",
+      3
+     ],
+     [
+      "अंक",
+      2
+     ],
+     [
+      "उत्तर",
+      2
+     ],
+     [
+      "अंकन",
+      1
+     ],
+     [
+      "अगला",
+      1
+     ],
+     [
+      "क्विज",
+      1
+     ],
+     [
+      "गलत",
+      1
+     ],
+     [
+      "चुनें",
+      1
+     ],
+     [
+      "देखें",
+      1
+     ],
+     [
+      "नकारात्मक",
+      1
+     ],
+     [
+      "परिणाम",
+      1
+     ],
+     [
+      "पिछला",
+      1
+     ],
+     [
+      "मोड",
+      1
+     ],
+     [
+      "समाप्त",
+      1
+     ],
+     [
+      "सही",
+      1
+     ]
+    ],
+    "word_count": 34,
+    "years": []
+   }
+  },
   "https://examdarpan.in/mukhyamantri-anuprati-coaching-yojana-2026-27": {
    "failures": 0,
    "first_seen": "2026-10-20T09:09:02Z",
@@ -11729,12 +11832,12 @@
    "in_sitemap": true,
    "last_error": null,
    "last_failure_at": null,
-   "last_fetched": "2026-11-02T23:41:17Z",
+   "last_fetched": "2026-11-10T09:37:28Z",
    "lastmod": "2026-10-25T11:37:29.212000Z",
    "needs_refresh": false,
    "page": {
     "canonical": "https://examdarpan.in/up-assistant-teacher-recruitment-2026",
-    "content_hash": "72f49bdf2ffb6e43",
+    "content_hash": "53d965d21ff0e3a1",
     "deadline_dates": [
      "2026-09-10",
      "2026-09-14",
@@ -11743,7 +11846,6 @@
      "2026-10-25",
      "2026-10-28",
      "2026-10-31",
-     "2026-11-22",
      "2026-12-04"
     ],
     "description": "UP Assistant Teacher Recruitment 2026 में 12,405 पदों पर भर्ती की नई तारीखें देखें। आवेदन की अंतिम तिथि 28 अक्टूबर, फॉर्म सुधार 31 अक्टूबर और परीक्षा 3–4 दिसंबर को निर्धा",
@@ -11791,8 +11893,8 @@
      "https://examdarpan.in/sbi-so-wealth-management-recruitment-2026",
      "https://examdarpan.in/bank-of-india-so-recruitment-2026-205-posts",
      "https://examdarpan.in/india-post-gds-recruitment-2026-bpm-25-000",
-     "https://examdarpan.in/rrc-nwr-apprentice-recruitment-2026",
-     "https://examdarpan.in/jee-main-2027-registration"
+     "https://examdarpan.in/rajasthan-tax-assistant-recruitment",
+     "https://examdarpan.in/rajasthan-pti-recruitment-2026"
     ],
     "lang": "hi",
     "modified": "2026-10-25",
@@ -11800,15 +11902,15 @@
     "phrases": [
      [
       "recruitment 2026",
-      17
+      18
      ],
      [
       "अंतिम तिथि",
-      16
+      15
      ],
      [
       "अक्टूबर 2026",
-      15
+      14
      ],
      [
       "सहायक शिक्षक",
@@ -11820,7 +11922,7 @@
      ],
      [
       "jobs update",
-      8
+      9
      ],
      [
       "आधिकारिक वेबसाइट",
@@ -11839,11 +11941,11 @@
       7
      ],
      [
-      "ऑनलाइन आवेदन",
-      7
+      "28 अक्टूबर 2026",
+      6
      ],
      [
-      "28 अक्टूबर 2026",
+      "assistant teacher recruitment",
       6
      ]
     ],
@@ -11858,18 +11960,18 @@
      ],
      [
       "आवेदन",
-      43
-     ],
-     [
-      "परीक्षा",
-      23
-     ],
-     [
-      "अंतिम",
-      21
+      39
      ],
      [
       "भर्ती",
+      25
+     ],
+     [
+      "परीक्षा",
+      22
+     ],
+     [
+      "अंतिम",
       20
      ],
      [
@@ -11877,47 +11979,45 @@
       19
      ],
      [
-      "तिथि",
-      18
-     ],
-     [
       "recruitment",
-      17
-     ],
-     [
-      "अक्टूबर",
-      17
+      18
      ],
      [
       "आधिकारिक",
       17
      ],
      [
-      "शिक्षक",
-      14
+      "अक्टूबर",
+      16
+     ],
+     [
+      "तिथि",
+      16
      ],
      [
       "चयन",
-      13
+      15
+     ],
+     [
+      "पदों",
+      15
+     ],
+     [
+      "शिक्षक",
+      14
      ],
      [
       "update",
       12
      ],
      [
-      "पदों",
-      12
-     ],
-     [
-      "शुल्क",
-      12
+      "करने",
+      11
      ]
     ],
-    "word_count": 1574,
+    "word_count": 1577,
     "years": [
-     2008,
-     2026,
-     2027
+     2026
     ]
    }
   },
@@ -12118,7 +12218,7 @@
    "in_sitemap": true,
    "last_error": null,
    "last_failure_at": null,
-   "last_fetched": "2026-11-02T23:41:17Z",
+   "last_fetched": "2026-11-10T09:37:28Z",
    "lastmod": "2026-10-25T11:27:59.719000Z",
    "needs_refresh": false,
    "page": {
@@ -12304,6 +12404,6 @@
  },
  "meta": {
   "schema": 1,
-  "sitemap_slot": 83068
+  "sitemap_slot": 83069
  }
 }
