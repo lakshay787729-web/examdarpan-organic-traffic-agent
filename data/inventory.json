@@ -1529,7 +1529,7 @@
    "in_sitemap": true,
    "last_error": null,
    "last_failure_at": null,
-   "last_fetched": "2026-11-04T03:17:06Z",
+   "last_fetched": "2026-11-11T17:07:07Z",
    "lastmod": "2026-10-10T11:52:01.886000Z",
    "needs_refresh": false,
    "page": {
@@ -1545,6 +1545,7 @@
      "Latest Updates"
     ],
     "h2s": [
+     "इस सेक्शन में क्या मिलेगा?",
      "Latest Latest Updates"
     ],
     "images_missing_alt": 0,
@@ -2010,7 +2011,7 @@
    "in_sitemap": true,
    "last_error": null,
    "last_failure_at": null,
-   "last_fetched": "2026-11-04T03:17:06Z",
+   "last_fetched": "2026-11-11T17:07:07Z",
    "lastmod": "2026-10-06T12:09:19.654000Z",
    "needs_refresh": false,
    "page": {
@@ -2026,6 +2027,7 @@
      "Scholarships"
     ],
     "h2s": [
+     "इस सेक्शन में क्या मिलेगा?",
      "Latest Scholarships"
     ],
     "images_missing_alt": 0,
@@ -2134,7 +2136,7 @@
    "in_sitemap": true,
    "last_error": null,
    "last_failure_at": null,
-   "last_fetched": "2026-11-04T11:03:55Z",
+   "last_fetched": "2026-11-11T17:07:07Z",
    "lastmod": "2026-10-19T02:12:26.786000Z",
    "needs_refresh": false,
    "page": {
@@ -2150,6 +2152,7 @@
      "SSC Jobs"
     ],
     "h2s": [
+     "इस सेक्शन में क्या मिलेगा?",
      "Latest SSC Jobs"
     ],
     "images_missing_alt": 0,
@@ -12392,6 +12395,6 @@
  },
  "meta": {
   "schema": 1,
-  "sitemap_slot": 83073
+  "sitemap_slot": 83074
  }
 }

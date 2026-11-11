@@ -3,7 +3,7 @@
 URL: https://examdarpan.in/category-scholarships
 
 **SEO health score: 58/100** (this is this agent's own checklist score, not a Google score)
-Words: 51 | Last read: 2026-11-04T03:17:06Z | Published: unknown | Updated: unknown
+Words: 51 | Last read: 2026-11-11T17:07:07Z | Published: unknown | Updated: unknown
 
 ## Things to fix
 
@@ -29,6 +29,7 @@ Words: 51 | Last read: 2026-11-04T03:17:06Z | Published: unknown | Updated: unkn
 _These are ideas taken from the article text. They are NOT search-volume numbers. Check real queries in Search Console._
 
 - Scholarships (title)
+- इस सेक्शन में क्या मिलेगा? (sub-heading (H2))
 - Latest Scholarships (sub-heading (H2))
 - scholarship yojana 2026 (repeated in text, appears 2 times)
 - yojana 2026 27 (repeated in text, appears 2 times)

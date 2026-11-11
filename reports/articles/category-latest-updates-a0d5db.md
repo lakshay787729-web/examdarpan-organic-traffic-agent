@@ -3,7 +3,7 @@
 URL: https://examdarpan.in/category-latest-updates
 
 **SEO health score: 62/100** (this is this agent's own checklist score, not a Google score)
-Words: 49 | Last read: 2026-11-04T03:17:06Z | Published: unknown | Updated: unknown
+Words: 49 | Last read: 2026-11-11T17:07:07Z | Published: unknown | Updated: unknown
 
 ## Things to fix
 
@@ -29,6 +29,7 @@ Words: 49 | Last read: 2026-11-04T03:17:06Z | Published: unknown | Updated: unkn
 _These are ideas taken from the article text. They are NOT search-volume numbers. Check real queries in Search Console._
 
 - Latest Updates (title)
+- इस सेक्शन में क्या मिलेगा? (sub-heading (H2))
 - Latest Latest Updates (sub-heading (H2))
 - 2026 27 जारी (repeated in text, appears 2 times)
 - associate lab attendant (repeated in text, appears 2 times)
