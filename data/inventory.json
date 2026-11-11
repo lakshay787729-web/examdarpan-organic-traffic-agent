@@ -709,12 +709,12 @@
    "in_sitemap": true,
    "last_error": null,
    "last_failure_at": null,
-   "last_fetched": "2026-11-03T23:41:01Z",
+   "last_fetched": "2026-11-11T02:01:47Z",
    "lastmod": "2026-10-12T12:37:02.507000Z",
    "needs_refresh": false,
    "page": {
     "canonical": "https://examdarpan.in/canara-bank-apprentice-recruitment-2026",
-    "content_hash": "519ce05b83edaee2",
+    "content_hash": "30c6ce2efac9a91e",
     "deadline_dates": [
      "2026-10-16",
      "2026-10-17",
@@ -766,14 +766,14 @@
     ],
     "internal_links": [
      "https://examdarpan.in/author/deepak-joshi",
+     "https://examdarpan.in/rajasthan-tax-assistant-recruitment",
+     "https://examdarpan.in/rajasthan-pti-recruitment-2026",
      "https://examdarpan.in/rrc-nwr-apprentice-recruitment-2026",
      "https://examdarpan.in/jee-main-2027-registration",
      "https://examdarpan.in/assam-rifles-group-c-recruitment-2026",
      "https://examdarpan.in/rrb-station-master-recruitment-2026",
      "https://examdarpan.in/rrb-ntpc-ug-recruitment-2026",
-     "https://examdarpan.in/rajasthan-scholarship-yojana-2026-27",
-     "https://examdarpan.in/rajasthan-scooty-yojana-2026-27",
-     "https://examdarpan.in/rrb-ntpc-graduate-recruitment-2026"
+     "https://examdarpan.in/rajasthan-scholarship-yojana-2026-27"
     ],
     "lang": "hi",
     "modified": "2026-10-12",
@@ -796,12 +796,12 @@
       15
      ],
      [
-      "ऑनलाइन आवेदन",
-      14
-     ],
-     [
       "apprentice recruitment 2026",
       13
+     ],
+     [
+      "ऑनलाइन आवेदन",
+      12
      ],
      [
       "bank apprentice recruitment",
@@ -812,15 +812,15 @@
       9
      ],
      [
-      "आवेदन शुरू",
-      8
-     ],
-     [
       "स्थानीय भाषा",
       8
      ],
      [
       "graduate apprentice",
+      7
+     ],
+     [
+      "jobs update",
       7
      ],
      [
@@ -835,11 +835,11 @@
     "top_terms": [
      [
       "2026",
-      59
+      57
      ],
      [
       "आवेदन",
-      55
+      51
      ],
      [
       "bank",
@@ -855,11 +855,15 @@
      ],
      [
       "recruitment",
-      25
+      24
      ],
      [
       "उम्मीदवार",
       23
+     ],
+     [
+      "भर्ती",
+      21
      ],
      [
       "apprenticeship",
@@ -874,14 +878,6 @@
       17
      ],
      [
-      "भर्ती",
-      16
-     ],
-     [
-      "ऑनलाइन",
-      15
-     ],
-     [
       "चाहिए",
       14
      ],
@@ -890,11 +886,15 @@
       13
      ],
      [
-      "graduate",
+      "ऑनलाइन",
       13
+     ],
+     [
+      "करने",
+      12
      ]
     ],
-    "word_count": 2393,
+    "word_count": 2402,
     "years": [
      2006,
      2008,
@@ -910,16 +910,16 @@
    "in_sitemap": true,
    "last_error": null,
    "last_failure_at": null,
-   "last_fetched": "2026-11-03T23:41:01Z",
+   "last_fetched": "2026-11-11T02:01:47Z",
    "lastmod": null,
    "needs_refresh": false,
    "page": {
     "canonical": "https://examdarpan.in/categories",
-    "content_hash": "880321b65816afc0",
+    "content_hash": "d750445a5a03cd8e",
     "deadline_dates": [],
     "description": "Exam Darpan की सभी categories एक जगह देखें: Rajasthan Jobs, All India Jobs, Railway, SSC, Banking, Admit Card, Results, Answer Key, Syllabus, Scholarships और अधिक।",
     "exam_related": true,
-    "excerpt": "राजस्थान सरकारी नौकरी राजस्थान की नई भर्ती, आवेदन, पात्रता और सरकारी नौकरी अपडेट्स। 3 published articles View updates →",
+    "excerpt": "राजस्थान सरकारी नौकरी राजस्थान की नई भर्ती, आवेदन, पात्रता और सरकारी नौकरी अपडेट्स। 5 published articles View updates →",
     "external_link_count": 0,
     "final_url": "https://examdarpan.in/categories",
     "h1s": [
@@ -1026,7 +1026,7 @@
    "in_sitemap": true,
    "last_error": null,
    "last_failure_at": null,
-   "last_fetched": "2026-11-03T23:41:01Z",
+   "last_fetched": "2026-11-11T02:01:47Z",
    "lastmod": "2026-10-12T12:36:46.482000Z",
    "needs_refresh": false,
    "page": {
@@ -12404,6 +12404,6 @@
  },
  "meta": {
   "schema": 1,
-  "sitemap_slot": 83071
+  "sitemap_slot": 83072
  }
 }

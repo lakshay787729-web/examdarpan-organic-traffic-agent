@@ -3,7 +3,7 @@
 URL: https://examdarpan.in/category-admit-card
 
 **SEO health score: 62/100** (this is this agent's own checklist score, not a Google score)
-Words: 50 | Last read: 2026-11-03T23:41:01Z | Published: unknown | Updated: unknown
+Words: 50 | Last read: 2026-11-11T02:01:47Z | Published: unknown | Updated: unknown
 
 ## Things to fix
 
