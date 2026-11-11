@@ -3,7 +3,7 @@
 URL: https://examdarpan.in/category-teaching-jobs
 
 **SEO health score: 41/100** (this is this agent's own checklist score, not a Google score)
-Words: 46 | Last read: 2026-11-04T11:03:55Z | Published: unknown | Updated: unknown
+Words: 46 | Last read: 2026-11-11T23:26:32Z | Published: unknown | Updated: unknown
 
 ## Things to fix
 
@@ -35,6 +35,7 @@ Words: 46 | Last read: 2026-11-04T11:03:55Z | Published: unknown | Updated: unkn
 _These are ideas taken from the article text. They are NOT search-volume numbers. Check real queries in Search Console._
 
 - Teaching Jobs (title)
+- इस सेक्शन में क्या मिलेगा? (sub-heading (H2))
 - Latest Teaching Jobs (sub-heading (H2))
 - net december 2026 (repeated in text, appears 2 times)
 - ugc net december (repeated in text, appears 2 times)

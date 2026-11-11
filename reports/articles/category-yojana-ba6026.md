@@ -3,7 +3,7 @@
 URL: https://examdarpan.in/category-yojana
 
 **SEO health score: 65/100** (this is this agent's own checklist score, not a Google score)
-Words: 49 | Last read: 2026-11-04T18:34:49Z | Published: unknown | Updated: unknown
+Words: 49 | Last read: 2026-11-11T23:26:32Z | Published: unknown | Updated: unknown
 
 ## Things to fix
 
@@ -27,6 +27,7 @@ Words: 49 | Last read: 2026-11-04T18:34:49Z | Published: unknown | Updated: unkn
 _These are ideas taken from the article text. They are NOT search-volume numbers. Check real queries in Search Console._
 
 - सरकारी योजनाएं (title)
+- इस सेक्शन में क्या मिलेगा? (sub-heading (H2))
 - Latest सरकारी योजनाएं (sub-heading (H2))
 - 2026 27 (repeated in text, appears 2 times)
 - ₹20 000 (repeated in text, appears 2 times)

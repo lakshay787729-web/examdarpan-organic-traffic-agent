@@ -3,7 +3,7 @@
 URL: https://examdarpan.in/category-syllabus
 
 **SEO health score: 55/100** (this is this agent's own checklist score, not a Google score)
-Words: 46 | Last read: 2026-11-04T11:03:55Z | Published: unknown | Updated: unknown
+Words: 46 | Last read: 2026-11-11T23:26:32Z | Published: unknown | Updated: unknown
 
 ## Things to fix
 
@@ -31,6 +31,7 @@ Words: 46 | Last read: 2026-11-04T11:03:55Z | Published: unknown | Updated: unkn
 _These are ideas taken from the article text. They are NOT search-volume numbers. Check real queries in Search Console._
 
 - Exam Syllabus (title)
+- इस सेक्शन में क्या मिलेगा? (sub-heading (H2))
 - Latest Exam Syllabus (sub-heading (H2))
 - rajasthan cet (repeated in text, appears 3 times)
 - rajasthan cet senior (repeated in text, appears 2 times)
