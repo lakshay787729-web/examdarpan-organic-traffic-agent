@@ -3,7 +3,7 @@
 URL: https://examdarpan.in/category-banking-jobs
 
 **SEO health score: 41/100** (this is this agent's own checklist score, not a Google score)
-Words: 46 | Last read: 2026-11-04T03:17:06Z | Published: unknown | Updated: unknown
+Words: 46 | Last read: 2026-11-11T09:12:54Z | Published: unknown | Updated: unknown
 
 ## Things to fix
 
@@ -35,6 +35,7 @@ Words: 46 | Last read: 2026-11-04T03:17:06Z | Published: unknown | Updated: unkn
 _These are ideas taken from the article text. They are NOT search-volume numbers. Check real queries in Search Console._
 
 - Banking Jobs (title)
+- इस सेक्शन में क्या मिलेगा? (sub-heading (H2))
 - Latest Banking Jobs (sub-heading (H2))
 - apprentice recruitment 2026 (repeated in text, appears 2 times)
 - bank apprentice recruitment (repeated in text, appears 2 times)
