@@ -3,7 +3,7 @@
 URL: https://examdarpan.in/editorial-policy
 
 **SEO health score: 83/100** (this is this agent's own checklist score, not a Google score)
-Words: 766 | Last read: 2026-11-04T23:54:02Z | Published: unknown | Updated: unknown
+Words: 872 | Last read: 2026-11-12T12:20:45Z | Published: unknown | Updated: unknown
 
 ## Things to fix
 
@@ -30,10 +30,10 @@ _These are ideas taken from the article text. They are NOT search-volume numbers
 - Reviewing and Updating Articles (sub-heading (H2))
 - Accuracy and Corrections (sub-heading (H2))
 - किया जाता (repeated in text, appears 7 times)
+- official notification (repeated in text, appears 6 times)
+- प्रयास किया (repeated in text, appears 6 times)
 - प्रयास किया जाता (repeated in text, appears 5 times)
 - exam darpan (repeated in text, appears 5 times)
-- official notification (repeated in text, appears 5 times)
-- करने का प्रयास (repeated in text, appears 4 times)
 
 ### Topics the article does not mention yet
 _Add a section only if it is relevant AND you can confirm the facts from the official notice._
