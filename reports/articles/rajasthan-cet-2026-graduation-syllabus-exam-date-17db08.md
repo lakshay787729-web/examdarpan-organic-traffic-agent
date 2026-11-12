@@ -3,11 +3,11 @@
 URL: https://examdarpan.in/rajasthan-cet-2026-graduation-syllabus-exam-date
 
 **SEO health score: 90/100** (this is this agent's own checklist score, not a Google score)
-Words: 2366 | Last read: 2026-11-05T11:55:47Z | Published: 2026-09-27 | Updated: 2026-10-06
+Words: 2437 | Last read: 2026-11-12T20:08:10Z | Published: 2026-09-27 | Updated: 2026-10-06
 
 ## Things to fix
 
-- **MEDIUM**: Mentions deadline date(s) already passed: 2026-08-02, 2026-10-09, 2026-10-25.  
+- **MEDIUM**: Mentions deadline date(s) already passed: 2026-08-02, 2026-09-22, 2026-10-09.  
   Fix: Make clear whether applications are closed, or update after checking the official notice.
 - **LOW**: 4 image(s) without alt text.  
   Fix: Add short descriptive alt text.
@@ -38,13 +38,15 @@ _Add a section only if it is relevant AND you can confirm the facts from the off
 
 - salary
 - age limit
+- cut off
 
 Possible search phrases for those sections (estimates):
 - Rajasthan CET 2026: Graduation का नया salary
 - Rajasthan CET 2026: Graduation का नया age limit
+- Rajasthan CET 2026: Graduation का नया cut off
 
 ## Internal links you could add
 
-- Link to [Rajasthan CET Exam Date 2026: नई परीक्षा तिथि जारी, 12वीं और Grad](https://examdarpan.in/rajasthan-cet-2026-new-exam-date) (shares: 2026, cet, level, rajasthan, आवेदन)
-- Link to [Exam Syllabus | Exam Darpan](https://examdarpan.in/category-syllabus) (shares: 2026, cet, level, rajasthan, syllabus)
-- Link to [मुख्यमंत्री अनुप्रति कोचिंग योजना 2026-27: Last Date](https://examdarpan.in/mukhyamantri-anuprati-coaching-yojana-2026-27) (shares: 2026, cet, rajasthan, आवेदन, परीक्षा)
+- Link to [Rajasthan CET Exam Date 2026: नई परीक्षा तिथि जारी, 12वीं और Grad](https://examdarpan.in/rajasthan-cet-2026-new-exam-date) (shares: 2026, cet, exam, level, rajasthan)
+- Link to [Latest Updates | Exam Darpan](https://examdarpan.in/category-latest-updates) (shares: 2026, cet, exam, परीक्षा)
+- Link to [मुख्यमंत्री अनुप्रति कोचिंग योजना 2026-27: Last Date](https://examdarpan.in/mukhyamantri-anuprati-coaching-yojana-2026-27) (shares: 2026, cet, rajasthan, परीक्षा)

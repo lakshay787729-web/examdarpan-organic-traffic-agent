@@ -50,5 +50,5 @@ Possible search phrases for those sections (estimates):
 ## Internal links you could add
 
 - Link to [Exam Syllabus | Exam Darpan](https://examdarpan.in/category-syllabus) (shares: 2026, cet, date, exam, level)
-- Link to [Rajasthan CET 2026: Graduation Syllabus, Exam Date](https://examdarpan.in/rajasthan-cet-2026-graduation-syllabus-exam-date) (shares: 2026, cet, level, rajasthan, आवेदन)
+- Link to [Rajasthan CET 2026: Graduation Syllabus, Exam Date](https://examdarpan.in/rajasthan-cet-2026-graduation-syllabus-exam-date) (shares: 2026, cet, exam, level, rajasthan)
 - Link to [SSC CPO Exam Date 2026, Admit Card & Latest Update](https://examdarpan.in/ssc-cpo-recruitment-2026) (shares: 2026, date, exam, आवेदन, जारी)

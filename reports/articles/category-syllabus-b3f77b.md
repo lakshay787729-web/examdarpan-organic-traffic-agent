@@ -2,7 +2,7 @@
 
 URL: https://examdarpan.in/category-syllabus
 
-**SEO health score: 55/100** (this is this agent's own checklist score, not a Google score)
+**SEO health score: 62/100** (this is this agent's own checklist score, not a Google score)
 Words: 46 | Last read: 2026-11-11T23:26:32Z | Published: unknown | Updated: unknown
 
 ## Things to fix
@@ -11,8 +11,6 @@ Words: 46 | Last read: 2026-11-11T23:26:32Z | Published: unknown | Updated: unkn
   Fix: Check the page with URL Inspection in Search Console. Prefer server-rendered or pre-rendered article text.
 - **MEDIUM**: Only 1 links to other Exam Darpan pages.  
   Fix: Link to related articles where it helps readers (see suggestions below).
-- **MEDIUM**: No other article links to this page.  
-  Fix: Add a link to it from a related article or a category/hub page.
 - **MEDIUM**: Title is very similar to https://examdarpan.in/about. They may compete for the same searches (a guess based on titles only).  
   Fix: Decide which page should rank for this topic. Merge, differentiate, or link them clearly.
 - **LOW**: Meta description is short (56 characters).  
@@ -63,6 +61,6 @@ Possible search phrases for those sections (estimates):
 
 ## Internal links you could add
 
+- Link to [Rajasthan CET 2026: Graduation Syllabus, Exam Date](https://examdarpan.in/rajasthan-cet-2026-graduation-syllabus-exam-date) (shares: 2026, cet, exam, level, rajasthan)
 - Link to [Rajasthan CET Exam Date 2026: नई परीक्षा तिथि जारी, 12वीं और Grad](https://examdarpan.in/rajasthan-cet-2026-new-exam-date) (shares: 2026, cet, date, exam, level)
-- Link to [Rajasthan CET 2026: Graduation Syllabus, Exam Date](https://examdarpan.in/rajasthan-cet-2026-graduation-syllabus-exam-date) (shares: 2026, cet, level, rajasthan, syllabus)
 - Link to [Entrance Exams | Exam Darpan](https://examdarpan.in/category-entrance-exams) (shares: 2026, article, date, exam)
