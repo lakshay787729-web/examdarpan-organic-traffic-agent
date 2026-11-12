@@ -47,4 +47,4 @@ Possible search phrases for those sections (estimates):
 
 - Link to [RRB Paramedical Recruitment 2026: 590 Posts](https://examdarpan.in/rrb-paramedical-recruitment-2026) (shares: 2026, recruitment, rrb, अंतिम, आवेदन)
 - Link to [UPSC Recruitment 2026: 212 Posts, Latest Update](https://examdarpan.in/upsc-recruitment-2026-212-posts) (shares: 2026, recruitment, अंतिम, आवेदन, निर्धारित)
-- Link to [CRPF Sports Quota Recruitment 2026: 521 Vacancy, Sports Certifica](https://examdarpan.in/crpf-sports-quota-recruitment-2026) (shares: 2026, recruitment, आवेदन, निर्धारित, पद)
+- Link to [CRPF Sports Quota Recruitment 2026: 521 Vacancy, Sports](https://examdarpan.in/crpf-sports-quota-recruitment-2026) (shares: 2026, recruitment, आवेदन, निर्धारित, पद)
