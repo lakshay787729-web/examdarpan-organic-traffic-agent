@@ -24,7 +24,6 @@ https://examdarpan.in/categories,low,NO_DATE,No publish or update date found.,Sh
 https://examdarpan.in/categories,low,TITLE_LONG,Title is long (72 characters) and may be cut off in Google.,"Shorten to about 60 characters. Idea: ""All Categories: Rajasthan Jobs, Admit Card, Results & More"""
 https://examdarpan.in/category-admit-card,high,JS_RENDER_SUSPECTED,"Only 50 words were visible in the raw HTML but the page loads 7 scripts. The content may be added by JavaScript, which this agent cannot see.",Check the page with URL Inspection in Search Console. Prefer server-rendered or pre-rendered article text.
 https://examdarpan.in/category-admit-card,medium,FEW_INTERNAL_LINKS,Only 1 links to other Exam Darpan pages.,Link to related articles where it helps readers (see suggestions below).
-https://examdarpan.in/category-admit-card,medium,ORPHAN,No other article links to this page.,Add a link to it from a related article or a category/hub page.
 https://examdarpan.in/category-admit-card,low,DESC_SHORT,Meta description is short (62 characters).,"Add a little more useful detail (dates, who it is for)."
 https://examdarpan.in/category-admit-card,low,NO_DATE,No publish or update date found.,Show and mark up a published/updated date so readers and Google can judge freshness.
 https://examdarpan.in/category-admit-card,low,TITLE_SHORT,Title is short (24 characters).,Expand it toward 30-60 characters with the main topic.
@@ -181,7 +180,6 @@ https://examdarpan.in/rajasthan-scholarship-yojana-2026-27,low,IMG_ALT_MISSING,4
 https://examdarpan.in/rajasthan-scooty-yojana-2026-27,medium,DEADLINE_PASSED,"Mentions deadline date(s) already passed: 2026-09-22, 2026-10-01.","Make clear whether applications are closed, or update after checking the official notice."
 https://examdarpan.in/rajasthan-scooty-yojana-2026-27,low,IMG_ALT_MISSING,4 image(s) without alt text.,Add short descriptive alt text.
 https://examdarpan.in/rajasthan-scooty-yojana-2026-27,low,TITLE_SHORT,Title is short (28 characters).,Expand it toward 30-60 characters with the main topic.
-https://examdarpan.in/rajasthan-set-admit-card-2026,low,DESC_LONG,Meta description is long (166 characters).,Shorten to about 160 characters.
 https://examdarpan.in/rajasthan-set-admit-card-2026,low,IMG_ALT_MISSING,4 image(s) without alt text.,Add short descriptive alt text.
 https://examdarpan.in/rajasthan-tax-assistant-recruitment,medium,DEADLINE_PASSED,"Mentions deadline date(s) already passed: 2026-10-21, 2026-10-22.","Make clear whether applications are closed, or update after checking the official notice."
 https://examdarpan.in/rajasthan-tax-assistant-recruitment,low,DESC_LONG,Meta description is long (168 characters).,Shorten to about 160 characters.
@@ -190,12 +188,11 @@ https://examdarpan.in/rajasthan-tax-assistant-recruitment,low,TITLE_LONG,Title i
 https://examdarpan.in/rajasthan-veterinary-admission-2026-1240-seats,medium,DEADLINE_PASSED,"Mentions deadline date(s) already passed: 2026-09-22, 2026-09-26.","Make clear whether applications are closed, or update after checking the official notice."
 https://examdarpan.in/rajasthan-veterinary-admission-2026-1240-seats,low,DESC_LONG,Meta description is long (169 characters).,Shorten to about 160 characters.
 https://examdarpan.in/rajasthan-veterinary-admission-2026-1240-seats,low,IMG_ALT_MISSING,4 image(s) without alt text.,Add short descriptive alt text.
-https://examdarpan.in/rpsc-si-admit-card-2026-download,low,DESC_LONG,Meta description is long (170 characters).,Shorten to about 160 characters.
 https://examdarpan.in/rpsc-si-admit-card-2026-download,low,IMG_ALT_MISSING,4 image(s) without alt text.,Add short descriptive alt text.
 https://examdarpan.in/rpsc-si-admit-card-2026-download,low,TITLE_SHORT,Title is short (28 characters).,Expand it toward 30-60 characters with the main topic.
 https://examdarpan.in/rrb-je-recruitment-2026-cbt-1-exam-date,medium,DEADLINE_PASSED,"Mentions deadline date(s) already passed: 2026-10-16, 2026-10-21, 2026-10-25.","Make clear whether applications are closed, or update after checking the official notice."
 https://examdarpan.in/rrb-je-recruitment-2026-cbt-1-exam-date,low,IMG_ALT_MISSING,4 image(s) without alt text.,Add short descriptive alt text.
-https://examdarpan.in/rrb-ntpc-graduate-recruitment-2026,medium,DEADLINE_PASSED,"Mentions deadline date(s) already passed: 2026-10-16, 2026-10-21, 2026-10-22.","Make clear whether applications are closed, or update after checking the official notice."
+https://examdarpan.in/rrb-ntpc-graduate-recruitment-2026,medium,DEADLINE_PASSED,"Mentions deadline date(s) already passed: 2026-09-22, 2026-10-16, 2026-10-21.","Make clear whether applications are closed, or update after checking the official notice."
 https://examdarpan.in/rrb-ntpc-graduate-recruitment-2026,low,IMG_ALT_MISSING,4 image(s) without alt text.,Add short descriptive alt text.
 https://examdarpan.in/rrb-ntpc-recruitment-2026-5165-vacancy,medium,DEADLINE_PASSED,"Mentions deadline date(s) already passed: 2026-09-14, 2026-10-16, 2026-10-21.","Make clear whether applications are closed, or update after checking the official notice."
 https://examdarpan.in/rrb-ntpc-recruitment-2026-5165-vacancy,low,IMG_ALT_MISSING,4 image(s) without alt text.,Add short descriptive alt text.

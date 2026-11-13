@@ -49,4 +49,3 @@ Possible search phrases for those sections (estimates):
 
 - Link to [Latest Updates | Exam Darpan](https://examdarpan.in/category-latest-updates) (shares: 2026, rssb, जारी, परीक्षा)
 - Link to [Rajasthan SET Admit Card 2026 जारी](https://examdarpan.in/rajasthan-set-admit-card-2026) (shares: 2026, जारी, डाउनलोड, परीक्षा)
-- Link to [RPSC SI Admit Card 2026 जारी](https://examdarpan.in/rpsc-si-admit-card-2026-download) (shares: 2026, जारी, डाउनलोड, परीक्षा)

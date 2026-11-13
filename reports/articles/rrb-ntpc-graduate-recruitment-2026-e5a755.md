@@ -3,11 +3,11 @@
 URL: https://examdarpan.in/rrb-ntpc-graduate-recruitment-2026
 
 **SEO health score: 90/100** (this is this agent's own checklist score, not a Google score)
-Words: 2320 | Last read: 2026-11-06T07:06:14Z | Published: 2026-09-27 | Updated: 2026-10-08
+Words: 2397 | Last read: 2026-11-13T15:42:12Z | Published: 2026-09-27 | Updated: 2026-10-08
 
 ## Things to fix
 
-- **MEDIUM**: Mentions deadline date(s) already passed: 2026-10-16, 2026-10-21, 2026-10-22.  
+- **MEDIUM**: Mentions deadline date(s) already passed: 2026-09-22, 2026-10-16, 2026-10-21.  
   Fix: Make clear whether applications are closed, or update after checking the official notice.
 - **LOW**: 4 image(s) without alt text.  
   Fix: Add short descriptive alt text.
@@ -29,7 +29,7 @@ _These are ideas taken from the article text. They are NOT search-volume numbers
 - RRB NTPC Recruitment 2026 – Important Dates (sub-heading (H2))
 - RRB NTPC Graduate Recruitment 2026 – Educational Qualification (sub-heading (H2))
 - rrb ntpc (repeated in text, appears 41 times)
-- recruitment 2026 (repeated in text, appears 20 times)
+- recruitment 2026 (repeated in text, appears 22 times)
 - cen 06 2026 (repeated in text, appears 18 times)
 - ntpc graduate (repeated in text, appears 17 times)
 
@@ -43,6 +43,6 @@ Possible search phrases for those sections (estimates):
 
 ## Internal links you could add
 
-- Link to [RRB Paramedical Recruitment 2026: 590 Posts](https://examdarpan.in/rrb-paramedical-recruitment-2026) (shares: 2026, recruitment, rrb, अक्टूबर, आवेदन)
-- Link to [UP Assistant Teacher Recruitment 2026: 12,405 पदों पर भर्ती](https://examdarpan.in/up-assistant-teacher-recruitment-2026) (shares: 2026, recruitment, अक्टूबर, आवेदन, पद)
+- Link to [RRB Paramedical Recruitment 2026: 590 Posts](https://examdarpan.in/rrb-paramedical-recruitment-2026) (shares: 2026, recruitment, rrb, आवेदन, पद)
+- Link to [Assam Rifles Group C Recruitment 2026: 354 Posts, Apply](https://examdarpan.in/assam-rifles-group-c-recruitment-2026) (shares: 2026, recruitment, आवेदन, पद, भर्ती)
 - Link to [Bank of India SO Recruitment 2026: 205 Posts](https://examdarpan.in/bank-of-india-so-recruitment-2026-205-posts) (shares: 2026, recruitment, आवेदन, पद, भर्ती)

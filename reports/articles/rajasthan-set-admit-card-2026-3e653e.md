@@ -2,20 +2,18 @@
 
 URL: https://examdarpan.in/rajasthan-set-admit-card-2026
 
-**SEO health score: 94/100** (this is this agent's own checklist score, not a Google score)
-Words: 1146 | Last read: 2026-11-06T00:24:46Z | Published: 2026-09-08 | Updated: 2026-10-06
+**SEO health score: 97/100** (this is this agent's own checklist score, not a Google score)
+Words: 1214 | Last read: 2026-11-13T15:42:12Z | Published: 2026-09-08 | Updated: 2026-10-06
 
 ## Things to fix
 
-- **LOW**: Meta description is long (166 characters).  
-  Fix: Shorten to about 160 characters.
 - **LOW**: 4 image(s) without alt text.  
   Fix: Add short descriptive alt text.
 
 ## Title and description ideas
 
 - Current title: Rajasthan SET Admit Card 2026 जारी
-- Current description: Rajasthan SET Admit Card 2026 जारी हो गया है। राजस्थान राज्य पात्रता परीक्षा 13 सितंबर 2026 को आयोजित होगी। अभ्यर्थी आवेदन संख्या और जन्मतिथि की मदद से आधिकारिक भर्ती
+- Current description: Rajasthan SET Admit Card 2026 जारी हो गया है। राजस्थान राज्य पात्रता परीक्षा 13 सितंबर 2026 को आयोजित होगी। अभ्यर्थी आवेदन संख्या और जन्मतिथि की मदद से आधिकारिक
 
 ## Search ideas from this article's own content
 _These are ideas taken from the article text. They are NOT search-volume numbers. Check real queries in Search Console._
@@ -28,25 +26,29 @@ _These are ideas taken from the article text. They are NOT search-volume numbers
 - Admit Card में कौन-कौन सी जानकारी होगी? (sub-heading (H2))
 - Rajasthan SET 2026 परीक्षा में क्या लेकर जाएं? (sub-heading (H2))
 - Rajasthan SET 2026 Exam Pattern (sub-heading (H2))
-- admit card (repeated in text, appears 34 times)
+- admit card (repeated in text, appears 36 times)
 - rajasthan set (repeated in text, appears 23 times)
+- सितंबर 2026 (repeated in text, appears 15 times)
 - card 2026 (repeated in text, appears 14 times)
-- set 2026 (repeated in text, appears 14 times)
 
 ### Topics the article does not mention yet
 _Add a section only if it is relevant AND you can confirm the facts from the official notice._
 
+- last date
 - syllabus
+- how to apply
 - salary
 - age limit
 
 Possible search phrases for those sections (estimates):
+- Rajasthan SET Admit Card 2026 जारी, last date
 - Rajasthan SET Admit Card 2026 जारी, syllabus
+- Rajasthan SET Admit Card 2026 जारी, how to apply
 - Rajasthan SET Admit Card 2026 जारी, salary
 - Rajasthan SET Admit Card 2026 जारी, age limit
 
 ## Internal links you could add
 
-- Link to [RSCIT Result 2026 Declared – Check Your Result Online](https://examdarpan.in/rscit-result-2026-declared-check-your-result-online) (shares: 2026, rajasthan, update, आवेदन, जारी)
-- Link to [Admit Card | Exam Darpan](https://examdarpan.in/category-admit-card) (shares: 2026, admit, card, जारी, सितंबर)
-- Link to [Rajasthan CET 2026: Senior Secondary Syllabus, Exam](https://examdarpan.in/rajasthan-cet-2026-senior-secondary-syllabus-exam-date) (shares: 2026, rajasthan, update, परीक्षा, राजस्थान)
+- Link to [Rajasthan CET 2026: Senior Secondary Syllabus, Exam](https://examdarpan.in/rajasthan-cet-2026-senior-secondary-syllabus-exam-date) (shares: 2026, rajasthan, update, परीक्षा, भर्ती)
+- Link to [RSCIT Result 2026 Declared – Check Your Result Online](https://examdarpan.in/rscit-result-2026-declared-check-your-result-online) (shares: 2026, rajasthan, update, जारी, परीक्षा)
+- Link to [सरकारी परीक्षा Result | Exam Darpan](https://examdarpan.in/category-results) (shares: 2026, card, rajasthan, जारी)
