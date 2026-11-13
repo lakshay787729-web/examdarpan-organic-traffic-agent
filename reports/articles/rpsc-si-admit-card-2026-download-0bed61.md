@@ -53,4 +53,4 @@ Possible search phrases for those sections (estimates):
 
 - Link to [Rajasthan SI Answer Key 2026: Latest Update](https://examdarpan.in/rajasthan-police-si-answer-key-2026) (shares: 2026, exam, rpsc, si, जारी)
 - Link to [Admit Card | Exam Darpan](https://examdarpan.in/category-admit-card) (shares: 2026, admit, card, जारी, सितंबर)
-- Link to [SSC CHSL 2026 Exam Date, Admit Card Update, 2536 Vacancy](https://examdarpan.in/ssc-chsl-recruitment-2026) (shares: 2026, admit, card, exam, परीक्षा)
+- Link to [Rajasthan CET Exam Date 2026: नई परीक्षा तिथि जारी, 12वीं और](https://examdarpan.in/rajasthan-cet-2026-new-exam-date) (shares: 2026, exam, कार्ड, जारी, परीक्षा)

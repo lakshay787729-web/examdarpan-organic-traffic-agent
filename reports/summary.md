@@ -7,7 +7,7 @@ and it does not create fake visits or clicks.
 
 - Articles found in sitemap: 72
 - Articles read so far: 72 (100%)
-- Issues: 18 high, 101 medium, 135 low
+- Issues: 18 high, 99 medium, 134 low
 
 ## Search Console status
 
@@ -85,30 +85,30 @@ and it does not create fake visits or clicks.
    - HIGH: Only 42 words were visible in the raw HTML but the page loads 7 scripts. The content may be added by JavaScript, which this agent cannot see.
    - MEDIUM: Only 1 links to other Exam Darpan pages.
    - MEDIUM: No other article links to this page.
-12. सरकारी परीक्षा Result | Exam Darpan  
-   https://examdarpan.in/category-results  
-   Priority 35 | score 65/100
-   - HIGH: Only 56 words were visible in the raw HTML but the page loads 7 scripts. The content may be added by JavaScript, which this agent cannot see.
-   - MEDIUM: Only 1 links to other Exam Darpan pages.
-   - MEDIUM: No other article links to this page.
-13. University & College | Exam Darpan  
+12. University & College | Exam Darpan  
    https://examdarpan.in/category-university-college  
    Priority 35 | score 65/100
    - HIGH: Only 49 words were visible in the raw HTML but the page loads 7 scripts. The content may be added by JavaScript, which this agent cannot see.
    - MEDIUM: Mentions deadline date(s) already passed: 2026-10-10.
    - MEDIUM: Only 1 links to other Exam Darpan pages.
-14. About Us | Exam Darpan  
+13. About Us | Exam Darpan  
    https://examdarpan.in/about  
    Priority 34 | score 66/100
    - MEDIUM: Title is very similar to https://examdarpan.in/category-scholarships. They may compete for the same searches (a guess based on titles only).
    - MEDIUM: Title is very similar to https://examdarpan.in/category-syllabus. They may compete for the same searches (a guess based on titles only).
    - MEDIUM: Title is very similar to https://examdarpan.in/contact. They may compete for the same searches (a guess based on titles only).
-15. All India Government Jobs 2026 – Latest Central Govt Jobs | Exam Darpan  
+14. All India Government Jobs 2026 – Latest Central Govt Jobs | Exam Darpan  
    https://examdarpan.in/all-india-government-jobs  
    Priority 31 | score 69/100
    - HIGH: Only 39 words were visible in the raw HTML but the page loads 4 scripts. The content may be added by JavaScript, which this agent cannot see.
    - MEDIUM: Only 1 links to other Exam Darpan pages.
    - LOW: Meta description is long (166 characters).
+15. All Categories: Rajasthan Jobs, Admit Card, Results & More | Exam Darpan  
+   https://examdarpan.in/categories  
+   Priority 31 | score 69/100
+   - HIGH: Only 19 words were visible in the raw HTML but the page loads 3 scripts. The content may be added by JavaScript, which this agent cannot see.
+   - MEDIUM: Only 1 links to other Exam Darpan pages.
+   - LOW: Meta description is long (163 characters).
 
 ## Words used here
 

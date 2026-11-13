@@ -3,7 +3,7 @@
 URL: https://examdarpan.in/rajasthan-ldc-score-card-2026
 
 **SEO health score: 97/100** (this is this agent's own checklist score, not a Google score)
-Words: 1722 | Last read: 2026-11-05T19:19:13Z | Published: 2026-10-07 | Updated: 2026-10-07
+Words: 1806 | Last read: 2026-11-13T01:01:50Z | Published: 2026-10-07 | Updated: 2026-10-07
 
 ## Things to fix
 
@@ -34,15 +34,21 @@ _These are ideas taken from the article text. They are NOT search-volume numbers
 ### Topics the article does not mention yet
 _Add a section only if it is relevant AND you can confirm the facts from the official notice._
 
+- last date
+- syllabus
+- how to apply
 - salary
 - age limit
 
 Possible search phrases for those sections (estimates):
+- Rajasthan LDC Score Card 2026: स्कोर last date
+- Rajasthan LDC Score Card 2026: स्कोर syllabus
+- Rajasthan LDC Score Card 2026: स्कोर how to apply
 - Rajasthan LDC Score Card 2026: स्कोर salary
 - Rajasthan LDC Score Card 2026: स्कोर age limit
 
 ## Internal links you could add
 
-- Link to [सरकारी परीक्षा Result | Exam Darpan](https://examdarpan.in/category-results) (shares: 2026, card, cut, ldc, rajasthan)
 - Link to [Rajasthan SET Admit Card 2026 जारी](https://examdarpan.in/rajasthan-set-admit-card-2026) (shares: 2026, card, rajasthan, जारी, परीक्षा)
-- Link to [Rajasthan CET Exam Date 2026: नई परीक्षा तिथि जारी, 12वीं और Grad](https://examdarpan.in/rajasthan-cet-2026-new-exam-date) (shares: 2026, rajasthan, जारी, परीक्षा)
+- Link to [Rajasthan CET Exam Date 2026: नई परीक्षा तिथि जारी, 12वीं और](https://examdarpan.in/rajasthan-cet-2026-new-exam-date) (shares: 2026, rajasthan, जारी, परीक्षा)
+- Link to [Rajasthan CET 2026: Senior Secondary Syllabus, Exam](https://examdarpan.in/rajasthan-cet-2026-senior-secondary-syllabus-exam-date) (shares: 2026, rajasthan, परीक्षा, भर्ती)

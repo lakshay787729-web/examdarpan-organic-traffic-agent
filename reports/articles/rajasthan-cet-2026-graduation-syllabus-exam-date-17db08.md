@@ -47,6 +47,6 @@ Possible search phrases for those sections (estimates):
 
 ## Internal links you could add
 
-- Link to [Rajasthan CET Exam Date 2026: नई परीक्षा तिथि जारी, 12वीं और Grad](https://examdarpan.in/rajasthan-cet-2026-new-exam-date) (shares: 2026, cet, exam, level, rajasthan)
+- Link to [Rajasthan CET Exam Date 2026: नई परीक्षा तिथि जारी, 12वीं और](https://examdarpan.in/rajasthan-cet-2026-new-exam-date) (shares: 2026, cet, exam, level, rajasthan)
 - Link to [Latest Updates | Exam Darpan](https://examdarpan.in/category-latest-updates) (shares: 2026, cet, exam, परीक्षा)
 - Link to [मुख्यमंत्री अनुप्रति कोचिंग योजना 2026-27: Last Date](https://examdarpan.in/mukhyamantri-anuprati-coaching-yojana-2026-27) (shares: 2026, cet, rajasthan, परीक्षा)

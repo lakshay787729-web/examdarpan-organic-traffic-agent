@@ -45,4 +45,4 @@ Possible search phrases for those sections (estimates):
 
 - Link to [SSC CGL Admit Card 2026 Out: Tier 1 Hall Ticket जारी, Download](https://examdarpan.in/ssc-cgl-admit-card-2026) (shares: 2026, exam, official, ssc, परीक्षा)
 - Link to [RRB JE Exam Date 2026: CBT-1 Admit Card, City Slip](https://examdarpan.in/rrb-je-recruitment-2026-cbt-1-exam-date) (shares: 2026, exam, je, परीक्षा, संबंधित)
-- Link to [Rajasthan CET Exam Date 2026: नई परीक्षा तिथि जारी, 12वीं और Grad](https://examdarpan.in/rajasthan-cet-2026-new-exam-date) (shares: 2026, exam, आवेदन, परीक्षा)
+- Link to [Rajasthan SET Admit Card 2026 जारी](https://examdarpan.in/rajasthan-set-admit-card-2026) (shares: 2026, आवेदन, परीक्षा, सितंबर)
