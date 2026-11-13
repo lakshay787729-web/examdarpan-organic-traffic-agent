@@ -3,11 +3,11 @@
 URL: https://examdarpan.in/rscit-result-2026-declared-check-your-result-online
 
 **SEO health score: 90/100** (this is this agent's own checklist score, not a Google score)
-Words: 700 | Last read: 2026-11-06T14:57:57Z | Published: 2026-09-02 | Updated: 2026-09-02
+Words: 772 | Last read: 2026-11-13T21:38:14Z | Published: 2026-09-02 | Updated: 2026-09-02
 
 ## Things to fix
 
-- **MEDIUM**: Mentions deadline date(s) already passed: 2026-09-26, 2026-10-09, 2026-10-21.  
+- **MEDIUM**: Mentions deadline date(s) already passed: 2026-10-21.  
   Fix: Make clear whether applications are closed, or update after checking the official notice.
 - **LOW**: 4 image(s) without alt text.  
   Fix: Add short descriptive alt text.
@@ -27,11 +27,11 @@ _These are ideas taken from the article text. They are NOT search-volume numbers
 - RSCIT Result 2026: एक नज़र में (sub-heading (H2))
 - आधिकारिक स्रोत से सत्यापन (sub-heading (H2))
 - Related Updates (sub-heading (H2))
-- apply online (repeated in text, appears 5 times)
-- अक्टूबर 2026 (repeated in text, appears 5 times)
-- jobs update (repeated in text, appears 4 times)
+- jobs update (repeated in text, appears 6 times)
+- recruitment 2026 (repeated in text, appears 6 times)
+- result 2026 (repeated in text, appears 6 times)
 - rajasthan ldc (repeated in text, appears 4 times)
-- recruitment 2026 (repeated in text, appears 4 times)
+- typing test (repeated in text, appears 4 times)
 
 ### Topics the article does not mention yet
 _Add a section only if it is relevant AND you can confirm the facts from the official notice._
@@ -45,6 +45,6 @@ Possible search phrases for those sections (estimates):
 
 ## Internal links you could add
 
-- Link to [सरकारी योजनाएं | Exam Darpan](https://examdarpan.in/category-yojana) (shares: 2026, apply, online, rajasthan, अक्टूबर)
-- Link to [Rajasthan PTI Recruitment 2026: 1200 पद, योग्यता, आयु सीमा व लेटेस्ट अपडेट](https://examdarpan.in/rajasthan-pti-recruitment-2026) (shares: 2026, rajasthan, आधिकारिक, आवेदन, जारी)
-- Link to [मुख्यमंत्री अनुप्रति कोचिंग योजना 2026-27: Last Date](https://examdarpan.in/mukhyamantri-anuprati-coaching-yojana-2026-27) (shares: 2026, rajasthan, अक्टूबर, आवेदन, परीक्षा)
+- Link to [Rajasthan SET Admit Card 2026 जारी](https://examdarpan.in/rajasthan-set-admit-card-2026) (shares: 2026, rajasthan, update, जारी, परीक्षा)
+- Link to [Bank of India SO Recruitment 2026: 205 Posts](https://examdarpan.in/bank-of-india-so-recruitment-2026-205-posts) (shares: 2026, recruitment, आधिकारिक, परीक्षा, भर्ती)
+- Link to [Rajasthan CET 2026: Senior Secondary Syllabus, Exam](https://examdarpan.in/rajasthan-cet-2026-senior-secondary-syllabus-exam-date) (shares: 2026, rajasthan, update, परीक्षा, भर्ती)

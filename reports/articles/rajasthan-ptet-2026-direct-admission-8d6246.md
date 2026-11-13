@@ -45,5 +45,5 @@ Possible search phrases for those sections (estimates):
 
 ## Internal links you could add
 
+- Link to [RSCIT Result 2026 Declared – Check Your Result Online](https://examdarpan.in/rscit-result-2026-declared-check-your-result-online) (shares: 2026, rajasthan, update, आधिकारिक, जानकारी)
 - Link to [Rajasthan Government Jobs 2026 | Rajasthan Vacancy, RPSC, RSSB & Police Jobs | Exam Darpan](https://examdarpan.in/rajasthan-government-jobs) (shares: 2026, rajasthan, अपडेट, जानकारी)
-- Link to [RSCIT Result 2026 Declared – Check Your Result Online](https://examdarpan.in/rscit-result-2026-declared-check-your-result-online) (shares: 2026, rajasthan, update, आधिकारिक)

@@ -3,11 +3,11 @@
 URL: https://examdarpan.in/rrb-ntpc-ug-recruitment-2026
 
 **SEO health score: 90/100** (this is this agent's own checklist score, not a Google score)
-Words: 2477 | Last read: 2026-11-06T07:06:14Z | Published: 2026-10-16 | Updated: 2026-10-16
+Words: 2554 | Last read: 2026-11-13T21:38:14Z | Published: 2026-10-16 | Updated: 2026-10-16
 
 ## Things to fix
 
-- **MEDIUM**: Mentions deadline date(s) already passed: 2026-10-21, 2026-10-22.  
+- **MEDIUM**: Mentions deadline date(s) already passed: 2026-09-22, 2026-10-21, 2026-10-28.  
   Fix: Make clear whether applications are closed, or update after checking the official notice.
 - **LOW**: 4 image(s) without alt text.  
   Fix: Add short descriptive alt text.
@@ -30,8 +30,8 @@ _These are ideas taken from the article text. They are NOT search-volume numbers
 - RRB NTPC UG Application Fee 2026: आवेदन शुल्क (sub-heading (H2))
 - rrb ntpc (repeated in text, appears 35 times)
 - rrb ntpc ug (repeated in text, appears 26 times)
-- recruitment 2026 (repeated in text, appears 16 times)
-- cen 07 2026 (repeated in text, appears 11 times)
+- recruitment 2026 (repeated in text, appears 18 times)
+- अंतिम तिथि (repeated in text, appears 12 times)
 
 ### Topics the article does not mention yet
 _Add a section only if it is relevant AND you can confirm the facts from the official notice._
@@ -46,5 +46,5 @@ Possible search phrases for those sections (estimates):
 ## Internal links you could add
 
 - Link to [RRB Paramedical Recruitment 2026: 590 Posts](https://examdarpan.in/rrb-paramedical-recruitment-2026) (shares: 2026, recruitment, rrb, अंतिम, आवेदन)
+- Link to [Assam Rifles Group C Recruitment 2026: 354 Posts, Apply](https://examdarpan.in/assam-rifles-group-c-recruitment-2026) (shares: 2026, recruitment, अनुसार, आवेदन, पद)
 - Link to [Rajasthan PTI Recruitment 2026: 1200 पद, योग्यता, आयु सीमा व लेटेस्ट अपडेट](https://examdarpan.in/rajasthan-pti-recruitment-2026) (shares: 2026, recruitment, अंतिम, आवेदन, पद)
-- Link to [UP Assistant Teacher Recruitment 2026: 12,405 पदों पर भर्ती](https://examdarpan.in/up-assistant-teacher-recruitment-2026) (shares: 2026, recruitment, अंतिम, आवेदन, पद)

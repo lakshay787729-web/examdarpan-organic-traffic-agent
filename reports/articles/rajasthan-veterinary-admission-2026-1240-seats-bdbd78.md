@@ -38,3 +38,4 @@ _These are ideas taken from the article text. They are NOT search-volume numbers
 ## Internal links you could add
 
 - Link to [Rajasthan SI Answer Key 2026: Latest Update](https://examdarpan.in/rajasthan-police-si-answer-key-2026) (shares: 2026, rajasthan, आधिकारिक, सितंबर)
+- Link to [RSCIT Result 2026 Declared – Check Your Result Online](https://examdarpan.in/rscit-result-2026-declared-check-your-result-online) (shares: 2026, official, rajasthan, आधिकारिक)

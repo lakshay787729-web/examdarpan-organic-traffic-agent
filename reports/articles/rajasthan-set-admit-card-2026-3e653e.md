@@ -51,4 +51,4 @@ Possible search phrases for those sections (estimates):
 
 - Link to [Rajasthan CET 2026: Senior Secondary Syllabus, Exam](https://examdarpan.in/rajasthan-cet-2026-senior-secondary-syllabus-exam-date) (shares: 2026, rajasthan, update, परीक्षा, भर्ती)
 - Link to [RSCIT Result 2026 Declared – Check Your Result Online](https://examdarpan.in/rscit-result-2026-declared-check-your-result-online) (shares: 2026, rajasthan, update, जारी, परीक्षा)
-- Link to [सरकारी परीक्षा Result | Exam Darpan](https://examdarpan.in/category-results) (shares: 2026, card, rajasthan, जारी)
+- Link to [RSSB Exam Calendar 2026-27 जारी](https://examdarpan.in/rssb-exam-calendar-2026-27-exam-date) (shares: 2026, rajasthan, जारी, परीक्षा, भर्ती)
