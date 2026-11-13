@@ -3,7 +3,7 @@
 URL: https://examdarpan.in/rajasthan-scholarship-yojana-2026-27
 
 **SEO health score: 90/100** (this is this agent's own checklist score, not a Google score)
-Words: 1282 | Last read: 2026-11-06T00:24:46Z | Published: 2026-10-04 | Updated: 2026-10-06
+Words: 1347 | Last read: 2026-11-13T07:46:14Z | Published: 2026-10-04 | Updated: 2026-10-06
 
 ## Things to fix
 
@@ -28,13 +28,13 @@ _These are ideas taken from the article text. They are NOT search-volume numbers
 - Rajasthan Scholarship 2026-27 की महत्वपूर्ण तारीखें (sub-heading (H2))
 - Rajasthan Scholarship 2026-27 के लिए ऑनलाइन आवेदन कैसे करें? (sub-heading (H2))
 - आवेदन से पहले इन बातों का रखें ध्यान (sub-heading (H2))
-- 2026 27 (repeated in text, appears 18 times)
-- अक्टूबर 2026 (repeated in text, appears 13 times)
+- 2026 27 (repeated in text, appears 19 times)
 - ऑनलाइन आवेदन (repeated in text, appears 13 times)
 - rajasthan scholarship (repeated in text, appears 12 times)
+- 30 नवंबर (repeated in text, appears 10 times)
 
 ## Internal links you could add
 
 - Link to [मुख्यमंत्री अनुप्रति कोचिंग योजना 2026-27: Last Date](https://examdarpan.in/mukhyamantri-anuprati-coaching-yojana-2026-27) (shares: 2026, rajasthan, अंतिम, अक्टूबर, आवेदन)
-- Link to [Scholarships | Exam Darpan](https://examdarpan.in/category-scholarships) (shares: 2026, rajasthan, scholarship, अक्टूबर, आवेदन)
 - Link to [Rajasthan Safai Karmchari 2026: 24,752 पद, आवेदन बंद, Correction 4 नवंबर तक](https://examdarpan.in/rajasthan-safai-karmchari-recruitment-2026) (shares: 2026, rajasthan, अंतिम, अक्टूबर, आवेदन)
+- Link to [सरकारी योजनाएं | Exam Darpan](https://examdarpan.in/category-yojana) (shares: 2026, rajasthan, अक्टूबर, आवेदन, सहायता)

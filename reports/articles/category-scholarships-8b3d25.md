@@ -2,7 +2,7 @@
 
 URL: https://examdarpan.in/category-scholarships
 
-**SEO health score: 58/100** (this is this agent's own checklist score, not a Google score)
+**SEO health score: 65/100** (this is this agent's own checklist score, not a Google score)
 Words: 51 | Last read: 2026-11-11T17:07:07Z | Published: unknown | Updated: unknown
 
 ## Things to fix
@@ -11,8 +11,6 @@ Words: 51 | Last read: 2026-11-11T17:07:07Z | Published: unknown | Updated: unkn
   Fix: Check the page with URL Inspection in Search Console. Prefer server-rendered or pre-rendered article text.
 - **MEDIUM**: Only 1 links to other Exam Darpan pages.  
   Fix: Link to related articles where it helps readers (see suggestions below).
-- **MEDIUM**: No other article links to this page.  
-  Fix: Add a link to it from a related article or a category/hub page.
 - **MEDIUM**: Title is very similar to https://examdarpan.in/about. They may compete for the same searches (a guess based on titles only).  
   Fix: Decide which page should rank for this topic. Merge, differentiate, or link them clearly.
 - **LOW**: No publish or update date found.  
@@ -64,4 +62,4 @@ Possible search phrases for those sections (estimates):
 
 - Link to [सरकारी योजनाएं | Exam Darpan](https://examdarpan.in/category-yojana) (shares: 2026, article, rajasthan, yojana, अक्टूबर)
 - Link to [Rajasthan Scooty Yojana 2026](https://examdarpan.in/rajasthan-scooty-yojana-2026-27) (shares: 2026, rajasthan, yojana, अक्टूबर, आवेदन)
-- Link to [Rajasthan Safai Karmchari 2026: 24,752 पद, आवेदन बंद, Correction 4 नवंबर तक](https://examdarpan.in/rajasthan-safai-karmchari-recruitment-2026) (shares: 2026, rajasthan, अक्टूबर, आवेदन, नवंबर)
+- Link to [Rajasthan PTET Fee Refund 2026: Last Date 21 October](https://examdarpan.in/rajasthan-ptet-fee-refund-2026) (shares: 2026, rajasthan, अक्टूबर, आवेदन, ऑनलाइन)

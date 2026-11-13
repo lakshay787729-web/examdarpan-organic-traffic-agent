@@ -7,7 +7,7 @@ and it does not create fake visits or clicks.
 
 - Articles found in sitemap: 72
 - Articles read so far: 72 (100%)
-- Issues: 18 high, 99 medium, 134 low
+- Issues: 18 high, 98 medium, 134 low
 
 ## Search Console status
 
@@ -55,36 +55,36 @@ and it does not create fake visits or clicks.
    - HIGH: Only 34 words were visible in the raw HTML but the page loads 3 scripts. The content may be added by JavaScript, which this agent cannot see.
    - MEDIUM: No meta description.
    - MEDIUM: Only 0 links to other Exam Darpan pages.
-7. Scholarships | Exam Darpan  
-   https://examdarpan.in/category-scholarships  
-   Priority 42 | score 58/100
-   - HIGH: Only 51 words were visible in the raw HTML but the page loads 7 scripts. The content may be added by JavaScript, which this agent cannot see.
-   - MEDIUM: Only 1 links to other Exam Darpan pages.
-   - MEDIUM: No other article links to this page.
-8. Admit Card | Exam Darpan  
+7. Admit Card | Exam Darpan  
    https://examdarpan.in/category-admit-card  
    Priority 38 | score 62/100
    - HIGH: Only 50 words were visible in the raw HTML but the page loads 7 scripts. The content may be added by JavaScript, which this agent cannot see.
    - MEDIUM: Only 1 links to other Exam Darpan pages.
    - MEDIUM: No other article links to this page.
-9. Answer Key | Exam Darpan  
+8. Answer Key | Exam Darpan  
    https://examdarpan.in/category-answer-key  
    Priority 38 | score 62/100
    - HIGH: Only 52 words were visible in the raw HTML but the page loads 7 scripts. The content may be added by JavaScript, which this agent cannot see.
    - MEDIUM: Only 1 links to other Exam Darpan pages.
    - MEDIUM: No other article links to this page.
-10. Exam Syllabus | Exam Darpan  
+9. Exam Syllabus | Exam Darpan  
    https://examdarpan.in/category-syllabus  
    Priority 38 | score 62/100
    - HIGH: Only 46 words were visible in the raw HTML but the page loads 7 scripts. The content may be added by JavaScript, which this agent cannot see.
    - MEDIUM: Only 1 links to other Exam Darpan pages.
    - MEDIUM: Title is very similar to https://examdarpan.in/about. They may compete for the same searches (a guess based on titles only).
-11. Police & Defence Jobs | Exam Darpan  
+10. Police & Defence Jobs | Exam Darpan  
    https://examdarpan.in/category-police-defence-jobs  
    Priority 35 | score 65/100
    - HIGH: Only 42 words were visible in the raw HTML but the page loads 7 scripts. The content may be added by JavaScript, which this agent cannot see.
    - MEDIUM: Only 1 links to other Exam Darpan pages.
    - MEDIUM: No other article links to this page.
+11. Scholarships | Exam Darpan  
+   https://examdarpan.in/category-scholarships  
+   Priority 35 | score 65/100
+   - HIGH: Only 51 words were visible in the raw HTML but the page loads 7 scripts. The content may be added by JavaScript, which this agent cannot see.
+   - MEDIUM: Only 1 links to other Exam Darpan pages.
+   - MEDIUM: Title is very similar to https://examdarpan.in/about. They may compete for the same searches (a guess based on titles only).
 12. University & College | Exam Darpan  
    https://examdarpan.in/category-university-college  
    Priority 35 | score 65/100

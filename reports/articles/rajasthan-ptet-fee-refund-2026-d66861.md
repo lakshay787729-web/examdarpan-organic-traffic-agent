@@ -3,11 +3,11 @@
 URL: https://examdarpan.in/rajasthan-ptet-fee-refund-2026
 
 **SEO health score: 90/100** (this is this agent's own checklist score, not a Google score)
-Words: 2017 | Last read: 2026-11-05T19:19:13Z | Published: 2026-10-10 | Updated: 2026-10-19
+Words: 2071 | Last read: 2026-11-13T07:46:14Z | Published: 2026-10-10 | Updated: 2026-10-19
 
 ## Things to fix
 
-- **MEDIUM**: Mentions deadline date(s) already passed: 2026-09-26, 2026-10-09, 2026-10-10.  
+- **MEDIUM**: Mentions deadline date(s) already passed: 2026-09-22, 2026-10-10, 2026-10-19.  
   Fix: Make clear whether applications are closed, or update after checking the official notice.
 - **LOW**: 4 image(s) without alt text.  
   Fix: Add short descriptive alt text.
@@ -28,23 +28,25 @@ _These are ideas taken from the article text. They are NOT search-volume numbers
 - PTET Refund 2026 Important Dates (sub-heading (H2))
 - PTET Fee Refund Online Apply कैसे करें? (sub-heading (H2))
 - रिफंड आवेदन से पहले जरूरी Checklist (sub-heading (H2))
-- अक्टूबर 2026 (repeated in text, appears 26 times)
+- अक्टूबर 2026 (repeated in text, appears 24 times)
 - ptet 2026 (repeated in text, appears 16 times)
 - refund 2026 (repeated in text, appears 14 times)
-- fee refund (repeated in text, appears 13 times)
+- fee refund (repeated in text, appears 12 times)
 
 ### Topics the article does not mention yet
 _Add a section only if it is relevant AND you can confirm the facts from the official notice._
 
 - salary
 - age limit
+- cut off
 
 Possible search phrases for those sections (estimates):
 - Rajasthan PTET Fee Refund 2026: Last salary
 - Rajasthan PTET Fee Refund 2026: Last age limit
+- Rajasthan PTET Fee Refund 2026: Last cut off
 
 ## Internal links you could add
 
-- Link to [University & College | Exam Darpan](https://examdarpan.in/category-university-college) (shares: 2026, fee, ptet, rajasthan, refund)
+- Link to [Scholarships | Exam Darpan](https://examdarpan.in/category-scholarships) (shares: 2026, rajasthan, अक्टूबर, आवेदन, ऑनलाइन)
 - Link to [मुख्यमंत्री अनुप्रति कोचिंग योजना 2026-27: Last Date](https://examdarpan.in/mukhyamantri-anuprati-coaching-yojana-2026-27) (shares: 2026, rajasthan, अंतिम, अक्टूबर, आवेदन)
 - Link to [Rajasthan Safai Karmchari 2026: 24,752 पद, आवेदन बंद, Correction 4 नवंबर तक](https://examdarpan.in/rajasthan-safai-karmchari-recruitment-2026) (shares: 2026, rajasthan, अंतिम, अक्टूबर, आवेदन)

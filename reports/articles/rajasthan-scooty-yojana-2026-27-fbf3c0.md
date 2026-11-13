@@ -3,11 +3,11 @@
 URL: https://examdarpan.in/rajasthan-scooty-yojana-2026-27
 
 **SEO health score: 87/100** (this is this agent's own checklist score, not a Google score)
-Words: 1236 | Last read: 2026-11-06T00:24:46Z | Published: 2026-09-30 | Updated: 2026-10-12
+Words: 1299 | Last read: 2026-11-13T07:46:14Z | Published: 2026-09-30 | Updated: 2026-10-12
 
 ## Things to fix
 
-- **MEDIUM**: Mentions deadline date(s) already passed: 2026-10-01, 2026-10-25.  
+- **MEDIUM**: Mentions deadline date(s) already passed: 2026-09-22, 2026-10-01.  
   Fix: Make clear whether applications are closed, or update after checking the official notice.
 - **LOW**: 4 image(s) without alt text.  
   Fix: Add short descriptive alt text.
@@ -30,7 +30,7 @@ _These are ideas taken from the article text. They are NOT search-volume numbers
 - देवनारायण छात्रा स्कूटी योजना 2026-27 (sub-heading (H2))
 - Rajasthan Scooty Yojana 2026-27 आवेदन की महत्वपूर्ण तारीखें (sub-heading (H2))
 - Rajasthan Scooty Yojana 2026-27 के लिए ऑनलाइन आवेदन कैसे करें? (sub-heading (H2))
-- 2026 27 (repeated in text, appears 18 times)
+- 2026 27 (repeated in text, appears 19 times)
 - ऑनलाइन आवेदन (repeated in text, appears 14 times)
 - yojana 2026 27 (repeated in text, appears 13 times)
 - rajasthan scooty yojana (repeated in text, appears 12 times)
@@ -39,4 +39,4 @@ _These are ideas taken from the article text. They are NOT search-volume numbers
 
 - Link to [Scholarships | Exam Darpan](https://examdarpan.in/category-scholarships) (shares: 2026, rajasthan, yojana, अक्टूबर, आवेदन)
 - Link to [मुख्यमंत्री अनुप्रति कोचिंग योजना 2026-27: Last Date](https://examdarpan.in/mukhyamantri-anuprati-coaching-yojana-2026-27) (shares: 2026, rajasthan, अंतिम, अक्टूबर, आवेदन)
-- Link to [सरकारी योजनाएं | Exam Darpan](https://examdarpan.in/category-yojana) (shares: 2026, rajasthan, yojana, अक्टूबर, आवेदन)
+- Link to [Rajasthan Safai Karmchari 2026: 24,752 पद, आवेदन बंद, Correction 4 नवंबर तक](https://examdarpan.in/rajasthan-safai-karmchari-recruitment-2026) (shares: 2026, rajasthan, अंतिम, अक्टूबर, आवेदन)
