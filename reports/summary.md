@@ -7,7 +7,7 @@ and it does not create fake visits or clicks.
 
 - Articles found in sitemap: 72
 - Articles read so far: 72 (100%)
-- Issues: 18 high, 95 medium, 128 low
+- Issues: 18 high, 94 medium, 125 low
 
 ## Search Console status
 
@@ -25,22 +25,22 @@ and it does not create fake visits or clicks.
    - HIGH: Only 46 words were visible in the raw HTML but the page loads 7 scripts. The content may be added by JavaScript, which this agent cannot see.
    - MEDIUM: Only 1 links to other Exam Darpan pages.
    - MEDIUM: No other article links to this page.
-2. SSC Jobs | Exam Darpan  
-   https://examdarpan.in/category-ssc-jobs  
-   Priority 59 | score 41/100
-   - HIGH: Only 44 words were visible in the raw HTML but the page loads 7 scripts. The content may be added by JavaScript, which this agent cannot see.
-   - MEDIUM: Only 1 links to other Exam Darpan pages.
-   - MEDIUM: No other article links to this page.
-3. Teaching Jobs | Exam Darpan  
+2. Teaching Jobs | Exam Darpan  
    https://examdarpan.in/category-teaching-jobs  
    Priority 59 | score 41/100
    - HIGH: Only 46 words were visible in the raw HTML but the page loads 7 scripts. The content may be added by JavaScript, which this agent cannot see.
    - MEDIUM: Only 1 links to other Exam Darpan pages.
    - MEDIUM: No other article links to this page.
-4. Railway Jobs | Exam Darpan  
+3. Railway Jobs | Exam Darpan  
    https://examdarpan.in/category-railway-jobs  
    Priority 52 | score 48/100
    - HIGH: Only 50 words were visible in the raw HTML but the page loads 7 scripts. The content may be added by JavaScript, which this agent cannot see.
+   - MEDIUM: Only 1 links to other Exam Darpan pages.
+   - MEDIUM: Title is very similar to https://examdarpan.in/category-banking-jobs. They may compete for the same searches (a guess based on titles only).
+4. SSC Jobs | Exam Darpan  
+   https://examdarpan.in/category-ssc-jobs  
+   Priority 52 | score 48/100
+   - HIGH: Only 44 words were visible in the raw HTML but the page loads 7 scripts. The content may be added by JavaScript, which this agent cannot see.
    - MEDIUM: Only 1 links to other Exam Darpan pages.
    - MEDIUM: Title is very similar to https://examdarpan.in/category-banking-jobs. They may compete for the same searches (a guess based on titles only).
 5. Entrance Exams | Exam Darpan  

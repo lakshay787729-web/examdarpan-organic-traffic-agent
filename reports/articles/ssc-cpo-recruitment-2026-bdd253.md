@@ -36,5 +36,5 @@ _These are ideas taken from the article text. They are NOT search-volume numbers
 ## Internal links you could add
 
 - Link to [Rajasthan PTI Recruitment 2026: 1200 पद, योग्यता, आयु सीमा व लेटेस्ट अपडेट](https://examdarpan.in/rajasthan-pti-recruitment-2026) (shares: 2026, अंतिम, आधिकारिक, आवेदन, जारी)
-- Link to [SSC CGL Admit Card 2026 Out: Tier 1 Hall Ticket जारी, Download](https://examdarpan.in/ssc-cgl-admit-card-2026) (shares: 2026, card, date, exam, ssc)
+- Link to [SSC CGL Admit Card 2026 Out: Tier 1 Hall Ticket जारी](https://examdarpan.in/ssc-cgl-admit-card-2026) (shares: 2026, card, date, exam, ssc)
 - Link to [SSC Jobs | Exam Darpan](https://examdarpan.in/category-ssc-jobs) (shares: 2026, card, cpo, date, exam)
