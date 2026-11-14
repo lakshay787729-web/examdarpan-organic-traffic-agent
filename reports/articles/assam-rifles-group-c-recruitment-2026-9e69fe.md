@@ -3,11 +3,11 @@
 URL: https://examdarpan.in/assam-rifles-group-c-recruitment-2026
 
 **SEO health score: 90/100** (this is this agent's own checklist score, not a Google score)
-Words: 2070 | Last read: 2026-11-07T13:03:32Z | Published: 2026-10-22 | Updated: 2026-10-22
+Words: 2142 | Last read: 2026-11-14T19:44:14Z | Published: 2026-10-22 | Updated: 2026-10-22
 
 ## Things to fix
 
-- **MEDIUM**: Mentions deadline date(s) already passed: 2026-09-26, 2026-10-09, 2026-10-16.  
+- **MEDIUM**: Mentions deadline date(s) already passed: 2026-09-10, 2026-09-14, 2026-09-22.  
   Fix: Make clear whether applications are closed, or update after checking the official notice.
 - **LOW**: 4 image(s) without alt text.  
   Fix: Add short descriptive alt text.
@@ -28,10 +28,10 @@ _These are ideas taken from the article text. They are NOT search-volume numbers
 - Assam Rifles Recruitment 2026: महत्वपूर्ण तारीखें (sub-heading (H2))
 - Assam Rifles Eligibility 2026: शैक्षणिक योग्यता (sub-heading (H2))
 - assam rifles (repeated in text, appears 26 times)
-- recruitment 2026 (repeated in text, appears 17 times)
-- अक्टूबर 2026 (repeated in text, appears 12 times)
-- आयु सीमा (repeated in text, appears 10 times)
-- ऑनलाइन आवेदन (repeated in text, appears 9 times)
+- recruitment 2026 (repeated in text, appears 22 times)
+- jobs update (repeated in text, appears 9 times)
+- अक्टूबर 2026 (repeated in text, appears 9 times)
+- सितंबर 2026 (repeated in text, appears 9 times)
 
 ### Topics the article does not mention yet
 _Add a section only if it is relevant AND you can confirm the facts from the official notice._
@@ -46,5 +46,5 @@ Possible search phrases for those sections (estimates):
 ## Internal links you could add
 
 - Link to [Bank of India SO Recruitment 2026: 205 Posts](https://examdarpan.in/bank-of-india-so-recruitment-2026-205-posts) (shares: 2026, recruitment, आधिकारिक, आवेदन, पद)
-- Link to [RRB Paramedical Recruitment 2026: 590 Posts](https://examdarpan.in/rrb-paramedical-recruitment-2026) (shares: 2026, recruitment, आधिकारिक, आवेदन, पद)
-- Link to [UP Assistant Teacher Recruitment 2026: 12,405 पदों पर भर्ती](https://examdarpan.in/up-assistant-teacher-recruitment-2026) (shares: 2026, recruitment, आधिकारिक, आवेदन, पद)
+- Link to [RRB NTPC UG 2026: 12वीं पास के लिए 1688 पद, आवेदन शुरू](https://examdarpan.in/rrb-ntpc-ug-recruitment-2026) (shares: 2026, recruitment, अंतिम, अनुसार, आवेदन)
+- Link to [Rajasthan RVUNL Recruitment 2026: 2005 Posts](https://examdarpan.in/rajasthan-rvunl-recruitment-2026-junior-engineer-junior-accountant-junior-assistant) (shares: 2026, recruitment, आधिकारिक, आवेदन, पदों)

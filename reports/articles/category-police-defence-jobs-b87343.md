@@ -2,8 +2,8 @@
 
 URL: https://examdarpan.in/category-police-defence-jobs
 
-**SEO health score: 65/100** (this is this agent's own checklist score, not a Google score)
-Words: 42 | Last read: 2026-11-07T13:03:32Z | Published: unknown | Updated: unknown
+**SEO health score: 72/100** (this is this agent's own checklist score, not a Google score)
+Words: 42 | Last read: 2026-11-14T19:44:14Z | Published: unknown | Updated: unknown
 
 ## Things to fix
 
@@ -11,8 +11,6 @@ Words: 42 | Last read: 2026-11-07T13:03:32Z | Published: unknown | Updated: unkn
   Fix: Check the page with URL Inspection in Search Console. Prefer server-rendered or pre-rendered article text.
 - **MEDIUM**: Only 1 links to other Exam Darpan pages.  
   Fix: Link to related articles where it helps readers (see suggestions below).
-- **MEDIUM**: No other article links to this page.  
-  Fix: Add a link to it from a related article or a category/hub page.
 - **LOW**: Meta description is short (67 characters).  
   Fix: Add a little more useful detail (dates, who it is for).
 - **LOW**: No publish or update date found.  
@@ -27,6 +25,7 @@ Words: 42 | Last read: 2026-11-07T13:03:32Z | Published: unknown | Updated: unkn
 _These are ideas taken from the article text. They are NOT search-volume numbers. Check real queries in Search Console._
 
 - Police & Defence Jobs (title)
+- इस सेक्शन में क्या मिलेगा? (sub-heading (H2))
 - Latest Police & Defence Jobs (sub-heading (H2))
 - assam rifles group (repeated in text, appears 2 times)
 - recruitment 2026 (repeated in text, appears 2 times)

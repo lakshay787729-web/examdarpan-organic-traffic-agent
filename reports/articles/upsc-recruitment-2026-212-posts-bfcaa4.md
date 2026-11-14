@@ -43,6 +43,6 @@ Possible search phrases for those sections (estimates):
 
 ## Internal links you could add
 
+- Link to [Assam Rifles Group C Recruitment 2026: 354 Posts, Apply](https://examdarpan.in/assam-rifles-group-c-recruitment-2026) (shares: 2026, recruitment, अंतिम, आवेदन, पद)
 - Link to [RRB Station Master Recruitment 2026: Apply Online](https://examdarpan.in/rrb-station-master-recruitment-2026) (shares: 2026, recruitment, अंतिम, आवेदन, निर्धारित)
-- Link to [Assam Rifles Group C Recruitment 2026: 354 Posts, Apply](https://examdarpan.in/assam-rifles-group-c-recruitment-2026) (shares: 2026, recruitment, आवेदन, पद, पदों)
 - Link to [Rajasthan PTI Recruitment 2026: 1200 पद, योग्यता, आयु सीमा व लेटेस्ट अपडेट](https://examdarpan.in/rajasthan-pti-recruitment-2026) (shares: 2026, recruitment, अंतिम, आवेदन, पद)

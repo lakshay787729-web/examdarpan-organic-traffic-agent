@@ -7,7 +7,7 @@ and it does not create fake visits or clicks.
 
 - Articles found in sitemap: 72
 - Articles read so far: 72 (100%)
-- Issues: 18 high, 94 medium, 124 low
+- Issues: 18 high, 92 medium, 123 low
 
 ## Search Console status
 
@@ -25,22 +25,22 @@ and it does not create fake visits or clicks.
    - HIGH: Only 46 words were visible in the raw HTML but the page loads 7 scripts. The content may be added by JavaScript, which this agent cannot see.
    - MEDIUM: Only 1 links to other Exam Darpan pages.
    - MEDIUM: No other article links to this page.
-2. Teaching Jobs | Exam Darpan  
-   https://examdarpan.in/category-teaching-jobs  
-   Priority 59 | score 41/100
-   - HIGH: Only 46 words were visible in the raw HTML but the page loads 7 scripts. The content may be added by JavaScript, which this agent cannot see.
-   - MEDIUM: Only 1 links to other Exam Darpan pages.
-   - MEDIUM: No other article links to this page.
-3. Railway Jobs | Exam Darpan  
+2. Railway Jobs | Exam Darpan  
    https://examdarpan.in/category-railway-jobs  
    Priority 52 | score 48/100
    - HIGH: Only 50 words were visible in the raw HTML but the page loads 7 scripts. The content may be added by JavaScript, which this agent cannot see.
    - MEDIUM: Only 1 links to other Exam Darpan pages.
    - MEDIUM: Title is very similar to https://examdarpan.in/category-banking-jobs. They may compete for the same searches (a guess based on titles only).
-4. SSC Jobs | Exam Darpan  
+3. SSC Jobs | Exam Darpan  
    https://examdarpan.in/category-ssc-jobs  
    Priority 52 | score 48/100
    - HIGH: Only 44 words were visible in the raw HTML but the page loads 7 scripts. The content may be added by JavaScript, which this agent cannot see.
+   - MEDIUM: Only 1 links to other Exam Darpan pages.
+   - MEDIUM: Title is very similar to https://examdarpan.in/category-banking-jobs. They may compete for the same searches (a guess based on titles only).
+4. Teaching Jobs | Exam Darpan  
+   https://examdarpan.in/category-teaching-jobs  
+   Priority 52 | score 48/100
+   - HIGH: Only 46 words were visible in the raw HTML but the page loads 7 scripts. The content may be added by JavaScript, which this agent cannot see.
    - MEDIUM: Only 1 links to other Exam Darpan pages.
    - MEDIUM: Title is very similar to https://examdarpan.in/category-banking-jobs. They may compete for the same searches (a guess based on titles only).
 5. Entrance Exams | Exam Darpan  
@@ -61,54 +61,54 @@ and it does not create fake visits or clicks.
    - HIGH: Only 46 words were visible in the raw HTML but the page loads 7 scripts. The content may be added by JavaScript, which this agent cannot see.
    - MEDIUM: Only 1 links to other Exam Darpan pages.
    - MEDIUM: Title is very similar to https://examdarpan.in/about. They may compete for the same searches (a guess based on titles only).
-8. Police & Defence Jobs | Exam Darpan  
-   https://examdarpan.in/category-police-defence-jobs  
-   Priority 35 | score 65/100
-   - HIGH: Only 42 words were visible in the raw HTML but the page loads 7 scripts. The content may be added by JavaScript, which this agent cannot see.
-   - MEDIUM: Only 1 links to other Exam Darpan pages.
-   - MEDIUM: No other article links to this page.
-9. Scholarships | Exam Darpan  
+8. Scholarships | Exam Darpan  
    https://examdarpan.in/category-scholarships  
    Priority 35 | score 65/100
    - HIGH: Only 51 words were visible in the raw HTML but the page loads 7 scripts. The content may be added by JavaScript, which this agent cannot see.
    - MEDIUM: Only 1 links to other Exam Darpan pages.
    - MEDIUM: Title is very similar to https://examdarpan.in/about. They may compete for the same searches (a guess based on titles only).
-10. University & College | Exam Darpan  
+9. University & College | Exam Darpan  
    https://examdarpan.in/category-university-college  
    Priority 35 | score 65/100
    - HIGH: Only 49 words were visible in the raw HTML but the page loads 7 scripts. The content may be added by JavaScript, which this agent cannot see.
    - MEDIUM: Mentions deadline date(s) already passed: 2026-10-10.
    - MEDIUM: Only 1 links to other Exam Darpan pages.
-11. About Us | Exam Darpan  
+10. About Us | Exam Darpan  
    https://examdarpan.in/about  
    Priority 34 | score 66/100
    - MEDIUM: Title is very similar to https://examdarpan.in/category-scholarships. They may compete for the same searches (a guess based on titles only).
    - MEDIUM: Title is very similar to https://examdarpan.in/category-syllabus. They may compete for the same searches (a guess based on titles only).
    - MEDIUM: Title is very similar to https://examdarpan.in/contact. They may compete for the same searches (a guess based on titles only).
-12. All India Government Jobs 2026 – Latest Central Govt Jobs | Exam Darpan  
+11. All India Government Jobs 2026 – Latest Central Govt Jobs | Exam Darpan  
    https://examdarpan.in/all-india-government-jobs  
    Priority 31 | score 69/100
    - HIGH: Only 39 words were visible in the raw HTML but the page loads 4 scripts. The content may be added by JavaScript, which this agent cannot see.
    - MEDIUM: Only 1 links to other Exam Darpan pages.
    - LOW: Meta description is long (166 characters).
-13. All Categories: Rajasthan Jobs, Admit Card, Results & More | Exam Darpan  
+12. All Categories: Rajasthan Jobs, Admit Card, Results & More | Exam Darpan  
    https://examdarpan.in/categories  
    Priority 31 | score 69/100
    - HIGH: Only 19 words were visible in the raw HTML but the page loads 3 scripts. The content may be added by JavaScript, which this agent cannot see.
    - MEDIUM: Only 1 links to other Exam Darpan pages.
    - LOW: Meta description is long (163 characters).
-14. Admit Card | Exam Darpan  
+13. Admit Card | Exam Darpan  
    https://examdarpan.in/category-admit-card  
    Priority 31 | score 69/100
    - HIGH: Only 50 words were visible in the raw HTML but the page loads 7 scripts. The content may be added by JavaScript, which this agent cannot see.
    - MEDIUM: Only 1 links to other Exam Darpan pages.
    - LOW: Meta description is short (62 characters).
-15. Answer Key | Exam Darpan  
+14. Answer Key | Exam Darpan  
    https://examdarpan.in/category-answer-key  
    Priority 31 | score 69/100
    - HIGH: Only 52 words were visible in the raw HTML but the page loads 7 scripts. The content may be added by JavaScript, which this agent cannot see.
    - MEDIUM: Only 1 links to other Exam Darpan pages.
    - LOW: Meta description is short (50 characters).
+15. Latest Updates | Exam Darpan  
+   https://examdarpan.in/category-latest-updates  
+   Priority 31 | score 69/100
+   - HIGH: Only 49 words were visible in the raw HTML but the page loads 7 scripts. The content may be added by JavaScript, which this agent cannot see.
+   - MEDIUM: Only 1 links to other Exam Darpan pages.
+   - LOW: Meta description is short (55 characters).
 
 ## Words used here
 
