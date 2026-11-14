@@ -2,22 +2,20 @@
 
 URL: https://examdarpan.in/ruhs-medical-officer-recruitment-2026-600-posts
 
-**SEO health score: 87/100** (this is this agent's own checklist score, not a Google score)
-Words: 2100 | Last read: 2026-11-06T20:41:43Z | Published: 2026-09-15 | Updated: 2026-10-19
+**SEO health score: 90/100** (this is this agent's own checklist score, not a Google score)
+Words: 2173 | Last read: 2026-11-14T01:44:09Z | Published: 2026-09-15 | Updated: 2026-10-19
 
 ## Things to fix
 
-- **MEDIUM**: Mentions deadline date(s) already passed: 2026-10-13, 2026-10-16, 2026-10-21.  
+- **MEDIUM**: Mentions deadline date(s) already passed: 2026-10-13, 2026-10-25.  
   Fix: Make clear whether applications are closed, or update after checking the official notice.
-- **LOW**: Meta description is long (164 characters).  
-  Fix: Shorten to about 160 characters.
 - **LOW**: 4 image(s) without alt text.  
   Fix: Add short descriptive alt text.
 
 ## Title and description ideas
 
 - Current title: RUHS Medical Officer Exam Date 2026, Admit Card Update
-- Current description: RUHS Medical Officer Recruitment 2026 के 600 पदों की आवेदन प्रक्रिया बंद हो गई है। MODRE परीक्षा तिथि, संभावित एडमिट कार्ड डेट, परीक्षा पैटर्न और जरूरी अपडेट देखें।
+- Current description: RUHS Medical Officer Recruitment 2026 के 600 पदों की आवेदन प्रक्रिया बंद हो गई है। MODRE परीक्षा तिथि, संभावित एडमिट कार्ड डेट, परीक्षा पैटर्न और जरूरी अपडेट
 
 ## Search ideas from this article's own content
 _These are ideas taken from the article text. They are NOT search-volume numbers. Check real queries in Search Console._
@@ -33,7 +31,7 @@ _These are ideas taken from the article text. They are NOT search-volume numbers
 - medical officer (repeated in text, appears 33 times)
 - ruhs medical officer (repeated in text, appears 25 times)
 - एडमिट कार्ड (repeated in text, appears 19 times)
-- recruitment 2026 (repeated in text, appears 16 times)
+- recruitment 2026 (repeated in text, appears 15 times)
 
 ### Topics the article does not mention yet
 _Add a section only if it is relevant AND you can confirm the facts from the official notice._
@@ -46,5 +44,5 @@ Possible search phrases for those sections (estimates):
 ## Internal links you could add
 
 - Link to [Bank of India SO Recruitment 2026: 205 Posts](https://examdarpan.in/bank-of-india-so-recruitment-2026-205-posts) (shares: 2026, officer, recruitment, आधिकारिक, आवेदन)
-- Link to [Rajasthan PTI Recruitment 2026: 1200 पद, योग्यता, आयु सीमा व लेटेस्ट अपडेट](https://examdarpan.in/rajasthan-pti-recruitment-2026) (shares: 2026, recruitment, आधिकारिक, आवेदन, परीक्षा)
 - Link to [RRB Paramedical Recruitment 2026: 590 Posts](https://examdarpan.in/rrb-paramedical-recruitment-2026) (shares: 2026, recruitment, आधिकारिक, आवेदन, परीक्षा)
+- Link to [UP Assistant Teacher Recruitment 2026: 12,405 पदों पर भर्ती](https://examdarpan.in/up-assistant-teacher-recruitment-2026) (shares: 2026, recruitment, आधिकारिक, आवेदन, परीक्षा)
