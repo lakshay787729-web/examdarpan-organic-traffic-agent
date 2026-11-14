@@ -3,7 +3,7 @@
 URL: https://examdarpan.in/category-results
 
 **SEO health score: 72/100** (this is this agent's own checklist score, not a Google score)
-Words: 56 | Last read: 2026-11-07T17:59:41Z | Published: unknown | Updated: unknown
+Words: 56 | Last read: 2026-11-14T23:24:36Z | Published: unknown | Updated: unknown
 
 ## Things to fix
 
@@ -25,6 +25,7 @@ Words: 56 | Last read: 2026-11-07T17:59:41Z | Published: unknown | Updated: unkn
 _These are ideas taken from the article text. They are NOT search-volume numbers. Check real queries in Search Console._
 
 - सरकारी परीक्षा Result (title)
+- इस सेक्शन में क्या मिलेगा? (sub-heading (H2))
 - Latest सरकारी परीक्षा Result (sub-heading (H2))
 - ldc score card (repeated in text, appears 2 times)
 - rajasthan ldc score (repeated in text, appears 2 times)

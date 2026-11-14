@@ -35,6 +35,6 @@ _These are ideas taken from the article text. They are NOT search-volume numbers
 
 ## Internal links you could add
 
-- Link to [Rajasthan LDC Typing Test Date 2026, Schedule, Admit Card Result](https://examdarpan.in/rajasthan-ldc-result-2026) (shares: 2026, rajasthan, आधिकारिक, आवेदन)
 - Link to [Rajasthan PTI Recruitment 2026: 1200 पद, योग्यता, आयु सीमा व लेटेस्ट अपडेट](https://examdarpan.in/rajasthan-pti-recruitment-2026) (shares: 2026, rajasthan, आधिकारिक, आवेदन)
 - Link to [Rajasthan RVUNL Recruitment 2026: 2005 Posts](https://examdarpan.in/rajasthan-rvunl-recruitment-2026-junior-engineer-junior-accountant-junior-assistant) (shares: 2026, rajasthan, आधिकारिक, आवेदन)
+- Link to [RSCIT Result 2026 Declared – Check Your Result Online](https://examdarpan.in/rscit-result-2026-declared-check-your-result-online) (shares: 2026, rajasthan, आधिकारिक, जानकारी)
