@@ -3,11 +3,11 @@
 URL: https://examdarpan.in/ssc-je-recruitment-2026
 
 **SEO health score: 90/100** (this is this agent's own checklist score, not a Google score)
-Words: 2649 | Last read: 2026-11-07T06:14:15Z | Published: 2026-09-13 | Updated: 2026-10-19
+Words: 2710 | Last read: 2026-11-14T14:58:21Z | Published: 2026-09-13 | Updated: 2026-10-19
 
 ## Things to fix
 
-- **MEDIUM**: Mentions deadline date(s) already passed: 2026-09-22, 2026-09-23, 2026-10-16.  
+- **MEDIUM**: Mentions deadline date(s) already passed: 2026-09-22, 2026-09-23, 2026-10-28.  
   Fix: Make clear whether applications are closed, or update after checking the official notice.
 - **LOW**: 4 image(s) without alt text.  
   Fix: Add short descriptive alt text.
@@ -28,21 +28,23 @@ _These are ideas taken from the article text. They are NOT search-volume numbers
 - SSC JE Age Limit 2026 (sub-heading (H2))
 - SSC JE Application Fee 2026 (sub-heading (H2))
 - ssc je (repeated in text, appears 34 times)
-- सितंबर 2026 (repeated in text, appears 16 times)
+- सितंबर 2026 (repeated in text, appears 22 times)
+- admit card (repeated in text, appears 16 times)
 - junior engineer (repeated in text, appears 13 times)
-- अक्टूबर 2026 (repeated in text, appears 13 times)
-- admit card (repeated in text, appears 12 times)
+- vacancy list (repeated in text, appears 11 times)
 
 ### Topics the article does not mention yet
 _Add a section only if it is relevant AND you can confirm the facts from the official notice._
 
+- how to apply
 - cut off
 
 Possible search phrases for those sections (estimates):
+- SSC JE Recruitment 2026: 1,699 Vacancy, how to apply
 - SSC JE Recruitment 2026: 1,699 Vacancy, cut off
 
 ## Internal links you could add
 
-- Link to [SSC CGL Admit Card 2026 Out: Tier 1 Hall Ticket जारी](https://examdarpan.in/ssc-cgl-admit-card-2026) (shares: 2026, exam, official, ssc, परीक्षा)
 - Link to [RRB JE Exam Date 2026: CBT-1 Admit Card, City Slip](https://examdarpan.in/rrb-je-recruitment-2026-cbt-1-exam-date) (shares: 2026, exam, je, परीक्षा, संबंधित)
+- Link to [JEE Main 2027: Apply Online, Dates, Eligibility & Fees](https://examdarpan.in/jee-main-2027-registration) (shares: 2026, exam, आवेदन, परीक्षा)
 - Link to [RPSC SI Admit Card 2026 जारी](https://examdarpan.in/rpsc-si-admit-card-2026-download) (shares: 2026, exam, परीक्षा, सितंबर)

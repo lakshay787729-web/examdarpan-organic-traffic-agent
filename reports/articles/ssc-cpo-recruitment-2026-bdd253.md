@@ -3,11 +3,11 @@
 URL: https://examdarpan.in/ssc-cpo-recruitment-2026
 
 **SEO health score: 90/100** (this is this agent's own checklist score, not a Google score)
-Words: 1973 | Last read: 2026-11-07T00:20:27Z | Published: 2026-09-28 | Updated: 2026-10-19
+Words: 2039 | Last read: 2026-11-14T14:58:21Z | Published: 2026-09-28 | Updated: 2026-10-19
 
 ## Things to fix
 
-- **MEDIUM**: Mentions deadline date(s) already passed: 2026-09-30, 2026-10-01, 2026-10-09.  
+- **MEDIUM**: Mentions deadline date(s) already passed: 2026-09-22, 2026-09-30, 2026-10-01.  
   Fix: Make clear whether applications are closed, or update after checking the official notice.
 - **LOW**: 4 image(s) without alt text.  
   Fix: Add short descriptive alt text.
@@ -28,13 +28,13 @@ _These are ideas taken from the article text. They are NOT search-volume numbers
 - SSC CPO Vacancy 2026 (sub-heading (H2))
 - SSC CPO 2026 में कौन-कौन सी Forces शामिल हैं? (sub-heading (H2))
 - ssc cpo (repeated in text, appears 35 times)
-- admit card (repeated in text, appears 14 times)
-- अक्टूबर 2026 (repeated in text, appears 12 times)
+- admit card (repeated in text, appears 17 times)
+- exam date (repeated in text, appears 12 times)
+- सितंबर 2026 (repeated in text, appears 12 times)
 - ssc cpo 2026 (repeated in text, appears 11 times)
-- exam date (repeated in text, appears 11 times)
 
 ## Internal links you could add
 
-- Link to [Rajasthan PTI Recruitment 2026: 1200 पद, योग्यता, आयु सीमा व लेटेस्ट अपडेट](https://examdarpan.in/rajasthan-pti-recruitment-2026) (shares: 2026, अंतिम, आधिकारिक, आवेदन, जारी)
-- Link to [SSC CGL Admit Card 2026 Out: Tier 1 Hall Ticket जारी](https://examdarpan.in/ssc-cgl-admit-card-2026) (shares: 2026, card, date, exam, ssc)
-- Link to [SSC Jobs | Exam Darpan](https://examdarpan.in/category-ssc-jobs) (shares: 2026, card, cpo, date, exam)
+- Link to [Rajasthan PTI Recruitment 2026: 1200 पद, योग्यता, आयु सीमा व लेटेस्ट अपडेट](https://examdarpan.in/rajasthan-pti-recruitment-2026) (shares: 2026, अंतिम, आधिकारिक, आवेदन, पद)
+- Link to [RRB Paramedical Recruitment 2026: 590 Posts](https://examdarpan.in/rrb-paramedical-recruitment-2026) (shares: 2026, अंतिम, आधिकारिक, आवेदन, पद)
+- Link to [Bank of India SO Recruitment 2026: 205 Posts](https://examdarpan.in/bank-of-india-so-recruitment-2026-205-posts) (shares: 2026, आधिकारिक, आवेदन, पद, परीक्षा)
