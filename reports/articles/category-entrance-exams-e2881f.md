@@ -3,7 +3,7 @@
 URL: https://examdarpan.in/category-entrance-exams
 
 **SEO health score: 55/100** (this is this agent's own checklist score, not a Google score)
-Words: 50 | Last read: 2026-11-08T13:54:03Z | Published: unknown | Updated: unknown
+Words: 50 | Last read: 2026-11-15T16:51:35Z | Published: unknown | Updated: unknown
 
 ## Things to fix
 
@@ -31,6 +31,7 @@ Words: 50 | Last read: 2026-11-08T13:54:03Z | Published: unknown | Updated: unkn
 _These are ideas taken from the article text. They are NOT search-volume numbers. Check real queries in Search Console._
 
 - Entrance Exams (title)
+- इस सेक्शन में क्या मिलेगा? (sub-heading (H2))
 - Latest Entrance Exams (sub-heading (H2))
 - jee main 2027 (repeated in text, appears 2 times)
 - आवेदन शुरू (repeated in text, appears 2 times)

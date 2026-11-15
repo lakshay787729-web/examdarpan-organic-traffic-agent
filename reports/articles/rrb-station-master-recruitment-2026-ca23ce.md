@@ -3,11 +3,11 @@
 URL: https://examdarpan.in/rrb-station-master-recruitment-2026
 
 **SEO health score: 90/100** (this is this agent's own checklist score, not a Google score)
-Words: 2609 | Last read: 2026-11-08T13:54:03Z | Published: 2026-10-21 | Updated: 2026-11-01
+Words: 2686 | Last read: 2026-11-15T16:51:35Z | Published: 2026-10-21 | Updated: 2026-11-01
 
 ## Things to fix
 
-- **MEDIUM**: Mentions deadline date(s) already passed: 2026-10-16, 2026-10-22.  
+- **MEDIUM**: Mentions deadline date(s) already passed: 2026-09-22, 2026-10-16, 2026-10-28.  
   Fix: Make clear whether applications are closed, or update after checking the official notice.
 - **LOW**: 4 image(s) without alt text.  
   Fix: Add short descriptive alt text.
@@ -29,9 +29,9 @@ _These are ideas taken from the article text. They are NOT search-volume numbers
 - RRB Station Master Medical Standard: A-2 क्यों जरूरी है? (sub-heading (H2))
 - RRB Station Master Application Fee 2026 (sub-heading (H2))
 - station master (repeated in text, appears 32 times)
+- recruitment 2026 (repeated in text, appears 19 times)
 - rrb station master (repeated in text, appears 17 times)
-- recruitment 2026 (repeated in text, appears 17 times)
-- नवंबर 2026 (repeated in text, appears 10 times)
+- अंतिम तिथि (repeated in text, appears 10 times)
 
 ### Topics the article does not mention yet
 _Add a section only if it is relevant AND you can confirm the facts from the official notice._
@@ -47,4 +47,4 @@ Possible search phrases for those sections (estimates):
 
 - Link to [RRB Paramedical Recruitment 2026: 590 Posts](https://examdarpan.in/rrb-paramedical-recruitment-2026) (shares: 2026, recruitment, rrb, अंतिम, आवेदन)
 - Link to [UPSC Recruitment 2026: 212 Posts, Latest Update](https://examdarpan.in/upsc-recruitment-2026-212-posts) (shares: 2026, recruitment, अंतिम, आवेदन, निर्धारित)
-- Link to [CRPF Sports Quota Recruitment 2026: 521 Vacancy, Sports](https://examdarpan.in/crpf-sports-quota-recruitment-2026) (shares: 2026, recruitment, आवेदन, निर्धारित, पद)
+- Link to [Assam Rifles Group C Recruitment 2026: 354 Posts, Apply](https://examdarpan.in/assam-rifles-group-c-recruitment-2026) (shares: 2026, recruitment, अंतिम, आवेदन, पद)
