@@ -39,4 +39,4 @@ _These are ideas taken from the article text. They are NOT search-volume numbers
 
 - Link to [Scholarships | Exam Darpan](https://examdarpan.in/category-scholarships) (shares: 2026, rajasthan, yojana, अक्टूबर, आवेदन)
 - Link to [मुख्यमंत्री अनुप्रति कोचिंग योजना 2026-27: Last Date](https://examdarpan.in/mukhyamantri-anuprati-coaching-yojana-2026-27) (shares: 2026, rajasthan, अंतिम, अक्टूबर, आवेदन)
-- Link to [Rajasthan Safai Karmchari 2026: 24,752 पद, आवेदन बंद, Correction 4 नवंबर तक](https://examdarpan.in/rajasthan-safai-karmchari-recruitment-2026) (shares: 2026, rajasthan, अंतिम, अक्टूबर, आवेदन)
+- Link to [Rajasthan Safai Karmchari 2026: 24,752 पद, आवेदन बंद](https://examdarpan.in/rajasthan-safai-karmchari-recruitment-2026) (shares: 2026, rajasthan, अंतिम, अक्टूबर, आवेदन)
