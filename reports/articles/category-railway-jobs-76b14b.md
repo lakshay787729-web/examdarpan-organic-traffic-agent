@@ -3,7 +3,7 @@
 URL: https://examdarpan.in/category-railway-jobs
 
 **SEO health score: 48/100** (this is this agent's own checklist score, not a Google score)
-Words: 50 | Last read: 2026-11-08T18:33:33Z | Published: unknown | Updated: unknown
+Words: 50 | Last read: 2026-11-15T21:22:47Z | Published: unknown | Updated: unknown
 
 ## Things to fix
 
@@ -33,6 +33,7 @@ Words: 50 | Last read: 2026-11-08T18:33:33Z | Published: unknown | Updated: unkn
 _These are ideas taken from the article text. They are NOT search-volume numbers. Check real queries in Search Console._
 
 - Railway Jobs (title)
+- इस सेक्शन में क्या मिलेगा? (sub-heading (H2))
 - Latest Railway Jobs (sub-heading (H2))
 
 ### Topics the article does not mention yet

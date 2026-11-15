@@ -2,7 +2,7 @@
 
 URL: https://examdarpan.in/category-entrance-exams
 
-**SEO health score: 55/100** (this is this agent's own checklist score, not a Google score)
+**SEO health score: 62/100** (this is this agent's own checklist score, not a Google score)
 Words: 50 | Last read: 2026-11-15T16:51:35Z | Published: unknown | Updated: unknown
 
 ## Things to fix
@@ -13,8 +13,6 @@ Words: 50 | Last read: 2026-11-15T16:51:35Z | Published: unknown | Updated: unkn
   Fix: Make clear whether applications are closed, or update after checking the official notice.
 - **MEDIUM**: Only 1 links to other Exam Darpan pages.  
   Fix: Link to related articles where it helps readers (see suggestions below).
-- **MEDIUM**: No other article links to this page.  
-  Fix: Add a link to it from a related article or a category/hub page.
 - **LOW**: Meta description is short (68 characters).  
   Fix: Add a little more useful detail (dates, who it is for).
 - **LOW**: No publish or update date found.  

@@ -3,11 +3,11 @@
 URL: https://examdarpan.in/jee-main-2027-registration
 
 **SEO health score: 90/100** (this is this agent's own checklist score, not a Google score)
-Words: 2278 | Last read: 2026-11-08T18:33:33Z | Published: 2026-10-25 | Updated: 2026-11-01
+Words: 2351 | Last read: 2026-11-15T21:22:47Z | Published: 2026-10-25 | Updated: 2026-11-01
 
 ## Things to fix
 
-- **MEDIUM**: Mentions deadline date(s) already passed: 2026-10-09, 2026-10-25, 2026-11-01.  
+- **MEDIUM**: Mentions deadline date(s) already passed: 2026-09-22, 2026-10-09, 2026-10-25.  
   Fix: Make clear whether applications are closed, or update after checking the official notice.
 - **LOW**: 4 image(s) without alt text.  
   Fix: Add short descriptive alt text.
@@ -31,7 +31,7 @@ _These are ideas taken from the article text. They are NOT search-volume numbers
 - jee main (repeated in text, appears 34 times)
 - main 2027 (repeated in text, appears 31 times)
 - jee main 2027 (repeated in text, appears 29 times)
-- information bulletin (repeated in text, appears 9 times)
+- ऑनलाइन आवेदन (repeated in text, appears 11 times)
 
 ### Topics the article does not mention yet
 _Add a section only if it is relevant AND you can confirm the facts from the official notice._
@@ -45,6 +45,6 @@ Possible search phrases for those sections (estimates):
 
 ## Internal links you could add
 
-- Link to [Entrance Exams | Exam Darpan](https://examdarpan.in/category-entrance-exams) (shares: 2026, 2027, exam, jee, main)
 - Link to [SSC CHSL 2026 Exam Date, Admit Card Update, 2536 Vacancy](https://examdarpan.in/ssc-chsl-recruitment-2026) (shares: 2026, exam, आधिकारिक, आवेदन, परीक्षा)
+- Link to [SSC CPO Exam Date 2026, Admit Card & Latest Update](https://examdarpan.in/ssc-cpo-recruitment-2026) (shares: 2026, exam, आधिकारिक, आवेदन, परीक्षा)
 - Link to [Bank of India SO Recruitment 2026: 205 Posts](https://examdarpan.in/bank-of-india-so-recruitment-2026-205-posts) (shares: 2026, आधिकारिक, आवेदन, परीक्षा)
