@@ -35,6 +35,6 @@ _These are ideas taken from the article text. They are NOT search-volume numbers
 
 ## Internal links you could add
 
-- Link to [Rajasthan PTI Recruitment 2026: 1200 पद, योग्यता, आयु सीमा व लेटेस्ट अपडेट](https://examdarpan.in/rajasthan-pti-recruitment-2026) (shares: 2026, अंतिम, आधिकारिक, आवेदन, पद)
 - Link to [RRB Paramedical Recruitment 2026: 590 Posts](https://examdarpan.in/rrb-paramedical-recruitment-2026) (shares: 2026, अंतिम, आधिकारिक, आवेदन, पद)
 - Link to [Assam Rifles Group C Recruitment 2026: 354 Posts, Apply](https://examdarpan.in/assam-rifles-group-c-recruitment-2026) (shares: 2026, अंतिम, आधिकारिक, आवेदन, पद)
+- Link to [Bank of India SO Recruitment 2026: 205 Posts](https://examdarpan.in/bank-of-india-so-recruitment-2026-205-posts) (shares: 2026, आधिकारिक, आवेदन, पद, परीक्षा)

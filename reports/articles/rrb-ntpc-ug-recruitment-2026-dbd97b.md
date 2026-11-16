@@ -47,4 +47,4 @@ Possible search phrases for those sections (estimates):
 
 - Link to [Assam Rifles Group C Recruitment 2026: 354 Posts, Apply](https://examdarpan.in/assam-rifles-group-c-recruitment-2026) (shares: 2026, recruitment, अंतिम, अनुसार, आवेदन)
 - Link to [RRB Paramedical Recruitment 2026: 590 Posts](https://examdarpan.in/rrb-paramedical-recruitment-2026) (shares: 2026, recruitment, rrb, अंतिम, आवेदन)
-- Link to [Rajasthan PTI Recruitment 2026: 1200 पद, योग्यता, आयु सीमा व लेटेस्ट अपडेट](https://examdarpan.in/rajasthan-pti-recruitment-2026) (shares: 2026, recruitment, अंतिम, आवेदन, पद)
+- Link to [UPSC Recruitment 2026: 212 Posts, Latest Update](https://examdarpan.in/upsc-recruitment-2026-212-posts) (shares: 2026, recruitment, अंतिम, आवेदन, पद)
