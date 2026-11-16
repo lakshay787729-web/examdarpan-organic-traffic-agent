@@ -3,7 +3,7 @@
 URL: https://examdarpan.in/category-answer-key
 
 **SEO health score: 69/100** (this is this agent's own checklist score, not a Google score)
-Words: 52 | Last read: 2026-11-08T22:25:50Z | Published: unknown | Updated: unknown
+Words: 52 | Last read: 2026-11-16T01:10:36Z | Published: unknown | Updated: unknown
 
 ## Things to fix
 
@@ -27,6 +27,7 @@ Words: 52 | Last read: 2026-11-08T22:25:50Z | Published: unknown | Updated: unkn
 _These are ideas taken from the article text. They are NOT search-volume numbers. Check real queries in Search Console._
 
 - Answer Key (title)
+- इस सेक्शन में क्या मिलेगा? (sub-heading (H2))
 - Latest Answer Key (sub-heading (H2))
 - सितंबर 2026 (repeated in text, appears 2 times)
 
