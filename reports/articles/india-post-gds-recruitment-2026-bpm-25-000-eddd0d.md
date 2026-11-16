@@ -3,7 +3,7 @@
 URL: https://examdarpan.in/india-post-gds-recruitment-2026-bpm-25-000
 
 **SEO health score: 90/100** (this is this agent's own checklist score, not a Google score)
-Words: 1628 | Last read: 2026-11-09T01:48:28Z | Published: 2026-09-03 | Updated: 2026-10-25
+Words: 1685 | Last read: 2026-11-16T07:57:01Z | Published: 2026-09-03 | Updated: 2026-10-25
 
 ## Things to fix
 
@@ -29,9 +29,9 @@ _These are ideas taken from the article text. They are NOT search-volume numbers
 - India Post GDS भर्ती में चयन कैसे होता है? (sub-heading (H2))
 - india post (repeated in text, appears 20 times)
 - मेरिट लिस्ट (repeated in text, appears 20 times)
-- अक्टूबर 2026 (repeated in text, appears 17 times)
+- अक्टूबर 2026 (repeated in text, appears 16 times)
 - india post gds (repeated in text, appears 15 times)
-- recruitment 2026 (repeated in text, appears 11 times)
+- recruitment 2026 (repeated in text, appears 12 times)
 
 ### Topics the article does not mention yet
 _Add a section only if it is relevant AND you can confirm the facts from the official notice._
