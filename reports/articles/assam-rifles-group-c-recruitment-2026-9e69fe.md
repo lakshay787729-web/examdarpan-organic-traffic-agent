@@ -47,4 +47,4 @@ Possible search phrases for those sections (estimates):
 
 - Link to [Bank of India SO Recruitment 2026: 205 Posts](https://examdarpan.in/bank-of-india-so-recruitment-2026-205-posts) (shares: 2026, recruitment, आधिकारिक, आवेदन, पद)
 - Link to [RRB NTPC UG 2026: 12वीं पास के लिए 1688 पद, आवेदन शुरू](https://examdarpan.in/rrb-ntpc-ug-recruitment-2026) (shares: 2026, recruitment, अंतिम, अनुसार, आवेदन)
-- Link to [Rajasthan RVUNL Recruitment 2026: 2005 Posts](https://examdarpan.in/rajasthan-rvunl-recruitment-2026-junior-engineer-junior-accountant-junior-assistant) (shares: 2026, recruitment, आधिकारिक, आवेदन, पदों)
+- Link to [RRB NTPC Recruitment 2026: 5236 Posts, Apply Online](https://examdarpan.in/rrb-ntpc-recruitment-2026-5165-vacancy) (shares: 2026, recruitment, अंतिम, आवेदन, पद)

@@ -46,5 +46,5 @@ Possible search phrases for those sections (estimates):
 ## Internal links you could add
 
 - Link to [Assam Rifles Group C Recruitment 2026: 354 Posts, Apply](https://examdarpan.in/assam-rifles-group-c-recruitment-2026) (shares: 2026, recruitment, आवेदन, पद, पदों)
-- Link to [Rajasthan RVUNL Recruitment 2026: 2005 Posts](https://examdarpan.in/rajasthan-rvunl-recruitment-2026-junior-engineer-junior-accountant-junior-assistant) (shares: 2026, recruitment, आवेदन, पदों, भर्ती)
 - Link to [RRB NTPC Graduate Recruitment 2026: 3548 पदों पर भर्ती](https://examdarpan.in/rrb-ntpc-graduate-recruitment-2026) (shares: 2026, recruitment, आवेदन, पद, भर्ती)
+- Link to [RRB NTPC Recruitment 2026: 5236 Posts, Apply Online](https://examdarpan.in/rrb-ntpc-recruitment-2026-5165-vacancy) (shares: 2026, recruitment, आवेदन, पद, भर्ती)

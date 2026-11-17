@@ -49,6 +49,6 @@ Possible search phrases for those sections (estimates):
 
 ## Internal links you could add
 
+- Link to [Rajasthan RVUNL Recruitment 2026: 2005 Posts](https://examdarpan.in/rajasthan-rvunl-recruitment-2026-junior-engineer-junior-accountant-junior-assistant) (shares: 2026, rajasthan, आधिकारिक, परीक्षा, भर्ती)
 - Link to [Bank of India SO Recruitment 2026: 205 Posts](https://examdarpan.in/bank-of-india-so-recruitment-2026-205-posts) (shares: 2026, आधिकारिक, परीक्षा, भर्ती)
 - Link to [Rajasthan CET 2026: Senior Secondary Syllabus, Exam](https://examdarpan.in/rajasthan-cet-2026-senior-secondary-syllabus-exam-date) (shares: 2026, rajasthan, परीक्षा, भर्ती)
-- Link to [Rajasthan RVUNL Recruitment 2026: 2005 Posts](https://examdarpan.in/rajasthan-rvunl-recruitment-2026-junior-engineer-junior-accountant-junior-assistant) (shares: 2026, rajasthan, आधिकारिक, भर्ती)

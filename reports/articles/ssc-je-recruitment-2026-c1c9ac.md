@@ -47,4 +47,4 @@ Possible search phrases for those sections (estimates):
 
 - Link to [RRB JE Exam Date 2026: CBT-1 Admit Card, City Slip](https://examdarpan.in/rrb-je-recruitment-2026-cbt-1-exam-date) (shares: 2026, exam, je, परीक्षा, संबंधित)
 - Link to [JEE Main 2027: Apply Online, Dates, Eligibility & Fees](https://examdarpan.in/jee-main-2027-registration) (shares: 2026, exam, आवेदन, परीक्षा)
-- Link to [RPSC SI Admit Card 2026 जारी](https://examdarpan.in/rpsc-si-admit-card-2026-download) (shares: 2026, exam, परीक्षा, सितंबर)
+- Link to [Rajasthan Veterinary Admission 2026: Counselling Update](https://examdarpan.in/rajasthan-veterinary-admission-2026-1240-seats) (shares: 2026, official, आवेदन, सितंबर)
