@@ -2,22 +2,20 @@
 
 URL: https://examdarpan.in/up-assistant-teacher-recruitment-2026
 
-**SEO health score: 87/100** (this is this agent's own checklist score, not a Google score)
-Words: 1577 | Last read: 2026-11-10T09:37:28Z | Published: 2026-09-22 | Updated: 2026-10-25
+**SEO health score: 90/100** (this is this agent's own checklist score, not a Google score)
+Words: 1643 | Last read: 2026-11-17T18:29:45Z | Published: 2026-09-22 | Updated: 2026-10-25
 
 ## Things to fix
 
 - **MEDIUM**: Mentions deadline date(s) already passed: 2026-09-10, 2026-09-14, 2026-09-22.  
   Fix: Make clear whether applications are closed, or update after checking the official notice.
-- **LOW**: Meta description is long (170 characters).  
-  Fix: Shorten to about 160 characters.
 - **LOW**: 4 image(s) without alt text.  
   Fix: Add short descriptive alt text.
 
 ## Title and description ideas
 
 - Current title: UP Assistant Teacher Recruitment 2026: 12,405 पदों पर भर्ती
-- Current description: UP Assistant Teacher Recruitment 2026 में 12,405 पदों पर भर्ती की नई तारीखें देखें। आवेदन की अंतिम तिथि 28 अक्टूबर, फॉर्म सुधार 31 अक्टूबर और परीक्षा 3–4 दिसंबर को निर्धा
+- Current description: UP Assistant Teacher Recruitment 2026 में 12,405 पदों पर भर्ती की नई तारीखें देखें। आवेदन की अंतिम तिथि 28 अक्टूबर, फॉर्म सुधार 31 अक्टूबर और परीक्षा 3–4 दिसंबर
 
 ## Search ideas from this article's own content
 _These are ideas taken from the article text. They are NOT search-volume numbers. Check real queries in Search Console._
@@ -47,4 +45,4 @@ Possible search phrases for those sections (estimates):
 
 - Link to [Assam Rifles Group C Recruitment 2026: 354 Posts, Apply](https://examdarpan.in/assam-rifles-group-c-recruitment-2026) (shares: 2026, recruitment, अंतिम, आधिकारिक, आवेदन)
 - Link to [Rajasthan RVUNL Recruitment 2026: 2005 Posts](https://examdarpan.in/rajasthan-rvunl-recruitment-2026-junior-engineer-junior-accountant-junior-assistant) (shares: 2026, recruitment, आधिकारिक, आवेदन, तिथि)
-- Link to [All India Government Jobs 2026 – Latest Central Govt Jobs | Exam Darpan](https://examdarpan.in/all-india-government-jobs) (shares: 2026, recruitment, चयन, पदों, परीक्षा)
+- Link to [मुख्यमंत्री अनुप्रति कोचिंग योजना 2026-27: Last Date](https://examdarpan.in/mukhyamantri-anuprati-coaching-yojana-2026-27) (shares: 2026, अंतिम, अक्टूबर, आवेदन, तिथि)

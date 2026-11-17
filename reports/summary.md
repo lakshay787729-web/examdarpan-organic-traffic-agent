@@ -7,7 +7,7 @@ and it does not create fake visits or clicks.
 
 - Articles found in sitemap: 72
 - Articles read so far: 72 (100%)
-- Issues: 18 high, 88 medium, 111 low
+- Issues: 18 high, 87 medium, 109 low
 
 ## Search Console status
 
@@ -43,36 +43,36 @@ and it does not create fake visits or clicks.
    - HIGH: Only 46 words were visible in the raw HTML but the page loads 7 scripts. The content may be added by JavaScript, which this agent cannot see.
    - MEDIUM: Only 1 links to other Exam Darpan pages.
    - MEDIUM: Title is very similar to https://examdarpan.in/category-banking-jobs. They may compete for the same searches (a guess based on titles only).
-5. राजस्थान CET (सीनियर सैकण्डरी स्तर) 2026 - 120 प्रश्न ऑनलाइन मॉक टेस्ट  
-   https://examdarpan.in/mock-tests/cet-mock-test  
-   Priority 45 | score 55/100
-   - HIGH: Only 34 words were visible in the raw HTML but the page loads 3 scripts. The content may be added by JavaScript, which this agent cannot see.
-   - MEDIUM: No meta description.
-   - MEDIUM: Only 0 links to other Exam Darpan pages.
-6. Entrance Exams | Exam Darpan  
+5. Entrance Exams | Exam Darpan  
    https://examdarpan.in/category-entrance-exams  
    Priority 38 | score 62/100
    - HIGH: Only 50 words were visible in the raw HTML but the page loads 7 scripts. The content may be added by JavaScript, which this agent cannot see.
    - MEDIUM: Mentions deadline date(s) already passed: 2026-10-25.
    - MEDIUM: Only 1 links to other Exam Darpan pages.
-7. Exam Syllabus | Exam Darpan  
+6. Exam Syllabus | Exam Darpan  
    https://examdarpan.in/category-syllabus  
    Priority 38 | score 62/100
    - HIGH: Only 46 words were visible in the raw HTML but the page loads 7 scripts. The content may be added by JavaScript, which this agent cannot see.
    - MEDIUM: Only 1 links to other Exam Darpan pages.
    - MEDIUM: Title is very similar to https://examdarpan.in/about. They may compete for the same searches (a guess based on titles only).
-8. Scholarships | Exam Darpan  
+7. Scholarships | Exam Darpan  
    https://examdarpan.in/category-scholarships  
    Priority 35 | score 65/100
    - HIGH: Only 51 words were visible in the raw HTML but the page loads 7 scripts. The content may be added by JavaScript, which this agent cannot see.
    - MEDIUM: Only 1 links to other Exam Darpan pages.
    - MEDIUM: Title is very similar to https://examdarpan.in/about. They may compete for the same searches (a guess based on titles only).
-9. University & College | Exam Darpan  
+8. University & College | Exam Darpan  
    https://examdarpan.in/category-university-college  
    Priority 35 | score 65/100
    - HIGH: Only 49 words were visible in the raw HTML but the page loads 7 scripts. The content may be added by JavaScript, which this agent cannot see.
    - MEDIUM: Mentions deadline date(s) already passed: 2026-10-10.
    - MEDIUM: Only 1 links to other Exam Darpan pages.
+9. राजस्थान CET (सीनियर सैकण्डरी स्तर) 2026 - 120 प्रश्न ऑनलाइन मॉक टेस्ट | Exam Darpan  
+   https://examdarpan.in/mock-tests/cet-mock-test  
+   Priority 35 | score 65/100
+   - HIGH: Only 34 words were visible in the raw HTML but the page loads 3 scripts. The content may be added by JavaScript, which this agent cannot see.
+   - MEDIUM: Only 0 links to other Exam Darpan pages.
+   - MEDIUM: No other article links to this page.
 10. About Us | Exam Darpan  
    https://examdarpan.in/about  
    Priority 34 | score 66/100
