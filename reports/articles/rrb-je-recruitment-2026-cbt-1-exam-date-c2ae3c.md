@@ -3,11 +3,11 @@
 URL: https://examdarpan.in/rrb-je-recruitment-2026-cbt-1-exam-date
 
 **SEO health score: 90/100** (this is this agent's own checklist score, not a Google score)
-Words: 1402 | Last read: 2026-11-10T02:02:07Z | Published: 2026-09-16 | Updated: 2026-10-25
+Words: 1466 | Last read: 2026-11-17T09:08:13Z | Published: 2026-09-16 | Updated: 2026-10-25
 
 ## Things to fix
 
-- **MEDIUM**: Mentions deadline date(s) already passed: 2026-10-16, 2026-10-21, 2026-10-25.  
+- **MEDIUM**: Mentions deadline date(s) already passed: 2026-10-16, 2026-10-21.  
   Fix: Make clear whether applications are closed, or update after checking the official notice.
 - **LOW**: 4 image(s) without alt text.  
   Fix: Add short descriptive alt text.
@@ -38,12 +38,10 @@ _Add a section only if it is relevant AND you can confirm the facts from the off
 
 - syllabus
 - salary
-- cut off
 
 Possible search phrases for those sections (estimates):
 - RRB JE Exam Date 2026: Revised syllabus
 - RRB JE Exam Date 2026: Revised salary
-- RRB JE Exam Date 2026: Revised cut off
 
 ## Internal links you could add
 
