@@ -3,7 +3,7 @@
 URL: https://examdarpan.in/category-scholarships
 
 **SEO health score: 65/100** (this is this agent's own checklist score, not a Google score)
-Words: 51 | Last read: 2026-11-11T17:07:07Z | Published: unknown | Updated: unknown
+Words: 51 | Last read: 2026-11-18T23:29:47Z | Published: unknown | Updated: unknown
 
 ## Things to fix
 
