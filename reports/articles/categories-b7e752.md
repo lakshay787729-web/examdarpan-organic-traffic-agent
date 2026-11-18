@@ -1,9 +1,9 @@
-# All Categories: Rajasthan Jobs, Admit Card, Results & More | Exam Darpan
+# Government Jobs Categories & Exam Updates | Exam Darpan
 
 URL: https://examdarpan.in/categories
 
-**SEO health score: 69/100** (this is this agent's own checklist score, not a Google score)
-Words: 19 | Last read: 2026-11-11T02:01:47Z | Published: unknown | Updated: unknown
+**SEO health score: 75/100** (this is this agent's own checklist score, not a Google score)
+Words: 19 | Last read: 2026-11-18T08:31:56Z | Published: unknown | Updated: unknown
 
 ## Things to fix
 
@@ -11,22 +11,18 @@ Words: 19 | Last read: 2026-11-11T02:01:47Z | Published: unknown | Updated: unkn
   Fix: Check the page with URL Inspection in Search Console. Prefer server-rendered or pre-rendered article text.
 - **MEDIUM**: Only 1 links to other Exam Darpan pages.  
   Fix: Link to related articles where it helps readers (see suggestions below).
-- **LOW**: Meta description is long (163 characters).  
-  Fix: Shorten to about 160 characters.
 - **LOW**: No publish or update date found.  
   Fix: Show and mark up a published/updated date so readers and Google can judge freshness.
-- **LOW**: Title is long (72 characters) and may be cut off in Google.  
-  Fix: Shorten to about 60 characters. Idea: "All Categories: Rajasthan Jobs, Admit Card, Results & More"
 
 ## Title and description ideas
 
-- Current title: All Categories: Rajasthan Jobs, Admit Card, Results & More | Exam Darpan
-- Current description: Exam Darpan की सभी categories एक जगह देखें: Rajasthan Jobs, All India Jobs, Railway, SSC, Banking, Admit Card, Results, Answer Key, Syllabus, Scholarships और अधिक।
+- Current title: Government Jobs Categories & Exam Updates | Exam Darpan
+- Current description: Rajasthan और All India सरकारी नौकरी, Railway, SSC, Banking, Admit Card, Result, Answer Key और Scholarship updates की सभी categories यहाँ देखें।
 
 ## Search ideas from this article's own content
 _These are ideas taken from the article text. They are NOT search-volume numbers. Check real queries in Search Console._
 
-- All Categories: Rajasthan Jobs, Admit Card, Results & More (title)
+- Government Jobs Categories & Exam Updates (title)
 - सभी Categories एक जगह (main heading (H1))
 - राजस्थान सरकारी नौकरी (sub-heading (H2))
 - सरकारी नौकरी (sub-heading (H2))
@@ -41,6 +37,8 @@ _Add a section only if it is relevant AND you can confirm the facts from the off
 - last date
 - notification
 - syllabus
+- admit card
+- result
 - how to apply
 - salary
 - age limit
@@ -50,6 +48,8 @@ Possible search phrases for those sections (estimates):
 - सभी Categories एक जगह last date
 - सभी Categories एक जगह notification
 - सभी Categories एक जगह syllabus
+- सभी Categories एक जगह admit card
+- सभी Categories एक जगह result
 - सभी Categories एक जगह how to apply
 - सभी Categories एक जगह salary
 - सभी Categories एक जगह age limit

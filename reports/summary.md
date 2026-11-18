@@ -7,7 +7,7 @@ and it does not create fake visits or clicks.
 
 - Articles found in sitemap: 72
 - Articles read so far: 72 (100%)
-- Issues: 18 high, 87 medium, 109 low
+- Issues: 18 high, 86 medium, 106 low
 
 ## Search Console status
 
@@ -21,10 +21,10 @@ and it does not create fake visits or clicks.
 
 1. Banking Jobs | Exam Darpan  
    https://examdarpan.in/category-banking-jobs  
-   Priority 59 | score 41/100
+   Priority 52 | score 48/100
    - HIGH: Only 46 words were visible in the raw HTML but the page loads 7 scripts. The content may be added by JavaScript, which this agent cannot see.
    - MEDIUM: Only 1 links to other Exam Darpan pages.
-   - MEDIUM: No other article links to this page.
+   - MEDIUM: Title is very similar to https://examdarpan.in/category-railway-jobs. They may compete for the same searches (a guess based on titles only).
 2. Railway Jobs | Exam Darpan  
    https://examdarpan.in/category-railway-jobs  
    Priority 52 | score 48/100
@@ -85,30 +85,30 @@ and it does not create fake visits or clicks.
    - HIGH: Only 39 words were visible in the raw HTML but the page loads 4 scripts. The content may be added by JavaScript, which this agent cannot see.
    - MEDIUM: Only 1 links to other Exam Darpan pages.
    - LOW: Meta description is long (166 characters).
-12. All Categories: Rajasthan Jobs, Admit Card, Results & More | Exam Darpan  
-   https://examdarpan.in/categories  
-   Priority 31 | score 69/100
-   - HIGH: Only 19 words were visible in the raw HTML but the page loads 3 scripts. The content may be added by JavaScript, which this agent cannot see.
-   - MEDIUM: Only 1 links to other Exam Darpan pages.
-   - LOW: Meta description is long (163 characters).
-13. Admit Card | Exam Darpan  
+12. Admit Card | Exam Darpan  
    https://examdarpan.in/category-admit-card  
    Priority 31 | score 69/100
    - HIGH: Only 50 words were visible in the raw HTML but the page loads 7 scripts. The content may be added by JavaScript, which this agent cannot see.
    - MEDIUM: Only 1 links to other Exam Darpan pages.
    - LOW: Meta description is short (62 characters).
-14. Answer Key | Exam Darpan  
+13. Answer Key | Exam Darpan  
    https://examdarpan.in/category-answer-key  
    Priority 31 | score 69/100
    - HIGH: Only 52 words were visible in the raw HTML but the page loads 7 scripts. The content may be added by JavaScript, which this agent cannot see.
    - MEDIUM: Only 1 links to other Exam Darpan pages.
    - LOW: Meta description is short (50 characters).
-15. Latest Updates | Exam Darpan  
+14. Latest Updates | Exam Darpan  
    https://examdarpan.in/category-latest-updates  
    Priority 31 | score 69/100
    - HIGH: Only 49 words were visible in the raw HTML but the page loads 7 scripts. The content may be added by JavaScript, which this agent cannot see.
    - MEDIUM: Only 1 links to other Exam Darpan pages.
    - LOW: Meta description is short (55 characters).
+15. Rajasthan Government Jobs 2026 | Rajasthan Vacancy, RPSC, RSSB & Police Jobs | Exam Darpan  
+   https://examdarpan.in/rajasthan-government-jobs  
+   Priority 31 | score 69/100
+   - HIGH: Only 42 words were visible in the raw HTML but the page loads 6 scripts. The content may be added by JavaScript, which this agent cannot see.
+   - MEDIUM: Only 1 links to other Exam Darpan pages.
+   - LOW: Meta description is long (192 characters).
 
 ## Words used here
 

@@ -3,7 +3,7 @@
 URL: https://examdarpan.in/category-admit-card
 
 **SEO health score: 69/100** (this is this agent's own checklist score, not a Google score)
-Words: 50 | Last read: 2026-11-11T02:01:47Z | Published: unknown | Updated: unknown
+Words: 50 | Last read: 2026-11-18T08:31:56Z | Published: unknown | Updated: unknown
 
 ## Things to fix
 
@@ -27,6 +27,7 @@ Words: 50 | Last read: 2026-11-11T02:01:47Z | Published: unknown | Updated: unkn
 _These are ideas taken from the article text. They are NOT search-volume numbers. Check real queries in Search Console._
 
 - Admit Card (title)
+- इस सेक्शन में क्या मिलेगा? (sub-heading (H2))
 - Latest Admit Card (sub-heading (H2))
 - ssc cgl (repeated in text, appears 3 times)
 - 28 सितंबर 2026 (repeated in text, appears 2 times)
