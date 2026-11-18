@@ -6,16 +6,16 @@
    "in_sitemap": true,
    "last_error": null,
    "last_failure_at": null,
-   "last_fetched": "2026-11-10T22:24:50Z",
+   "last_fetched": "2026-11-18T01:11:44Z",
    "lastmod": null,
    "needs_refresh": false,
    "page": {
     "canonical": "https://examdarpan.in/about",
-    "content_hash": "9b9dcf3f7bd44645",
+    "content_hash": "f5b9804554bdab80",
     "deadline_dates": [],
     "description": "Exam Darpan के बारे में: independent education और government-job information portal, editorial approach और contact information।",
     "exam_related": true,
-    "excerpt": "About Exam Darpan Last updated: 18 October 2026 Exam Darpan एक independent educational information portal है। हम सरकारी नौकरी, भर्ती, admit card, result, answer key, scholarships और परीक्षा संबंधी updates को आसान भाषा और व्यवस्थित format में प्रस्तुत करने का प्रयास करते हैं। हमारा उद्देश्य readers को जानकारी समझने और संबंधित official source तक पहुँचने में मदद करना है। Our Mission हम candidates के लिए important dates, eligibility, application process, selection process और official links को स्पष्ट रूप से व्यवस्थित करने का प्रयास करते हैं। Recruitment details बदल सकती हैं, इसलिए अंतिम निर्णय से पहले संबंधित authority की latest notification देखना जरूरी है। Founder & Website Administrator Lokesh Meena Founder & Website Administrator — Exam Darpan Exam Darpan की स्थापना का उद्देश्य सरकारी नौकरी, भर्ती और शिक्षा से जुड़ी महत्वपूर्ण जानकारी को students तक सरल, स्पष्ट और उपयोगी रूप में पहुँचाना है। Founder वेबसाइट की overall direction, development, content quality और platform improvement की जिम्मेदारी संभालते हैं। Exam Darpan Editorial Team के साथ मिलकर वेबसाइट को बेहतर बनाने, readers के feedback पर काम करने और information को अधिक accessible बनाने का प्रयास किया जाता है। Meet the Exam Darpa",
+    "excerpt": "About Exam Darpan Last updated: 11 November 2026 Exam Darpan एक independent educational information portal है। हम सरकारी नौकरी, भर्ती, admit card, result, answer key, scholarships और परीक्षा संबंधी updates को आसान भाषा और व्यवस्थित format में प्रस्तुत करने का प्रयास करते हैं। हमारा उद्देश्य readers को जानकारी समझने और संबंधित official source तक पहुँचने में मदद करना है। Our Mission हम candidates के लिए important dates, eligibility, application process, selection process और official links को स्पष्ट रूप से व्यवस्थित करने का प्रयास करते हैं। Recruitment details बदल सकती हैं, इसलिए अंतिम निर्णय से पहले संबंधित authority की latest notification देखना जरूरी है। Founder & Website Administrator Lokesh Meena Founder & Website Administrator — Exam Darpan Exam Darpan की स्थापना का उद्देश्य सरकारी नौकरी, भर्ती और शिक्षा से जुड़ी महत्वपूर्ण जानकारी को students तक सरल, स्पष्ट और उपयोगी रूप में पहुँचाना है। Founder वेबसाइट की overall direction, development, content quality और platform improvement की जिम्मेदारी संभालते हैं। Exam Darpan Editorial Team के साथ मिलकर वेबसाइट को बेहतर बनाने, readers के feedback पर काम करने और information को अधिक accessible बनाने का प्रयास किया जाता है। Meet the Exam Darp",
     "external_link_count": 0,
     "final_url": "https://examdarpan.in/about",
     "h1s": [
@@ -94,7 +94,7 @@
      ]
     ],
     "published": null,
-    "script_count": 5,
+    "script_count": 6,
     "status": 200,
     "title": "About Us | Exam Darpan",
     "top_terms": [
@@ -12512,6 +12512,6 @@
  },
  "meta": {
   "schema": 1,
-  "sitemap_slot": 83099
+  "sitemap_slot": 83100
  }
 }
