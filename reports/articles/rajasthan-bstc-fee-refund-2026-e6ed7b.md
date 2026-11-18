@@ -3,7 +3,7 @@
 URL: https://examdarpan.in/rajasthan-bstc-fee-refund-2026
 
 **SEO health score: 90/100** (this is this agent's own checklist score, not a Google score)
-Words: 2198 | Last read: 2026-11-11T09:12:54Z | Published: 2026-09-26 | Updated: 2026-11-11
+Words: 2198 | Last read: 2026-11-18T17:29:40Z | Published: 2026-09-26 | Updated: 2026-11-11
 
 ## Things to fix
 

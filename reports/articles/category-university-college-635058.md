@@ -3,7 +3,7 @@
 URL: https://examdarpan.in/category-university-college
 
 **SEO health score: 65/100** (this is this agent's own checklist score, not a Google score)
-Words: 49 | Last read: 2026-11-11T09:12:54Z | Published: unknown | Updated: unknown
+Words: 49 | Last read: 2026-11-18T17:29:40Z | Published: unknown | Updated: unknown
 
 ## Things to fix
 
