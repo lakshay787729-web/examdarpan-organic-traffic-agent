@@ -3,7 +3,7 @@
 URL: https://examdarpan.in/editorial-policy
 
 **SEO health score: 83/100** (this is this agent's own checklist score, not a Google score)
-Words: 872 | Last read: 2026-11-12T12:20:45Z | Published: unknown | Updated: unknown
+Words: 872 | Last read: 2026-11-19T21:48:07Z | Published: unknown | Updated: unknown
 
 ## Things to fix
 
