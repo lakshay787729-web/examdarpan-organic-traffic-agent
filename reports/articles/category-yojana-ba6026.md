@@ -3,7 +3,7 @@
 URL: https://examdarpan.in/category-yojana
 
 **SEO health score: 72/100** (this is this agent's own checklist score, not a Google score)
-Words: 49 | Last read: 2026-11-11T23:26:32Z | Published: unknown | Updated: unknown
+Words: 49 | Last read: 2026-11-19T04:24:34Z | Published: unknown | Updated: unknown
 
 ## Things to fix
 
