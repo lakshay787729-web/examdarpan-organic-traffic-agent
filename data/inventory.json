@@ -2739,7 +2739,7 @@
    "in_sitemap": true,
    "last_error": null,
    "last_failure_at": null,
-   "last_fetched": "2026-11-12T03:59:25Z",
+   "last_fetched": "2026-11-19T13:38:59Z",
    "lastmod": null,
    "needs_refresh": false,
    "page": {
@@ -2900,7 +2900,7 @@
    "in_sitemap": true,
    "last_error": null,
    "last_failure_at": null,
-   "last_fetched": "2026-11-12T03:59:25Z",
+   "last_fetched": "2026-11-19T13:38:59Z",
    "lastmod": "2026-09-25T16:56:19.939000Z",
    "needs_refresh": false,
    "page": {
@@ -3101,7 +3101,7 @@
    "in_sitemap": true,
    "last_error": null,
    "last_failure_at": null,
-   "last_fetched": "2026-11-12T03:59:25Z",
+   "last_fetched": "2026-11-19T13:38:59Z",
    "lastmod": null,
    "needs_refresh": false,
    "page": {
@@ -12513,6 +12513,6 @@
  },
  "meta": {
   "schema": 1,
-  "sitemap_slot": 83104
+  "sitemap_slot": 83106
  }
 }
