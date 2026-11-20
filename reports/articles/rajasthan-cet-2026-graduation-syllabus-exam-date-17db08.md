@@ -3,7 +3,7 @@
 URL: https://examdarpan.in/rajasthan-cet-2026-graduation-syllabus-exam-date
 
 **SEO health score: 90/100** (this is this agent's own checklist score, not a Google score)
-Words: 2437 | Last read: 2026-11-12T20:08:10Z | Published: 2026-09-27 | Updated: 2026-10-06
+Words: 2437 | Last read: 2026-11-20T02:39:54Z | Published: 2026-09-27 | Updated: 2026-10-06
 
 ## Things to fix
 
