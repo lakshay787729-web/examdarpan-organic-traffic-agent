@@ -51,4 +51,4 @@ Possible search phrases for those sections (estimates):
 
 - Link to [Rajasthan RVUNL Recruitment 2026: 2005 Posts](https://examdarpan.in/rajasthan-rvunl-recruitment-2026-junior-engineer-junior-accountant-junior-assistant) (shares: 2026, rajasthan, आधिकारिक, परीक्षा, भर्ती)
 - Link to [Bank of India SO Recruitment 2026: 205 Posts](https://examdarpan.in/bank-of-india-so-recruitment-2026-205-posts) (shares: 2026, आधिकारिक, परीक्षा, भर्ती)
-- Link to [Rajasthan CET 2026: Senior Secondary Syllabus, Exam](https://examdarpan.in/rajasthan-cet-2026-senior-secondary-syllabus-exam-date) (shares: 2026, rajasthan, परीक्षा, भर्ती)
+- Link to [Rajasthan CET 12th Level Exam City 2026: एडमिट कार्ड व](https://examdarpan.in/rajasthan-cet-12th-level-exam-city-admit-card-2026) (shares: 2026, rajasthan, परीक्षा, भर्ती)

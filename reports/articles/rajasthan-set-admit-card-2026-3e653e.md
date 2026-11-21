@@ -49,6 +49,6 @@ Possible search phrases for those sections (estimates):
 
 ## Internal links you could add
 
+- Link to [Rajasthan CET 12th Level Exam City 2026: एडमिट कार्ड व](https://examdarpan.in/rajasthan-cet-12th-level-exam-city-admit-card-2026) (shares: 2026, admit, card, rajasthan, update)
 - Link to [Rajasthan CET 2026: Senior Secondary Syllabus, Exam](https://examdarpan.in/rajasthan-cet-2026-senior-secondary-syllabus-exam-date) (shares: 2026, rajasthan, update, परीक्षा, भर्ती)
 - Link to [RSCIT Result 2026 Declared – Check Your Result Online](https://examdarpan.in/rscit-result-2026-declared-check-your-result-online) (shares: 2026, rajasthan, update, जारी, परीक्षा)
-- Link to [RSSB Exam Calendar 2026-27 जारी](https://examdarpan.in/rssb-exam-calendar-2026-27-exam-date) (shares: 2026, rajasthan, जारी, परीक्षा, भर्ती)

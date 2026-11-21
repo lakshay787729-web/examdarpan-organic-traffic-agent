@@ -43,6 +43,6 @@ Possible search phrases for those sections (estimates):
 
 ## Internal links you could add
 
+- Link to [Rajasthan CET 12th Level Exam City 2026: एडमिट कार्ड व](https://examdarpan.in/rajasthan-cet-12th-level-exam-city-admit-card-2026) (shares: 2026, exam, rajasthan, जारी, दिसंबर)
 - Link to [Rajasthan PTI Recruitment 2026: 1200 पद, योग्यता, आयु सीमा व](https://examdarpan.in/rajasthan-pti-recruitment-2026) (shares: 2026, rajasthan, जारी, परीक्षा, भर्ती)
 - Link to [Rajasthan SET Admit Card 2026 जारी](https://examdarpan.in/rajasthan-set-admit-card-2026) (shares: 2026, rajasthan, जारी, परीक्षा, भर्ती)
-- Link to [Rajasthan Tax Assistant Vacancy 2026: 300 पद, योग्यता, आयु](https://examdarpan.in/rajasthan-tax-assistant-recruitment) (shares: 2026, rajasthan, जारी, परीक्षा, भर्ती)

@@ -37,4 +37,4 @@ _These are ideas taken from the article text. They are NOT search-volume numbers
 
 - Link to [Admit Card | Exam Darpan](https://examdarpan.in/category-admit-card) (shares: 2026, admit, card, ssc, tier)
 - Link to [JEE Main 2027: Apply Online, Dates, Eligibility & Fees](https://examdarpan.in/jee-main-2027-registration) (shares: 2026, exam, आधिकारिक, आवेदन, परीक्षा)
-- Link to [Rajasthan PTI Recruitment 2026: 1200 पद, योग्यता, आयु सीमा व](https://examdarpan.in/rajasthan-pti-recruitment-2026) (shares: 2026, आधिकारिक, आवेदन, जानकारी, परीक्षा)
+- Link to [Rajasthan CET 12th Level Exam City 2026: एडमिट कार्ड व](https://examdarpan.in/rajasthan-cet-12th-level-exam-city-admit-card-2026) (shares: 2026, admit, card, exam, परीक्षा)
