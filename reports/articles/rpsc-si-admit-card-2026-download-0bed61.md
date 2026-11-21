@@ -3,7 +3,7 @@
 URL: https://examdarpan.in/rpsc-si-admit-card-2026-download
 
 **SEO health score: 94/100** (this is this agent's own checklist score, not a Google score)
-Words: 1318 | Last read: 2026-11-13T15:42:12Z | Published: 2026-09-17 | Updated: 2026-10-06
+Words: 1318 | Last read: 2026-11-21T00:15:52Z | Published: 2026-09-17 | Updated: 2026-10-06
 
 ## Things to fix
 
