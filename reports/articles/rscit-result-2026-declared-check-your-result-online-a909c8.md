@@ -3,7 +3,7 @@
 URL: https://examdarpan.in/rscit-result-2026-declared-check-your-result-online
 
 **SEO health score: 90/100** (this is this agent's own checklist score, not a Google score)
-Words: 772 | Last read: 2026-11-13T21:38:14Z | Published: 2026-09-02 | Updated: 2026-09-02
+Words: 772 | Last read: 2026-11-21T07:15:42Z | Published: 2026-09-02 | Updated: 2026-09-02
 
 ## Things to fix
 

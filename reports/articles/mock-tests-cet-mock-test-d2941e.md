@@ -53,3 +53,7 @@ Possible search phrases for those sections (estimates):
 - हर दिन सबसे तेज़ और भरोसेमंद salary
 - हर दिन सबसे तेज़ और भरोसेमंद age limit
 - हर दिन सबसे तेज़ और भरोसेमंद cut off
+
+## Internal links you could add
+
+- Link to [राजस्थान CET (10+2 स्तर) 2026 - मॉक टेस्ट #6 (120 नए प्रश्न | 240 अंक | 1/3 नेगेटिव)](https://examdarpan.in/mock-tests/Rajasthan_CET_120_Mock_Test_Examdarpan-v6-fixed) (shares: अंक, अगला, क्विज, गलत, चुनें)

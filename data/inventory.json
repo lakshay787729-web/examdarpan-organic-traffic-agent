@@ -4033,6 +4033,109 @@
     ]
    }
   },
+  "https://examdarpan.in/mock-tests/Rajasthan_CET_120_Mock_Test_Examdarpan-v6-fixed": {
+   "failures": 0,
+   "first_seen": "2026-11-21T07:15:42Z",
+   "in_sitemap": true,
+   "last_error": null,
+   "last_failure_at": null,
+   "last_fetched": "2026-11-21T07:15:42Z",
+   "lastmod": "2026-11-21",
+   "needs_refresh": false,
+   "page": {
+    "canonical": "https://examdarpan.in/mock-tests/Rajasthan_CET_120_Mock_Test_Examdarpan-v6-fixed",
+    "content_hash": "153dd857e0ef6da0",
+    "deadline_dates": [],
+    "description": "",
+    "exam_related": true,
+    "excerpt": "मोड चुनें: सभी 120 प्रश्न एक-एक प्रश्न ⏱️ समय: 2 घंटे 30 मिनट | सही: +2.0 अंक | गलत: -0.66 अंक (1/3 नेगेटिव) पिछला प्रश्न 1 / 120 अगला क्विज समाप्त करें और परिणाम देखें",
+    "external_link_count": 0,
+    "final_url": "https://examdarpan.in/mock-tests/Rajasthan_CET_120_Mock_Test_Examdarpan-v6-fixed",
+    "h1s": [
+     "हर दिन सबसे तेज़ और भरोसेमंद Education Updates❗ 📚"
+    ],
+    "h2s": [
+     "आपका फाइनल परिणाम"
+    ],
+    "images_missing_alt": 0,
+    "intents_present": [
+     "result"
+    ],
+    "internal_links": [],
+    "lang": "hi",
+    "modified": null,
+    "noindex": false,
+    "phrases": [],
+    "published": null,
+    "script_count": 4,
+    "status": 200,
+    "title": "राजस्थान CET (10+2 स्तर) 2026 - मॉक टेस्ट #6 (120 नए प्रश्न | 240 अंक | 1/3 नेगेटिव)",
+    "top_terms": [
+     [
+      "प्रश्न",
+      3
+     ],
+     [
+      "अंक",
+      2
+     ],
+     [
+      "अगला",
+      1
+     ],
+     [
+      "क्विज",
+      1
+     ],
+     [
+      "गलत",
+      1
+     ],
+     [
+      "घंटे",
+      1
+     ],
+     [
+      "चुनें",
+      1
+     ],
+     [
+      "देखें",
+      1
+     ],
+     [
+      "नेगेटिव",
+      1
+     ],
+     [
+      "परिणाम",
+      1
+     ],
+     [
+      "पिछला",
+      1
+     ],
+     [
+      "मिनट",
+      1
+     ],
+     [
+      "मोड",
+      1
+     ],
+     [
+      "समय",
+      1
+     ],
+     [
+      "समाप्त",
+      1
+     ]
+    ],
+    "word_count": 36,
+    "years": []
+   }
+  },
   "https://examdarpan.in/mock-tests/cet-mock-test": {
    "failures": 0,
    "first_seen": "2026-11-10T09:37:28Z",
@@ -8822,7 +8925,7 @@
    "in_sitemap": true,
    "last_error": null,
    "last_failure_at": null,
-   "last_fetched": "2026-11-13T21:38:14Z",
+   "last_fetched": "2026-11-21T07:15:42Z",
    "lastmod": "2026-10-16T02:32:41.297000Z",
    "needs_refresh": false,
    "page": {
@@ -9622,7 +9725,7 @@
    "in_sitemap": true,
    "last_error": null,
    "last_failure_at": null,
-   "last_fetched": "2026-11-13T21:38:14Z",
+   "last_fetched": "2026-11-21T07:15:42Z",
    "lastmod": "2026-09-02T09:24:29.282000Z",
    "needs_refresh": false,
    "page": {
@@ -12513,6 +12616,6 @@
  },
  "meta": {
   "schema": 1,
-  "sitemap_slot": 83112
+  "sitemap_slot": 83113
  }
 }
