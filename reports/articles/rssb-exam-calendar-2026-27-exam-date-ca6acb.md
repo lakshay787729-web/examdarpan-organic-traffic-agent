@@ -3,7 +3,7 @@
 URL: https://examdarpan.in/rssb-exam-calendar-2026-27-exam-date
 
 **SEO health score: 97/100** (this is this agent's own checklist score, not a Google score)
-Words: 1485 | Last read: 2026-11-13T21:38:14Z | Published: 2026-09-29 | Updated: 2026-10-06
+Words: 1490 | Last read: 2026-11-21T20:57:48Z | Published: 2026-09-29 | Updated: 2026-10-06
 
 ## Things to fix
 
@@ -43,6 +43,6 @@ Possible search phrases for those sections (estimates):
 
 ## Internal links you could add
 
-- Link to [Rajasthan CET 12th Level Exam City 2026: एडमिट कार्ड व](https://examdarpan.in/rajasthan-cet-12th-level-exam-city-admit-card-2026) (shares: 2026, exam, rajasthan, जारी, दिसंबर)
+- Link to [Admit Card | Exam Darpan](https://examdarpan.in/category-admit-card) (shares: 2026, cet, exam, जारी, परीक्षा)
 - Link to [Rajasthan PTI Recruitment 2026: 1200 पद, योग्यता, आयु सीमा व](https://examdarpan.in/rajasthan-pti-recruitment-2026) (shares: 2026, rajasthan, जारी, परीक्षा, भर्ती)
 - Link to [Rajasthan SET Admit Card 2026 जारी](https://examdarpan.in/rajasthan-set-admit-card-2026) (shares: 2026, rajasthan, जारी, परीक्षा, भर्ती)

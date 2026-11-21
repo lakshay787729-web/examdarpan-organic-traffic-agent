@@ -94,7 +94,7 @@ and it does not create fake visits or clicks.
 13. Admit Card | Exam Darpan  
    https://examdarpan.in/category-admit-card  
    Priority 31 | score 69/100
-   - HIGH: Only 50 words were visible in the raw HTML but the page loads 7 scripts. The content may be added by JavaScript, which this agent cannot see.
+   - HIGH: Only 53 words were visible in the raw HTML but the page loads 7 scripts. The content may be added by JavaScript, which this agent cannot see.
    - MEDIUM: Only 1 links to other Exam Darpan pages.
    - LOW: Meta description is short (62 characters).
 14. Answer Key | Exam Darpan  

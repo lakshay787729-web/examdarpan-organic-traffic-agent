@@ -64,6 +64,6 @@ Possible search phrases for those sections (estimates):
 
 ## Internal links you could add
 
+- Link to [Admit Card | Exam Darpan](https://examdarpan.in/category-admit-card) (shares: 2026, article, cet, exam, जारी)
 - Link to [Rajasthan CET Exam Date 2026: नई परीक्षा तिथि जारी, 12वीं और](https://examdarpan.in/rajasthan-cet-2026-new-exam-date) (shares: 2026, cet, exam, जारी, परीक्षा)
 - Link to [Exam Syllabus | Exam Darpan](https://examdarpan.in/category-syllabus) (shares: 2026, article, cet, exam)
-- Link to [Rajasthan CET 12th Level Exam City 2026: एडमिट कार्ड व](https://examdarpan.in/rajasthan-cet-12th-level-exam-city-admit-card-2026) (shares: 2026, exam, जारी, परीक्षा)

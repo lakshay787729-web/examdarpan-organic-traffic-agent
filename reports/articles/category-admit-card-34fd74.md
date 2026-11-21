@@ -3,11 +3,11 @@
 URL: https://examdarpan.in/category-admit-card
 
 **SEO health score: 69/100** (this is this agent's own checklist score, not a Google score)
-Words: 50 | Last read: 2026-11-18T08:31:56Z | Published: unknown | Updated: unknown
+Words: 53 | Last read: 2026-11-21T20:57:48Z | Published: unknown | Updated: unknown
 
 ## Things to fix
 
-- **HIGH**: Only 50 words were visible in the raw HTML but the page loads 7 scripts. The content may be added by JavaScript, which this agent cannot see.  
+- **HIGH**: Only 53 words were visible in the raw HTML but the page loads 7 scripts. The content may be added by JavaScript, which this agent cannot see.  
   Fix: Check the page with URL Inspection in Search Console. Prefer server-rendered or pre-rendered article text.
 - **MEDIUM**: Only 1 links to other Exam Darpan pages.  
   Fix: Link to related articles where it helps readers (see suggestions below).
@@ -29,17 +29,12 @@ _These are ideas taken from the article text. They are NOT search-volume numbers
 - Admit Card (title)
 - इस सेक्शन में क्या मिलेगा? (sub-heading (H2))
 - Latest Admit Card (sub-heading (H2))
-- ssc cgl (repeated in text, appears 3 times)
-- 28 सितंबर 2026 (repeated in text, appears 2 times)
-- admit card 2026 (repeated in text, appears 2 times)
-- cgl admit card (repeated in text, appears 2 times)
-- ssc cgl admit (repeated in text, appears 2 times)
-- hall ticket (repeated in text, appears 2 times)
+- 21 नवंबर 2026 (repeated in text, appears 2 times)
+- exam city (repeated in text, appears 2 times)
 
 ### Topics the article does not mention yet
 _Add a section only if it is relevant AND you can confirm the facts from the official notice._
 
-- eligibility
 - last date
 - notification
 - syllabus
@@ -50,7 +45,6 @@ _Add a section only if it is relevant AND you can confirm the facts from the off
 - cut off
 
 Possible search phrases for those sections (estimates):
-- Admit Card eligibility
 - Admit Card last date
 - Admit Card notification
 - Admit Card syllabus
@@ -62,6 +56,6 @@ Possible search phrases for those sections (estimates):
 
 ## Internal links you could add
 
-- Link to [SSC Jobs | Exam Darpan](https://examdarpan.in/category-ssc-jobs) (shares: 2026, admit, article, card, ssc)
-- Link to [Rajasthan SET Admit Card 2026 जारी](https://examdarpan.in/rajasthan-set-admit-card-2026) (shares: 2026, admit, card, जारी, सितंबर)
-- Link to [RPSC SI Admit Card 2026 जारी](https://examdarpan.in/rpsc-si-admit-card-2026-download) (shares: 2026, admit, card, जारी, सितंबर)
+- Link to [Latest Updates | Exam Darpan](https://examdarpan.in/category-latest-updates) (shares: 2026, article, cet, exam, जारी)
+- Link to [RPSC SI Admit Card 2026 जारी](https://examdarpan.in/rpsc-si-admit-card-2026-download) (shares: 2026, admit, card, exam, जारी)
+- Link to [SSC CGL Admit Card 2026 Out: Tier 1 Hall Ticket जारी](https://examdarpan.in/ssc-cgl-admit-card-2026) (shares: 2026, admit, card, exam, जारी)

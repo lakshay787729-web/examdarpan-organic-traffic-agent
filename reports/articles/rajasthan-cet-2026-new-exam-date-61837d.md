@@ -45,4 +45,4 @@ Possible search phrases for those sections (estimates):
 
 - Link to [Rajasthan CET 12th Level Exam City 2026: एडमिट कार्ड व](https://examdarpan.in/rajasthan-cet-12th-level-exam-city-admit-card-2026) (shares: 2026, exam, rajasthan, कार्ड, जारी)
 - Link to [Rajasthan CET 2026: Graduation Syllabus, Exam Date](https://examdarpan.in/rajasthan-cet-2026-graduation-syllabus-exam-date) (shares: 2026, cet, exam, level, rajasthan)
-- Link to [Exam Syllabus | Exam Darpan](https://examdarpan.in/category-syllabus) (shares: 2026, cet, exam, level, rajasthan)
+- Link to [Admit Card | Exam Darpan](https://examdarpan.in/category-admit-card) (shares: 2026, cet, exam, जारी, परीक्षा)

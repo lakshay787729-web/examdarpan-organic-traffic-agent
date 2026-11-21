@@ -49,4 +49,4 @@ Possible search phrases for those sections (estimates):
 
 - Link to [Rajasthan CET Exam Date 2026: नई परीक्षा तिथि जारी, 12वीं और](https://examdarpan.in/rajasthan-cet-2026-new-exam-date) (shares: 2026, cet, exam, level, rajasthan)
 - Link to [RSSB Exam Calendar 2026-27 जारी](https://examdarpan.in/rssb-exam-calendar-2026-27-exam-date) (shares: 2026, cet, exam, rajasthan, परीक्षा)
-- Link to [Latest Updates | Exam Darpan](https://examdarpan.in/category-latest-updates) (shares: 2026, cet, exam, परीक्षा)
+- Link to [Admit Card | Exam Darpan](https://examdarpan.in/category-admit-card) (shares: 2026, cet, exam, परीक्षा)

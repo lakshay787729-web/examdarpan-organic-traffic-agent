@@ -1028,16 +1028,16 @@
    "in_sitemap": true,
    "last_error": null,
    "last_failure_at": null,
-   "last_fetched": "2026-11-18T08:31:56Z",
+   "last_fetched": "2026-11-21T20:57:48Z",
    "lastmod": "2026-11-21T12:36:24.945000Z",
-   "needs_refresh": true,
+   "needs_refresh": false,
    "page": {
     "canonical": "https://examdarpan.in/category-admit-card",
-    "content_hash": "aa7ffa57b8c86bf5",
+    "content_hash": "66268ea2df42e12e",
     "deadline_dates": [],
     "description": "नई परीक्षाओं के Admit Card और परीक्षा प्रवेश से जुड़ी अपडेट्स।",
     "exam_related": true,
-    "excerpt": "SSC CGL Admit Card 2026 Out: Tier 1 Hall Ticket जारी, Download 28 सितंबर 2026 • Admit Card SSC CGL Admit Card 2026 जारी: Tier 1 Hall Ticket Download Link, Exam Date और पूरी जानकारी अंतिम अपडेट: 28 सितंबर 2026 | परीक्षा: SSC CGL 2026 | चरण: Tier 1 पूरा article पढ़ें →",
+    "excerpt": "Rajasthan CET 12th Level Exam City 2026: जिला आवंटन जारी, एडमिट कार्ड डेट और पुराने पेपर देखें 21 नवंबर 2026 • Admit Card राजस्थान कर्मचारी चयन बोर्ड (RSSB) द्वारा समान पात्रता परीक्षा (सीनियर सेकेंडरी स्तर)-2026 के लिए परीक्षा जिला (Exam City) की सूचना 21 नवंबर 2026 से जारी क पूरा article पढ़ें →",
     "external_link_count": 0,
     "final_url": "https://examdarpan.in/category-admit-card",
     "h1s": [
@@ -1049,41 +1049,22 @@
     ],
     "images_missing_alt": 0,
     "intents_present": [
-     "admit card"
+     "admit card",
+     "eligibility"
     ],
     "internal_links": [
-     "https://examdarpan.in/ssc-cgl-admit-card-2026"
+     "https://examdarpan.in/rajasthan-cet-12th-level-exam-city-admit-card-2026"
     ],
     "lang": "hi",
     "modified": null,
     "noindex": false,
     "phrases": [
      [
-      "admit card",
-      3
-     ],
-     [
-      "ssc cgl",
-      3
-     ],
-     [
-      "28 सितंबर 2026",
+      "21 नवंबर 2026",
       2
      ],
      [
-      "admit card 2026",
-      2
-     ],
-     [
-      "cgl admit card",
-      2
-     ],
-     [
-      "ssc cgl admit",
-      2
-     ],
-     [
-      "hall ticket",
+      "exam city",
       2
      ]
     ],
@@ -1094,38 +1075,14 @@
     "top_terms": [
      [
       "2026",
-      5
+      4
      ],
      [
-      "admit",
-      3
-     ],
-     [
-      "card",
-      3
-     ],
-     [
-      "cgl",
-      3
-     ],
-     [
-      "ssc",
-      3
-     ],
-     [
-      "tier",
-      3
-     ],
-     [
-      "download",
+      "city",
       2
      ],
      [
-      "hall",
-      2
-     ],
-     [
-      "ticket",
+      "exam",
       2
      ],
      [
@@ -1133,27 +1090,51 @@
       2
      ],
      [
-      "सितंबर",
+      "जिला",
       2
+     ],
+     [
+      "नवंबर",
+      2
+     ],
+     [
+      "परीक्षा",
+      2
+     ],
+     [
+      "12th",
+      1
+     ],
+     [
+      "admit",
+      1
      ],
      [
       "article",
       1
      ],
      [
-      "date",
+      "card",
       1
      ],
      [
-      "exam",
+      "cet",
       1
      ],
      [
-      "link",
+      "level",
+      1
+     ],
+     [
+      "rajasthan",
+      1
+     ],
+     [
+      "rssb",
       1
      ]
     ],
-    "word_count": 50,
+    "word_count": 53,
     "years": [
      2026
     ]
@@ -10093,12 +10074,12 @@
    "in_sitemap": true,
    "last_error": null,
    "last_failure_at": null,
-   "last_fetched": "2026-11-13T21:38:14Z",
+   "last_fetched": "2026-11-21T20:57:48Z",
    "lastmod": "2026-10-06T13:54:00.892000Z",
    "needs_refresh": false,
    "page": {
     "canonical": "https://examdarpan.in/rssb-exam-calendar-2026-27-exam-date",
-    "content_hash": "449a7cc04fda7fdb",
+    "content_hash": "023534a26f46699b",
     "deadline_dates": [],
     "description": "RSSB Exam Calendar 2026-27 जारी हो गया है। यहां CET Senior Secondary, CET Graduation, Teaching Associate, Lab Attendant और Junior Engineer परीक्षा की पूरी तारीख",
     "exam_related": true,
@@ -10144,11 +10125,11 @@
      "https://examdarpan.in/rajasthan-cet-2026-new-exam-date",
      "https://examdarpan.in/upi-payment-new-rule-2026-2000-above-mdr-charge",
      "https://examdarpan.in/mukhyamantri-anuprati-coaching-yojana-2026-27",
+     "https://examdarpan.in/rajasthan-cet-12th-level-exam-city-admit-card-2026",
      "https://examdarpan.in/rajasthan-ldc-score-card-2026",
      "https://examdarpan.in/rajasthan-cet-2026-senior-secondary-syllabus-exam-date",
      "https://examdarpan.in/ssc-cgl-admit-card-2026",
-     "https://examdarpan.in/rajasthan-cet-2026-graduation-syllabus-exam-date",
-     "https://examdarpan.in/crpf-sports-quota-recruitment-2026"
+     "https://examdarpan.in/rajasthan-cet-2026-graduation-syllabus-exam-date"
     ],
     "lang": "hi",
     "modified": "2026-10-06",
@@ -10175,8 +10156,12 @@
       12
      ],
      [
+      "rajasthan cet",
+      10
+     ],
+     [
       "सितंबर 2026",
-      11
+      10
      ],
      [
       "calendar 2026 27",
@@ -10184,10 +10169,6 @@
      ],
      [
       "exam calendar 2026",
-      9
-     ],
-     [
-      "rajasthan cet",
       9
      ],
      [
@@ -10218,27 +10199,27 @@
      ],
      [
       "rssb",
-      26
+      27
      ],
      [
       "exam",
-      22
+      24
+     ],
+     [
+      "cet",
+      20
+     ],
+     [
+      "जारी",
+      20
      ],
      [
       "दिसंबर",
       20
      ],
      [
-      "cet",
-      19
-     ],
-     [
-      "जारी",
-      18
-     ],
-     [
       "भर्ती",
-      18
+      16
      ],
      [
       "2027",
@@ -10254,7 +10235,7 @@
      ],
      [
       "rajasthan",
-      12
+      13
      ],
      [
       "सीधी",
@@ -10265,11 +10246,11 @@
       11
      ],
      [
-      "सितंबर",
-      11
+      "update",
+      10
      ]
     ],
-    "word_count": 1485,
+    "word_count": 1490,
     "years": [
      2000,
      2025,
@@ -10284,12 +10265,12 @@
    "in_sitemap": true,
    "last_error": null,
    "last_failure_at": null,
-   "last_fetched": "2026-11-14T01:44:09Z",
+   "last_fetched": "2026-11-21T20:57:48Z",
    "lastmod": "2026-09-08T03:13:00.259000Z",
    "needs_refresh": false,
    "page": {
     "canonical": "https://examdarpan.in/rssb-mahila-paryavekshak-answer-key-2026",
-    "content_hash": "6d130dd612067d3a",
+    "content_hash": "9ac55c0d3780246d",
     "deadline_dates": [],
     "description": "RSSB महिला पर्यवेक्षक भर्ती परीक्षा 2026 की Answer Key जारी कर दी गई है। उम्मीदवार आधिकारिक उत्तर कुंजी PDF डाउनलोड कर अपने उत्तरों का मिलान कर सकते हैं। ज",
     "exam_related": true,
@@ -10330,13 +10311,13 @@
      "https://examdarpan.in/category-answer-key",
      "https://examdarpan.in/categories",
      "https://examdarpan.in/rajasthan-police-si-answer-key-2026",
+     "https://examdarpan.in/rajasthan-cet-12th-level-exam-city-admit-card-2026",
      "https://examdarpan.in/rajasthan-tax-assistant-recruitment",
      "https://examdarpan.in/rajasthan-pti-recruitment-2026",
      "https://examdarpan.in/rajasthan-ldc-score-card-2026",
      "https://examdarpan.in/ssc-cgl-admit-card-2026",
      "https://examdarpan.in/rrb-ntpc-graduate-recruitment-2026",
-     "https://examdarpan.in/crpf-sports-quota-recruitment-2026",
-     "https://examdarpan.in/rpsc-si-admit-card-2026-download"
+     "https://examdarpan.in/crpf-sports-quota-recruitment-2026"
     ],
     "lang": "hi",
     "modified": "2026-09-08",
@@ -10355,10 +10336,6 @@
       14
      ],
      [
-      "सितंबर 2026",
-      10
-     ],
-     [
       "पर्यवेक्षक answer key",
       9
      ],
@@ -10371,15 +10348,15 @@
       8
      ],
      [
+      "सितंबर 2026",
+      8
+     ],
+     [
       "answer key जारी",
       7
      ],
      [
       "महिला पर्यवेक्षक भर्ती",
-      7
-     ],
-     [
-      "admit card",
       7
      ],
      [
@@ -10389,6 +10366,10 @@
      [
       "परीक्षा 2026",
       7
+     ],
+     [
+      "पर्यवेक्षक भर्ती परीक्षा",
+      6
      ]
     ],
     "published": "2026-09-08",
@@ -10410,7 +10391,7 @@
      ],
      [
       "rssb",
-      30
+      31
      ],
      [
       "official",
@@ -10422,14 +10403,10 @@
      ],
      [
       "परीक्षा",
-      20
+      21
      ],
      [
       "पर्यवेक्षक",
-      20
-     ],
-     [
-      "भर्ती",
       20
      ],
      [
@@ -10437,15 +10414,19 @@
       20
      ],
      [
+      "भर्ती",
+      19
+     ],
+     [
       "उम्मीदवार",
       16
      ],
      [
-      "डाउनलोड",
-      13
+      "pdf",
+      12
      ],
      [
-      "pdf",
+      "डाउनलोड",
       12
      ],
      [
@@ -10453,11 +10434,11 @@
       11
      ],
      [
-      "recruitment",
-      10
+      "बोर्ड",
+      11
      ]
     ],
-    "word_count": 1468,
+    "word_count": 1465,
     "years": [
      2021,
      2026
@@ -12801,6 +12782,6 @@
  },
  "meta": {
   "schema": 1,
-  "sitemap_slot": 83114
+  "sitemap_slot": 83115
  }
 }
