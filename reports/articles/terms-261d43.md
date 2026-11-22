@@ -3,7 +3,7 @@
 URL: https://examdarpan.in/terms
 
 **SEO health score: 83/100** (this is this agent's own checklist score, not a Google score)
-Words: 574 | Last read: 2026-11-14T14:58:21Z | Published: unknown | Updated: unknown
+Words: 574 | Last read: 2026-11-22T15:41:32Z | Published: unknown | Updated: unknown
 
 ## Things to fix
 

@@ -3,7 +3,7 @@
 URL: https://examdarpan.in/assam-rifles-group-c-recruitment-2026
 
 **SEO health score: 90/100** (this is this agent's own checklist score, not a Google score)
-Words: 2142 | Last read: 2026-11-14T19:44:14Z | Published: 2026-10-22 | Updated: 2026-10-22
+Words: 2165 | Last read: 2026-11-22T15:41:32Z | Published: 2026-10-22 | Updated: 2026-10-22
 
 ## Things to fix
 
@@ -27,8 +27,8 @@ _These are ideas taken from the article text. They are NOT search-volume numbers
 - Assam Rifles Vacancy 2026: पदों का विवरण (sub-heading (H2))
 - Assam Rifles Recruitment 2026: महत्वपूर्ण तारीखें (sub-heading (H2))
 - Assam Rifles Eligibility 2026: शैक्षणिक योग्यता (sub-heading (H2))
-- assam rifles (repeated in text, appears 26 times)
-- recruitment 2026 (repeated in text, appears 22 times)
+- assam rifles (repeated in text, appears 27 times)
+- recruitment 2026 (repeated in text, appears 23 times)
 - jobs update (repeated in text, appears 9 times)
 - अक्टूबर 2026 (repeated in text, appears 9 times)
 - सितंबर 2026 (repeated in text, appears 9 times)
