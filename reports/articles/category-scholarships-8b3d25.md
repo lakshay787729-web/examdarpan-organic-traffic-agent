@@ -3,11 +3,11 @@
 URL: https://examdarpan.in/category-scholarships
 
 **SEO health score: 65/100** (this is this agent's own checklist score, not a Google score)
-Words: 51 | Last read: 2026-11-18T23:29:47Z | Published: unknown | Updated: unknown
+Words: 52 | Last read: 2026-11-22T21:16:00Z | Published: unknown | Updated: unknown
 
 ## Things to fix
 
-- **HIGH**: Only 51 words were visible in the raw HTML but the page loads 7 scripts. The content may be added by JavaScript, which this agent cannot see.  
+- **HIGH**: Only 52 words were visible in the raw HTML but the page loads 8 scripts. The content may be added by JavaScript, which this agent cannot see.  
   Fix: Check the page with URL Inspection in Search Console. Prefer server-rendered or pre-rendered article text.
 - **MEDIUM**: Only 1 links to other Exam Darpan pages.  
   Fix: Link to related articles where it helps readers (see suggestions below).
@@ -27,11 +27,14 @@ Words: 51 | Last read: 2026-11-18T23:29:47Z | Published: unknown | Updated: unkn
 _These are ideas taken from the article text. They are NOT search-volume numbers. Check real queries in Search Console._
 
 - Scholarships (title)
-- इस सेक्शन में क्या मिलेगा? (sub-heading (H2))
 - Latest Scholarships (sub-heading (H2))
+- All Categories (sub-heading (H2))
+- Student Corner (sub-heading (H2))
+- Quick Links (sub-heading (H2))
+- Information (sub-heading (H2))
 - scholarship yojana 2026 (repeated in text, appears 2 times)
 - yojana 2026 27 (repeated in text, appears 2 times)
-- 30 नवंबर (repeated in text, appears 2 times)
+- 31 दिसंबर (repeated in text, appears 2 times)
 - ऑनलाइन आवेदन (repeated in text, appears 2 times)
 
 ### Topics the article does not mention yet
@@ -60,6 +63,6 @@ Possible search phrases for those sections (estimates):
 
 ## Internal links you could add
 
-- Link to [सरकारी योजनाएं | Exam Darpan](https://examdarpan.in/category-yojana) (shares: 2026, article, rajasthan, yojana, अक्टूबर)
 - Link to [Rajasthan Scooty Yojana 2026](https://examdarpan.in/rajasthan-scooty-yojana-2026-27) (shares: 2026, rajasthan, yojana, अक्टूबर, आवेदन)
-- Link to [Rajasthan PTET Fee Refund 2026: Last Date 21 October](https://examdarpan.in/rajasthan-ptet-fee-refund-2026) (shares: 2026, rajasthan, अक्टूबर, आवेदन, ऑनलाइन)
+- Link to [सरकारी योजनाएं | Exam Darpan](https://examdarpan.in/category-yojana) (shares: 2026, rajasthan, yojana, अक्टूबर, आवेदन)
+- Link to [Rajasthan Ambedkar DBT Voucher Yojana 2026-27: Apply Online](https://examdarpan.in/rajasthan-ambedkar-dbt-voucher-yojana-2026-27) (shares: 2026, rajasthan, yojana, आवेदन)

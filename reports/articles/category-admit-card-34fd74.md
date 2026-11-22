@@ -53,9 +53,3 @@ Possible search phrases for those sections (estimates):
 - Admit Card salary
 - Admit Card age limit
 - Admit Card cut off
-
-## Internal links you could add
-
-- Link to [Latest Updates | Exam Darpan](https://examdarpan.in/category-latest-updates) (shares: 2026, article, cet, exam, जारी)
-- Link to [RPSC SI Admit Card 2026 जारी](https://examdarpan.in/rpsc-si-admit-card-2026-download) (shares: 2026, admit, card, exam, जारी)
-- Link to [SSC CGL Admit Card 2026 Out: Tier 1 Hall Ticket जारी](https://examdarpan.in/ssc-cgl-admit-card-2026) (shares: 2026, admit, card, exam, जारी)

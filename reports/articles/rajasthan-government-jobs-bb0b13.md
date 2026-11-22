@@ -63,5 +63,4 @@ Possible search phrases for those sections (estimates):
 ## Internal links you could add
 
 - Link to [All India Government Jobs 2026 – Latest Central Govt Jobs | Exam Darpan](https://examdarpan.in/all-india-government-jobs) (shares: 2026, recruitment, चयन, पदों, भर्ती)
-- Link to [Rajasthan RVUNL Recruitment 2026: 2005 Posts](https://examdarpan.in/rajasthan-rvunl-recruitment-2026-junior-engineer-junior-accountant-junior-assistant) (shares: 2026, assistant, rajasthan, recruitment, भर्ती)
-- Link to [RSCIT Result 2026 Declared – Check Your Result Online](https://examdarpan.in/rscit-result-2026-declared-check-your-result-online) (shares: 2026, rajasthan, recruitment, जानकारी, भर्ती)
+- Link to [Rajasthan PTI Recruitment 2026: 1200 पद, योग्यता, आयु सीमा व](https://examdarpan.in/rajasthan-pti-recruitment-2026) (shares: 2026, rajasthan, जानकारी, भर्ती)

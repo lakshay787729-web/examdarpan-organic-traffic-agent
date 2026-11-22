@@ -3,11 +3,11 @@
 URL: https://examdarpan.in/category-entrance-exams
 
 **SEO health score: 62/100** (this is this agent's own checklist score, not a Google score)
-Words: 50 | Last read: 2026-11-15T16:51:35Z | Published: unknown | Updated: unknown
+Words: 51 | Last read: 2026-11-22T21:16:00Z | Published: unknown | Updated: unknown
 
 ## Things to fix
 
-- **HIGH**: Only 50 words were visible in the raw HTML but the page loads 7 scripts. The content may be added by JavaScript, which this agent cannot see.  
+- **HIGH**: Only 51 words were visible in the raw HTML but the page loads 8 scripts. The content may be added by JavaScript, which this agent cannot see.  
   Fix: Check the page with URL Inspection in Search Console. Prefer server-rendered or pre-rendered article text.
 - **MEDIUM**: Mentions deadline date(s) already passed: 2026-10-25.  
   Fix: Make clear whether applications are closed, or update after checking the official notice.
@@ -29,8 +29,11 @@ Words: 50 | Last read: 2026-11-15T16:51:35Z | Published: unknown | Updated: unkn
 _These are ideas taken from the article text. They are NOT search-volume numbers. Check real queries in Search Console._
 
 - Entrance Exams (title)
-- इस सेक्शन में क्या मिलेगा? (sub-heading (H2))
 - Latest Entrance Exams (sub-heading (H2))
+- All Categories (sub-heading (H2))
+- Student Corner (sub-heading (H2))
+- Quick Links (sub-heading (H2))
+- Information (sub-heading (H2))
 - jee main 2027 (repeated in text, appears 2 times)
 - आवेदन शुरू (repeated in text, appears 2 times)
 
@@ -53,9 +56,3 @@ Possible search phrases for those sections (estimates):
 - Entrance Exams salary
 - Entrance Exams age limit
 - Entrance Exams cut off
-
-## Internal links you could add
-
-- Link to [Teaching Jobs | Exam Darpan](https://examdarpan.in/category-teaching-jobs) (shares: 2026, article, date, exam, आवेदन)
-- Link to [Scholarships | Exam Darpan](https://examdarpan.in/category-scholarships) (shares: 2026, article, आवेदन, शुरू)
-- Link to [SSC Jobs | Exam Darpan](https://examdarpan.in/category-ssc-jobs) (shares: 2026, article, date, exam)

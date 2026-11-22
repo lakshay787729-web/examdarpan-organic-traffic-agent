@@ -312,7 +312,7 @@
   "https://examdarpan.in/assam-rifles-group-c-recruitment-2026": {
    "failures": 0,
    "first_seen": "2026-10-22T10:17:45Z",
-   "in_sitemap": true,
+   "in_sitemap": false,
    "last_error": null,
    "last_failure_at": null,
    "last_fetched": "2026-11-22T15:41:32Z",
@@ -518,7 +518,7 @@
   "https://examdarpan.in/bank-of-india-so-recruitment-2026-205-posts": {
    "failures": 0,
    "first_seen": "2026-10-20T09:09:02Z",
-   "in_sitemap": true,
+   "in_sitemap": false,
    "last_error": null,
    "last_failure_at": null,
    "last_fetched": "2026-11-16T01:10:36Z",
@@ -716,7 +716,7 @@
   "https://examdarpan.in/canara-bank-apprentice-recruitment-2026": {
    "failures": 0,
    "first_seen": "2026-10-20T09:09:02Z",
-   "in_sitemap": true,
+   "in_sitemap": false,
    "last_error": null,
    "last_failure_at": null,
    "last_fetched": "2026-11-18T08:31:56Z",
@@ -1037,8 +1037,8 @@
    "last_error": null,
    "last_failure_at": null,
    "last_fetched": "2026-11-21T20:57:48Z",
-   "lastmod": "2026-11-21T12:36:24.945000Z",
-   "needs_refresh": false,
+   "lastmod": "2026-11-22T17:07:09.438000Z",
+   "needs_refresh": true,
    "page": {
     "canonical": "https://examdarpan.in/category-admit-card",
     "content_hash": "66268ea2df42e12e",
@@ -1151,7 +1151,7 @@
   "https://examdarpan.in/category-answer-key": {
    "failures": 0,
    "first_seen": "2026-10-20T09:09:02Z",
-   "in_sitemap": true,
+   "in_sitemap": false,
    "last_error": null,
    "last_failure_at": null,
    "last_fetched": "2026-11-16T01:10:36Z",
@@ -1267,7 +1267,7 @@
   "https://examdarpan.in/category-banking-jobs": {
    "failures": 0,
    "first_seen": "2026-10-20T09:09:02Z",
-   "in_sitemap": true,
+   "in_sitemap": false,
    "last_error": null,
    "last_failure_at": null,
    "last_fetched": "2026-11-18T17:29:40Z",
@@ -1400,27 +1400,31 @@
    "in_sitemap": true,
    "last_error": null,
    "last_failure_at": null,
-   "last_fetched": "2026-11-15T16:51:35Z",
-   "lastmod": "2026-11-01T10:01:44.145000Z",
+   "last_fetched": "2026-11-22T21:16:00Z",
+   "lastmod": "2026-11-22T17:30:09.650000Z",
    "needs_refresh": false,
    "page": {
     "canonical": "https://examdarpan.in/category-entrance-exams",
-    "content_hash": "1c93948d6b98d5fb",
+    "content_hash": "a011de390f5eba74",
     "deadline_dates": [
      "2026-10-25",
      "2026-11-22"
     ],
     "description": "Entrance और admission examinations की महत्वपूर्ण जानकारी और updates।",
     "exam_related": true,
-    "excerpt": "JEE Main 2027 Registration: आवेदन शुरू, Last Date, Exam Date 25 अक्टूबर 2026 • Entrance Exams NTA ने JEE Main 2027 Session 1 के लिए ऑनलाइन आवेदन शुरू कर दिए हैं। आवेदन की अंतिम तिथि 22 नवंबर 2026 है। यहां परीक्षा तिथि, पात्रता, आवेदन शुल्क, पेपर पैट पूरा article पढ़ें →",
+    "excerpt": "JEE Main 2027 Registration: आवेदन शुरू, Last Date, Exam Date NTA ने JEE Main 2027 Session 1 के लिए ऑनलाइन आवेदन शुरू कर दिए हैं। आवेदन की अंतिम तिथि 22 नवंबर 2026 है। यहां परीक्षा तिथि, पात्रता, आवेदन शुल्क, पेपर पैट Entrance Exams Published: 25 अक्टूबर 2026 पूरी जानकारी पढ़ें →",
     "external_link_count": 0,
     "final_url": "https://examdarpan.in/category-entrance-exams",
     "h1s": [
      "Entrance Exams"
     ],
     "h2s": [
-     "इस सेक्शन में क्या मिलेगा?",
-     "Latest Entrance Exams"
+     "Latest Entrance Exams",
+     "All Categories",
+     "Student Corner",
+     "Quick Links",
+     "Student Corner",
+     "Information"
     ],
     "images_missing_alt": 0,
     "intents_present": [
@@ -1445,7 +1449,7 @@
      ]
     ],
     "published": null,
-    "script_count": 7,
+    "script_count": 8,
     "status": 200,
     "title": "Entrance Exams | Exam Darpan",
     "top_terms": [
@@ -1482,10 +1486,6 @@
       2
      ],
      [
-      "article",
-      1
-     ],
-     [
       "entrance",
       1
      ],
@@ -1506,11 +1506,15 @@
       1
      ],
      [
+      "published",
+      1
+     ],
+     [
       "registration",
       1
      ]
     ],
-    "word_count": 50,
+    "word_count": 51,
     "years": [
      2026,
      2027
@@ -1520,7 +1524,7 @@
   "https://examdarpan.in/category-latest-updates": {
    "failures": 0,
    "first_seen": "2026-10-20T09:09:02Z",
-   "in_sitemap": true,
+   "in_sitemap": false,
    "last_error": null,
    "last_failure_at": null,
    "last_fetched": "2026-11-18T23:29:47Z",
@@ -1651,7 +1655,7 @@
   "https://examdarpan.in/category-police-defence-jobs": {
    "failures": 0,
    "first_seen": "2026-10-22T10:17:45Z",
-   "in_sitemap": true,
+   "in_sitemap": false,
    "last_error": null,
    "last_failure_at": null,
    "last_fetched": "2026-11-14T19:44:14Z",
@@ -1769,7 +1773,7 @@
   "https://examdarpan.in/category-railway-jobs": {
    "failures": 0,
    "first_seen": "2026-10-20T09:09:02Z",
-   "in_sitemap": true,
+   "in_sitemap": false,
    "last_error": null,
    "last_failure_at": null,
    "last_fetched": "2026-11-15T21:22:47Z",
@@ -1879,7 +1883,7 @@
   "https://examdarpan.in/category-results": {
    "failures": 0,
    "first_seen": "2026-10-20T09:09:02Z",
-   "in_sitemap": true,
+   "in_sitemap": false,
    "last_error": null,
    "last_failure_at": null,
    "last_fetched": "2026-11-14T23:24:36Z",
@@ -2008,24 +2012,28 @@
    "in_sitemap": true,
    "last_error": null,
    "last_failure_at": null,
-   "last_fetched": "2026-11-18T23:29:47Z",
-   "lastmod": "2026-10-06T12:09:19.654000Z",
+   "last_fetched": "2026-11-22T21:16:00Z",
+   "lastmod": "2026-11-22T17:38:53.380000Z",
    "needs_refresh": false,
    "page": {
     "canonical": "https://examdarpan.in/category-scholarships",
-    "content_hash": "2d9a517e6f8cecdd",
+    "content_hash": "478764d0d5c08072",
     "deadline_dates": [],
     "description": "Students के लिए scholarship schemes, eligibility, dates और application updates।",
     "exam_related": true,
-    "excerpt": "Rajasthan Scholarship Yojana 2026-27: ऑनलाइन आवेदन शुरू, 30 नवंबर तक करें आवेदन 04 अक्टूबर 2026 • Scholarships राजस्थान Scholarship Yojana 2026-27 के ऑनलाइन आवेदन 1 अक्टूबर से शुरू हो गए हैं। जानें कौन-कौन सी छात्रवृत्ति योजनाएं शामिल हैं और 30 नवंबर तक आवेदन कैसे क पूरा article पढ़ें →",
+    "excerpt": "ED Rajasthan Scholarship Yojana 2026-27: ऑनलाइन आवेदन शुरू, 31 दिसंबर तक करें आवेदन राजस्थान Scholarship Yojana 2026-27 के ऑनलाइन आवेदन 1 अक्टूबर से शुरू हो गए हैं। जानें कौन-कौन सी छात्रवृत्ति योजनाएं शामिल हैं और 31 दिसंबर तक आवेदन कैसे Scholarships Published: 04 अक्टूबर 2026 पूरी जानकारी पढ़ें →",
     "external_link_count": 0,
     "final_url": "https://examdarpan.in/category-scholarships",
     "h1s": [
      "Scholarships"
     ],
     "h2s": [
-     "इस सेक्शन में क्या मिलेगा?",
-     "Latest Scholarships"
+     "Latest Scholarships",
+     "All Categories",
+     "Student Corner",
+     "Quick Links",
+     "Student Corner",
+     "Information"
     ],
     "images_missing_alt": 0,
     "intents_present": [
@@ -2047,7 +2055,7 @@
       2
      ],
      [
-      "30 नवंबर",
+      "31 दिसंबर",
       2
      ],
      [
@@ -2056,7 +2064,7 @@
      ]
     ],
     "published": null,
-    "script_count": 7,
+    "script_count": 8,
     "status": 200,
     "title": "Scholarships | Exam Darpan",
     "top_terms": [
@@ -2089,7 +2097,7 @@
       2
      ],
      [
-      "नवंबर",
+      "दिसंबर",
       2
      ],
      [
@@ -2097,7 +2105,11 @@
       2
      ],
      [
-      "article",
+      "ed",
+      1
+     ],
+     [
+      "published",
       1
      ],
      [
@@ -2115,13 +2127,9 @@
      [
       "छात्रवृत्ति",
       1
-     ],
-     [
-      "जानें",
-      1
      ]
     ],
-    "word_count": 51,
+    "word_count": 52,
     "years": [
      2026
     ]
@@ -2130,7 +2138,7 @@
   "https://examdarpan.in/category-ssc-jobs": {
    "failures": 0,
    "first_seen": "2026-10-20T09:09:02Z",
-   "in_sitemap": true,
+   "in_sitemap": false,
    "last_error": null,
    "last_failure_at": null,
    "last_fetched": "2026-11-18T23:29:47Z",
@@ -2243,7 +2251,7 @@
   "https://examdarpan.in/category-syllabus": {
    "failures": 0,
    "first_seen": "2026-10-20T09:09:02Z",
-   "in_sitemap": true,
+   "in_sitemap": false,
    "last_error": null,
    "last_failure_at": null,
    "last_fetched": "2026-11-19T04:24:34Z",
@@ -2364,7 +2372,7 @@
   "https://examdarpan.in/category-teaching-jobs": {
    "failures": 0,
    "first_seen": "2026-10-20T09:09:02Z",
-   "in_sitemap": true,
+   "in_sitemap": false,
    "last_error": null,
    "last_failure_at": null,
    "last_fetched": "2026-11-19T04:24:34Z",
@@ -2484,7 +2492,7 @@
   "https://examdarpan.in/category-university-college": {
    "failures": 0,
    "first_seen": "2026-10-20T09:09:02Z",
-   "in_sitemap": true,
+   "in_sitemap": false,
    "last_error": null,
    "last_failure_at": null,
    "last_fetched": "2026-11-18T17:29:40Z",
@@ -2611,8 +2619,8 @@
    "last_error": null,
    "last_failure_at": null,
    "last_fetched": "2026-11-19T04:24:34Z",
-   "lastmod": "2026-10-16T06:20:31.182000Z",
-   "needs_refresh": false,
+   "lastmod": "2026-11-22T17:25:57.990000Z",
+   "needs_refresh": true,
    "page": {
     "canonical": "https://examdarpan.in/category-yojana",
     "content_hash": "c15b073cfd48622d",
@@ -2886,7 +2894,7 @@
   "https://examdarpan.in/crpf-sports-quota-recruitment-2026": {
    "failures": 0,
    "first_seen": "2026-10-20T09:09:02Z",
-   "in_sitemap": true,
+   "in_sitemap": false,
    "last_error": null,
    "last_failure_at": null,
    "last_fetched": "2026-11-19T13:38:59Z",
@@ -3258,7 +3266,7 @@
   "https://examdarpan.in/east-coast-railway-apprentice-2026": {
    "failures": 0,
    "first_seen": "2026-10-20T09:09:02Z",
-   "in_sitemap": true,
+   "in_sitemap": false,
    "last_error": null,
    "last_failure_at": null,
    "last_fetched": "2026-11-19T21:48:07Z",
@@ -3626,7 +3634,7 @@
   "https://examdarpan.in/india-post-gds-recruitment-2026-bpm-25-000": {
    "failures": 0,
    "first_seen": "2026-10-20T09:09:02Z",
-   "in_sitemap": true,
+   "in_sitemap": false,
    "last_error": null,
    "last_failure_at": null,
    "last_fetched": "2026-11-16T07:57:01Z",
@@ -3827,45 +3835,55 @@
    "in_sitemap": true,
    "last_error": null,
    "last_failure_at": null,
-   "last_fetched": "2026-11-15T21:22:47Z",
-   "lastmod": "2026-11-01T10:01:44.145000Z",
+   "last_fetched": "2026-11-22T21:16:00Z",
+   "lastmod": "2026-11-22T17:30:09.650000Z",
    "needs_refresh": false,
    "page": {
     "canonical": "https://examdarpan.in/jee-main-2027-registration",
-    "content_hash": "f564c8efd386f538",
+    "content_hash": "7748564537b829af",
     "deadline_dates": [
-     "2026-09-22",
-     "2026-10-09",
      "2026-10-25",
-     "2026-11-01",
      "2026-11-22",
      "2026-11-26",
      "2026-11-29",
-     "2027-01-28"
+     "2026-12-30",
+     "2027-02-03",
+     "2027-02-07",
+     "2027-02-10"
     ],
-    "description": "JEE Main 2027 Session 1 के आवेदन शुरू। 22 नवंबर अंतिम तिथि, जनवरी परीक्षा, योग्यता, फीस, जरूरी दस्तावेज और NTA की Direct Apply Link यहां देखें।",
+    "description": "JEE Main 2027 Session 1 के लिए आवेदन की अंतिम तिथि 22 नवंबर है। लेट फीस, पात्रता, आवेदन शुल्क, परीक्षा पैटर्न और जनवरी परीक्षा की तारीखें जानें।",
     "exam_related": true,
-    "excerpt": "Entrance Exams UPDATE JEE Main 2027 Registration: आवेदन शुरू, Last Date, Exam Date By Deepak Joshi प्रकाशित: 25 अक्टूबर 2026 • अपडेट: 01 नवंबर 2026 • 11 मिनट पढ़ने में JEE Main 2027 Registration अपडेट: 25 अक्टूबर 2026 | आयोजक: National Testing Agency (NTA) | सेशन: जनवरी 2027 JEE Main 2027 Registration: इंजीनियरिंग, आर्किटेक्चर और प्लानिंग के क्षेत्र में आगे पढ़ाई करने वाले विद्यार्थियों के लिए महत्वपूर्ण अपडेट है। नेशनल टेस्टिंग एजेंसी (NTA) ने Joint Entrance Examination (Main) 2027 के पहले सेशन यानी Session 1 (January 2027) के लिए ऑनलाइन आवेदन प्रक्रिया शुरू कर दी है। विद्यार्थी आधिकारिक वेबसाइट पर जाकर अपनी पात्रता जांचने के बाद आवेदन कर सकते हैं। सामान्य आवेदन की अंतिम तिथि 22 नवंबर 2026 है। NTA के नोटिस के अनुसार 23 से 26 नवंबर तक ₹500 अतिरिक्त लेट फीस के साथ आवेदन करने का अलग अवसर भी निर्धारित किया गया है। Session 1 की परीक्षा जनवरी 2027 में आयोजित होगी। आवेदन करने से पहले Information Bulletin पढ़ना जरूरी है, क्योंकि पात्रता, फीस और दस्तावेजों की अंतिम शर्तें उसी में दी गई हैं। JEE Main 2027: एक नजर में परीक्षा का नाम: Joint Entrance Examination (Main) 2027 आयोजक: National Testing Agency (NTA) पहला सेशन: जनवरी 2027 आवेदन शुरू: 24 अक्टूबर 2026 बिना लेट फीस अंतिम तिथि: 22 नवंबर ",
-    "external_link_count": 13,
+    "excerpt": "Entrance Exams UPDATE JEE Main 2027 Registration: आवेदन शुरू, Last Date, Exam Date NTA ने JEE Main 2027 Session 1 के लिए ऑनलाइन आवेदन शुरू कर दिए हैं। आवेदन की अंतिम तिथि 22 नवंबर 2026 है। यहां परीक्षा तिथि, पात्रता, आवेदन शुल्क, पेपर पैट By Deepak Joshi प्रकाशित: 25 अक्टूबर 2026 • अपडेट: 22 नवंबर 2026 • 13 मिनट पढ़ने में ✓ स्रोत जाँच: 22 नवंबर 2026 · समीक्षा: Deepak Joshi JEE Main 2027 Registration: आवेदन, पात्रता, फीस और परीक्षा की तारीखें इंजीनियरिंग और आर्किटेक्चर के क्षेत्र में स्नातक पाठ्यक्रमों में प्रवेश लेने की तैयारी कर रहे विद्यार्थियों के लिए JEE Main 2027 का पहला सेशन महत्वपूर्ण है। नेशनल टेस्टिंग एजेंसी (NTA) ने जनवरी 2027 सेशन के लिए ऑनलाइन आवेदन प्रक्रिया 24 अक्टूबर 2026 से शुरू की है। इस परीक्षा के माध्यम से NIT, IIIT और अन्य भाग लेने वाले संस्थानों के विभिन्न पाठ्यक्रमों में प्रवेश के लिए उम्मीदवारों का मूल्यांकन किया जाता है। JEE Main का परिणाम JEE Advanced में शामिल होने की पात्रता निर्धारित करने में भी उपयोग किया जाता है। JEE Main 2027 Session 1 आवेदन शुरू: 24 अक्टूबर 2026 बिना लेट फीस अंतिम तिथि: 22 नवंबर 2026 लेट फीस के साथ आवेदन: 23 से 26 नवंबर 2026 परीक्षा: जनवरी 2027 आज की जरूरी अपडेट – 22 नवंबर 2026: सामान्य आवेदन और फीस जमा करने की अंतिम तारीख आज रात 11:",
+    "external_link_count": 17,
     "final_url": "https://examdarpan.in/jee-main-2027-registration",
     "h1s": [
      "JEE Main 2027 Registration: आवेदन शुरू, Last Date, Exam Date"
     ],
     "h2s": [
-     "JEE Main क्या है और इससे किस कोर्स में प्रवेश मिलता है?",
-     "JEE Main 2027 की महत्वपूर्ण तारीखें",
+     "JEE Main 2027 Registration: आवेदन, पात्रता, फीस और परीक्षा की तारीखें",
+     "JEE Main 2027: मुख्य जानकारी",
+     "JEE Main परीक्षा क्या है?",
+     "JEE Main 2027 Session 1 की महत्वपूर्ण तारीखें",
      "JEE Main 2027 के लिए शैक्षणिक योग्यता",
-     "क्या JEE Main 2027 में आयु सीमा है?",
+     "JEE Main 2027 में आयु सीमा",
      "JEE Main 2027 आवेदन शुल्क",
-     "JEE Main 2027 का परीक्षा पैटर्न",
-     "JEE Main 2027 किन भाषाओं में होगा?",
-     "आवेदन से पहले कौन-से दस्तावेज तैयार रखें?",
+     "JEE Main 2027 परीक्षा पैटर्न",
+     "JEE Main 2027 परीक्षा किन भाषाओं में होगी?",
+     "आवेदन के लिए जरूरी दस्तावेज और जानकारी",
      "JEE Main 2027 के लिए ऑनलाइन आवेदन कैसे करें?",
-     "JEE Main Session 2 कब होगा?",
-     "विद्यार्थियों के लिए Exam Darpan की उपयोगी सलाह",
+     "आवेदन में गलती होने पर क्या करें?",
+     "JEE Main 2027 Session 2 कब होगा?",
+     "विद्यार्थियों के लिए जरूरी सलाह",
      "JEE Main 2027: महत्वपूर्ण लिंक",
-     "FAQs: JEE Main 2027",
-     "Related Updates"
+     "JEE Main 2027: अक्सर पूछे जाने वाले सवाल",
+     "Related Updates",
+     "Important Links",
+     "Student Corner",
+     "All Categories",
+     "Latest Updates",
+     "Quick Links",
+     "Student Corner",
+     "Information"
     ],
     "images_missing_alt": 4,
     "intents_present": [
@@ -3886,22 +3904,18 @@
      "https://examdarpan.in/contact",
      "https://examdarpan.in/category-entrance-exams",
      "https://examdarpan.in/categories",
-     "https://examdarpan.in/rajasthan-ptet-fee-refund-2026",
      "https://examdarpan.in/rajasthan-scholarship-yojana-2026-27",
      "https://examdarpan.in/rajasthan-scooty-yojana-2026-27",
-     "https://examdarpan.in/rajasthan-cet-2026-senior-secondary-syllabus-exam-date",
-     "https://examdarpan.in/rajasthan-cet-2026-graduation-syllabus-exam-date",
-     "https://examdarpan.in/sbi-asha-scholarship-2026",
      "https://examdarpan.in/rajasthan-ambedkar-dbt-voucher-yojana-2026-27",
-     "https://examdarpan.in/ugc-net-december-2026-apply-online"
+     "https://examdarpan.in/rajasthan-cet-12th-level-exam-city-admit-card-2026"
     ],
     "lang": "hi",
-    "modified": "2026-11-01",
+    "modified": "2026-11-22",
     "noindex": false,
     "phrases": [
      [
       "jee main",
-      34
+      39
      ],
      [
       "main 2027",
@@ -3909,112 +3923,112 @@
      ],
      [
       "jee main 2027",
-      29
+      30
      ],
      [
-      "ऑनलाइन आवेदन",
+      "नवंबर 2026",
+      20
+     ],
+     [
+      "लेट फीस",
+      14
+     ],
+     [
+      "2027 session",
       11
      ],
      [
-      "exam darpan",
+      "ऑनलाइन आवेदन",
+      10
+     ],
+     [
+      "22 नवंबर 2026",
       9
      ],
      [
-      "information bulletin",
+      "main 2027 session",
+      9
+     ],
+     [
+      "अंतिम तिथि",
+      9
+     ],
+     [
+      "आवेदन शुरू",
       9
      ],
      [
       "अक्टूबर 2026",
-      9
-     ],
-     [
-      "नवंबर 2026",
-      9
-     ],
-     [
-      "आधिकारिक वेबसाइट",
       8
-     ],
-     [
-      "जनवरी 2027",
-      8
-     ],
-     [
-      "लेट फीस",
-      8
-     ],
-     [
-      "अंतिम तिथि",
-      7
      ]
     ],
     "published": "2026-10-25",
-    "script_count": 10,
+    "script_count": 11,
     "status": 200,
-    "title": "JEE Main 2027: Apply Online, Dates, Eligibility & Fees",
+    "title": "JEE Main 2027 Registration: आवेदन, फीस, परीक्षा तिथि और",
     "top_terms": [
      [
       "आवेदन",
-      63
+      68
      ],
      [
       "2027",
-      45
-     ],
-     [
-      "2026",
-      42
-     ],
-     [
-      "jee",
-      38
+      49
      ],
      [
       "परीक्षा",
-      37
+      44
+     ],
+     [
+      "jee",
+      43
+     ],
+     [
+      "2026",
+      41
      ],
      [
       "main",
-      36
-     ],
-     [
-      "फीस",
-      21
-     ],
-     [
-      "आधिकारिक",
-      18
-     ],
-     [
-      "निर्धारित",
-      18
+      40
      ],
      [
       "nta",
-      16
-     ],
-     [
-      "session",
-      16
-     ],
-     [
-      "exam",
-      15
-     ],
-     [
-      "ऑनलाइन",
-      15
+      24
      ],
      [
       "नवंबर",
-      15
+      24
+     ],
+     [
+      "फीस",
+      24
+     ],
+     [
+      "निर्धारित",
+      19
+     ],
+     [
+      "session",
+      17
+     ],
+     [
+      "ऑनलाइन",
+      14
+     ],
+     [
+      "पेपर",
+      14
      ],
      [
       "प्रवेश",
       14
+     ],
+     [
+      "लेट",
+      14
      ]
     ],
-    "word_count": 2351,
+    "word_count": 2515,
     "years": [
      2025,
      2026,
@@ -4231,7 +4245,7 @@
   "https://examdarpan.in/mukhyamantri-anuprati-coaching-yojana-2026-27": {
    "failures": 0,
    "first_seen": "2026-10-20T09:09:02Z",
-   "in_sitemap": true,
+   "in_sitemap": false,
    "last_error": null,
    "last_failure_at": null,
    "last_fetched": "2026-11-19T21:48:07Z",
@@ -4599,8 +4613,8 @@
    "last_error": null,
    "last_failure_at": null,
    "last_fetched": "2026-11-20T02:39:54Z",
-   "lastmod": "2026-10-16T06:20:31.182000Z",
-   "needs_refresh": false,
+   "lastmod": "2026-11-22T17:12:35.143000Z",
+   "needs_refresh": true,
    "page": {
     "canonical": "https://examdarpan.in/rajasthan-ambedkar-dbt-voucher-yojana-2026-27",
     "content_hash": "1ae30f558cdb2c94",
@@ -4786,7 +4800,7 @@
   "https://examdarpan.in/rajasthan-bstc-fee-refund-2026": {
    "failures": 0,
    "first_seen": "2026-10-20T09:09:02Z",
-   "in_sitemap": true,
+   "in_sitemap": false,
    "last_error": null,
    "last_failure_at": null,
    "last_fetched": "2026-11-18T17:29:40Z",
@@ -4978,8 +4992,8 @@
    "last_error": null,
    "last_failure_at": null,
    "last_fetched": "2026-11-21T15:24:20Z",
-   "lastmod": "2026-11-21T12:36:24.945000Z",
-   "needs_refresh": false,
+   "lastmod": "2026-11-22T17:07:09.438000Z",
+   "needs_refresh": true,
    "page": {
     "canonical": "https://examdarpan.in/rajasthan-cet-12th-level-exam-city-admit-card-2026",
     "content_hash": "5ccd0cc35c725b9d",
@@ -5158,7 +5172,7 @@
   "https://examdarpan.in/rajasthan-cet-2026-graduation-syllabus-exam-date": {
    "failures": 0,
    "first_seen": "2026-10-20T09:09:02Z",
-   "in_sitemap": true,
+   "in_sitemap": false,
    "last_error": null,
    "last_failure_at": null,
    "last_fetched": "2026-11-20T02:39:54Z",
@@ -5351,7 +5365,7 @@
   "https://examdarpan.in/rajasthan-cet-2026-new-exam-date": {
    "failures": 0,
    "first_seen": "2026-10-20T09:09:02Z",
-   "in_sitemap": true,
+   "in_sitemap": false,
    "last_error": null,
    "last_failure_at": null,
    "last_fetched": "2026-11-20T10:28:35Z",
@@ -5537,7 +5551,7 @@
   "https://examdarpan.in/rajasthan-cet-2026-senior-secondary-syllabus-exam-date": {
    "failures": 0,
    "first_seen": "2026-10-20T09:09:02Z",
-   "in_sitemap": true,
+   "in_sitemap": false,
    "last_error": null,
    "last_failure_at": null,
    "last_fetched": "2026-11-20T10:28:35Z",
@@ -5726,8 +5740,8 @@
    "last_error": null,
    "last_failure_at": null,
    "last_fetched": "2026-11-21T15:24:20Z",
-   "lastmod": "2026-11-21T13:28:12.043000Z",
-   "needs_refresh": false,
+   "lastmod": "2026-11-22T17:21:53.956000Z",
+   "needs_refresh": true,
    "page": {
     "canonical": "https://examdarpan.in/rajasthan-government-jobs",
     "content_hash": "b87f60af1846fa84",
@@ -5845,7 +5859,7 @@
   "https://examdarpan.in/rajasthan-ldc-result-2026": {
    "failures": 0,
    "first_seen": "2026-10-20T09:09:02Z",
-   "in_sitemap": true,
+   "in_sitemap": false,
    "last_error": null,
    "last_failure_at": null,
    "last_fetched": "2026-11-14T23:24:36Z",
@@ -6033,7 +6047,7 @@
   "https://examdarpan.in/rajasthan-ldc-score-card-2026": {
    "failures": 0,
    "first_seen": "2026-10-20T09:09:02Z",
-   "in_sitemap": true,
+   "in_sitemap": false,
    "last_error": null,
    "last_failure_at": null,
    "last_fetched": "2026-11-20T10:28:35Z",
@@ -6218,7 +6232,7 @@
   "https://examdarpan.in/rajasthan-police-si-answer-key-2026": {
    "failures": 0,
    "first_seen": "2026-10-20T09:09:02Z",
-   "in_sitemap": true,
+   "in_sitemap": false,
    "last_error": null,
    "last_failure_at": null,
    "last_fetched": "2026-11-16T07:57:01Z",
@@ -6406,7 +6420,7 @@
   "https://examdarpan.in/rajasthan-ptet-2026-direct-admission": {
    "failures": 0,
    "first_seen": "2026-10-20T09:09:02Z",
-   "in_sitemap": true,
+   "in_sitemap": false,
    "last_error": null,
    "last_failure_at": null,
    "last_fetched": "2026-11-17T01:07:29Z",
@@ -6594,7 +6608,7 @@
   "https://examdarpan.in/rajasthan-ptet-fee-refund-2026": {
    "failures": 0,
    "first_seen": "2026-10-20T09:09:02Z",
-   "in_sitemap": true,
+   "in_sitemap": false,
    "last_error": null,
    "last_failure_at": null,
    "last_fetched": "2026-11-20T18:43:21Z",
@@ -6789,8 +6803,8 @@
    "last_error": null,
    "last_failure_at": null,
    "last_fetched": "2026-11-21T15:24:20Z",
-   "lastmod": "2026-11-21T13:28:12.043000Z",
-   "needs_refresh": false,
+   "lastmod": "2026-11-22T17:21:53.956000Z",
+   "needs_refresh": true,
    "page": {
     "canonical": "https://examdarpan.in/rajasthan-pti-recruitment-2026",
     "content_hash": "ee8a5d39cf50cb29",
@@ -6980,7 +6994,7 @@
   "https://examdarpan.in/rajasthan-rvunl-recruitment-2026-junior-engineer-junior-accountant-junior-assistant": {
    "failures": 0,
    "first_seen": "2026-10-20T09:09:02Z",
-   "in_sitemap": true,
+   "in_sitemap": false,
    "last_error": null,
    "last_failure_at": null,
    "last_fetched": "2026-11-17T01:07:29Z",
@@ -7171,7 +7185,7 @@
   "https://examdarpan.in/rajasthan-safai-karmchari-recruitment-2026": {
    "failures": 0,
    "first_seen": "2026-10-20T09:09:02Z",
-   "in_sitemap": true,
+   "in_sitemap": false,
    "last_error": null,
    "last_failure_at": null,
    "last_fetched": "2026-11-15T02:53:32Z",
@@ -7376,8 +7390,8 @@
    "last_error": null,
    "last_failure_at": null,
    "last_fetched": "2026-11-20T18:43:21Z",
-   "lastmod": "2026-10-06T12:09:19.654000Z",
-   "needs_refresh": false,
+   "lastmod": "2026-11-22T17:38:53.380000Z",
+   "needs_refresh": true,
    "page": {
     "canonical": "https://examdarpan.in/rajasthan-scholarship-yojana-2026-27",
     "content_hash": "cf49fcf02e3eb0c1",
@@ -7564,8 +7578,8 @@
    "last_error": null,
    "last_failure_at": null,
    "last_fetched": "2026-11-20T18:43:21Z",
-   "lastmod": "2026-10-12T12:37:19.004000Z",
-   "needs_refresh": false,
+   "lastmod": "2026-11-22T17:25:57.990000Z",
+   "needs_refresh": true,
    "page": {
     "canonical": "https://examdarpan.in/rajasthan-scooty-yojana-2026-27",
     "content_hash": "f3a4a71a012492aa",
@@ -7747,7 +7761,7 @@
   "https://examdarpan.in/rajasthan-set-admit-card-2026": {
    "failures": 0,
    "first_seen": "2026-10-20T09:09:02Z",
-   "in_sitemap": true,
+   "in_sitemap": false,
    "last_error": null,
    "last_failure_at": null,
    "last_fetched": "2026-11-21T00:15:52Z",
@@ -7929,7 +7943,7 @@
   "https://examdarpan.in/rajasthan-tax-assistant-recruitment": {
    "failures": 0,
    "first_seen": "2026-11-09T08:43:24Z",
-   "in_sitemap": true,
+   "in_sitemap": false,
    "last_error": null,
    "last_failure_at": null,
    "last_fetched": "2026-11-16T17:51:55Z",
@@ -8123,7 +8137,7 @@
   "https://examdarpan.in/rajasthan-veterinary-admission-2026-1240-seats": {
    "failures": 0,
    "first_seen": "2026-10-20T09:09:02Z",
-   "in_sitemap": true,
+   "in_sitemap": false,
    "last_error": null,
    "last_failure_at": null,
    "last_fetched": "2026-11-17T01:07:29Z",
@@ -8310,7 +8324,7 @@
   "https://examdarpan.in/rpsc-si-admit-card-2026-download": {
    "failures": 0,
    "first_seen": "2026-10-20T09:09:02Z",
-   "in_sitemap": true,
+   "in_sitemap": false,
    "last_error": null,
    "last_failure_at": null,
    "last_fetched": "2026-11-21T00:15:52Z",
@@ -8494,7 +8508,7 @@
   "https://examdarpan.in/rrb-je-recruitment-2026-cbt-1-exam-date": {
    "failures": 0,
    "first_seen": "2026-10-20T09:09:02Z",
-   "in_sitemap": true,
+   "in_sitemap": false,
    "last_error": null,
    "last_failure_at": null,
    "last_fetched": "2026-11-17T09:08:13Z",
@@ -8686,7 +8700,7 @@
   "https://examdarpan.in/rrb-ntpc-graduate-recruitment-2026": {
    "failures": 0,
    "first_seen": "2026-10-20T09:09:02Z",
-   "in_sitemap": true,
+   "in_sitemap": false,
    "last_error": null,
    "last_failure_at": null,
    "last_fetched": "2026-11-21T00:15:52Z",
@@ -8894,7 +8908,7 @@
   "https://examdarpan.in/rrb-ntpc-recruitment-2026-5165-vacancy": {
    "failures": 0,
    "first_seen": "2026-10-20T09:09:02Z",
-   "in_sitemap": true,
+   "in_sitemap": false,
    "last_error": null,
    "last_failure_at": null,
    "last_fetched": "2026-11-17T09:08:13Z",
@@ -9096,7 +9110,7 @@
   "https://examdarpan.in/rrb-ntpc-ug-recruitment-2026": {
    "failures": 0,
    "first_seen": "2026-10-20T09:09:02Z",
-   "in_sitemap": true,
+   "in_sitemap": false,
    "last_error": null,
    "last_failure_at": null,
    "last_fetched": "2026-11-21T07:15:42Z",
@@ -9294,7 +9308,7 @@
   "https://examdarpan.in/rrb-paramedical-recruitment-2026": {
    "failures": 0,
    "first_seen": "2026-10-20T09:09:02Z",
-   "in_sitemap": true,
+   "in_sitemap": false,
    "last_error": null,
    "last_failure_at": null,
    "last_fetched": "2026-11-17T09:08:13Z",
@@ -9492,7 +9506,7 @@
   "https://examdarpan.in/rrb-station-master-recruitment-2026": {
    "failures": 0,
    "first_seen": "2026-10-21T18:54:43Z",
-   "in_sitemap": true,
+   "in_sitemap": false,
    "last_error": null,
    "last_failure_at": null,
    "last_fetched": "2026-11-15T16:51:35Z",
@@ -9695,7 +9709,7 @@
   "https://examdarpan.in/rrc-nwr-apprentice-recruitment-2026": {
    "failures": 0,
    "first_seen": "2026-11-01T17:24:46Z",
-   "in_sitemap": true,
+   "in_sitemap": false,
    "last_error": null,
    "last_failure_at": null,
    "last_fetched": "2026-11-15T21:22:47Z",
@@ -9896,7 +9910,7 @@
   "https://examdarpan.in/rscit-result-2026-declared-check-your-result-online": {
    "failures": 0,
    "first_seen": "2026-10-20T09:09:02Z",
-   "in_sitemap": true,
+   "in_sitemap": false,
    "last_error": null,
    "last_failure_at": null,
    "last_fetched": "2026-11-21T07:15:42Z",
@@ -10079,7 +10093,7 @@
   "https://examdarpan.in/rssb-exam-calendar-2026-27-exam-date": {
    "failures": 0,
    "first_seen": "2026-10-20T09:09:02Z",
-   "in_sitemap": true,
+   "in_sitemap": false,
    "last_error": null,
    "last_failure_at": null,
    "last_fetched": "2026-11-21T20:57:48Z",
@@ -10270,7 +10284,7 @@
   "https://examdarpan.in/rssb-mahila-paryavekshak-answer-key-2026": {
    "failures": 0,
    "first_seen": "2026-10-20T09:09:02Z",
-   "in_sitemap": true,
+   "in_sitemap": false,
    "last_error": null,
    "last_failure_at": null,
    "last_fetched": "2026-11-21T20:57:48Z",
@@ -10456,7 +10470,7 @@
   "https://examdarpan.in/ruhs-medical-officer-recruitment-2026-600-posts": {
    "failures": 0,
    "first_seen": "2026-10-20T09:09:02Z",
-   "in_sitemap": true,
+   "in_sitemap": false,
    "last_error": null,
    "last_failure_at": null,
    "last_fetched": "2026-11-22T00:56:50Z",
@@ -10655,7 +10669,7 @@
   "https://examdarpan.in/sbi-asha-scholarship-2026": {
    "failures": 0,
    "first_seen": "2026-10-20T09:09:02Z",
-   "in_sitemap": true,
+   "in_sitemap": false,
    "last_error": null,
    "last_failure_at": null,
    "last_fetched": "2026-11-22T00:56:50Z",
@@ -10854,7 +10868,7 @@
   "https://examdarpan.in/sbi-so-wealth-management-recruitment-2026": {
    "failures": 0,
    "first_seen": "2026-10-20T09:09:02Z",
-   "in_sitemap": true,
+   "in_sitemap": false,
    "last_error": null,
    "last_failure_at": null,
    "last_fetched": "2026-11-22T00:56:50Z",
@@ -11050,7 +11064,7 @@
   "https://examdarpan.in/ssc-cgl-admit-card-2026": {
    "failures": 0,
    "first_seen": "2026-10-20T09:09:02Z",
-   "in_sitemap": true,
+   "in_sitemap": false,
    "last_error": null,
    "last_failure_at": null,
    "last_fetched": "2026-11-22T07:43:10Z",
@@ -11235,7 +11249,7 @@
   "https://examdarpan.in/ssc-chsl-recruitment-2026": {
    "failures": 0,
    "first_seen": "2026-10-20T09:09:02Z",
-   "in_sitemap": true,
+   "in_sitemap": false,
    "last_error": null,
    "last_failure_at": null,
    "last_fetched": "2026-11-22T07:43:10Z",
@@ -11435,7 +11449,7 @@
   "https://examdarpan.in/ssc-cpo-recruitment-2026": {
    "failures": 0,
    "first_seen": "2026-10-20T09:09:02Z",
-   "in_sitemap": true,
+   "in_sitemap": false,
    "last_error": null,
    "last_failure_at": null,
    "last_fetched": "2026-11-22T07:43:10Z",
@@ -11636,7 +11650,7 @@
   "https://examdarpan.in/ssc-je-recruitment-2026": {
    "failures": 0,
    "first_seen": "2026-10-20T09:09:02Z",
-   "in_sitemap": true,
+   "in_sitemap": false,
    "last_error": null,
    "last_failure_at": null,
    "last_fetched": "2026-11-22T15:41:32Z",
@@ -12017,7 +12031,7 @@
   "https://examdarpan.in/ugc-net-december-2026-apply-online": {
    "failures": 0,
    "first_seen": "2026-10-20T09:09:02Z",
-   "in_sitemap": true,
+   "in_sitemap": false,
    "last_error": null,
    "last_failure_at": null,
    "last_fetched": "2026-11-14T19:44:14Z",
@@ -12213,7 +12227,7 @@
   "https://examdarpan.in/up-assistant-teacher-recruitment-2026": {
    "failures": 0,
    "first_seen": "2026-10-20T09:09:02Z",
-   "in_sitemap": true,
+   "in_sitemap": false,
    "last_error": null,
    "last_failure_at": null,
    "last_fetched": "2026-11-17T18:29:45Z",
@@ -12412,7 +12426,7 @@
   "https://examdarpan.in/upi-payment-new-rule-2026-2000-above-mdr-charge": {
    "failures": 0,
    "first_seen": "2026-10-20T09:09:02Z",
-   "in_sitemap": true,
+   "in_sitemap": false,
    "last_error": null,
    "last_failure_at": null,
    "last_fetched": "2026-11-14T23:24:36Z",
@@ -12602,7 +12616,7 @@
   "https://examdarpan.in/upsc-recruitment-2026-212-posts": {
    "failures": 0,
    "first_seen": "2026-10-20T09:09:02Z",
-   "in_sitemap": true,
+   "in_sitemap": false,
    "last_error": null,
    "last_failure_at": null,
    "last_fetched": "2026-11-17T18:29:45Z",
@@ -12795,6 +12809,6 @@
  },
  "meta": {
   "schema": 1,
-  "sitemap_slot": 83118
+  "sitemap_slot": 83119
  }
 }

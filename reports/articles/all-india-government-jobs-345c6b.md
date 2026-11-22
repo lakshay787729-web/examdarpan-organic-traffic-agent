@@ -2,7 +2,7 @@
 
 URL: https://examdarpan.in/all-india-government-jobs
 
-**SEO health score: 69/100** (this is this agent's own checklist score, not a Google score)
+**SEO health score: 62/100** (this is this agent's own checklist score, not a Google score)
 Words: 39 | Last read: 2026-11-16T01:10:36Z | Published: unknown | Updated: unknown
 
 ## Things to fix
@@ -11,6 +11,8 @@ Words: 39 | Last read: 2026-11-16T01:10:36Z | Published: unknown | Updated: unkn
   Fix: Check the page with URL Inspection in Search Console. Prefer server-rendered or pre-rendered article text.
 - **MEDIUM**: Only 1 links to other Exam Darpan pages.  
   Fix: Link to related articles where it helps readers (see suggestions below).
+- **MEDIUM**: No other article links to this page.  
+  Fix: Add a link to it from a related article or a category/hub page.
 - **LOW**: Meta description is long (166 characters).  
   Fix: Shorten to about 160 characters.
 - **LOW**: No publish or update date found.  
@@ -67,6 +69,4 @@ Possible search phrases for those sections (estimates):
 
 ## Internal links you could add
 
-- Link to [UP Assistant Teacher Recruitment 2026: 12,405 पदों पर भर्ती](https://examdarpan.in/up-assistant-teacher-recruitment-2026) (shares: 2026, recruitment, चयन, पदों, परीक्षा)
-- Link to [Bank of India SO Recruitment 2026: 205 Posts](https://examdarpan.in/bank-of-india-so-recruitment-2026-205-posts) (shares: 2026, recruitment, पदों, परीक्षा, भर्ती)
 - Link to [Rajasthan Government Jobs 2026 | Rajasthan Vacancy, RPSC, RSSB & Police Jobs | Exam Darpan](https://examdarpan.in/rajasthan-government-jobs) (shares: 2026, recruitment, चयन, पदों, भर्ती)

@@ -47,5 +47,4 @@ Possible search phrases for those sections (estimates):
 
 ## Internal links you could add
 
-- Link to [मुख्यमंत्री अनुप्रति कोचिंग योजना 2026-27: Last Date](https://examdarpan.in/mukhyamantri-anuprati-coaching-yojana-2026-27) (shares: 2026, rajasthan, आवेदन, योजना, विभाग)
 - Link to [Scholarships | Exam Darpan](https://examdarpan.in/category-scholarships) (shares: 2026, rajasthan, yojana, आवेदन)

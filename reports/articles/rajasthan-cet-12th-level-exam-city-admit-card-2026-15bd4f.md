@@ -44,9 +44,3 @@ Possible search phrases for those sections (estimates):
 - Rajasthan CET 12th Level Exam City syllabus
 - Rajasthan CET 12th Level Exam City salary
 - Rajasthan CET 12th Level Exam City age limit
-
-## Internal links you could add
-
-- Link to [Rajasthan CET Exam Date 2026: नई परीक्षा तिथि जारी, 12वीं और](https://examdarpan.in/rajasthan-cet-2026-new-exam-date) (shares: 2026, exam, rajasthan, कार्ड, जारी)
-- Link to [RSSB Exam Calendar 2026-27 जारी](https://examdarpan.in/rssb-exam-calendar-2026-27-exam-date) (shares: 2026, exam, rajasthan, जारी, दिसंबर)
-- Link to [Rajasthan CET 2026: Senior Secondary Syllabus, Exam](https://examdarpan.in/rajasthan-cet-2026-senior-secondary-syllabus-exam-date) (shares: 2026, exam, rajasthan, update, परीक्षा)
