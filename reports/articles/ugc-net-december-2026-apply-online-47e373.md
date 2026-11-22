@@ -45,6 +45,6 @@ Possible search phrases for those sections (estimates):
 
 ## Internal links you could add
 
-- Link to [SSC CHSL 2026 Exam Date, Admit Card Update, 2536 Vacancy](https://examdarpan.in/ssc-chsl-recruitment-2026) (shares: 2026, अक्टूबर, आवेदन, जानकारी, परीक्षा)
 - Link to [मुख्यमंत्री अनुप्रति कोचिंग योजना 2026-27: Last Date](https://examdarpan.in/mukhyamantri-anuprati-coaching-yojana-2026-27) (shares: 2026, अक्टूबर, आवेदन, परीक्षा)
 - Link to [Rajasthan PTI Recruitment 2026: 1200 पद, योग्यता, आयु सीमा व](https://examdarpan.in/rajasthan-pti-recruitment-2026) (shares: 2026, आवेदन, जानकारी, परीक्षा)
+- Link to [SSC CHSL 2026 Exam Date, Admit Card Update, 2536 Vacancy](https://examdarpan.in/ssc-chsl-recruitment-2026) (shares: 2026, अक्टूबर, आवेदन, परीक्षा)

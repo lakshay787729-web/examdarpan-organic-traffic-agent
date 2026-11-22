@@ -3,7 +3,7 @@
 URL: https://examdarpan.in/ssc-cgl-admit-card-2026
 
 **SEO health score: 97/100** (this is this agent's own checklist score, not a Google score)
-Words: 1829 | Last read: 2026-11-14T08:03:23Z | Published: 2026-09-28 | Updated: 2026-10-12
+Words: 1837 | Last read: 2026-11-22T07:43:10Z | Published: 2026-09-28 | Updated: 2026-10-12
 
 ## Things to fix
 
@@ -26,9 +26,9 @@ _These are ideas taken from the article text. They are NOT search-volume numbers
 - SSC CGL Admit Card में कौन-कौन सी Details Check करें? (sub-heading (H2))
 - SSC CGL Tier 1 Exam Pattern 2026 (sub-heading (H2))
 - SSC CGL Exam Centre पर क्या लेकर जाएं? (sub-heading (H2))
-- admit card (repeated in text, appears 59 times)
+- admit card (repeated in text, appears 60 times)
 - ssc cgl (repeated in text, appears 29 times)
-- सितंबर 2026 (repeated in text, appears 15 times)
+- सितंबर 2026 (repeated in text, appears 14 times)
 - card 2026 (repeated in text, appears 13 times)
 
 ### Topics the article does not mention yet
@@ -36,13 +36,17 @@ _Add a section only if it is relevant AND you can confirm the facts from the off
 
 - last date
 - how to apply
+- salary
+- age limit
 
 Possible search phrases for those sections (estimates):
 - SSC CGL Admit Card 2026 Out: last date
 - SSC CGL Admit Card 2026 Out: how to apply
+- SSC CGL Admit Card 2026 Out: salary
+- SSC CGL Admit Card 2026 Out: age limit
 
 ## Internal links you could add
 
 - Link to [SSC Jobs | Exam Darpan](https://examdarpan.in/category-ssc-jobs) (shares: 2026, admit, card, date, exam)
-- Link to [Rajasthan CET 12th Level Exam City 2026: एडमिट कार्ड व](https://examdarpan.in/rajasthan-cet-12th-level-exam-city-admit-card-2026) (shares: 2026, admit, card, exam, जारी)
+- Link to [SSC JE Recruitment 2026: 1,699 Vacancy, Exam Date, Salary](https://examdarpan.in/ssc-je-recruitment-2026) (shares: 2026, exam, official, ssc, परीक्षा)
 - Link to [Latest Updates | Exam Darpan](https://examdarpan.in/category-latest-updates) (shares: 2026, exam, जारी, परीक्षा)
