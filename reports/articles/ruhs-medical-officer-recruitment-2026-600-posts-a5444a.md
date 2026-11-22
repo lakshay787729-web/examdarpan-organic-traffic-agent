@@ -3,7 +3,7 @@
 URL: https://examdarpan.in/ruhs-medical-officer-recruitment-2026-600-posts
 
 **SEO health score: 90/100** (this is this agent's own checklist score, not a Google score)
-Words: 2173 | Last read: 2026-11-14T01:44:09Z | Published: 2026-09-15 | Updated: 2026-10-19
+Words: 2173 | Last read: 2026-11-22T00:56:50Z | Published: 2026-09-15 | Updated: 2026-10-19
 
 ## Things to fix
 
