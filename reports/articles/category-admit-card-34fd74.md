@@ -3,11 +3,11 @@
 URL: https://examdarpan.in/category-admit-card
 
 **SEO health score: 69/100** (this is this agent's own checklist score, not a Google score)
-Words: 53 | Last read: 2026-11-21T20:57:48Z | Published: unknown | Updated: unknown
+Words: 54 | Last read: 2026-11-23T21:44:09Z | Published: unknown | Updated: unknown
 
 ## Things to fix
 
-- **HIGH**: Only 53 words were visible in the raw HTML but the page loads 7 scripts. The content may be added by JavaScript, which this agent cannot see.  
+- **HIGH**: Only 54 words were visible in the raw HTML but the page loads 8 scripts. The content may be added by JavaScript, which this agent cannot see.  
   Fix: Check the page with URL Inspection in Search Console. Prefer server-rendered or pre-rendered article text.
 - **MEDIUM**: Only 1 links to other Exam Darpan pages.  
   Fix: Link to related articles where it helps readers (see suggestions below).
@@ -27,8 +27,11 @@ Words: 53 | Last read: 2026-11-21T20:57:48Z | Published: unknown | Updated: unkn
 _These are ideas taken from the article text. They are NOT search-volume numbers. Check real queries in Search Console._
 
 - Admit Card (title)
-- इस सेक्शन में क्या मिलेगा? (sub-heading (H2))
 - Latest Admit Card (sub-heading (H2))
+- All Categories (sub-heading (H2))
+- Student Corner (sub-heading (H2))
+- Quick Links (sub-heading (H2))
+- Information (sub-heading (H2))
 - 21 नवंबर 2026 (repeated in text, appears 2 times)
 - exam city (repeated in text, appears 2 times)
 

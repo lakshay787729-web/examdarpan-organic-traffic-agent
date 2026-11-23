@@ -58,7 +58,3 @@ Possible search phrases for those sections (estimates):
 - Rajasthan Government Jobs 2026 salary
 - Rajasthan Government Jobs 2026 age limit
 - Rajasthan Government Jobs 2026 cut off
-
-## Internal links you could add
-
-- Link to [All India Government Jobs 2026 – Latest Central Govt Jobs | Exam Darpan](https://examdarpan.in/all-india-government-jobs) (shares: 2026, recruitment, चयन, भर्ती)

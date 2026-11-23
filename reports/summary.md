@@ -7,7 +7,7 @@ and it does not create fake visits or clicks.
 
 - Articles found in sitemap: 21
 - Articles read so far: 21 (100%)
-- Issues: 9 high, 32 medium, 37 low
+- Issues: 8 high, 34 medium, 37 low
 
 ## Search Console status
 
@@ -25,42 +25,42 @@ and it does not create fake visits or clicks.
    - HIGH: Only 36 words were visible in the raw HTML but the page loads 4 scripts. The content may be added by JavaScript, which this agent cannot see.
    - MEDIUM: No meta description.
    - MEDIUM: Only 0 links to other Exam Darpan pages.
-2. All India Government Jobs 2026 – Latest Central Govt Jobs | Exam Darpan  
-   https://examdarpan.in/all-india-government-jobs  
-   Priority 38 | score 62/100
-   - HIGH: Only 39 words were visible in the raw HTML but the page loads 4 scripts. The content may be added by JavaScript, which this agent cannot see.
-   - MEDIUM: Only 1 links to other Exam Darpan pages.
-   - MEDIUM: No other article links to this page.
-3. Entrance Exams | Exam Darpan  
+2. Entrance Exams | Exam Darpan  
    https://examdarpan.in/category-entrance-exams  
    Priority 38 | score 62/100
    - HIGH: Only 51 words were visible in the raw HTML but the page loads 8 scripts. The content may be added by JavaScript, which this agent cannot see.
    - MEDIUM: Mentions deadline date(s) already passed: 2026-10-25, 2026-11-22.
    - MEDIUM: Only 1 links to other Exam Darpan pages.
-4. Scholarships | Exam Darpan  
+3. Scholarships | Exam Darpan  
    https://examdarpan.in/category-scholarships  
    Priority 35 | score 65/100
    - HIGH: Only 52 words were visible in the raw HTML but the page loads 8 scripts. The content may be added by JavaScript, which this agent cannot see.
    - MEDIUM: Only 1 links to other Exam Darpan pages.
    - MEDIUM: Title is very similar to https://examdarpan.in/about. They may compete for the same searches (a guess based on titles only).
-5. राजस्थान CET (सीनियर सैकण्डरी स्तर) 2026 - 120 प्रश्न ऑनलाइन मॉक टेस्ट | Exam Darpan  
+4. राजस्थान CET (सीनियर सैकण्डरी स्तर) 2026 - 120 प्रश्न ऑनलाइन मॉक टेस्ट | Exam Darpan  
    https://examdarpan.in/mock-tests/cet-mock-test  
    Priority 35 | score 65/100
    - HIGH: Only 34 words were visible in the raw HTML but the page loads 3 scripts. The content may be added by JavaScript, which this agent cannot see.
    - MEDIUM: Only 0 links to other Exam Darpan pages.
    - MEDIUM: No other article links to this page.
-6. Admit Card | Exam Darpan  
+5. Admit Card | Exam Darpan  
    https://examdarpan.in/category-admit-card  
    Priority 31 | score 69/100
-   - HIGH: Only 53 words were visible in the raw HTML but the page loads 7 scripts. The content may be added by JavaScript, which this agent cannot see.
+   - HIGH: Only 54 words were visible in the raw HTML but the page loads 8 scripts. The content may be added by JavaScript, which this agent cannot see.
    - MEDIUM: Only 1 links to other Exam Darpan pages.
    - LOW: Meta description is short (62 characters).
-7. Rajasthan Government Jobs 2026 | Rajasthan Vacancy, RPSC, RSSB & Police Jobs | Exam Darpan  
+6. Rajasthan Government Jobs 2026 | Rajasthan Vacancy, RPSC, RSSB & Police Jobs | Exam Darpan  
    https://examdarpan.in/rajasthan-government-jobs  
    Priority 31 | score 69/100
    - HIGH: Only 43 words were visible in the raw HTML but the page loads 8 scripts. The content may be added by JavaScript, which this agent cannot see.
    - MEDIUM: Only 1 links to other Exam Darpan pages.
    - LOW: Meta description is long (192 characters).
+7. All India Government Jobs 2026 – Latest Central Govt Jobs | Exam Darpan  
+   https://examdarpan.in/all-india-government-jobs  
+   Priority 30 | score 70/100
+   - MEDIUM: Only 0 links to other Exam Darpan pages.
+   - MEDIUM: No other article links to this page.
+   - MEDIUM: Only 95 words of article text.
 8. सरकारी योजनाएं | Exam Darpan  
    https://examdarpan.in/category-yojana  
    Priority 28 | score 72/100

@@ -171,17 +171,17 @@
    "in_sitemap": true,
    "last_error": null,
    "last_failure_at": null,
-   "last_fetched": "2026-11-16T01:10:36Z",
+   "last_fetched": "2026-11-23T21:44:09Z",
    "lastmod": "2026-10-25T11:37:29.212000Z",
    "needs_refresh": false,
    "page": {
     "canonical": "https://examdarpan.in/all-india-government-jobs",
-    "content_hash": "f2d18dd14c98e303",
+    "content_hash": "a3a857601e7cc974",
     "deadline_dates": [],
     "description": "All India Government Jobs 2026 की latest सरकारी भर्ती updates। SSC, Railway, Banking, Defence, India Post, PSU, Teaching और अन्य Central Government Jobs एक जगह देखें।",
     "exam_related": true,
-    "excerpt": "CRPF Sports Quota Recruitment 2026: 521 पदों पर भर्ती, बिना लिखित परीक्षा चयन CRPF Sports Quota Recruitment 2026: 521 पदों पर भर्ती, बिना लिखित परीक्षा चयन, 10वीं और 12वीं पास खिलाड़ी करें आवेदन CRPF Sports Quota Recruitment 2026: खे",
-    "external_link_count": 0,
+    "excerpt": "Latest All India Government Jobs नई सरकारी भर्तियां publish होते ही यह list automatically update होगी। Rajasthan-specific jobs को अलग Rajasthan Jobs Hub में रखा गया है। Loading jobs... All Jobs SSC Railway Banking Defence India Post Teaching PSU Other Latest government jobs load हो रही हैं... Important Official Recruitment Sources आवेदन करने से पहले संबंधित भर्ती की official notification और official recruitment website पर details जरूर verify करें। SSC UPSC Indian Railways India Post IBPS Indian Army Latest All India Government Job Updates Latest published updates with direct internal links for easy navigation.",
+    "external_link_count": 6,
     "final_url": "https://examdarpan.in/all-india-government-jobs",
     "h1s": [
      "All India Government Jobs 2026"
@@ -189,124 +189,109 @@
     "h2s": [
      "Latest All India Government Jobs",
      "Important Official Recruitment Sources",
-     "Latest All India Government Job Updates"
+     "Latest All India Government Job Updates",
+     "Quick Links",
+     "Student Corner",
+     "Information"
     ],
     "images_missing_alt": 0,
-    "intents_present": [],
-    "internal_links": [
-     "https://examdarpan.in/crpf-sports-quota-recruitment-2026"
+    "intents_present": [
+     "notification"
     ],
+    "internal_links": [],
     "lang": "hi",
     "modified": null,
     "noindex": false,
     "phrases": [
      [
-      "crpf sports quota",
-      3
-     ],
-     [
-      "quota recruitment 2026",
-      3
-     ],
-     [
-      "sports quota recruitment",
-      3
-     ],
-     [
-      "2026 521 पदों",
+      "latest all india",
       2
      ],
      [
-      "recruitment 2026 521",
+      "government jobs",
       2
      ],
      [
-      "पदों पर भर्ती",
+      "india government",
       2
      ],
      [
-      "बिना लिखित परीक्षा",
+      "india post",
       2
      ],
      [
-      "भर्ती बिना लिखित",
-      2
-     ],
-     [
-      "लिखित परीक्षा चयन",
+      "official recruitment",
       2
      ]
     ],
     "published": null,
-    "script_count": 4,
+    "script_count": 6,
     "status": 200,
     "title": "All India Government Jobs 2026 – Latest Central Govt Jobs | Exam Darpan",
     "top_terms": [
      [
-      "2026",
+      "jobs",
+      6
+     ],
+     [
+      "india",
+      4
+     ],
+     [
+      "latest",
+      4
+     ],
+     [
+      "government",
       3
      ],
      [
-      "crpf",
+      "official",
       3
      ],
      [
-      "quota",
-      3
+      "indian",
+      2
+     ],
+     [
+      "post",
+      2
+     ],
+     [
+      "rajasthan",
+      2
      ],
      [
       "recruitment",
-      3
-     ],
-     [
-      "sports",
-      3
-     ],
-     [
-      "चयन",
       2
      ],
      [
-      "पदों",
+      "ssc",
       2
      ],
      [
-      "परीक्षा",
+      "updates",
       2
      ],
      [
-      "बिना",
-      2
-     ],
-     [
-      "भर्ती",
-      2
-     ],
-     [
-      "लिखित",
-      2
-     ],
-     [
-      "10वीं",
+      "army",
       1
      ],
      [
-      "12वीं",
+      "automatically",
       1
      ],
      [
-      "आवेदन",
+      "banking",
       1
      ],
      [
-      "खिलाड़ी",
+      "defence",
       1
      ]
     ],
-    "word_count": 39,
-    "years": [
-     2026
-    ]
+    "word_count": 95,
+    "years": []
    }
   },
   "https://examdarpan.in/assam-rifles-group-c-recruitment-2026": {
@@ -1036,24 +1021,28 @@
    "in_sitemap": true,
    "last_error": null,
    "last_failure_at": null,
-   "last_fetched": "2026-11-21T20:57:48Z",
+   "last_fetched": "2026-11-23T21:44:09Z",
    "lastmod": "2026-11-22T17:07:09.438000Z",
-   "needs_refresh": true,
+   "needs_refresh": false,
    "page": {
     "canonical": "https://examdarpan.in/category-admit-card",
-    "content_hash": "66268ea2df42e12e",
+    "content_hash": "87640503da00bc24",
     "deadline_dates": [],
     "description": "नई परीक्षाओं के Admit Card और परीक्षा प्रवेश से जुड़ी अपडेट्स।",
     "exam_related": true,
-    "excerpt": "Rajasthan CET 12th Level Exam City 2026: जिला आवंटन जारी, एडमिट कार्ड डेट और पुराने पेपर देखें 21 नवंबर 2026 • Admit Card राजस्थान कर्मचारी चयन बोर्ड (RSSB) द्वारा समान पात्रता परीक्षा (सीनियर सेकेंडरी स्तर)-2026 के लिए परीक्षा जिला (Exam City) की सूचना 21 नवंबर 2026 से जारी क पूरा article पढ़ें →",
+    "excerpt": "Rajasthan CET 12th Level Exam City 2026: जिला आवंटन जारी, एडमिट कार्ड डेट और पुराने पेपर देखें राजस्थान कर्मचारी चयन बोर्ड (RSSB) द्वारा समान पात्रता परीक्षा (सीनियर सेकेंडरी स्तर)-2026 के लिए परीक्षा जिला (Exam City) की सूचना 21 नवंबर 2026 से जारी क Admit Card Published: 21 नवंबर 2026 पूरी जानकारी पढ़ें →",
     "external_link_count": 0,
     "final_url": "https://examdarpan.in/category-admit-card",
     "h1s": [
      "Admit Card"
     ],
     "h2s": [
-     "इस सेक्शन में क्या मिलेगा?",
-     "Latest Admit Card"
+     "Latest Admit Card",
+     "All Categories",
+     "Student Corner",
+     "Quick Links",
+     "Student Corner",
+     "Information"
     ],
     "images_missing_alt": 0,
     "intents_present": [
@@ -1077,7 +1066,7 @@
      ]
     ],
     "published": null,
-    "script_count": 7,
+    "script_count": 8,
     "status": 200,
     "title": "Admit Card | Exam Darpan",
     "top_terms": [
@@ -1118,10 +1107,6 @@
       1
      ],
      [
-      "article",
-      1
-     ],
-     [
       "card",
       1
      ],
@@ -1134,6 +1119,10 @@
       1
      ],
      [
+      "published",
+      1
+     ],
+     [
       "rajasthan",
       1
      ],
@@ -1142,7 +1131,7 @@
       1
      ]
     ],
-    "word_count": 53,
+    "word_count": 54,
     "years": [
      2026
     ]
@@ -6820,45 +6809,55 @@
    "in_sitemap": true,
    "last_error": null,
    "last_failure_at": null,
-   "last_fetched": "2026-11-21T15:24:20Z",
+   "last_fetched": "2026-11-23T21:44:09Z",
    "lastmod": "2026-11-22T17:21:53.956000Z",
-   "needs_refresh": true,
+   "needs_refresh": false,
    "page": {
     "canonical": "https://examdarpan.in/rajasthan-pti-recruitment-2026",
-    "content_hash": "ee8a5d39cf50cb29",
-    "deadline_dates": [],
-    "description": "राजस्थान PTI भर्ती 2026-27 में लगभग 1200 पद प्रस्तावित हैं। RSSB नोटिफिकेशन, शारीरिक शिक्षा योग्यता, आयु सीमा, चयन प्रक्रिया, संभावित परीक्षा और आवेदन की ताजा",
+    "content_hash": "5dba54719033df7c",
+    "deadline_dates": [
+     "2026-10-25",
+     "2026-11-22"
+    ],
+    "description": "राजस्थान PTI भर्ती 2026-27 में लगभग 1200 पद प्रस्तावित हैं। नोटिफिकेशन, संभावित परीक्षा तिथि, योग्यता, आयु सीमा, चयन प्रक्रिया और आवेदन की ताजा जानकारी पढ़ें।",
     "exam_related": true,
-    "excerpt": "Rajasthan Jobs UPDATE Rajasthan PTI Recruitment 2026: 1200 पदों पर भर्ती, योग्यता और नया अपडेट By Deepak Joshi प्रकाशित: 08 नवंबर 2026 • अपडेट: 21 नवंबर 2026 • 11 मिनट पढ़ने में ✓ स्रोत जाँच: 21 नवंबर 2026 · समीक्षा: Deepak Joshi राजस्थान में शारीरिक शिक्षा शिक्षक बनने की तैयारी कर रहे युवाओं के लिए PTI भर्ती को लेकर एक महत्वपूर्ण अपडेट सामने आया है। राजस्थान कर्मचारी चयन बोर्ड (RSSB) की ओर से Physical Training Instructor (PTI) Grade III के लगभग 1,200 पदों पर नई भर्ती की तैयारी की जानकारी सामने आई है। इस भर्ती का इंतजार कर रहे अभ्यर्थियों के लिए सबसे जरूरी बात यह है कि अभी विस्तृत आधिकारिक विज्ञापन जारी होने की पुष्टि नहीं हुई है। भर्ती की प्रक्रिया कुछ नियमों और प्रस्ताव से जुड़े बिंदुओं पर स्पष्टीकरण के कारण लंबित बताई गई है। स्पष्टीकरण मिलने के बाद बोर्ड विज्ञापन जारी करने की प्रक्रिया आगे बढ़ा सकता है। Latest Update – 8 नवंबर 2026: राजस्थान PTI भर्ती में लगभग 1,200 पद प्रस्तावित बताए जा रहे हैं। प्रकाशित जानकारी के अनुसार परीक्षा अप्रैल–मई 2027 में कराने का लक्ष्य बताया गया है। यह संभावित कार्यक्रम है, आधिकारिक परीक्षा तिथि नहीं। आवेदन की तारीख, अंतिम पद संख्या और पात्रता RSSB के नोटिफिकेशन से ही स्पष्ट होगी। Rajasthan PTI Recruitment 2026: मुख्य जानकारी विवरण जानकारी भर्ती का ",
-    "external_link_count": 13,
+    "excerpt": "Rajasthan Jobs UPDATE Rajasthan PTI Recruitment 2026: 1200 पदों पर भर्ती, योग्यता और नया अपडेट राजस्थान कर्मचारी चयन बोर्ड की PTI भर्ती 2026-27 को लेकर नया अपडेट सामने आया है। भर्ती में लगभग 1,200 पद प्रस्तावित बताए जा रहे हैं। जानें नोटिफिकेशन की स् By Deepak Joshi प्रकाशित: 08 नवंबर 2026 • अपडेट: 22 नवंबर 2026 • 13 मिनट पढ़ने में ✓ स्रोत जाँच: 22 नवंबर 2026 · समीक्षा: Deepak Joshi राजस्थान में शारीरिक शिक्षा शिक्षक (Physical Training Instructor) बनने की तैयारी कर रहे अभ्यर्थियों के लिए PTI भर्ती को लेकर महत्वपूर्ण अपडेट सामने आया है। राजस्थान कर्मचारी चयन बोर्ड (RSSB) की ओर से PTI Grade III के लगभग 1,200 पदों पर नई भर्ती की तैयारी की जानकारी विभिन्न समाचार रिपोर्टों में सामने आई है। ध्यान देने वाली बात: लगभग 1,200 पदों की संख्या अभी प्रस्तावित बताई जा रही है। 22 नवंबर 2026 तक इस भर्ती का विस्तृत आधिकारिक विज्ञापन, आवेदन की तारीख और अंतिम पदों का वर्गवार विवरण उपलब्ध होने की पुष्टि नहीं है। इसलिए अभ्यर्थियों को इसे जारी हो चुकी भर्ती या शुरू हो चुके आवेदन के रूप में नहीं समझना चाहिए। Latest Update – 22 नवंबर 2026: 15 अक्टूबर की प्रकाशित रिपोर्ट के अनुसार RSSB अध्यक्ष के बयान में PTI भर्ती के लिए लगभग 1,200 पदों और अप्रैल–मई 2027 में परीक्षा कराने के लक्ष्य का उल्लेख किया गया था। 7",
+    "external_link_count": 16,
     "final_url": "https://examdarpan.in/rajasthan-pti-recruitment-2026",
     "h1s": [
      "Rajasthan PTI Recruitment 2026: 1200 पदों पर भर्ती, योग्यता और नया अपडेट"
     ],
     "h2s": [
-     "Rajasthan PTI Recruitment 2026: मुख्य जानकारी",
-     "PTI भर्ती में 1,200 पदों का क्या अपडेट है?",
+     "Rajasthan PTI Recruitment 2026-27: मुख्य जानकारी",
+     "Rajasthan PTI Vacancy 2026: 1,200 पदों का नया अपडेट",
      "Rajasthan PTI Notification 2026 कब जारी होगा?",
-     "PTI भर्ती की परीक्षा कब हो सकती है?",
+     "Rajasthan PTI Exam Date 2027: परीक्षा कब होगी?",
      "Rajasthan PTI Recruitment 2026: शैक्षणिक योग्यता",
      "PTI भर्ती के लिए आयु सीमा",
-     "Rajasthan PTI Selection Process: चयन कैसे होगा?",
+     "Rajasthan PTI Selection Process: चयन प्रक्रिया",
      "PTI भर्ती का सिलेबस और परीक्षा पैटर्न",
-     "आवेदन शुल्क कितना होगा?",
-     "PTI भर्ती के लिए अभी से क्या तैयारी करें?",
+     "Rajasthan PTI Application Form 2026: आवेदन शुल्क",
+     "PTI भर्ती के लिए अभी से तैयारी कैसे करें?",
      "आवेदन के लिए कौन-कौन से दस्तावेज तैयार रखें?",
-     "PTI भर्ती और पुरानी 900 पदों वाली खबर में अंतर",
-     "Rajasthan PTI Recruitment 2026: महत्वपूर्ण सवाल-जवाब",
-     "Important Links",
-     "राजस्थान की अन्य सरकारी भर्तियां",
+     "PTI भर्ती में 900 और 1,200 पदों की खबर में क्या अंतर है?",
+     "Rajasthan PTI Recruitment 2026: महत्वपूर्ण सवाल-जवाब (FAQs)",
+     "Important Links – Rajasthan PTI Recruitment 2026",
+     "इस भर्ती से संबंधित समाचार रिपोर्ट",
+     "राजस्थान की अन्य सरकारी भर्तियों के अपडेट",
      "स्रोत और आधिकारिक संदर्भ",
-     "Related Updates"
+     "Related Updates",
+     "Important Links",
+     "Student Corner",
+     "All Categories",
+     "Latest Updates",
+     "Quick Links",
+     "Student Corner",
+     "Information"
     ],
     "images_missing_alt": 4,
     "intents_present": [
      "admit card",
      "age limit",
-     "cut off",
      "eligibility",
      "how to apply",
      "last date",
@@ -6867,35 +6866,39 @@
     ],
     "internal_links": [
      "https://examdarpan.in/author/deepak-joshi",
-     "https://examdarpan.in/latest-jobs",
      "https://examdarpan.in/",
      "https://examdarpan.in/editorial-policy",
      "https://examdarpan.in/contact",
      "https://examdarpan.in/rajasthan-government-jobs",
      "https://examdarpan.in/categories",
-     "https://examdarpan.in/rajasthan-tax-assistant-recruitment",
-     "https://examdarpan.in/ruhs-medical-officer-recruitment-2026-600-posts",
-     "https://examdarpan.in/rajasthan-safai-karmchari-recruitment-2026",
-     "https://examdarpan.in/rajasthan-rvunl-recruitment-2026-junior-engineer-junior-accountant-junior-assistant",
      "https://examdarpan.in/rajasthan-cet-12th-level-exam-city-admit-card-2026",
      "https://examdarpan.in/rajasthan-ambedkar-dbt-voucher-yojana-2026-27",
-     "https://examdarpan.in/rajasthan-ldc-score-card-2026",
-     "https://examdarpan.in/rajasthan-ldc-result-2026"
+     "https://examdarpan.in/rajasthan-scholarship-yojana-2026-27",
+     "https://examdarpan.in/rajasthan-scooty-yojana-2026-27",
+     "https://examdarpan.in/jee-main-2027-registration"
     ],
     "lang": "hi",
-    "modified": "2026-11-21",
+    "modified": "2026-11-22",
     "noindex": false,
     "phrases": [
      [
       "pti भर्ती",
-      20
-     ],
-     [
-      "recruitment 2026",
-      12
+      22
      ],
      [
       "rajasthan pti",
+      15
+     ],
+     [
+      "जारी होने",
+      14
+     ],
+     [
+      "आधिकारिक विज्ञापन",
+      13
+     ],
+     [
+      "200 पदों",
       11
      ],
      [
@@ -6903,107 +6906,98 @@
       11
      ],
      [
-      "जारी होने",
+      "2026 27",
       10
      ],
      [
-      "exam darpan",
-      9
-     ],
-     [
-      "update rajasthan",
-      9
-     ],
-     [
-      "आधिकारिक विज्ञापन",
-      8
+      "आवेदन शुरू",
+      10
      ],
      [
       "नई भर्ती",
-      8
+      9
      ],
      [
       "pti recruitment 2026",
-      7
+      8
      ],
      [
       "rajasthan pti recruitment",
-      7
+      8
      ],
      [
-      "विज्ञापन जारी",
-      7
+      "अक्टूबर 2026",
+      8
      ]
     ],
     "published": "2026-11-08",
-    "script_count": 10,
+    "script_count": 11,
     "status": 200,
-    "title": "Rajasthan PTI Recruitment 2026: 1200 पद, योग्यता, आयु सीमा व",
+    "title": "Rajasthan PTI Recruitment 2026: 1200 पदों पर भर्ती, परीक्षा",
     "top_terms": [
      [
       "भर्ती",
       56
      ],
      [
-      "2026",
-      42
-     ],
-     [
       "pti",
-      37
+      45
      ],
      [
-      "परीक्षा",
-      30
-     ],
-     [
-      "rajasthan",
-      29
+      "2026",
+      43
      ],
      [
       "आवेदन",
-      27
+      39
      ],
      [
-      "आधिकारिक",
-      26
+      "परीक्षा",
+      38
      ],
      [
       "जारी",
-      26
+      32
+     ],
+     [
+      "आधिकारिक",
+      29
      ],
      [
       "अंतिम",
-      21
+      26
      ],
      [
       "विज्ञापन",
-      21
+      26
+     ],
+     [
+      "rajasthan",
+      23
+     ],
+     [
+      "होने",
+      23
+     ],
+     [
+      "rssb",
+      22
      ],
      [
       "राजस्थान",
-      20
+      21
      ],
      [
       "जानकारी",
       19
      ],
      [
-      "पद",
-      17
-     ],
-     [
-      "अपडेट",
-      16
-     ],
-     [
-      "अभी",
-      15
+      "पदों",
+      19
      ]
     ],
-    "word_count": 2318,
+    "word_count": 2582,
     "years": [
-     2005,
      2026,
      2027
     ]
@@ -12848,6 +12842,6 @@
  },
  "meta": {
   "schema": 1,
-  "sitemap_slot": 83121
+  "sitemap_slot": 83123
  }
 }
