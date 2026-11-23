@@ -3,11 +3,11 @@
 URL: https://examdarpan.in/category-yojana
 
 **SEO health score: 72/100** (this is this agent's own checklist score, not a Google score)
-Words: 49 | Last read: 2026-11-19T04:24:34Z | Published: unknown | Updated: unknown
+Words: 51 | Last read: 2026-11-23T01:46:24Z | Published: unknown | Updated: unknown
 
 ## Things to fix
 
-- **HIGH**: Only 49 words were visible in the raw HTML but the page loads 7 scripts. The content may be added by JavaScript, which this agent cannot see.  
+- **HIGH**: Only 51 words were visible in the raw HTML but the page loads 8 scripts. The content may be added by JavaScript, which this agent cannot see.  
   Fix: Check the page with URL Inspection in Search Console. Prefer server-rendered or pre-rendered article text.
 - **MEDIUM**: Only 1 links to other Exam Darpan pages.  
   Fix: Link to related articles where it helps readers (see suggestions below).
@@ -25,8 +25,11 @@ Words: 49 | Last read: 2026-11-19T04:24:34Z | Published: unknown | Updated: unkn
 _These are ideas taken from the article text. They are NOT search-volume numbers. Check real queries in Search Console._
 
 - सरकारी योजनाएं (title)
-- इस सेक्शन में क्या मिलेगा? (sub-heading (H2))
 - Latest सरकारी योजनाएं (sub-heading (H2))
+- All Categories (sub-heading (H2))
+- Student Corner (sub-heading (H2))
+- Quick Links (sub-heading (H2))
+- Information (sub-heading (H2))
 - 2026 27 (repeated in text, appears 2 times)
 - ₹20 000 (repeated in text, appears 2 times)
 
@@ -54,6 +57,5 @@ Possible search phrases for those sections (estimates):
 
 ## Internal links you could add
 
-- Link to [Scholarships | Exam Darpan](https://examdarpan.in/category-scholarships) (shares: 2026, rajasthan, yojana, अक्टूबर, आवेदन)
-- Link to [Rajasthan Scholarship Yojana 2026-27: ऑनलाइन आवेदन शुरू](https://examdarpan.in/rajasthan-scholarship-yojana-2026-27) (shares: 2026, rajasthan, अक्टूबर, आवेदन, सहायता)
-- Link to [Rajasthan Scooty Yojana 2026](https://examdarpan.in/rajasthan-scooty-yojana-2026-27) (shares: 2026, rajasthan, yojana, अक्टूबर, आवेदन)
+- Link to [Scholarships | Exam Darpan](https://examdarpan.in/category-scholarships) (shares: 2026, ed, published, yojana, अक्टूबर)
+- Link to [Rajasthan Scooty Yojana 2026](https://examdarpan.in/rajasthan-scooty-yojana-2026-27) (shares: 2026, yojana, अक्टूबर, आवेदन)

@@ -9,7 +9,7 @@ Words: 51 | Last read: 2026-11-22T21:16:00Z | Published: unknown | Updated: unkn
 
 - **HIGH**: Only 51 words were visible in the raw HTML but the page loads 8 scripts. The content may be added by JavaScript, which this agent cannot see.  
   Fix: Check the page with URL Inspection in Search Console. Prefer server-rendered or pre-rendered article text.
-- **MEDIUM**: Mentions deadline date(s) already passed: 2026-10-25.  
+- **MEDIUM**: Mentions deadline date(s) already passed: 2026-10-25, 2026-11-22.  
   Fix: Make clear whether applications are closed, or update after checking the official notice.
 - **MEDIUM**: Only 1 links to other Exam Darpan pages.  
   Fix: Link to related articles where it helps readers (see suggestions below).

@@ -63,6 +63,5 @@ Possible search phrases for those sections (estimates):
 
 ## Internal links you could add
 
+- Link to [सरकारी योजनाएं | Exam Darpan](https://examdarpan.in/category-yojana) (shares: 2026, ed, published, yojana, अक्टूबर)
 - Link to [Rajasthan Scooty Yojana 2026](https://examdarpan.in/rajasthan-scooty-yojana-2026-27) (shares: 2026, rajasthan, yojana, अक्टूबर, आवेदन)
-- Link to [सरकारी योजनाएं | Exam Darpan](https://examdarpan.in/category-yojana) (shares: 2026, rajasthan, yojana, अक्टूबर, आवेदन)
-- Link to [Rajasthan Ambedkar DBT Voucher Yojana 2026-27: Apply Online](https://examdarpan.in/rajasthan-ambedkar-dbt-voucher-yojana-2026-27) (shares: 2026, rajasthan, yojana, आवेदन)

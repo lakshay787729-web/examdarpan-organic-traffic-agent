@@ -43,5 +43,5 @@ Possible search phrases for those sections (estimates):
 
 ## Internal links you could add
 
-- Link to [Rajasthan Scholarship Yojana 2026-27: ऑनलाइन आवेदन शुरू](https://examdarpan.in/rajasthan-scholarship-yojana-2026-27) (shares: 2026, rajasthan, अंतिम, आवेदन)
+- Link to [Rajasthan Scholarship 2026-27: आवेदन की अंतिम तिथि 31 दिसंबर](https://examdarpan.in/rajasthan-scholarship-yojana-2026-27) (shares: 2026, rajasthan, अंतिम, आवेदन)
 - Link to [Rajasthan Scooty Yojana 2026](https://examdarpan.in/rajasthan-scooty-yojana-2026-27) (shares: 2026, rajasthan, अंतिम, आवेदन)

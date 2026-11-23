@@ -7,7 +7,7 @@ and it does not create fake visits or clicks.
 
 - Articles found in sitemap: 21
 - Articles read so far: 21 (100%)
-- Issues: 9 high, 32 medium, 38 low
+- Issues: 9 high, 31 medium, 38 low
 
 ## Search Console status
 
@@ -35,7 +35,7 @@ and it does not create fake visits or clicks.
    https://examdarpan.in/category-entrance-exams  
    Priority 38 | score 62/100
    - HIGH: Only 51 words were visible in the raw HTML but the page loads 8 scripts. The content may be added by JavaScript, which this agent cannot see.
-   - MEDIUM: Mentions deadline date(s) already passed: 2026-10-25.
+   - MEDIUM: Mentions deadline date(s) already passed: 2026-10-25, 2026-11-22.
    - MEDIUM: Only 1 links to other Exam Darpan pages.
 4. Scholarships | Exam Darpan  
    https://examdarpan.in/category-scholarships  
@@ -64,7 +64,7 @@ and it does not create fake visits or clicks.
 8. सरकारी योजनाएं | Exam Darpan  
    https://examdarpan.in/category-yojana  
    Priority 28 | score 72/100
-   - HIGH: Only 49 words were visible in the raw HTML but the page loads 7 scripts. The content may be added by JavaScript, which this agent cannot see.
+   - HIGH: Only 51 words were visible in the raw HTML but the page loads 8 scripts. The content may be added by JavaScript, which this agent cannot see.
    - MEDIUM: Only 1 links to other Exam Darpan pages.
    - LOW: No publish or update date found.
 9. About Us | Exam Darpan  

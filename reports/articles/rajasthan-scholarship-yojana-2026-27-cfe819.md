@@ -1,38 +1,34 @@
-# Rajasthan Scholarship Yojana 2026-27: ऑनलाइन आवेदन शुरू
+# Rajasthan Scholarship 2026-27: आवेदन की अंतिम तिथि 31 दिसंबर
 
 URL: https://examdarpan.in/rajasthan-scholarship-yojana-2026-27
 
 **SEO health score: 90/100** (this is this agent's own checklist score, not a Google score)
-Words: 1347 | Last read: 2026-11-20T18:43:21Z | Published: 2026-10-04 | Updated: 2026-10-06
+Words: 1749 | Last read: 2026-11-23T01:46:24Z | Published: 2026-10-04 | Updated: 2026-11-22
 
 ## Things to fix
 
-- **MEDIUM**: Mentions deadline date(s) already passed: 2026-09-22, 2026-10-25.  
+- **MEDIUM**: Mentions deadline date(s) already passed: 2026-10-25, 2026-10-27, 2026-10-31.  
   Fix: Make clear whether applications are closed, or update after checking the official notice.
 - **LOW**: 4 image(s) without alt text.  
   Fix: Add short descriptive alt text.
 
 ## Title and description ideas
 
-- Current title: Rajasthan Scholarship Yojana 2026-27: ऑनलाइन आवेदन शुरू
-- Current description: राजस्थान Scholarship Yojana 2026-27 के ऑनलाइन आवेदन 1 अक्टूबर से शुरू हो गए हैं। जानें कौन-कौन सी छात्रवृत्ति योजनाएं शामिल हैं और 30 नवंबर तक आवेदन कैसे करें।
+- Current title: Rajasthan Scholarship 2026-27: आवेदन की अंतिम तिथि 31 दिसंबर
+- Current description: Rajasthan Scholarship 2026-27 के लिए आवेदन की अंतिम तिथि 31 दिसंबर 2026 तक बढ़ाई गई। पात्रता, जरूरी दस्तावेज, ऑनलाइन आवेदन प्रक्रिया और आधिकारिक लिंक देखें।
 
 ## Search ideas from this article's own content
 _These are ideas taken from the article text. They are NOT search-volume numbers. Check real queries in Search Console._
 
-- Rajasthan Scholarship Yojana 2026-27: ऑनलाइन आवेदन शुरू (title)
-- Rajasthan Scholarship Yojana 2026-27: ऑनलाइन आवेदन शुरू, 30 नवंबर तक करें आवेदन (main heading (H1))
-- Rajasthan Scholarship 2026-27: एक नजर में (sub-heading (H2))
-- Rajasthan Scholarship Yojana 2026-27 में कौन-कौन सी योजनाएं शामिल हैं? (sub-heading (H2))
-- मुख्यमंत्री उच्च शिक्षा छात्रवृत्ति योजना 2026-27 (sub-heading (H2))
-- Rajasthan Scholarship 2026-27 की महत्वपूर्ण तारीखें (sub-heading (H2))
-- Rajasthan Scholarship 2026-27 के लिए ऑनलाइन आवेदन कैसे करें? (sub-heading (H2))
-- आवेदन से पहले इन बातों का रखें ध्यान (sub-heading (H2))
-- 2026 27 (repeated in text, appears 19 times)
+- Rajasthan Scholarship 2026-27: आवेदन की अंतिम तिथि 31 दिसंबर (title)
+- Rajasthan Scholarship Yojana 2026-27: ऑनलाइन आवेदन शुरू, 31 दिसंबर तक करें आवेदन (main heading (H1))
+- Rajasthan Scholarship 2026-27: Overview (sub-heading (H2))
+- Rajasthan Scholarship 2026-27 की अंतिम तिथि बढ़ी (sub-heading (H2))
+- किन विद्यार्थियों को मिल सकती है छात्रवृत्ति? (sub-heading (H2))
+- छात्रवृत्ति के लिए पात्रता (sub-heading (H2))
+- आवेदन के लिए जरूरी दस्तावेज (sub-heading (H2))
+- 2026 27 (repeated in text, appears 21 times)
+- अंतिम तिथि (repeated in text, appears 19 times)
+- rajasthan scholarship (repeated in text, appears 14 times)
 - ऑनलाइन आवेदन (repeated in text, appears 13 times)
-- rajasthan scholarship (repeated in text, appears 12 times)
-- 30 नवंबर (repeated in text, appears 10 times)
-
-## Internal links you could add
-
-- Link to [सरकारी योजनाएं | Exam Darpan](https://examdarpan.in/category-yojana) (shares: 2026, rajasthan, अक्टूबर, आवेदन, सहायता)
+- rajasthan scholarship 2026 (repeated in text, appears 11 times)
