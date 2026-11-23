@@ -7,7 +7,7 @@ and it does not create fake visits or clicks.
 
 - Articles found in sitemap: 21
 - Articles read so far: 21 (100%)
-- Issues: 9 high, 31 medium, 38 low
+- Issues: 9 high, 32 medium, 37 low
 
 ## Search Console status
 
@@ -58,7 +58,7 @@ and it does not create fake visits or clicks.
 7. Rajasthan Government Jobs 2026 | Rajasthan Vacancy, RPSC, RSSB & Police Jobs | Exam Darpan  
    https://examdarpan.in/rajasthan-government-jobs  
    Priority 31 | score 69/100
-   - HIGH: Only 42 words were visible in the raw HTML but the page loads 6 scripts. The content may be added by JavaScript, which this agent cannot see.
+   - HIGH: Only 43 words were visible in the raw HTML but the page loads 8 scripts. The content may be added by JavaScript, which this agent cannot see.
    - MEDIUM: Only 1 links to other Exam Darpan pages.
    - LOW: Meta description is long (192 characters).
 8. सरकारी योजनाएं | Exam Darpan  

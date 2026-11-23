@@ -69,4 +69,4 @@ Possible search phrases for those sections (estimates):
 
 ## Internal links you could add
 
-- Link to [Rajasthan Government Jobs 2026 | Rajasthan Vacancy, RPSC, RSSB & Police Jobs | Exam Darpan](https://examdarpan.in/rajasthan-government-jobs) (shares: 2026, recruitment, चयन, पदों, भर्ती)
+- Link to [Rajasthan Government Jobs 2026 | Rajasthan Vacancy, RPSC, RSSB & Police Jobs | Exam Darpan](https://examdarpan.in/rajasthan-government-jobs) (shares: 2026, recruitment, चयन, भर्ती)

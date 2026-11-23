@@ -3,11 +3,11 @@
 URL: https://examdarpan.in/rajasthan-government-jobs
 
 **SEO health score: 69/100** (this is this agent's own checklist score, not a Google score)
-Words: 42 | Last read: 2026-11-21T15:24:20Z | Published: unknown | Updated: unknown
+Words: 43 | Last read: 2026-11-23T09:50:58Z | Published: unknown | Updated: unknown
 
 ## Things to fix
 
-- **HIGH**: Only 42 words were visible in the raw HTML but the page loads 6 scripts. The content may be added by JavaScript, which this agent cannot see.  
+- **HIGH**: Only 43 words were visible in the raw HTML but the page loads 8 scripts. The content may be added by JavaScript, which this agent cannot see.  
   Fix: Check the page with URL Inspection in Search Console. Prefer server-rendered or pre-rendered article text.
 - **MEDIUM**: Only 1 links to other Exam Darpan pages.  
   Fix: Link to related articles where it helps readers (see suggestions below).
@@ -33,8 +33,7 @@ _These are ideas taken from the article text. They are NOT search-volume numbers
 - Rajasthan Sarkari Naukri की जानकारी कैसे verify करें? (sub-heading (H2))
 - Rajasthan Recruitment Portals (sub-heading (H2))
 - Rajasthan + All India (sub-heading (H2))
-- 300 पदों (repeated in text, appears 2 times)
-- tax assistant (repeated in text, appears 2 times)
+- नया अपडेट (repeated in text, appears 2 times)
 
 ### Topics the article does not mention yet
 _Add a section only if it is relevant AND you can confirm the facts from the official notice._
@@ -62,5 +61,4 @@ Possible search phrases for those sections (estimates):
 
 ## Internal links you could add
 
-- Link to [All India Government Jobs 2026 – Latest Central Govt Jobs | Exam Darpan](https://examdarpan.in/all-india-government-jobs) (shares: 2026, recruitment, चयन, पदों, भर्ती)
-- Link to [Rajasthan PTI Recruitment 2026: 1200 पद, योग्यता, आयु सीमा व](https://examdarpan.in/rajasthan-pti-recruitment-2026) (shares: 2026, rajasthan, जानकारी, भर्ती)
+- Link to [All India Government Jobs 2026 – Latest Central Govt Jobs | Exam Darpan](https://examdarpan.in/all-india-government-jobs) (shares: 2026, recruitment, चयन, भर्ती)
