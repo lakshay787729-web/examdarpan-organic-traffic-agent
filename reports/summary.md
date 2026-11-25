@@ -7,7 +7,7 @@ and it does not create fake visits or clicks.
 
 - Articles found in sitemap: 21
 - Articles read so far: 21 (100%)
-- Issues: 8 high, 34 medium, 37 low
+- Issues: 7 high, 33 medium, 38 low
 
 ## Search Console status
 
@@ -55,54 +55,54 @@ and it does not create fake visits or clicks.
    - HIGH: Only 43 words were visible in the raw HTML but the page loads 8 scripts. The content may be added by JavaScript, which this agent cannot see.
    - MEDIUM: Only 1 links to other Exam Darpan pages.
    - LOW: Meta description is long (192 characters).
-7. All India Government Jobs 2026 – Latest Central Govt Jobs | Exam Darpan  
-   https://examdarpan.in/all-india-government-jobs  
-   Priority 30 | score 70/100
-   - MEDIUM: Only 0 links to other Exam Darpan pages.
-   - MEDIUM: No other article links to this page.
-   - MEDIUM: Only 95 words of article text.
-8. सरकारी योजनाएं | Exam Darpan  
+7. सरकारी योजनाएं | Exam Darpan  
    https://examdarpan.in/category-yojana  
    Priority 28 | score 72/100
    - HIGH: Only 51 words were visible in the raw HTML but the page loads 8 scripts. The content may be added by JavaScript, which this agent cannot see.
    - MEDIUM: Only 1 links to other Exam Darpan pages.
    - LOW: No publish or update date found.
-9. About Us | Exam Darpan  
+8. About Us | Exam Darpan  
    https://examdarpan.in/about  
    Priority 27 | score 73/100
    - MEDIUM: Title is very similar to https://examdarpan.in/category-scholarships. They may compete for the same searches (a guess based on titles only).
    - MEDIUM: Title is very similar to https://examdarpan.in/contact. They may compete for the same searches (a guess based on titles only).
    - MEDIUM: Title is very similar to https://examdarpan.in/disclaimer. They may compete for the same searches (a guess based on titles only).
-10. Disclaimer | Exam Darpan  
+9. Disclaimer | Exam Darpan  
    https://examdarpan.in/disclaimer  
    Priority 27 | score 73/100
    - MEDIUM: Only 2 links to other Exam Darpan pages.
    - MEDIUM: No other article links to this page.
    - MEDIUM: Title is very similar to https://examdarpan.in/about. They may compete for the same searches (a guess based on titles only).
-11. Government Jobs Categories & Exam Updates | Exam Darpan  
-   https://examdarpan.in/categories  
-   Priority 25 | score 75/100
-   - HIGH: Only 19 words were visible in the raw HTML but the page loads 3 scripts. The content may be added by JavaScript, which this agent cannot see.
-   - MEDIUM: Only 1 links to other Exam Darpan pages.
-   - LOW: No publish or update date found.
-12. Privacy Policy | Exam Darpan  
+10. All India Government Jobs 2026 – Latest Central Govt Jobs | Exam Darpan  
+   https://examdarpan.in/all-india-government-jobs  
+   Priority 23 | score 77/100
+   - MEDIUM: Only 0 links to other Exam Darpan pages.
+   - MEDIUM: Only 95 words of article text.
+   - LOW: Meta description is long (166 characters).
+11. Privacy Policy | Exam Darpan  
    https://examdarpan.in/privacy  
    Priority 20 | score 80/100
    - MEDIUM: Only 1 links to other Exam Darpan pages.
    - MEDIUM: Title is very similar to https://examdarpan.in/editorial-policy. They may compete for the same searches (a guess based on titles only).
    - LOW: No publish or update date found.
-13. Editorial Policy | Exam Darpan  
+12. Editorial Policy | Exam Darpan  
    https://examdarpan.in/editorial-policy  
    Priority 17 | score 83/100
    - MEDIUM: Only 1 links to other Exam Darpan pages.
    - MEDIUM: Title is very similar to https://examdarpan.in/privacy. They may compete for the same searches (a guess based on titles only).
    - LOW: No publish or update date found.
-14. Terms & Conditions | Exam Darpan  
+13. Terms & Conditions | Exam Darpan  
    https://examdarpan.in/terms  
    Priority 17 | score 83/100
    - MEDIUM: Only 2 links to other Exam Darpan pages.
    - MEDIUM: No other article links to this page.
    - LOW: No publish or update date found.
+14. All Exam Categories | Government Jobs, Results & Admit Cards | Exam Darpan  
+   https://examdarpan.in/categories  
+   Priority 13 | score 87/100
+   - MEDIUM: Only 266 words of article text.
+   - LOW: No publish or update date found.
+   - LOW: Title is long (74 characters) and may be cut off in Google.
 15. Contact Us | Exam Darpan  
    https://examdarpan.in/contact  
    Priority 13 | score 87/100

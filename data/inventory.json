@@ -6,7 +6,7 @@
    "in_sitemap": true,
    "last_error": null,
    "last_failure_at": null,
-   "last_fetched": "2026-11-18T01:11:44Z",
+   "last_fetched": "2026-11-25T09:16:37Z",
    "lastmod": null,
    "needs_refresh": false,
    "page": {
@@ -26,7 +26,12 @@
      "Founder & Website Administrator",
      "Meet the Exam Darpan Team",
      "Editorial Approach",
-     "Contact Exam Darpan"
+     "Contact Exam Darpan",
+     "Browse Exam Updates",
+     "Student Corner",
+     "Quick Links",
+     "Information",
+     "हमसे सोशल मीडिया पर जुड़ें"
     ],
     "images_missing_alt": 0,
     "intents_present": [
@@ -94,7 +99,7 @@
      ]
     ],
     "published": null,
-    "script_count": 6,
+    "script_count": 7,
     "status": 200,
     "title": "About Us | Exam Darpan",
     "top_terms": [
@@ -907,111 +912,172 @@
    "in_sitemap": true,
    "last_error": null,
    "last_failure_at": null,
-   "last_fetched": "2026-11-18T08:31:56Z",
+   "last_fetched": "2026-11-25T09:16:37Z",
    "lastmod": null,
    "needs_refresh": false,
    "page": {
     "canonical": "https://examdarpan.in/categories",
-    "content_hash": "107133b0a965f404",
+    "content_hash": "a623a898655c1e86",
     "deadline_dates": [],
-    "description": "Rajasthan और All India सरकारी नौकरी, Railway, SSC, Banking, Admit Card, Result, Answer Key और Scholarship updates की सभी categories यहाँ देखें।",
+    "description": "Rajasthan और All India सरकारी नौकरी, Railway, SSC, Banking, Admit Card, Result, Answer Key, Scholarship और सभी exam updates की categories यहाँ देखें।",
     "exam_related": true,
-    "excerpt": "राजस्थान सरकारी नौकरी राजस्थान की नई भर्ती, आवेदन, पात्रता और सरकारी नौकरी अपडेट्स। 5 published articles View updates →",
+    "excerpt": "EXPLORE EXAM DARPAN सभी Exam Categories एक जगह अपनी जरूरत के अनुसार भर्ती, परीक्षा, Admit Card, Result और शिक्षा से जुड़ी category चुनें। हर category में उपलब्ध published updates देख सकते हैं। 17 विषय श्रेणियाँ • Rajasthan + All India RJ राजस्थान सरकारी नौकरी राजस्थान की नई भर्ती, आवेदन, पात्रता और सरकारी नौकरी अपडेट्स। → IN सरकारी नौकरी Central और All India Government Jobs की नवीनतम जानकारी। → PD Police & Defence Jobs Police, Defence और सुरक्षा विभाग की सरकारी भर्ती की नवीनतम जानकारी। → ED Teaching Jobs Teacher, REET, School और Education Department की भर्ती की जानकारी। → RR Railway Jobs Indian Railway की भर्ती, eligibility, vacancy और application updates। → BK Banking Jobs Banking sector की सरकारी भर्ती, परीक्षा और application updates। → SSC SSC Jobs SSC की विभिन्न भर्ती परीक्षाओं और सरकारी नौकरी की जानकारी। → UP UPSC Jobs UPSC Civil Services और अन्य UPSC examinations की जानकारी। → AC Admit Card नई परीक्षाओं के Admit Card और परीक्षा प्रवेश से जुड़ी अपडेट्स। → RS सरकारी परीक्षा Result सरकारी परीक्षा और भर्ती के नवीनतम Results की जानकारी। → AK Answer Key सरकारी परीक्षाओं की Answer Key और संबंधित अपडेट्स। → SY Exam Syllabus सरकारी परीक्षाओं के Syllabus और तैयारी से जुड़ी जानकारी। → E",
     "external_link_count": 0,
     "final_url": "https://examdarpan.in/categories",
     "h1s": [
-     "सभी Categories एक जगह"
+     "सभी Exam Categories एक जगह"
     ],
     "h2s": [
-     "राजस्थान सरकारी नौकरी",
-     "सरकारी नौकरी",
-     "Police & Defence Jobs",
-     "Teaching Jobs",
-     "Railway Jobs",
-     "Banking Jobs",
-     "SSC Jobs",
-     "UPSC Jobs",
-     "Admit Card",
-     "सरकारी परीक्षा Result",
-     "Answer Key",
-     "Exam Syllabus",
-     "Entrance Exams",
-     "Scholarships",
-     "University & College",
-     "सरकारी योजनाएं",
-     "Latest Updates"
+     "Quick Links",
+     "Student Corner",
+     "Information"
     ],
     "images_missing_alt": 0,
     "intents_present": [
-     "eligibility"
+     "admit card",
+     "eligibility",
+     "result",
+     "syllabus"
     ],
     "internal_links": [
-     "https://examdarpan.in/rajasthan-government-jobs"
+     "https://examdarpan.in/rajasthan-government-jobs",
+     "https://examdarpan.in/all-india-government-jobs",
+     "https://examdarpan.in/category-police-defence-jobs",
+     "https://examdarpan.in/category-teaching-jobs",
+     "https://examdarpan.in/category-railway-jobs",
+     "https://examdarpan.in/category-banking-jobs",
+     "https://examdarpan.in/category-ssc-jobs",
+     "https://examdarpan.in/category-upsc-jobs",
+     "https://examdarpan.in/category-admit-card",
+     "https://examdarpan.in/category-results",
+     "https://examdarpan.in/category-answer-key",
+     "https://examdarpan.in/category-syllabus",
+     "https://examdarpan.in/category-entrance-exams",
+     "https://examdarpan.in/category-scholarships",
+     "https://examdarpan.in/category-university-college",
+     "https://examdarpan.in/category-yojana",
+     "https://examdarpan.in/category-latest-updates"
     ],
     "lang": "hi",
     "modified": null,
     "noindex": false,
     "phrases": [
      [
+      "application updates",
+      4
+     ],
+     [
       "सरकारी नौकरी",
+      4
+     ],
+     [
+      "admit card",
+      3
+     ],
+     [
+      "answer key",
+      2
+     ],
+     [
+      "exam darpan",
+      2
+     ],
+     [
+      "police defence",
+      2
+     ],
+     [
+      "university college",
+      2
+     ],
+     [
+      "नवीनतम जानकारी",
+      2
+     ],
+     [
+      "भर्ती परीक्षा",
+      2
+     ],
+     [
+      "सरकारी परीक्षा",
+      2
+     ],
+     [
+      "सरकारी परीक्षाओं",
+      2
+     ],
+     [
+      "सरकारी भर्ती",
       2
      ]
     ],
     "published": null,
-    "script_count": 3,
+    "script_count": 4,
     "status": 200,
-    "title": "Government Jobs Categories & Exam Updates | Exam Darpan",
+    "title": "All Exam Categories | Government Jobs, Results & Admit Cards | Exam Darpan",
     "top_terms": [
      [
-      "नौकरी",
-      2
-     ],
-     [
-      "राजस्थान",
-      2
-     ],
-     [
       "सरकारी",
-      2
+      12
      ],
      [
-      "articles",
-      1
-     ],
-     [
-      "published",
-      1
-     ],
-     [
-      "updates",
-      1
-     ],
-     [
-      "view",
-      1
-     ],
-     [
-      "अपडेट्स",
-      1
-     ],
-     [
-      "आवेदन",
-      1
-     ],
-     [
-      "नई",
-      1
-     ],
-     [
-      "पात्रता",
-      1
+      "जानकारी",
+      9
      ],
      [
       "भर्ती",
-      1
+      9
+     ],
+     [
+      "updates",
+      8
+     ],
+     [
+      "jobs",
+      7
+     ],
+     [
+      "परीक्षा",
+      6
+     ],
+     [
+      "application",
+      4
+     ],
+     [
+      "exam",
+      4
+     ],
+     [
+      "अपडेट्स",
+      4
+     ],
+     [
+      "नवीनतम",
+      4
+     ],
+     [
+      "नौकरी",
+      4
+     ],
+     [
+      "परीक्षाओं",
+      4
+     ],
+     [
+      "admit",
+      3
+     ],
+     [
+      "card",
+      3
+     ],
+     [
+      "eligibility",
+      3
      ]
     ],
-    "word_count": 19,
+    "word_count": 266,
     "years": []
    }
   },
@@ -12842,6 +12908,6 @@
  },
  "meta": {
   "schema": 1,
-  "sitemap_slot": 83128
+  "sitemap_slot": 83129
  }
 }

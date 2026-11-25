@@ -3,7 +3,7 @@
 URL: https://examdarpan.in/about
 
 **SEO health score: 73/100** (this is this agent's own checklist score, not a Google score)
-Words: 416 | Last read: 2026-11-18T01:11:44Z | Published: unknown | Updated: unknown
+Words: 416 | Last read: 2026-11-25T09:16:37Z | Published: unknown | Updated: unknown
 
 ## Things to fix
 
@@ -33,11 +33,11 @@ _These are ideas taken from the article text. They are NOT search-volume numbers
 - Meet the Exam Darpan Team (sub-heading (H2))
 - Editorial Approach (sub-heading (H2))
 - Contact Exam Darpan (sub-heading (H2))
+- Browse Exam Updates (sub-heading (H2))
 - exam darpan (repeated in text, appears 8 times)
 - करने का प्रयास (repeated in text, appears 3 times)
 - सरकारी नौकरी भर्ती (repeated in text, appears 3 times)
 - प्रयास करते (repeated in text, appears 3 times)
-- founder website administrator (repeated in text, appears 2 times)
 
 ### Topics the article does not mention yet
 _Add a section only if it is relevant AND you can confirm the facts from the official notice._
