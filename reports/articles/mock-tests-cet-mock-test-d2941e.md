@@ -3,7 +3,7 @@
 URL: https://examdarpan.in/mock-tests/cet-mock-test
 
 **SEO health score: 65/100** (this is this agent's own checklist score, not a Google score)
-Words: 34 | Last read: 2026-11-17T18:29:45Z | Published: unknown | Updated: unknown
+Words: 34 | Last read: 2026-11-25T00:51:05Z | Published: unknown | Updated: unknown
 
 ## Things to fix
 

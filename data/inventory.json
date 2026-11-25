@@ -4138,7 +4138,7 @@
    "in_sitemap": true,
    "last_error": null,
    "last_failure_at": null,
-   "last_fetched": "2026-11-17T18:29:45Z",
+   "last_fetched": "2026-11-25T00:51:05Z",
    "lastmod": "2026-11-10",
    "needs_refresh": false,
    "page": {
@@ -12842,6 +12842,6 @@
  },
  "meta": {
   "schema": 1,
-  "sitemap_slot": 83126
+  "sitemap_slot": 83128
  }
 }
