@@ -55,6 +55,6 @@ Possible search phrases for those sections (estimates):
 
 ## Internal links you could add
 
-- Link to [Disclaimer | Exam Darpan](https://examdarpan.in/disclaimer) (shares: darpan, exam, government, information, official)
 - Link to [About Us | Exam Darpan](https://examdarpan.in/about) (shares: darpan, exam, information, official, website)
+- Link to [Disclaimer | Exam Darpan](https://examdarpan.in/disclaimer) (shares: darpan, exam, official, website, करने)
 - Link to [Editorial Policy | Exam Darpan](https://examdarpan.in/editorial-policy) (shares: exam, official, website, करने)

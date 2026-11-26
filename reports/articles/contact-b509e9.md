@@ -3,7 +3,7 @@
 URL: https://examdarpan.in/contact
 
 **SEO health score: 87/100** (this is this agent's own checklist score, not a Google score)
-Words: 349 | Last read: 2026-11-19T13:38:59Z | Published: unknown | Updated: unknown
+Words: 369 | Last read: 2026-11-26T20:04:38Z | Published: unknown | Updated: unknown
 
 ## Things to fix
 
@@ -23,17 +23,17 @@ Words: 349 | Last read: 2026-11-19T13:38:59Z | Published: unknown | Updated: unk
 _These are ideas taken from the article text. They are NOT search-volume numbers. Check real queries in Search Console._
 
 - Contact Us (title)
-- Website Contact Details (sub-heading (H2))
-- What You Can Contact Us About (sub-heading (H2))
-- Correction Requests (sub-heading (H2))
-- Privacy Requests (sub-heading (H2))
-- Editorial Information (sub-heading (H2))
-- How to Send a Useful Correction (sub-heading (H2))
-- article का exact (repeated in text, appears 2 times)
-- broken official links (repeated in text, appears 2 times)
-- payment card details (repeated in text, appears 2 times)
-- exact url (repeated in text, appears 2 times)
-- link शामिल (repeated in text, appears 2 times)
+- Contact Exam Darpan (main heading (H1))
+- Official Contact (sub-heading (H2))
+- Article Correction and Verification Requests (sub-heading (H2))
+- Privacy and Personal Information Requests (sub-heading (H2))
+- Copyright and Content Concerns (sub-heading (H2))
+- General Feedback and Technical Issues (sub-heading (H2))
+- Response and Review Time (sub-heading (H2))
+- जानकारी माँगी (repeated in text, appears 3 times)
+- अतिरिक्त जानकारी माँगी (repeated in text, appears 2 times)
+- करने का प्रयास (repeated in text, appears 2 times)
+- article correction (repeated in text, appears 2 times)
 
 ### Topics the article does not mention yet
 _Add a section only if it is relevant AND you can confirm the facts from the official notice._
@@ -49,16 +49,17 @@ _Add a section only if it is relevant AND you can confirm the facts from the off
 - cut off
 
 Possible search phrases for those sections (estimates):
-- Contact Us eligibility
-- Contact Us last date
-- Contact Us syllabus
-- Contact Us admit card
-- Contact Us result
-- Contact Us how to apply
-- Contact Us salary
-- Contact Us age limit
-- Contact Us cut off
+- Contact Exam Darpan eligibility
+- Contact Exam Darpan last date
+- Contact Exam Darpan syllabus
+- Contact Exam Darpan admit card
+- Contact Exam Darpan result
+- Contact Exam Darpan how to apply
+- Contact Exam Darpan salary
+- Contact Exam Darpan age limit
+- Contact Exam Darpan cut off
 
 ## Internal links you could add
 
+- Link to [Disclaimer | Exam Darpan](https://examdarpan.in/disclaimer) (shares: official, website, करने, संबंधित)
 - Link to [Terms & Conditions | Exam Darpan](https://examdarpan.in/terms) (shares: information, official, website, करने)

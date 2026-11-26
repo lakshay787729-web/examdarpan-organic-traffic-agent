@@ -2795,30 +2795,34 @@
    "in_sitemap": true,
    "last_error": null,
    "last_failure_at": null,
-   "last_fetched": "2026-11-19T13:38:59Z",
+   "last_fetched": "2026-11-26T20:04:38Z",
    "lastmod": null,
    "needs_refresh": false,
    "page": {
     "canonical": "https://examdarpan.in/contact",
-    "content_hash": "9606335c81c73ad1",
+    "content_hash": "0c241f78c183c1c6",
     "deadline_dates": [],
     "description": "Exam Darpan से संपर्क करें: article corrections, outdated recruitment details, broken official links, privacy requests और general enquiries।",
     "exam_related": true,
-    "excerpt": "Contact Us Last updated: 11 November 2026 Exam Darpan से editorial corrections, outdated recruitment details, broken official links, privacy requests, copyright concerns और general enquiries के लिए संपर्क करें। Website Contact Details Website: examdarpan.in Email: Supportexamdarpan@gmail.com कृपया message में enquiry का विषय स्पष्ट लिखें ताकि request को सही तरीके से समझा जा सके। What You Can Contact Us About Incorrect या outdated article information Broken official links Recruitment या examination information corrections Privacy-related questions Copyright या content concerns General feedback और website-related enquiries Correction Requests Email subject में Correction Request लिखें और article का exact URL, गलत दिखाई दे रही जानकारी, correction का विवरण तथा उपलब्ध official notification/link शामिल करें। Supporting official source मिलने पर संबंधित content को review किया जा सकता है। Privacy Requests Privacy या personal-data से संबंधित request के लिए ऊपर दिए गए email पर संपर्क करें। Request को समझने और आवश्यक होने पर verify करने के लिए अतिरिक्त विवरण माँगा जा सकता है। कृपया email में password या payment-card details जैसी sensitive information न भेजें। Editorial Information हमारी content",
+    "excerpt": "Contact Exam Darpan Last updated: 22 November 2026 Exam Darpan से article correction, outdated information, broken official link, privacy request, copyright concern या website-related enquiry के लिए नीचे दिए गए email पर संपर्क करें। Official Contact Website: https://examdarpan.in Email: Supportexamdarpan@gmail.com यह वेबसाइट किसी सरकारी विभाग या भर्ती प्राधिकरण का official contact centre नहीं है। सरकारी आवेदन, payment या परीक्षा से जुड़े अंतिम निर्णय के लिए संबंधित authority से संपर्क करें। Article Correction and Verification Requests Correction request में ये जानकारी शामिल करें: Article का पूरा URL और title. कौन-सा तथ्य गलत, पुराना या अधूरा है. सही जानकारी और संबंधित official notification/department link. यदि उपलब्ध हो, तो notice की तारीख या relevant section. हम उपलब्ध प्रमाण के आधार पर request review करने का प्रयास करते हैं। Supporting official source न होने पर अतिरिक्त जानकारी माँगी जा सकती है। Privacy and Personal Information Requests Privacy request में बताएं कि request किस page या feature से जुड़ी है और आप क्या सहायता चाहते हैं। Request की पुष्टि के लिए आवश्यक और proportionate जानकारी माँगी जा सकती है। Password, OTP, payment-card details या अन्य sensitive credentials email न ",
     "external_link_count": 0,
     "final_url": "https://examdarpan.in/contact",
     "h1s": [
-     "Contact Us"
+     "Contact Exam Darpan"
     ],
     "h2s": [
-     "Website Contact Details",
-     "What You Can Contact Us About",
-     "Correction Requests",
-     "Privacy Requests",
-     "Editorial Information",
-     "How to Send a Useful Correction",
-     "Privacy and Data Requests",
-     "Response Time"
+     "Official Contact",
+     "Article Correction and Verification Requests",
+     "Privacy and Personal Information Requests",
+     "Copyright and Content Concerns",
+     "General Feedback and Technical Issues",
+     "Response and Review Time",
+     "Related Information",
+     "Browse Exam Updates",
+     "Student Corner",
+     "Quick Links",
+     "Information",
+     "हमसे सोशल मीडिया पर जुड़ें"
     ],
     "images_missing_alt": 0,
     "intents_present": [
@@ -2826,6 +2830,7 @@
     ],
     "internal_links": [
      "https://examdarpan.in/",
+     "https://examdarpan.in/privacy",
      "https://examdarpan.in/editorial-policy",
      "https://examdarpan.in/about"
     ],
@@ -2834,43 +2839,47 @@
     "noindex": false,
     "phrases": [
      [
-      "article का exact",
+      "जानकारी माँगी",
+      3
+     ],
+     [
+      "अतिरिक्त जानकारी माँगी",
       2
      ],
      [
-      "broken official links",
+      "करने का प्रयास",
       2
      ],
      [
-      "payment card details",
+      "article correction",
       2
      ],
      [
-      "exact url",
+      "exam darpan",
       2
      ],
      [
-      "link शामिल",
+      "official contact",
       2
      ],
      [
-      "official notification",
+      "personal information",
       2
      ],
      [
-      "privacy requests",
+      "privacy policy",
       2
      ],
      [
-      "requests privacy",
+      "privacy request",
       2
      ],
      [
-      "verify करने",
+      "review करने",
       2
      ],
      [
-      "कृपया email",
+      "प्रयास करते",
       2
      ],
      [
@@ -2879,10 +2888,14 @@
      ]
     ],
     "published": null,
-    "script_count": 5,
+    "script_count": 6,
     "status": 200,
     "title": "Contact Us | Exam Darpan",
     "top_terms": [
+     [
+      "जानकारी",
+      8
+     ],
      [
       "request",
       7
@@ -2893,26 +2906,18 @@
      ],
      [
       "privacy",
-      6
+      5
      ],
      [
-      "जानकारी",
-      6
+      "website",
+      5
+     ],
+     [
+      "संबंधित",
+      5
      ],
      [
       "correction",
-      5
-     ],
-     [
-      "email",
-      5
-     ],
-     [
-      "requests",
-      5
-     ],
-     [
-      "details",
       4
      ],
      [
@@ -2920,19 +2925,7 @@
       4
      ],
      [
-      "review",
-      4
-     ],
-     [
-      "website",
-      4
-     ],
-     [
       "करने",
-      4
-     ],
-     [
-      "संबंधित",
       4
      ],
      [
@@ -2942,9 +2935,25 @@
      [
       "contact",
       3
+     ],
+     [
+      "email",
+      3
+     ],
+     [
+      "link",
+      3
+     ],
+     [
+      "page",
+      3
+     ],
+     [
+      "policy",
+      3
      ]
     ],
-    "word_count": 349,
+    "word_count": 369,
     "years": [
      2026
     ]
@@ -3157,32 +3166,37 @@
    "in_sitemap": true,
    "last_error": null,
    "last_failure_at": null,
-   "last_fetched": "2026-11-19T13:38:59Z",
+   "last_fetched": "2026-11-26T20:04:38Z",
    "lastmod": null,
    "needs_refresh": false,
    "page": {
     "canonical": "https://examdarpan.in/disclaimer",
-    "content_hash": "1d8d99326552e1bc",
+    "content_hash": "fd240d482861d309",
     "deadline_dates": [],
     "description": "Exam Darpan disclaimer: recruitment updates, official verification, independent status, third-party links and quiz information.",
     "exam_related": true,
-    "excerpt": "Disclaimer Last updated: 27 October 2026 Exam Darpan एक independent education और government-job information portal है। यह किसी government department, commission, board, recruitment authority या examination authority की official website नहीं है। 1. Informational Purpose Website पर उपलब्ध information general informational और educational purposes के लिए प्रकाशित की जाती है। हम available official/public sources से details verify करने का प्रयास करते हैं, लेकिन information बाद में बदल सकती है या उसमें गलती रह सकती है। 2. Official Verification Application, eligibility, vacancy, age limit, fee, examination date, admit card, result और answer key के लिए संबंधित authority की latest official notification को प्राथमिकता दें। यदि article और official notice में अंतर हो, तो नवीनतम official notice देखें। 3. Accuracy and Updates हम reported factual errors और outdated information को available reliable sources के आधार पर review और correct करने का प्रयास करते हैं। किसी page के current या error-free होने की guarantee नहीं दी जाती। 4. External Links Exam Darpan में official government websites और third-party websites के links हो सकते हैं। External websites के content, availability, privacy practices या se",
+    "excerpt": "Disclaimer Last updated: 22 November 2026 Exam Darpan एक स्वतंत्र educational और examination-information website है। यह किसी सरकारी विभाग, आयोग, भर्ती बोर्ड, विश्वविद्यालय या examination authority की official website नहीं है और न ही उनका प्रतिनिधित्व करती है। 1. Informational and Educational Purpose इस website पर प्रकाशित articles, notices के summaries, exam updates, practice questions और अन्य सामग्री सामान्य सूचना तथा शैक्षिक सहायता के लिए है। यह संबंधित authority की original notification या official portal का विकल्प नहीं है। 2. Official Information Must Be Verified Vacancy, eligibility, age limit, reservation, fee, application dates, exam schedule, admit card, answer key और result जैसे विवरण बदल सकते हैं। आवेदन, payment या किसी महत्वपूर्ण निर्णय से पहले संबंधित authority की नवीनतम official notification, corrigendum और portal पर जानकारी जाँचें। Article और official notice में अंतर हो तो नवीनतम official notice को प्राथमिकता दें। 3. Accuracy, Completeness and Updates हम उपलब्ध विश्वसनीय और official sources के आधार पर जानकारी तैयार तथा update करने का प्रयास करते हैं। फिर भी किसी page के हर समय पूर्ण, त्रुटिरहित या नवीनतम होने की guarantee नहीं दी जाती। कोई error दिखे तो article URL और",
     "external_link_count": 0,
     "final_url": "https://examdarpan.in/disclaimer",
     "h1s": [
      "Disclaimer"
     ],
     "h2s": [
-     "1. Informational Purpose",
-     "2. Official Verification",
-     "3. Accuracy and Updates",
-     "4. External Links",
-     "5. Advertising",
-     "6. No Government Affiliation",
-     "7. Corrections and Contact",
-     "8. No Recruitment Agent or Payment Collection",
-     "9. Quiz and Educational Material",
-     "10. Contact for Corrections"
+     "1. Informational and Educational Purpose",
+     "2. Official Information Must Be Verified",
+     "3. Accuracy, Completeness and Updates",
+     "4. No Government Affiliation or Recruitment Service",
+     "5. Applications, Fees and Payments",
+     "6. Practice Tests and Educational Material",
+     "7. External Links and Third-Party Services",
+     "8. Advertising and Sponsored Material",
+     "9. Limitation of Responsibility",
+     "10. Corrections and Contact",
+     "Browse Exam Updates",
+     "Student Corner",
+     "Quick Links",
+     "Information",
+     "हमसे सोशल मीडिया पर जुड़ें"
     ],
     "images_missing_alt": 0,
     "intents_present": [
@@ -3194,8 +3208,8 @@
      "syllabus"
     ],
     "internal_links": [
-     "https://examdarpan.in/editorial-policy",
-     "https://examdarpan.in/contact"
+     "https://examdarpan.in/contact",
+     "https://examdarpan.in/editorial-policy"
     ],
     "lang": "hi",
     "modified": null,
@@ -3203,34 +3217,18 @@
     "phrases": [
      [
       "exam darpan",
-      5
+      6
      ],
      [
-      "official source",
+      "संबंधित authority",
       3
      ],
      [
-      "third party",
-      3
-     ],
-     [
-      "authority की official",
+      "guarantee नहीं दी",
       2
      ],
      [
-      "supporting official source",
-      2
-     ],
-     [
-      "करने का प्रयास",
-      2
-     ],
-     [
-      "article url",
-      2
-     ],
-     [
-      "information portal",
+      "admit card",
       2
      ],
      [
@@ -3238,20 +3236,36 @@
       2
      ],
      [
-      "official website",
+      "official portal",
       2
      ],
      [
-      "outdated information",
+      "practice questions",
       2
      ],
      [
-      "recruitment agent",
+      "sponsored material",
+      2
+     ],
+     [
+      "third party",
+      2
+     ],
+     [
+      "किसी page",
+      2
+     ],
+     [
+      "दी जाती",
+      2
+     ],
+     [
+      "नवीनतम official",
       2
      ]
     ],
     "published": null,
-    "script_count": 5,
+    "script_count": 6,
     "status": 200,
     "title": "Disclaimer | Exam Darpan",
     "top_terms": [
@@ -3260,27 +3274,31 @@
       15
      ],
      [
-      "exam",
-      6
-     ],
-     [
-      "government",
-      6
-     ],
-     [
-      "information",
-      6
-     ],
-     [
       "किसी",
-      6
+      9
+     ],
+     [
+      "exam",
+      8
+     ],
+     [
+      "website",
+      7
+     ],
+     [
+      "करने",
+      7
      ],
      [
       "darpan",
+      6
+     ],
+     [
+      "external",
       5
      ],
      [
-      "recruitment",
+      "संबंधित",
       5
      ],
      [
@@ -3288,35 +3306,31 @@
       4
      ],
      [
-      "portal",
+      "material",
       4
      ],
      [
-      "website",
+      "page",
       4
      ],
      [
-      "websites",
+      "practice",
       4
      ],
      [
-      "application",
-      3
+      "selection",
+      4
      ],
      [
-      "article",
-      3
+      "सरकारी",
+      4
      ],
      [
       "contact",
       3
-     ],
-     [
-      "informational",
-      3
      ]
     ],
-    "word_count": 430,
+    "word_count": 604,
     "years": [
      2026
     ]
@@ -12908,6 +12922,6 @@
  },
  "meta": {
   "schema": 1,
-  "sitemap_slot": 83133
+  "sitemap_slot": 83135
  }
 }

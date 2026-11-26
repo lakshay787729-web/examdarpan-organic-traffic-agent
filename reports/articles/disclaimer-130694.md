@@ -3,7 +3,7 @@
 URL: https://examdarpan.in/disclaimer
 
 **SEO health score: 73/100** (this is this agent's own checklist score, not a Google score)
-Words: 430 | Last read: 2026-11-19T13:38:59Z | Published: unknown | Updated: unknown
+Words: 604 | Last read: 2026-11-26T20:04:38Z | Published: unknown | Updated: unknown
 
 ## Things to fix
 
@@ -27,17 +27,17 @@ Words: 430 | Last read: 2026-11-19T13:38:59Z | Published: unknown | Updated: unk
 _These are ideas taken from the article text. They are NOT search-volume numbers. Check real queries in Search Console._
 
 - Disclaimer (title)
-- 1. Informational Purpose (sub-heading (H2))
-- 2. Official Verification (sub-heading (H2))
-- 3. Accuracy and Updates (sub-heading (H2))
-- 4. External Links (sub-heading (H2))
-- 5. Advertising (sub-heading (H2))
-- 6. No Government Affiliation (sub-heading (H2))
-- exam darpan (repeated in text, appears 5 times)
-- official source (repeated in text, appears 3 times)
-- third party (repeated in text, appears 3 times)
-- authority की official (repeated in text, appears 2 times)
-- supporting official source (repeated in text, appears 2 times)
+- 1. Informational and Educational Purpose (sub-heading (H2))
+- 2. Official Information Must Be Verified (sub-heading (H2))
+- 3. Accuracy, Completeness and Updates (sub-heading (H2))
+- 4. No Government Affiliation or Recruitment Service (sub-heading (H2))
+- 5. Applications, Fees and Payments (sub-heading (H2))
+- 6. Practice Tests and Educational Material (sub-heading (H2))
+- exam darpan (repeated in text, appears 6 times)
+- संबंधित authority (repeated in text, appears 3 times)
+- guarantee नहीं दी (repeated in text, appears 2 times)
+- admit card (repeated in text, appears 2 times)
+- official notice (repeated in text, appears 2 times)
 
 ### Topics the article does not mention yet
 _Add a section only if it is relevant AND you can confirm the facts from the official notice._
@@ -55,5 +55,5 @@ Possible search phrases for those sections (estimates):
 
 ## Internal links you could add
 
-- Link to [Terms & Conditions | Exam Darpan](https://examdarpan.in/terms) (shares: darpan, exam, government, information, official)
-- Link to [About Us | Exam Darpan](https://examdarpan.in/about) (shares: authority, darpan, exam, information, official)
+- Link to [About Us | Exam Darpan](https://examdarpan.in/about) (shares: authority, darpan, exam, official, website)
+- Link to [Terms & Conditions | Exam Darpan](https://examdarpan.in/terms) (shares: darpan, exam, official, website, करने)
