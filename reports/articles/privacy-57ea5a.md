@@ -3,7 +3,7 @@
 URL: https://examdarpan.in/privacy
 
 **SEO health score: 80/100** (this is this agent's own checklist score, not a Google score)
-Words: 951 | Last read: 2026-11-20T02:39:54Z | Published: unknown | Updated: unknown
+Words: 1001 | Last read: 2026-11-27T02:46:08Z | Published: unknown | Updated: unknown
 
 ## Things to fix
 
@@ -25,17 +25,17 @@ Words: 951 | Last read: 2026-11-20T02:39:54Z | Published: unknown | Updated: unk
 _These are ideas taken from the article text. They are NOT search-volume numbers. Check real queries in Search Console._
 
 - Privacy Policy (title)
-- 1. Information We May Collect (sub-heading (H2))
-- 2. How We Use Information (sub-heading (H2))
-- 3. Cookies, Local Storage and Analytics (sub-heading (H2))
-- 4. Advertising and Google AdSense (sub-heading (H2))
-- 5. Firebase and Service Providers (sub-heading (H2))
-- 6. Public Information and Third-Party Links (sub-heading (H2))
-- local storage (repeated in text, appears 5 times)
-- display name (repeated in text, appears 4 times)
+- 1. Information That May Be Processed (sub-heading (H2))
+- 2. How Information Is Used (sub-heading (H2))
+- 3. Cookies, Similar Technologies and Local Storage (sub-heading (H2))
+- 4. Google Analytics and Advertising (sub-heading (H2))
+- 5. Hosting, Firebase and Other Service Providers (sub-heading (H2))
+- 6. When Information May Be Shared (sub-heading (H2))
+- local storage (repeated in text, appears 6 times)
+- display name (repeated in text, appears 5 times)
 - service providers (repeated in text, appears 4 times)
 - third party (repeated in text, appears 4 times)
-- quiz में भाग (repeated in text, appears 3 times)
+- browser local storage (repeated in text, appears 3 times)
 
 ### Topics the article does not mention yet
 _Add a section only if it is relevant AND you can confirm the facts from the official notice._

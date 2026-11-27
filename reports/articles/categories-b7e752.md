@@ -52,3 +52,7 @@ Possible search phrases for those sections (estimates):
 - सभी Exam Categories एक जगह salary
 - सभी Exam Categories एक जगह age limit
 - सभी Exam Categories एक जगह cut off
+
+## Internal links you could add
+
+- Link to [Editorial Policy | Exam Darpan](https://examdarpan.in/editorial-policy) (shares: exam, जानकारी, परीक्षा, भर्ती)

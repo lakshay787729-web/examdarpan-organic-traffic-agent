@@ -2,15 +2,13 @@
 
 URL: https://examdarpan.in/terms
 
-**SEO health score: 83/100** (this is this agent's own checklist score, not a Google score)
+**SEO health score: 90/100** (this is this agent's own checklist score, not a Google score)
 Words: 574 | Last read: 2026-11-22T15:41:32Z | Published: unknown | Updated: unknown
 
 ## Things to fix
 
 - **MEDIUM**: Only 2 links to other Exam Darpan pages.  
   Fix: Link to related articles where it helps readers (see suggestions below).
-- **MEDIUM**: No other article links to this page.  
-  Fix: Add a link to it from a related article or a category/hub page.
 - **LOW**: No publish or update date found.  
   Fix: Show and mark up a published/updated date so readers and Google can judge freshness.
 
@@ -57,4 +55,3 @@ Possible search phrases for those sections (estimates):
 
 - Link to [About Us | Exam Darpan](https://examdarpan.in/about) (shares: darpan, exam, information, official, website)
 - Link to [Disclaimer | Exam Darpan](https://examdarpan.in/disclaimer) (shares: darpan, exam, official, website, करने)
-- Link to [Editorial Policy | Exam Darpan](https://examdarpan.in/editorial-policy) (shares: exam, official, website, करने)

@@ -7,7 +7,7 @@ and it does not create fake visits or clicks.
 
 - Articles found in sitemap: 21
 - Articles read so far: 21 (100%)
-- Issues: 7 high, 33 medium, 38 low
+- Issues: 7 high, 30 medium, 38 low
 
 ## Search Console status
 
@@ -67,48 +67,46 @@ and it does not create fake visits or clicks.
    - MEDIUM: Title is very similar to https://examdarpan.in/category-scholarships. They may compete for the same searches (a guess based on titles only).
    - MEDIUM: Title is very similar to https://examdarpan.in/contact. They may compete for the same searches (a guess based on titles only).
    - MEDIUM: Title is very similar to https://examdarpan.in/disclaimer. They may compete for the same searches (a guess based on titles only).
-9. Disclaimer | Exam Darpan  
-   https://examdarpan.in/disclaimer  
-   Priority 27 | score 73/100
-   - MEDIUM: Only 2 links to other Exam Darpan pages.
-   - MEDIUM: No other article links to this page.
-   - MEDIUM: Title is very similar to https://examdarpan.in/about. They may compete for the same searches (a guess based on titles only).
-10. All India Government Jobs 2026 – Latest Central Govt Jobs | Exam Darpan  
+9. All India Government Jobs 2026 – Latest Central Govt Jobs | Exam Darpan  
    https://examdarpan.in/all-india-government-jobs  
    Priority 23 | score 77/100
    - MEDIUM: Only 0 links to other Exam Darpan pages.
    - MEDIUM: Only 95 words of article text.
    - LOW: Meta description is long (166 characters).
+10. Disclaimer | Exam Darpan  
+   https://examdarpan.in/disclaimer  
+   Priority 20 | score 80/100
+   - MEDIUM: Only 2 links to other Exam Darpan pages.
+   - MEDIUM: Title is very similar to https://examdarpan.in/about. They may compete for the same searches (a guess based on titles only).
+   - LOW: No publish or update date found.
 11. Privacy Policy | Exam Darpan  
    https://examdarpan.in/privacy  
    Priority 20 | score 80/100
    - MEDIUM: Only 1 links to other Exam Darpan pages.
    - MEDIUM: Title is very similar to https://examdarpan.in/editorial-policy. They may compete for the same searches (a guess based on titles only).
    - LOW: No publish or update date found.
-12. Editorial Policy | Exam Darpan  
-   https://examdarpan.in/editorial-policy  
-   Priority 17 | score 83/100
-   - MEDIUM: Only 1 links to other Exam Darpan pages.
-   - MEDIUM: Title is very similar to https://examdarpan.in/privacy. They may compete for the same searches (a guess based on titles only).
-   - LOW: No publish or update date found.
-13. Terms & Conditions | Exam Darpan  
-   https://examdarpan.in/terms  
-   Priority 17 | score 83/100
-   - MEDIUM: Only 2 links to other Exam Darpan pages.
-   - MEDIUM: No other article links to this page.
-   - LOW: No publish or update date found.
-14. All Exam Categories | Government Jobs, Results & Admit Cards | Exam Darpan  
+12. All Exam Categories | Government Jobs, Results & Admit Cards | Exam Darpan  
    https://examdarpan.in/categories  
    Priority 13 | score 87/100
    - MEDIUM: Only 266 words of article text.
    - LOW: No publish or update date found.
    - LOW: Title is long (74 characters) and may be cut off in Google.
-15. Contact Us | Exam Darpan  
+13. Contact Us | Exam Darpan  
    https://examdarpan.in/contact  
    Priority 13 | score 87/100
    - MEDIUM: Title is very similar to https://examdarpan.in/about. They may compete for the same searches (a guess based on titles only).
    - LOW: No publish or update date found.
    - LOW: Title is short (24 characters).
+14. Editorial Policy | Exam Darpan  
+   https://examdarpan.in/editorial-policy  
+   Priority 10 | score 90/100
+   - MEDIUM: Title is very similar to https://examdarpan.in/privacy. They may compete for the same searches (a guess based on titles only).
+   - LOW: No publish or update date found.
+15. JEE Main 2027 Registration: आवेदन, फीस, परीक्षा तिथि और  
+   https://examdarpan.in/jee-main-2027-registration  
+   Priority 10 | score 90/100
+   - MEDIUM: Mentions deadline date(s) already passed: 2026-10-25, 2026-11-22, 2026-11-26.
+   - LOW: 4 image(s) without alt text.
 
 ## Words used here
 

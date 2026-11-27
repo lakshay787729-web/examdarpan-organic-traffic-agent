@@ -3536,169 +3536,174 @@
    "in_sitemap": true,
    "last_error": null,
    "last_failure_at": null,
-   "last_fetched": "2026-11-19T21:48:07Z",
+   "last_fetched": "2026-11-27T02:46:08Z",
    "lastmod": null,
    "needs_refresh": false,
    "page": {
     "canonical": "https://examdarpan.in/editorial-policy",
-    "content_hash": "269ba6a6e985edea",
+    "content_hash": "b7960a9a632f663b",
     "deadline_dates": [],
     "description": "Exam Darpan की editorial policy, source verification, accuracy, corrections और editorial responsibility के बारे में जानकारी।",
     "exam_related": true,
-    "excerpt": "Editorial Policy Last updated: 11 November 2026 Our Editorial Standards Exam Darpan सरकारी नौकरी, भर्ती, परीक्षा, admit card, result, answer key, scholarship और education updates को सरल भाषा में प्रस्तुत करने वाला independent information portal है। हमारा उद्देश्य readers को जानकारी समझने और relevant official source तक पहुँचने में मदद करना है। Founder and Website Administration Lokesh Meena — Founder & Website Administrator Exam Darpan की overall direction, website administration और platform improvement की जिम्मेदारी संभालते हैं। Editorial team के साथ मिलकर content quality, reader feedback और information accessibility बेहतर करने पर काम किया जाता है। Article-specific facts को उपलब्ध official sources के आधार पर review करने का प्रयास किया जाता है। Editorial Team and Responsibilities Exam Darpan की editorial और operational responsibilities team के अलग-अलग कार्यक्षेत्रों में बाँटी गई हैं: Pooja Verma — Social Media Manager: WhatsApp, Telegram और Instagram posts तथा student engagement. Deepak Joshi — Research & Verification: official notifications, dates, eligibility और available source details की जाँच. Ankit Patel — Frontend Developer: HTML, CSS, JavaScript और website features. Neha Gupt",
+    "excerpt": "Editorial Policy Last updated: 22 November 2026 Exam Darpan एक स्वतंत्र शैक्षिक और परीक्षा-सूचना वेबसाइट है। हम सरकारी भर्ती, परीक्षा, admit card, result, answer key, scholarship और शिक्षा से जुड़ी सार्वजनिक जानकारी को आसान भाषा में समझाने और पाठकों को संबंधित आधिकारिक स्रोत तक पहुँचाने का प्रयास करते हैं। यह नीति बताती है कि हमारी सामग्री कैसे तैयार, जाँची, अपडेट और सुधारी जाती है। 1. Editorial Mission and Independence हमारा उद्देश्य उम्मीदवारों और विद्यार्थियों को उपयोगी, स्पष्ट और समयानुकूल जानकारी देना है। Exam Darpan किसी सरकारी विभाग, आयोग, भर्ती बोर्ड या परीक्षा प्राधिकरण की आधिकारिक वेबसाइट नहीं है। सरकारी संस्थाओं के नाम और दस्तावेज़ केवल सूचना और स्रोत-संदर्भ के लिए दिए जाते हैं। 2. Sources and Verification जहाँ उपलब्ध हों, हम संबंधित विभाग, भर्ती बोर्ड, आयोग, विश्वविद्यालय या परीक्षा प्राधिकरण की आधिकारिक notification, notice, prospectus और website को प्राथमिक स्रोत मानते हैं। समाचार रिपोर्ट या अन्य सार्वजनिक स्रोत संदर्भ देने में सहायक हो सकते हैं, लेकिन महत्वपूर्ण भर्ती विवरण के लिए आधिकारिक स्रोत को प्राथमिकता दी जाती है। Vacancy, eligibility, age limit, fee और application dates के लिए official notification या corrigendum. Exam schedule, admit card, answer key और resu",
     "external_link_count": 0,
     "final_url": "https://examdarpan.in/editorial-policy",
     "h1s": [
      "Editorial Policy"
     ],
     "h2s": [
-     "Our Editorial Standards",
-     "Founder and Website Administration",
-     "Editorial Team and Responsibilities",
-     "Source Verification",
-     "Reviewing and Updating Articles",
-     "Accuracy and Corrections",
-     "Source Attribution and Independence",
-     "Original Editorial Work",
-     "Independent Status",
-     "Corrections and Feedback",
-     "Official Source First",
-     "Article-Level Transparency",
-     "Corrections, Updates and Archived Information",
-     "Use of Tools and Editorial Responsibility",
-     "Use of AI-Assisted Tools"
+     "1. Editorial Mission and Independence",
+     "2. Sources and Verification",
+     "3. Research, Writing and Added Value",
+     "4. Authors, Review and Responsibilities",
+     "5. Updates and Corrections",
+     "6. AI and Automation Tools",
+     "7. Editorial Independence and Advertising",
+     "8. Archived and Time-Sensitive Information",
+     "9. Reader Feedback and Accountability",
+     "10. Related Policies",
+     "Browse Exam Updates",
+     "Student Corner",
+     "Quick Links",
+     "Information",
+     "हमसे सोशल मीडिया पर जुड़ें"
     ],
     "images_missing_alt": 0,
     "intents_present": [
      "admit card",
+     "age limit",
      "eligibility",
-     "last date",
      "notification",
      "result"
     ],
     "internal_links": [
-     "https://examdarpan.in/contact"
+     "https://examdarpan.in/about",
+     "https://examdarpan.in/author/deepak-joshi",
+     "https://examdarpan.in/contact",
+     "https://examdarpan.in/disclaimer",
+     "https://examdarpan.in/privacy",
+     "https://examdarpan.in/terms"
     ],
     "lang": "hi",
     "modified": null,
     "noindex": false,
     "phrases": [
      [
-      "किया जाता",
-      7
-     ],
-     [
-      "official notification",
-      6
-     ],
-     [
-      "प्रयास किया",
-      6
-     ],
-     [
-      "प्रयास किया जाता",
-      5
-     ],
-     [
       "exam darpan",
       5
      ],
      [
-      "official source",
-      5
-     ],
-     [
-      "करने का प्रयास",
+      "जाना चाहिए",
       4
      ],
      [
-      "आधार पर review",
+      "आधिकारिक स्रोत",
       3
      ],
      [
-      "official notice",
+      "दी जाती",
       3
      ],
      [
-      "source तक पहुँचने",
+      "प्रयास करते",
+      3
+     ],
+     [
+      "किया जाना चाहिए",
       2
      ],
      [
-      "sources के आधार",
+      "प्राधिकरण की आधिकारिक",
       2
      ],
      [
-      "पहुँचने में मदद",
+      "admit card",
+      2
+     ],
+     [
+      "answer key",
+      2
+     ],
+     [
+      "automation tools",
+      2
+     ],
+     [
+      "exam schedule",
+      2
+     ],
+     [
+      "official link",
       2
      ]
     ],
     "published": null,
-    "script_count": 5,
+    "script_count": 6,
     "status": 200,
     "title": "Editorial Policy | Exam Darpan",
     "top_terms": [
      [
-      "official",
-      22
-     ],
-     [
-      "article",
-      14
-     ],
-     [
-      "source",
+      "जानकारी",
       12
      ],
      [
-      "website",
-      10
-     ],
-     [
-      "editorial",
-      9
-     ],
-     [
-      "करने",
-      9
-     ],
-     [
-      "किया",
-      9
-     ],
-     [
-      "जाता",
+      "official",
       8
      ],
      [
-      "details",
-      7
+      "उपलब्ध",
+      8
      ],
      [
-      "notice",
-      7
-     ],
-     [
-      "प्रयास",
-      7
+      "स्रोत",
+      8
      ],
      [
       "exam",
+      7
+     ],
+     [
+      "आधिकारिक",
+      7
+     ],
+     [
+      "भर्ती",
+      7
+     ],
+     [
+      "परीक्षा",
       6
      ],
      [
-      "notification",
+      "लेख",
       6
      ],
      [
-      "readers",
+      "संबंधित",
       6
+     ],
+     [
+      "darpan",
+      5
      ],
      [
       "review",
-      6
+      5
+     ],
+     [
+      "करते",
+      5
+     ],
+     [
+      "करने",
+      5
+     ],
+     [
+      "चाहिए",
+      5
      ]
     ],
-    "word_count": 872,
+    "word_count": 834,
     "years": [
      2026
     ]
@@ -4519,33 +4524,39 @@
    "in_sitemap": true,
    "last_error": null,
    "last_failure_at": null,
-   "last_fetched": "2026-11-20T02:39:54Z",
+   "last_fetched": "2026-11-27T02:46:08Z",
    "lastmod": null,
    "needs_refresh": false,
    "page": {
     "canonical": "https://examdarpan.in/privacy",
-    "content_hash": "a8eaec981913d592",
+    "content_hash": "cba1b7b1d92167f2",
     "deadline_dates": [],
     "description": "Exam Darpan की Privacy Policy: personal data, cookies, analytics, advertising, third-party services, security और user choices की विस्तृत जानकारी।",
     "exam_related": true,
-    "excerpt": "Privacy Policy Last updated: 27 October 2026 यह Privacy Policy बताती है कि Exam Darpan (https://examdarpan.in/) वेबसाइट और इसके उपलब्ध features इस्तेमाल करते समय जानकारी कैसे collect, use, store और share हो सकती है। यह policy वेबसाइट के वर्तमान उपयोग के अनुसार लिखी गई है; कोई नया feature या service जुड़ने पर इसे update किया जा सकता है। 1. Information We May Collect Technical information: वेबसाइट खोलने पर hosting/server logs में IP address, requested page, referring page, browser/device details, operating system, access time और security/diagnostic records जैसी जानकारी process हो सकती है। Messages you send us: यदि आप support email पर संपर्क करते हैं, तो आपका email address, message और आपके द्वारा स्वेच्छा से दी गई जानकारी प्राप्त होती है। कृपया password, OTP, payment-card details या अन्य अत्यधिक sensitive information email न करें। Quiz and leaderboard information: यदि आप Exam Darpan quiz में भाग लेते हैं, तो आपके द्वारा भरा गया display name, quiz/attempt identifier, answers या answer statistics, score, सही/गलत/छोड़े गए प्रश्नों की संख्या, समय और submission details process हो सकती हैं। Quiz results का कुछ हिस्सा browser के local storage में भी save हो सकता है। जहाँ leaderboard enabled ",
-    "external_link_count": 2,
+    "excerpt": "Privacy Policy Last updated: 22 November 2026 यह Privacy Policy बताती है कि Exam Darpan (https://examdarpan.in) पर आने, उपलब्ध features इस्तेमाल करने या हमसे संपर्क करने पर कौन-सी जानकारी process हो सकती है, उसका उपयोग क्यों किया जाता है और आप अपने विकल्पों के बारे में कैसे पूछ सकते हैं। यह वेबसाइट की वर्तमान दिखाई देने वाली सुविधाओं और उपयोग के आधार पर सामान्य जानकारी देती है। 1. Information That May Be Processed Technical and log information: page request, approximate access time, IP address, browser/device details, referring page और security या diagnostic logs, जो hosting तथा security services के संचालन में process हो सकते हैं. Messages and enquiries: जब आप email से संपर्क करते हैं, तो आपका email address, message और आपके द्वारा स्वेच्छा से भेजी गई जानकारी. Quiz and leaderboard data: quiz feature इस्तेमाल करने पर display name, quiz/attempt details, submitted answers या answer statistics, score, सही/गलत/छोड़े गए प्रश्नों की संख्या, timing और submission details process हो सकती हैं. जहाँ leaderboard enabled हो, display name, score और rank सार्वजनिक रूप से दिखाई दे सकते हैं. Browser storage: कुछ quiz result या attempt details आपके device के browser local storage में रखी जा सकती हैं. ",
+    "external_link_count": 4,
     "final_url": "https://examdarpan.in/privacy",
     "h1s": [
      "Privacy Policy"
     ],
     "h2s": [
-     "1. Information We May Collect",
-     "2. How We Use Information",
-     "3. Cookies, Local Storage and Analytics",
-     "4. Advertising and Google AdSense",
-     "5. Firebase and Service Providers",
-     "6. Public Information and Third-Party Links",
-     "7. Data Sharing, Security and Retention",
-     "8. Your Choices and Privacy Requests",
-     "9. Children and Student Users",
-     "10. Policy Updates",
-     "11. Contact"
+     "1. Information That May Be Processed",
+     "2. How Information Is Used",
+     "3. Cookies, Similar Technologies and Local Storage",
+     "4. Google Analytics and Advertising",
+     "5. Hosting, Firebase and Other Service Providers",
+     "6. When Information May Be Shared",
+     "7. Public Information and Third-Party Websites",
+     "8. Data Security and Retention",
+     "9. Your Choices and Privacy Requests",
+     "10. Children and Student Visitors",
+     "11. Changes to This Policy",
+     "12. Contact",
+     "Browse Exam Updates",
+     "Student Corner",
+     "Quick Links",
+     "Information",
+     "हमसे सोशल मीडिया पर जुड़ें"
     ],
     "images_missing_alt": 0,
     "intents_present": [
@@ -4560,11 +4571,11 @@
     "phrases": [
      [
       "local storage",
-      5
+      6
      ],
      [
       "display name",
-      4
+      5
      ],
      [
       "privacy policy",
@@ -4579,53 +4590,53 @@
       4
      ],
      [
-      "quiz में भाग",
+      "browser local storage",
       3
      ],
      [
-      "exam darpan",
+      "google ads settings",
       3
      ],
      [
-      "जानकारी process",
+      "applicable legal",
       3
      ],
      [
-      "browser के local",
-      2
+      "google analytics",
+      3
      ],
      [
-      "contact us page",
-      2
-     ],
-     [
-      "cookies local storage",
+      "applicable legal requirements",
       2
      ],
      [
       "display name score",
       2
+     ],
+     [
+      "guarantee नहीं दी",
+      2
      ]
     ],
     "published": null,
-    "script_count": 5,
+    "script_count": 6,
     "status": 200,
     "title": "Privacy Policy | Exam Darpan",
     "top_terms": [
+     [
+      "google",
+      11
+     ],
      [
       "information",
       11
      ],
      [
       "quiz",
-      11
-     ],
-     [
-      "google",
       10
      ],
      [
-      "privacy",
+      "जानकारी",
       10
      ],
      [
@@ -4633,47 +4644,47 @@
       9
      ],
      [
-      "जानकारी",
+      "website",
+      9
+     ],
+     [
+      "privacy",
       8
      ],
      [
-      "वेबसाइट",
+      "security",
       8
+     ],
+     [
+      "storage",
+      8
+     ],
+     [
+      "advertising",
+      7
+     ],
+     [
+      "analytics",
+      7
+     ],
+     [
+      "details",
+      7
      ],
      [
       "policy",
       7
      ],
      [
-      "providers",
+      "process",
       7
      ],
      [
-      "security",
+      "करने",
       7
-     ],
-     [
-      "storage",
-      7
-     ],
-     [
-      "technical",
-      7
-     ],
-     [
-      "advertising",
-      6
-     ],
-     [
-      "analytics",
-      6
-     ],
-     [
-      "data",
-      6
      ]
     ],
-    "word_count": 951,
+    "word_count": 1001,
     "years": [
      2026
     ]
@@ -12922,6 +12933,6 @@
  },
  "meta": {
   "schema": 1,
-  "sitemap_slot": 83135
+  "sitemap_slot": 83136
  }
 }
