@@ -3,7 +3,7 @@
 URL: https://examdarpan.in/mock-tests/Rajasthan_CET_120_Mock_Test_Examdarpan-v6-fixed
 
 **SEO health score: 58/100** (this is this agent's own checklist score, not a Google score)
-Words: 36 | Last read: 2026-11-21T07:15:42Z | Published: unknown | Updated: unknown
+Words: 36 | Last read: 2026-11-28T10:52:25Z | Published: unknown | Updated: unknown
 
 ## Things to fix
 
